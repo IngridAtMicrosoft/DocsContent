@@ -13,3 +13,4 @@ ms.lastreviewed: 07/04/2020
 
 1. step
 1. next step...
+![head spreading peanut butter on bread](media/spread-peanut-butter.jpg)

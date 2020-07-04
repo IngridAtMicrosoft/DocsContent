@@ -13,3 +13,5 @@ ms.lastreviewed: 07/04/2020
 
 1. step
 1. next step...
+
+![hand spreading jelly on bread](media/spread-jelly.jpg)
