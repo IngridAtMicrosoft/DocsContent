@@ -15,3 +15,5 @@ ms.lastreviewed: 07/04/2020
 1. Find that.
 1. Find this other thing.
 1. Put it all on the counter.
+
+![peanut butter and jelly ingredients on table](media/gather-ingredients.jpg)
