@@ -4,7 +4,6 @@
   items:
   - name: What is Single Source?
     href: overview-single-source.md
-- name: Quickstarts
 - name: Tutorials
   items:
   - name: Make a peanut butter and jelly sandwich
@@ -13,6 +12,8 @@
     href: tutorial-peanut-butter-wrap.md
 - name: Concepts
   items:
+  - name: Sandwich
+    items: concept-sandwich.md
   - name: Ingredients
     items:
     - name: Bread
@@ -21,6 +22,8 @@
       href: concept-peanut-butter.md
     - name: Jelly
       href: concept-jelly.md
+    - name: Tools
+      items:
     - name: Sandwich making tools
       href: concept-sandwich-making-tools.md
 - name: How-to guides
