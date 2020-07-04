@@ -18,6 +18,8 @@ ms.lastreviewed: 07/04/2020
 1. next step...
 1. next step...
 
+![two slices of bread on a plate with the bread bag next to it](media/remove-bread-bag.jpg)
+
 #### Put slices in the toaster
 
 1. Make sure the toaster is plugged in.
