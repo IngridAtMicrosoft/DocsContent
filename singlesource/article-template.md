@@ -1,8 +1,8 @@
 ---
-title: #Required; page title displayed in search results. Include the brand.
+title: Article Template
 description: #Required; article description that is displayed in search results.
-author: #Required; your GitHub user alias, with correct capitalization.
-ms.author: #Required; microsoft alias of author; optional team alias.
+author: IngridAtMicrosoft
+ms.author: inhenkel
 ms.service: #Required; service per approved list. service slug assigned to your service by ACOM.
 ms.topic: overview #Required
 ms.date: #Required; mm/dd/yyyy format.
