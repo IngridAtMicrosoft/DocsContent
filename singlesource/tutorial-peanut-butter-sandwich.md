@@ -11,6 +11,15 @@ ms.lastreviewed: 07/04/2020
 
 # Tutorial: make a peanut butter and jelly sandwich
 
+In this tutorial, you learn how to:
+
+> [!div class="checklist"]
+> * All tutorials include a list summarizing the steps to completion
+> * Each of these bullet points align to a key H2
+> * Use these green checkboxes in a tutorial
+
+## Prerequisites
+
 Before you start making your peanut butter and jelly sandwich you might want to review the following concepts:
 
 - [Sandwich](concept-sandwich.md)
@@ -19,20 +28,25 @@ Before you start making your peanut butter and jelly sandwich you might want to 
 - [Jelly](concept-jelly.md)
 - [Sandwich making tools](concept-sandwich-making-tools.md)
 
-## Prerequisites
+## Get everything ready
 
 [!INCLUDE [Gather ingredients](how-to-gather-ingredients.md)]
 
 <!-- the steps contain their own headings, so they are not included here. -->
 
-[!INCLUDE [Gather ingredients](how-to-prepare-bread.md)]
-[!INCLUDE [Gather ingredients](how-to-open-jar.md)]
-[!INCLUDE [Gather ingredients](how-to-spread-peanut-butter.md)]
-[!INCLUDE [Gather ingredients](how-to-spread-jelly.md)]
+[!INCLUDE [prepare the bread](how-to-prepare-bread.md)]
 
-## Assembling the parts
+## Make the parts
+
+[!INCLUDE [Open the jars](how-to-open-jar.md)]
+[!INCLUDE [Spread the peanut butter](how-to-spread-peanut-butter.md)]
+[!INCLUDE [Spread the jelly](how-to-spread-jelly.md)]
+
+## Put it all together
 
 1. Pick up the slide of bread with the peanut butter.
 1. Turn it upside down and place it on top of the slide of bread with the jelly.
 
-![hand stacking slices](media/stack-slices.jpg)
+## Presentation
+
+cutting things up goes here

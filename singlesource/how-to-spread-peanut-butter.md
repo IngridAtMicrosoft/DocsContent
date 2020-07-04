@@ -9,8 +9,6 @@ ms.reviewer: inhenkel
 ms.lastreviewed: 07/04/2020
 ---
 
-### Spread peanut butter
+### Spread the peanut butter
 
-1. step
-1. next step...
-![head spreading peanut butter on bread](media/spread-peanut-butter.jpg)
+[!INCLUDE [Open the jars](includes/task-spread-peanut-butter.md)]
