@@ -6,4 +6,4 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![hand stacking slices](media/images/completed-spread.jpg)
+![hand stacking slices](media/completed-spread.jpg)

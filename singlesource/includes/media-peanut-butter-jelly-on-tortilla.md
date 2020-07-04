@@ -6,4 +6,4 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![peanut butter jelly torilla](media/images/peanut-butter-jelly-on-tortilla.jpg)
+![peanut butter jelly torilla](media/peanut-butter-jelly-on-tortilla.jpg)

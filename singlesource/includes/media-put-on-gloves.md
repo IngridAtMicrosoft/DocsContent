@@ -6,4 +6,4 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![peanut butter jelly torilla](media/images/put-on-gloves.jpg)
+![peanut butter jelly torilla](media/put-on-gloves.jpg)

@@ -13,4 +13,4 @@ ms.author: inhenkel
 1. Find this other thing.
 1. Put it all on the counter.
 
-[!INCLUDE [Gather ingredients](media-gather-ingredients.md)]
+![Gather ingredients](media/gather-ingredients.jpg)]
