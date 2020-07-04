@@ -15,7 +15,7 @@ ms.author: inhenkel
 1. next step...
 1. next step...
 
-[!INCLUDE [remove the bread from the bag](media-remove-bread-bag.md)]
+![remove the bread from the bag](media/remove-bread-bag.jpg)]
 
 #### Put slices in the toaster
 
