@@ -1,14 +1,14 @@
 ---
-title: Welcome to Single Source 
-description: This is a repository for a single source prototype.
+title: Overview of single sourcing documentation 
+description: Overview of single sourcing documentation.
 author: IngridAtMicrosoft
-ms.topic: article
+ms.topic: concept
 ms.date: 07/04/2020
 ms.author: inhenkel
 ms.reviewer: inhenkel
 ms.lastreviewed: 07/04/2020
 ---
 
-# Welcome to singlesource!
+# Overview: Single-sourcing documentation
 
-This is just a page.
+This is is an example of using GitHub and the Docs build for creating single source, structured documentation with the ultimate goal of content reuse.

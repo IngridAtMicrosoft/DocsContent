@@ -9,6 +9,9 @@ ms.reviewer: inhenkel
 ms.lastreviewed: 07/04/2020
 ---
 
-# Welcome to singlesource!
+# Gather ingredients
 
-This is just a page.
+1. Find this.
+1. Find that.
+1. Find this other thing.
+1. Put it all on the counter.
