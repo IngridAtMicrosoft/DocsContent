@@ -9,7 +9,7 @@ ms.reviewer: inhenkel
 ms.lastreviewed: 07/04/2020
 ---
 
-# How to spread peanut butter
+### Spread peanut butter
 
 1. step
 1. next step...

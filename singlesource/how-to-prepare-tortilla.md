@@ -9,7 +9,7 @@ ms.reviewer: inhenkel
 ms.lastreviewed: 07/04/2020
 ---
 
-# How to prepare a tortilla
+### Prepare a tortilla
 
 1. Step 1
 1. Step 2
