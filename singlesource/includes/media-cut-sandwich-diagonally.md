@@ -6,4 +6,4 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![hand stacking slices](media/cut-sandwich-diagonally.jpg)
+![hand stacking slices](media/images/cut-sandwich-diagonally.jpg)

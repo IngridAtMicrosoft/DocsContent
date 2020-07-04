@@ -6,4 +6,4 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![sandwich with no crust](media/types-of-bread.jpg)
+![sandwich with no crust](media/images/types-of-bread.jpg)

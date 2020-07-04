@@ -6,4 +6,4 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![remove bread from bag](media/remove-bread-bag.jpg)
+![remove bread from bag](media/images/remove-bread-bag.jpg)

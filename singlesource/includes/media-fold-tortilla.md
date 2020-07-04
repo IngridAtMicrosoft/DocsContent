@@ -6,5 +6,5 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![hand folding tortilla](media/fold-tortilla.jpg)
+![hand folding tortilla](media/images/fold-tortilla.jpg)
 
