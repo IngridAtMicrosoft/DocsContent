@@ -11,6 +11,8 @@ ms.lastreviewed: 07/04/2020
 
 # Reference: Types of bread
 
+![chart of bread types](media/Types-of-bread-1024x1024.jpg)
+
 | Type | Description |
 | ---- | ----------- |
 | white | description goes here |

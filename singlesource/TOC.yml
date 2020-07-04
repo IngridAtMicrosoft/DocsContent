@@ -1,5 +1,5 @@
 - name: Single Source
-  href: index.yml
+  href: index.md
 - name: Overview
   items:
   - name: What is Single Source?
@@ -13,7 +13,7 @@
 - name: Concepts
   items:
   - name: Sandwich
-    items: concept-sandwich.md
+    href: concept-sandwich.md
   - name: Ingredients
     items:
     - name: Bread

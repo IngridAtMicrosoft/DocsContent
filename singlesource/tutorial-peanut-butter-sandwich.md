@@ -22,3 +22,15 @@ Before you start making your peanut butter and jelly sandwich you might want to 
 ## Prerequisites
 
 [!INCLUDE [Gather ingredients](how-to-gather-ingredients.md)]
+
+<!-- the steps contain their own headings, so they are not included here. -->
+
+[!INCLUDE [Gather ingredients](how-to-prepare-bread.md)]
+[!INCLUDE [Gather ingredients](how-to-open-jar.md)]
+[!INCLUDE [Gather ingredients](how-to-spread-peanut-butter.md)]
+[!INCLUDE [Gather ingredients](how-to-spread-jelly.md)]
+
+## Assembling the parts
+
+1. Pick up the slide of bread with the peanut butter.
+1. Turn it upside down and place it on top of the slide of bread with the jelly.
