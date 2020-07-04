@@ -6,4 +6,4 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![hand opening jars](media/open-jars.jpg)
+![hand opening jars](media/images/open-jars.jpg)

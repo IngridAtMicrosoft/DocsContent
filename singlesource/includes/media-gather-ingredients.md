@@ -6,4 +6,4 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![gathered ingredients](media/gather-ingredients.jpg)
+![gathered ingredients](media/images/gather-ingredients.jpg)

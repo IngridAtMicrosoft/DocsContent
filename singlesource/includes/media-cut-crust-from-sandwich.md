@@ -6,4 +6,4 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![hand stacking slices](media/cut-crust-from-sandwich.jpg)
+![hand stacking slices](media/images/cut-crust-from-sandwich.jpg)
