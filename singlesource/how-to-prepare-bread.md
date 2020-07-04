@@ -9,21 +9,6 @@ ms.reviewer: inhenkel
 ms.lastreviewed: 07/04/2020
 ---
 
-### Prepare bread
+## Prepare bread
 
-#### Remove bread from bag
-
-1. with your non-dominant hand hold the bread bag open.
-1. With your dominant hand, pull out two slices of bread.
-1. next step...
-1. next step...
-
-![two slices of bread on a plate with the bread bag next to it](media/remove-bread-bag.jpg)
-
-#### Put slices in the toaster
-
-1. Make sure the toaster is plugged in.
-1. Put one slice in each toasting area of the toaster.
-1. Press the lever to start toasting the bread.
-1. next step...
-1. next step...
+[!INCLUDE [remove the bread from the bag](includes/task-remove-bread-bag.md)]
