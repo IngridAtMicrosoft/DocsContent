@@ -13,7 +13,7 @@ ms.lastreviewed: 07/04/2020
 
 ## What is a sandwich?
 
-[1INCLUDE [Sandwich concept](concept-sandwich.md)]
+[!INCLUDE [Sandwich concept](concept-sandwich.md)]
 
 ## Bread
 
