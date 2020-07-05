@@ -6,4 +6,4 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![spread peanut butter](media/spread-peanut-butter.jpg)
+![spread peanut butter](../media/spread-peanut-butter.jpg)

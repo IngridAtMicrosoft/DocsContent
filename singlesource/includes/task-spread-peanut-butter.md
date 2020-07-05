@@ -11,4 +11,4 @@ ms.author: inhenkel
 1. step
 1. next step...
 
-![spread peanut butter](media/spread-peanut-butter.jpg)
+[!INCLUDE [spread peanut butter](media-spread-peanut-butter.md)]
