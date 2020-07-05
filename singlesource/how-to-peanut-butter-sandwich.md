@@ -23,7 +23,7 @@ Before you start making your peanut butter and jelly sandwich you might want to 
 - [Jelly](concept-jelly.md)
 - [Sandwich making tools](concept-sandwich-making-tools.md)
 
-## Make a sandwich
+## Make a peanut butter and jelly sandwich
 
 [!INCLUDE [Gather ingredients](task-gather-ingredients.md)]
 [!INCLUDE [prepare the bread](task-prepare-bread.md)]

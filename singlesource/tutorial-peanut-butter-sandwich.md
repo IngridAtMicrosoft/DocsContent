@@ -9,26 +9,14 @@ ms.reviewer: inhenkel
 ms.lastreviewed: 07/04/2020
 ---
 
-# How to make a sandwich
-
+# Tutorial: How to make a sandwich
+<!-- the includes contain their own headings, so they are not included here. -->
 ## What is a sandwich?
 
 [!INCLUDE [Sandwich concept](concept-sandwich.md)]
-
-## Bread
-
 [!INCLUDE [Bread](concept-bread.md)]
-
-## Peanut butter
-
 [!INCLUDE [Peanut Butter](concept-peanut-butter.md)]
-
-## Jelly
-
 [!INCLUDE [Jelly](concept-jelly.md)]
-
-## Sandwich making tools
-
 [!INCLUDE [Sandwich making tools](concept-sandwich-making-tools.md)]
 
 ## How to make a peanut butter and jelly sandwich
