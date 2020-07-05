@@ -23,17 +23,17 @@ Before you start making your peanut butter and jelly sandwich you might want to 
 
 ## Get everything ready
 
-[!INCLUDE [Gather ingredients](includes/task-gather-ingredients.md)]
+[!INCLUDE [Gather ingredients](task-gather-ingredients.md)]
 
 <!-- the steps contain their own headings, so they are not included here. -->
 
-[!INCLUDE [prepare the bread](includes/task-prepare-bread.md)]
+[!INCLUDE [prepare the bread](task-prepare-bread.md)]
 
 ## Make the parts
 
-[!INCLUDE [Open the jars](includes/task-open-jar.md)]
-[!INCLUDE [Spread the peanut butter](includes/task-spread-peanut-butter.md)]
-[!INCLUDE [Spread the jelly](includes/task-spread-jelly.md)]
+[!INCLUDE [Open the jars](task-open-jar.md)]
+[!INCLUDE [Spread the peanut butter](task-spread-peanut-butter.md)]
+[!INCLUDE [Spread the jelly](task-spread-jelly.md)]
 
 ## Put it all together
 
