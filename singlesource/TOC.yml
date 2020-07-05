@@ -1,0 +1,56 @@
+- name: Single Source
+  href: index.md
+- name: Overview
+  items:
+  - name: What is Single Source?
+    href: overview-single-source.md
+- name: Tutorials
+  items:
+  - name: Make a peanut butter and jelly sandwich
+    href: tutorial-peanut-butter-sandwich.md
+  - name: Make a peanut butter and jelly wrap
+    href: tutorial-peanut-butter-wrap.md
+- name: Concepts
+  items:
+  - name: Sandwich
+    href: concept-sandwich.md
+  - name: Ingredients
+    items:
+    - name: Bread
+      href: concept-bread.md
+    - name: Peanut Butter
+      href: concept-peanut-butter.md
+    - name: Jelly
+      href: concept-jelly.md
+    - name: Tools
+      items:
+    - name: Sandwich making tools
+      href: concept-sandwich-making-tools.md
+- name: How-to guides
+  items:
+  - name: Gather ingredients
+    href: how-to-gather-ingredients.md
+  - name: Prepare bread
+    href: how-to-prepare-bread.md
+  - name: Prepare tortilla
+    href: how-to-prepare-tortilla.md
+  - name: Open a jar
+    href: how-to-open-jar.md
+  - name: Spread peanut butter
+    href: how-to-spread-peanut-butter.md
+  - name: Spread jelly
+    href: how-to-spread-jelly.md
+- name: Reference
+  items:
+  - name: Types of bread
+    href: ref-types-bread.md
+  - name: Types of jelly
+    href: ref-types-jelly.md    
+- name: Related
+  items:
+  - name: Structured Documentation
+    href: http://adl.org
+- name: Resources
+  items:
+  - name: Instructional Design Training and certification
+    href: https://www.td.org/
