@@ -9,36 +9,28 @@ ms.reviewer: inhenkel
 ms.lastreviewed: 07/04/2020
 ---
 
-# How to make a peanut butter and jelly sandwich
+# How to make a sandwich
 
-## Prerequisite knowledge
+## What is a sandwich?
 
-Before you start making your peanut butter and jelly sandwich you might want to review the following concepts:
+[1INCLUDE [Sandwich concept](concept-sandwich.md)]
 
-- [Sandwich](concept-sandwich.md)
-- [Bread](concept-bread.md)
-- [Peanut Butter](concept-peanut-butter.md)
-- [Jelly](concept-jelly.md)
-- [Sandwich making tools](concept-sandwich-making-tools.md)
+## Bread
 
-## Get everything ready
+[!INCLUDE [Bread](concept-bread.md)]
 
-[!INCLUDE [Gather ingredients](how-to-gather-ingredients.md)]
+## Peanut butter
 
-<!-- the steps contain their own headings, so they are not included here. -->
+[!INCLUDE [Peanut Butter](concept-peanut-butter.md)]
 
-[!INCLUDE [prepare the bread](how-to-prepare-bread.md)]
+## Jelly
 
-## Make the parts
+[!INCLUDE [Jelly](concept-jelly.md)]
 
-[!INCLUDE [Open the jars](how-to-open-jar.md)]
-[!INCLUDE [Spread the peanut butter](how-to-spread-peanut-butter.md)]
-[!INCLUDE [Spread the jelly](how-to-spread-jelly.md)]
+## Sandwich making tools
 
-## Put it all together
+[!INCLUDE [Sandwich making tools](concept-sandwich-making-tools.md)]
 
-assembly goes here
+## How to make a peanut butter and jelly sandwich
 
-## Presentation
-
-cutting things up goes here
+[!INCLUDE [How to make a peanut butter and jelly sandwich](how-to-peanut-butter-sandwich.md)]
