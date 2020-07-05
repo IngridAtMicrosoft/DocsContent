@@ -46,6 +46,7 @@ Before you start making your peanut butter and jelly sandwich you might want to 
 
 1. Pick up the slide of bread with the peanut butter.
 1. Turn it upside down and place it on top of the slide of bread with the jelly.
+![spread peanut butter](includes/media/spread-peanut-butter.jpg)
 
 ## Presentation
 
