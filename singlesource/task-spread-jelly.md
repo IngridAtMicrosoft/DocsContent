@@ -11,4 +11,4 @@ ms.author: inhenkel
 1. step
 1. next step...
 
-![Spread the jelly](media/spread-jelly.jpg)
+[!INCLUDE[Spread the jelly](media-spread-jelly.md)]

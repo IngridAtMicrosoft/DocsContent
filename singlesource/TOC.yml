@@ -22,8 +22,8 @@
       href: concept-peanut-butter.md
     - name: Jelly
       href: concept-jelly.md
-    - name: Tools
-      items:
+  - name: Tools
+    items:
     - name: Sandwich making tools
       href: concept-sandwich-making-tools.md
 - name: How-to guides
@@ -33,15 +33,15 @@
   - name: Tasks
     items:
     - name: Prepare bread
-      href: includes/task-prepare-bread.md
+      href: task-prepare-bread.md
     - name: Prepare tortilla
-      href: includes/task-prepare-tortilla.md
+      href: task-prepare-tortilla.md
     - name: Open a jar
-      href: includes/task-open-jar.md
+      href: task-open-jar.md
     - name: Spread peanut butter
-      href: includes/task-spread-peanut-butter.md
+      href: task-spread-peanut-butter.md
     - name: Spread jelly
-      href: includes/task-spread-jelly.md
+      href: task-spread-jelly.md
 - name: Reference
   items:
   - name: Types of bread

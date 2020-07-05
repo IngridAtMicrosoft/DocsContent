@@ -18,4 +18,4 @@ ms.lastreviewed: 07/04/2020
 1. Place the seal on the working surface.
 1. Set the jar on the working surface.
 
-![open jars](media/open-jars.jpg)
+[!INCLUDE[open jars](media-open-jars.md)]
