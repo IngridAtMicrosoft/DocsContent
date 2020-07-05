@@ -15,7 +15,7 @@ ms.author: inhenkel
 1. next step...
 1. next step...
 
-![remove the bread from the bag](media/remove-bread-bag.jpg)]
+![remove the bread from the bag](media/remove-bread-bag.jpg)
 
 #### Put slices in the toaster
 
