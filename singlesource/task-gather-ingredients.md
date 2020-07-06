@@ -4,6 +4,14 @@ ms.service: app-insights
 ms.topic: include
 ms.date: 07/04/2020
 ms.author: inhenkel
+
+ID: 
+post_title: Task - gather ingredients
+author: 
+post_excerpt: "gather ingredients"
+layout: task
+published: true
+post_date: 
 ---
 
 ### Gather ingredients
