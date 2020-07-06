@@ -19,6 +19,6 @@ ms.lastreviewed: 07/04/2020
 [!INCLUDE [Jelly](concept-jelly.md)]
 [!INCLUDE [Sandwich making tools](concept-sandwich-making-tools.md)]
 
-## How to make a peanut butter and jelly sandwich
+In order to practice making a sandwich, here is one of the most popular basic sandwiches you can try, the peanut butter and jelly sandwich:
 
 [!INCLUDE [How to make a peanut butter and jelly sandwich](how-to-peanut-butter-sandwich.md)]
