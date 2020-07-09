@@ -1,4 +1,16 @@
 ---
+<<<<<<< HEAD
+meta: start
+title: Bread 
+description: What is bread?
+author: IngridAtMicrosoft
+ms.topic: article
+ms.date: 07/04/2020
+ms.author: inhenkel
+ms.reviewer: inhenkel
+ms.lastreviewed: 07/04/2020
+meta: end
+=======
 
 title: Bread  
 description: What is bread?  
@@ -9,6 +21,7 @@ ms.author: inhenkel
 ms.reviewer: inhenkel  
 ms.lastreviewed: 07/04/2020
 
+>>>>>>> 5ee28fd8fa4fe1c8c6a603cf07016e6c4c8296d9
 ---
 <!-- end metadata -->
 # Bread
