@@ -1,4 +1,5 @@
 ---
+meta: start
 title: How to Peanut Butter and Jelly Sandwich 
 description: This is a walk-through of making a peanut butter and jelly sandwich.
 author: IngridAtMicrosoft
@@ -7,6 +8,7 @@ ms.date: 07/04/2020
 ms.author: inhenkel
 ms.reviewer: inhenkel
 ms.lastreviewed: 07/04/2020
+meta: end
 ---
 
 # How to make a peanut butter and jelly sandwich
