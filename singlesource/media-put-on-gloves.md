@@ -1,9 +1,12 @@
 ---
 author: IngridAtMicrosoft
-ms.service: app-insights 
+ms.service: app-insights
 ms.topic: include
 ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-![peanut butter jelly torilla](media/put-on-gloves.jpg)
+# media-put-on-gloves
+
+![peanut butter jelly torilla](../.gitbook/assets/put-on-gloves.jpg)
+

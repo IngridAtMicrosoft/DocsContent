@@ -1,17 +1,11 @@
----
-meta: start
-title: Sandwich making tools 
-description: What tools do you need to make a sandwich?
-author: IngridAtMicrosoft
-ms.topic: article
-ms.date: 07/04/2020
-ms.author: inhenkel
-ms.reviewer: inhenkel
-ms.lastreviewed: 07/04/2020
-meta: end
----
+# concept-sandwich-making-tools
 
-# Sandwich making tools
+meta: start title: Sandwich making tools description: What tools do you need to make a sandwich? author: IngridAtMicrosoft ms.topic: article ms.date: 07/04/2020 ms.author: inhenkel ms.reviewer: inhenkel ms.lastreviewed: 07/04/2020
 
-- Toaster
-- Serrated Knife
+### meta: end
+
+## Sandwich making tools
+
+* Toaster
+* Serrated Knife
+

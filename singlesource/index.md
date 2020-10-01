@@ -1,14 +1,15 @@
 ---
-title: Welcome to Single Source 
-description: This is a repository for a single source prototype.
-author: IngridAtMicrosoft
 ms.topic: article
-ms.date: 07/04/2020
-ms.author: inhenkel
+author: IngridAtMicrosoft
 ms.reviewer: inhenkel
+ms.author: inhenkel
 ms.lastreviewed: 07/04/2020
+ms.date: 07/04/2020
+title: Welcome to Single Source
+description: This is a repository for a single source prototype.
 ---
 
 # Welcome to singlesource!
 
 This is just a page.
+

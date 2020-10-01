@@ -1,26 +1,27 @@
 ---
 author: IngridAtMicrosoft
-ms.service: app-insights 
+ms.service: app-insights
 ms.topic: include
 ms.date: 07/04/2020
 ms.author: inhenkel
 ---
 
-### Prepare bread
+# Prepare bread
 
-#### Remove bread from bag
+## Remove bread from bag
 
 1. with your non-dominant hand hold the bread bag open.
-1. With your dominant hand, pull out two slices of bread.
-1. next step...
-1. next step...
+2. With your dominant hand, pull out two slices of bread.
+3. next step...
+4. next step...
 
-[!INCLUDE[remove the bread from the bag](media-remove-bread-bag.md)]
+\[!INCLUDE[remove the bread from the bag](media-remove-bread-bag.md)\]
 
-#### Put slices in the toaster
+## Put slices in the toaster
 
 1. Make sure the toaster is plugged in.
-1. Put one slice in each toasting area of the toaster.
-1. Press the lever to start toasting the bread.
-1. next step...
-1. next step...
+2. Put one slice in each toasting area of the toaster.
+3. Press the lever to start toasting the bread.
+4. next step...
+5. next step...
+
