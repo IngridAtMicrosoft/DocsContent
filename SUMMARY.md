@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Single Source Repository](README.md)
-* [Untitled](untitled.md)
+* [YouTube Embed](untitled.md)
 * [singlesource](singlesource/README.md)
   * [media-gather-ingredients](singlesource/media-gather-ingredients.md)
   * [how-to-peanut-butter-sandwich](singlesource/how-to-peanut-butter-sandwich.md)
