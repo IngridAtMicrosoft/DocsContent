@@ -8,10 +8,6 @@ meta: start title: How to Peanut Butter and Jelly Sandwich description: This is 
 
 ### Prerequisite knowledge
 
-|  |  |
-| :--- | :--- |
-|  |  |
-
 Before you start making your peanut butter and jelly sandwich you might want to review the following concepts:
 
 * [Sandwich](concept-sandwich.md)
@@ -22,5 +18,11 @@ Before you start making your peanut butter and jelly sandwich you might want to 
 
 ### Make a peanut butter and jelly sandwich
 
-\[!INCLUDE [Gather ingredients](task-gather-ingredients.md)\] \[!INCLUDE [prepare the bread](task-prepare-bread.md)\] \[!INCLUDE [Open the jars](task-open-jar.md)\] \[!INCLUDE [Spread the peanut butter](task-spread-peanut-butter.md)\] \[!INCLUDE [Spread the jelly](task-spread-jelly.md)\]  
+[!INCLUDE [Gather ingredients](task-gather-ingredients.md)]
+[!INCLUDE [prepare the bread](task-prepare-bread.md)]
+[!INCLUDE [Open the jars](task-open-jar.md)]
+[!INCLUDE [Spread the peanut butter](task-spread-peanut-butter.md)]
+[!INCLUDE [Spread the jelly](task-spread-jelly.md)]
+
+{{task-spread-jelly.md}}
 
