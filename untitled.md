@@ -6,5 +6,7 @@
 
 {% embed url="https://github.com/IngridAtMicrosoft/DocsContent/blob/master/singlesource/ref-types-jelly.md" %}
 
+{{/singlesource/ref-types-jelly.md}}
+
 
 
