@@ -8,6 +8,10 @@ meta: start title: How to Peanut Butter and Jelly Sandwich description: This is 
 
 ### Prerequisite knowledge
 
+|  |  |
+| :--- | :--- |
+|  |  |
+
 Before you start making your peanut butter and jelly sandwich you might want to review the following concepts:
 
 * [Sandwich](concept-sandwich.md)
