@@ -7,4 +7,4 @@ ms.author: inhenkel
 ms.custom: CLI
 ---
 
-[!INCLUDE][mermaid diagram](graphTD.mmd)]
+[!INCLUDE][mermaid diagram](./includes/graphTD.mmd)]
