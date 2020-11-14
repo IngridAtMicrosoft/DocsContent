@@ -12,3 +12,9 @@ description: This is a repository for a single source prototype.
 # Welcome to singlesource!
 
 ![svg file](media/mermaid-diagram-fa-icons.svg)
+
+```plantUml
+
+Bob->Alice : hello
+
+```
