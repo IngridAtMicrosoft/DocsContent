@@ -11,5 +11,4 @@ description: This is a repository for a single source prototype.
 
 # Welcome to singlesource!
 
-This is just a page.
-
+![svg file](media/mermaid-diagram-fa-icons.svg)
