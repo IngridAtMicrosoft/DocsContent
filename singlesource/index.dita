@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="welcome-to-singlesource">
+    <title>Welcome to Singlesource!</title>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+        <data name="description" value="This is a repository for a single source prototype."/>
+        <data name="title" value="Welcome to Single Source"/>
+    </prolog>
+    <body>
+        <image href="media/mermaid-diagram-fa-icons.svg" placement="break">
+            <alt>svg file</alt>
+        </image>
+        <codeblock xml:space="preserve" outputclass="plantUml">
+Bob-&gt;Alice : hello
+</codeblock>
+    </body>
+</topic>

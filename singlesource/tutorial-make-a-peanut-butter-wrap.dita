@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tutorial-make-a-peanut-butter-wrap">
+    <title>Tutorial: Make a peanut butter wrap</title>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+        <data name="description" value="This is a repository for a single source prototype."/>
+        <data name="title" value="Welcome to Single Source"/>
+    </prolog>
+    <body>
+        <p>included content goes here</p>
+    </body>
+</topic>

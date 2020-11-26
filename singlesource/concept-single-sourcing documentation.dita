@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="overview-single-sourcing-documentation">
+    <title>Overview: Single-sourcing documentation</title>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+        <data name="description" value="Overview of single sourcing documentation."/>
+        <data name="title" value="Overview of single sourcing documentation"/>
+    </prolog>
+    <body>
+        <p>This is is an example of using GitHub and the Docs build for creating single source,
+            structured documentation with the ultimate goal of content reuse.</p>
+    </body>
+</topic>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="concept-bread">
+    <title>concept-bread</title>
+    <prolog>
+        <author>IngridAtMicrosoft </author>
+        <data name="title" value="Bread description: What is bread? "/>
+    </prolog>
+    <body/>
+    <topic id="bread">
+        <title>Bread</title>
+        <body>
+            <p>Bread is a staple food prepared from a dough of flour and water, usually by baking.
+                Throughout recorded history it has been a prominent food in large parts of the
+                world; it is one of the oldest man-made foods, having been of significant importance
+                since the dawn of agriculture; and plays an essential role in religious rituals and
+                secular culture.</p>
+            <p>Bread may be leavened by naturally occurring microbes, chemicals, industrially
+                produced yeast, or high-pressure aeration. In many countries, commercial bread often
+                contains additives to improve flavor, texture, color, shelf life, nutrition, and
+                ease of production.</p>
+        </body>
+        <topic id="testing-editor">
+            <title>Testing editor</title>
+            <body>
+                <p>Insert a table here.</p>
+                <table>
+                    <tgroup cols="4">
+                        <colspec colname="col1"/>
+                        <colspec colname="col2"/>
+                        <colspec colname="col3"/>
+                        <colspec colname="col4"/>
+                        <thead>
+                            <row>
+                                <entry align="left">Type</entry>
+                                <entry align="left">Cost</entry>
+                                <entry align="left">Available</entry>
+                                <entry align="left">Not-available</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry align="left">White</entry>
+                                <entry align="left">1.00</entry>
+                                <entry align="left">in stores</entry>
+                                <entry align="left">online</entry>
+                            </row>
+                            <row>
+                                <entry align="left">Wheat</entry>
+                                <entry align="left">2.00</entry>
+                                <entry align="left">in stores</entry>
+                                <entry align="left">online</entry>
+                            </row>
+                            <row>
+                                <entry align="left">Money</entry>
+                                <entry align="left">-0</entry>
+                                <entry align="left">in your pocket</entry>
+                                <entry align="left">in the bank</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+                <codeblock xml:space="preserve" outputclass="text">This is supposed to be a code block.</codeblock>
+            </body>
+            <topic id="for-more-information-about-the-bread-types-see-types-of-bread">
+                <title>For more information about the bread types, see <xref
+                        href="ref-types-bread.md" format="markdown">Types of bread</xref>.</title>
+                <body/>
+            </topic>
+        </topic>
+    </topic>
+</topic>

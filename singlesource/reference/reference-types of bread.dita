@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reference-types-of-bread">
+    <title>Reference: Types of bread</title>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+        <data name="description" value="Types of bread."/>
+        <data name="title" value="Types of bread"/>
+    </prolog>
+    <body>
+        <image
+            href="https://github.com/IngridAtMicrosoft/DocsContent/tree/58b7b951b91691e43c1633382af40f964a5fcfc6/singlesource/includes/media/types-of-bread.jpg"
+            placement="break">
+            <alt>chart of bread types</alt>
+        </image>
+        <table>
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <thead>
+                    <row>
+                        <entry align="left">Type</entry>
+                        <entry align="left">Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry align="left">white</entry>
+                        <entry align="left">description goes here</entry>
+                    </row>
+                    <row>
+                        <entry align="left">whole wheat</entry>
+                        <entry align="left">description goes here</entry>
+                    </row>
+                    <row>
+                        <entry align="left">multigrain</entry>
+                        <entry align="left">description goes here</entry>
+                    </row>
+                    <row>
+                        <entry align="left">whole grain</entry>
+                        <entry align="left">description goes here</entry>
+                    </row>
+                    <row>
+                        <entry align="left">sprouted grain</entry>
+                        <entry align="left">description goes here</entry>
+                    </row>
+                    <row>
+                        <entry align="left">sourdough</entry>
+                        <entry align="left">description goes here</entry>
+                    </row>
+                    <row>
+                        <entry align="left">rye</entry>
+                        <entry align="left">description goes here</entry>
+                    </row>
+                    <row>
+                        <entry align="left">pumpernickel</entry>
+                        <entry align="left">description goes here</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

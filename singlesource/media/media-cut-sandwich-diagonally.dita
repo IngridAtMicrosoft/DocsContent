@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="media-cut-sandwich-diagonally">
+    <title>media-cut-sandwich-diagonally</title>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+    </prolog>
+    <body>
+        <image href="../.gitbook/assets/cut-sandwich-diagonally.jpg" placement="break">
+            <alt>hand stacking slices</alt>
+        </image>
+    </body>
+</topic>

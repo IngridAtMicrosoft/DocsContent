@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="media-put-on-gloves">
+    <title>media-put-on-gloves</title>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+    </prolog>
+    <body>
+        <image href="../.gitbook/assets/put-on-gloves.jpg" placement="break">
+            <alt>peanut butter jelly torilla</alt>
+        </image>
+    </body>
+</topic>

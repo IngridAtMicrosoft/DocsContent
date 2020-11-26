@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="media-gather-ingredients">
+    <title>media-gather-ingredients</title>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+    </prolog>
+    <body>
+        <image href="../.gitbook/assets/gather-ingredients.jpg" placement="break">
+            <alt>gathered ingredients</alt>
+        </image>
+    </body>
+</topic>

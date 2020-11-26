@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="prepare-bread">
+    <title>Prepare bread</title>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+    </prolog>
+    <body/>
+    <topic id="remove-bread-from-bag">
+        <title>Remove bread from bag</title>
+        <body>
+            <ol>
+                <li><p>with your non-dominant hand hold the bread bag open.</p></li>
+                <li><p>With your dominant hand, pull out two slices of bread.</p></li>
+                <li><p>next step...</p></li>
+                <li><p>next step...</p></li>
+            </ol>
+            <p>[!INCLUDE<xref href="media-remove-bread-bag.md" format="markdown">remove the bread
+                    from the bag</xref>]</p>
+        </body>
+    </topic>
+    <topic id="put-slices-in-the-toaster">
+        <title>Put slices in the toaster</title>
+        <body>
+            <ol>
+                <li><p>Make sure the toaster is plugged in.</p></li>
+                <li><p>Put one slice in each toasting area of the toaster.</p></li>
+                <li><p>Press the lever to start toasting the bread.</p></li>
+                <li><p>next step...</p></li>
+                <li><p>next step...</p></li>
+            </ol>
+        </body>
+    </topic>
+</topic>

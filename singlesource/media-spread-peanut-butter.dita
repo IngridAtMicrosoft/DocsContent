@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="media-spread-peanut-butter">
+    <title>media-spread-peanut-butter</title>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+    </prolog>
+    <body>
+        <image href="../.gitbook/assets/spread-peanut-butter.jpg" placement="break">
+            <alt>spread peanut butter</alt>
+        </image>
+    </body>
+</topic>
