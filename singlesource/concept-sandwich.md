@@ -1,8 +1,7 @@
+---
+ms.author: inhenkel
+---
 # concept-sandwich
-
-meta: start title: Sandwich description: What is a sandwich? author: IngridAtMicrosoft ms.topic: article ms.date: 07/04/2020 ms.author: inhenkel ms.reviewer: inhenkel ms.lastreviewed: 07/04/2020
-
-### meta: end
 
 ## Sandwich
 
