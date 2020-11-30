@@ -1,3 +1,5 @@
+- name: Compile Mermaid Markdown
+  uses: neenjaw/compile-mermaid-markdown-action@0.2.4
 - name: Single Source
   href: index.md
 - name: Overview
