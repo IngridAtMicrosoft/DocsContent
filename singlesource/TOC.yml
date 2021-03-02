@@ -29,7 +29,7 @@
     - name: Sandwich making tools
       href: concept-sandwich-making-tools.md
 - name: How-to guides
-  items:
+  items: 
   - name: Make a peanut butter sandwich
     href: how-to-peanut-butter-sandwich.md
   - name: Tasks
@@ -44,6 +44,146 @@
       href: task-spread-peanut-butter.md
     - name: Spread jelly
       href: task-spread-jelly.md
+- name: Troubleshooting
+  items:
+  - name: Accounts Error Message
+    href: selfhelp/articles/microsoft.media/mediaservices-accounts-error-message.md
+  - name: Accouts Generic
+    href: selfhelp/articles/microsoft.media/mediaservices-accounts-generic.md
+  - name: accounts-linking-storage-accts
+    href: selfhelp/articles/microsoft.media/mediaservices-accounts-linking-storage-accts.md
+  - name: accounts-resource-group-moves
+    href: selfhelp/articles/microsoft.media/mediaservices-accounts-resource-group-moves.md
+  - name: accounts-resource-group-moves
+    href: selfhelp/articles/microsoft.media/mediaservices-accounts-resource-group-moves.md
+  - name: analytics
+    href: selfhelp/articles/microsoft.media/mediaservices-analytics.md
+  - name: analyzing-and-indexing-how-to
+    href: selfhelp/articles/microsoft.media/mediaservices-analyzing-and-indexing-how-to.md
+  - name: analyzing-and-indexing-performance
+    href: selfhelp/articles/microsoft.media/mediaservices-analyzing-and-indexing-performance.md
+  - name: assets-quotas
+    href: selfhelp/articles/microsoft.media/mediaservices-assets-quotas.md
+  - name: authentication-access-control
+    href: selfhelp/articles/microsoft.media/mediaservices-authentication-access-control.md
+  - name: billingrelatedquestions-mooncake
+    href: selfhelp/articles/microsoft.media/mediaservices-billingrelatedquestions-mooncake.md
+  - name: billingrelatedquestions
+    href: selfhelp/articles/microsoft.media/mediaservices-billingrelatedquestions.md
+  - name: channels-live-evens-quotas
+    href: selfhelp/articles/microsoft.media/mediaservices-channels-live-evens-quotas.md
+  - name: client-latency
+    href: selfhelp/articles/microsoft.media/mediaservices-client-latency.md
+  - name: client-sdks-aad
+    href: selfhelp/articles/microsoft.media/mediaservices-client-sdks-aad.md
+  - name: client-sdks-dotnet
+    href: selfhelp/articles/microsoft.media/mediaservices-client-sdks-dotnet.md
+  - name: client-sdks-java
+    href: selfhelp/articles/microsoft.media/mediaservices-client-sdks-java.md
+  - name: client-sdks-other
+    href: selfhelp/articles/microsoft.media/mediaservices-client-sdks-other.md
+  - name: client-sdks-rest
+    href: selfhelp/articles/microsoft.media/mediaservices-client-sdks-rest.md
+  - name: client-sdks-sample-code
+    href: selfhelp/articles/microsoft.media/mediaservices-client-sdks-sample-code.md
+  - name: client-sdks
+    href: selfhelp/articles/microsoft.media/mediaservices-client-sdks.md
+  - name: content-management-how-to
+    href: selfhelp/articles/microsoft.media/mediaservices-content-management-how-to.md
+  - name: content-protection-mooncake
+    href: selfhelp/articles/microsoft.media/mediaservices-content-protection-mooncake.md
+  - name: content-protection
+    href: selfhelp/articles/microsoft.media/mediaservices-content-protection.md
+  - name: content-upload-asset-creation
+    href: selfhelp/articles/microsoft.media/mediaservices-content-upload-asset-creation.md
+  - name: content-upload-ingest-from-http
+    href: selfhelp/articles/microsoft.media/mediaservices-content-upload-ingest-from-http.md
+  - name: content-upload-to-storage
+    href: selfhelp/articles/microsoft.media/mediaservices-content-upload-to-storage.md
+  - name: content-upload
+    href: selfhelp/articles/microsoft.media/mediaservices-content-upload.md
+  - name: drm-and-key-delivery-aes-issues
+    href: selfhelp/articles/microsoft.media/mediaservices-drm-and-key-delivery-aes-issues.md
+  - name: drm-and-key-delivery-browser-platform-issues
+    href: selfhelp/articles/microsoft.media/mediaservices-drm-and-key-delivery-browser-platform-issues.md
+  - name: drm-and-key-delivery-errors
+    href: selfhelp/articles/microsoft.media/mediaservices-drm-and-key-delivery-errors.md
+  - name: drm-and-key-delivery-fairplay-issues
+    href: selfhelp/articles/microsoft.media/mediaservices-drm-and-key-delivery-fairplay-issues.md
+  - name: drm-and-key-delivery-howto
+    href: selfhelp/articles/microsoft.media/mediaservices-drm-and-key-delivery-howto.md
+  - name: drm-and-key-delivery-playready-issues
+    href: selfhelp/articles/microsoft.media/mediaservices-drm-and-key-delivery-playready-issues.md
+  - name: drm-and-key-delivery-widevine-issues
+    href: selfhelp/articles/microsoft.media/mediaservices-drm-and-key-delivery-widevine-issues.md
+  - name: drm-and-key-delivery
+    href: selfhelp/articles/microsoft.media/mediaservices-drm-and-key-delivery.md
+  - name: encoding-files-errors
+    href: selfhelp/articles/microsoft.media/mediaservices-encoding-files-errors.md
+  - name: encoding-files-format-codec-issues
+    href: selfhelp/articles/microsoft.media/mediaservices-encoding-files-format-codec-issues.md
+  - name: encoding-files-premium-encoder
+    href: selfhelp/articles/microsoft.media/mediaservices-encoding-files-premium-encoder.md
+  - name: encoding-files-profiles
+    href: selfhelp/articles/microsoft.media/mediaservices-encoding-files-profiles.md
+  - name: encoding-files-reserved-units
+    href: selfhelp/articles/microsoft.media/mediaservices-encoding-files-reserved-units.md
+  - name: encoding-files-subclipping
+    href: selfhelp/articles/microsoft.media/mediaservices-encoding-files-subclipping.md
+  - name: encoding-files
+    href: selfhelp/articles/microsoft.media/mediaservices-encoding-files.md
+  - name: encoding-formats
+    href: selfhelp/articles/microsoft.media/mediaservices-encoding-formats.md
+  - name: insights-jobs-increasemediareservedunits
+    href: selfhelp/articles/microsoft.media/mediaservices-insights-jobs-increasemediareservedunits.md
+  - name: insights-jobs-upgrademediareservedunits
+    href: selfhelp/articles/microsoft.media/mediaservices-insights-jobs-upgrademediareservedunits.md
+  - name: insights-streamingendpoint-performance
+    href: selfhelp/articles/microsoft.media/mediaservices-insights-streamingendpoint-performance.md
+  - name: live-streaming-archiving
+    href: selfhelp/articles/microsoft.media/mediaservices-live-streaming-archiving.md
+  - name: live-streaming-configure-channels-live-events
+    href: selfhelp/articles/microsoft.media/mediaservices-live-streaming-configure-channels-live-events.md
+  - name: live-streaming-live-cloud-encoder
+    href: selfhelp/articles/microsoft.media/mediaservices-live-streaming-live-cloud-encoder.md
+  - name: live-streaming-mooncake
+    href: selfhelp/articles/microsoft.media/mediaservices-live-streaming-mooncake.md
+  - name: live-streaming-onpremises-encoders
+    href: selfhelp/articles/microsoft.media/mediaservices-live-streaming-onpremises-encoders.md
+  - name: live-streaming-rtmp-errors
+    href: selfhelp/articles/microsoft.media/mediaservices-live-streaming-rtmp-errors.md
+  - name: player-analytics
+    href: selfhelp/articles/microsoft.media/mediaservices-player-analytics.md
+  - name: player-browser-closed-captions
+    href: selfhelp/articles/microsoft.media/mediaservices-player-browser-closed-captions.md
+  - name: player-browser-compatibility
+    href: selfhelp/articles/microsoft.media/mediaservices-player-browser-compatibility.md
+  - name: player-browser-howto-embed-player
+    href: selfhelp/articles/microsoft.media/mediaservices-player-browser-howto-embed-player.md
+  - name: player-playback-issues
+    href: selfhelp/articles/microsoft.media/mediaservices-player-playback-issues.md
+  - name: player
+    href: selfhelp/articles/microsoft.media/mediaservices-player.md
+  - name: policies-quotas
+    href: selfhelp/articles/microsoft.media/mediaservices-policies-quotas.md
+  - name: quotas
+    href: selfhelp/articles/microsoft.media/mediaservices-quotas.md
+  - name: scale-media-reserved-units
+    href: selfhelp/articles/microsoft.media/mediaservices-scale-media-reserved-units.md
+  - name: stream-files-cdn
+    href: selfhelp/articles/microsoft.media/mediaservices-stream-files-cdn.md
+  - name: stream-files-howto
+    href: selfhelp/articles/microsoft.media/mediaservices-stream-files-howto.md
+  - name: stream-files-performance
+    href: selfhelp/articles/microsoft.media/mediaservices-stream-files-performance.md
+  - name: stream-files-streaming-endpoint
+    href: selfhelp/articles/microsoft.media/mediaservices-stream-files-streaming-endpoint.md
+  - name: stream-files
+    href: selfhelp/articles/microsoft.media/mediaservices-stream-files.md
+  - name: streaming-endpoint-errors
+    href: selfhelp/articles/microsoft.media/mediaservices-streaming-endpoint-errors.md
+  - name: streaming-endpoints-quotas
+    href: selfhelp/articles/microsoft.media/mediaservices-streaming-endpoints-quotas.md
 - name: Reference
   items:
   - name: Types of bread
