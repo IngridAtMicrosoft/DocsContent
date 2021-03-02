@@ -1,0 +1,3 @@
+[submodule "selfhelp"]
+	path = selfhelp
+	url = https://github.com/Azure/SelfHelpContent.git
