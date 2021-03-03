@@ -1,0 +1,1936 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.icon-Activity-Log {
+  width: 30px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-Activity {
+  width: 25px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.icon-Adaptive-Application-Control {
+  width: 35px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.icon-Adaptive-Network-Hardening {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.icon-ADFS-Proxy {
+  width: 19px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.icon-ADFS {
+  width: 20px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.icon-Advisor {
+  width: 33px;
+  height: 32px;
+  background-position: -288px 0;
+}
+.icon-Alert {
+  width: 34px;
+  height: 32px;
+  background-position: -336px 0;
+}
+.icon-All-Resources {
+  width: 32px;
+  height: 32px;
+  background-position: -384px 0;
+}
+.icon-Analysis-Service {
+  width: 36px;
+  height: 32px;
+  background-position: -432px 0;
+}
+.icon-API-Connection {
+  width: 32px;
+  height: 32px;
+  background-position: -480px 0;
+}
+.icon-API-Management-Service {
+  width: 34px;
+  height: 32px;
+  background-position: -528px 0;
+}
+.icon-Application-Change-Analysis {
+  width: 32px;
+  height: 32px;
+  background-position: -576px 0;
+}
+.icon-Application-Configuration {
+  width: 27px;
+  height: 32px;
+  background-position: -624px 0;
+}
+.icon-Application-Gateway {
+  width: 32px;
+  height: 32px;
+  background-position: -672px 0;
+}
+.icon-Application-Insights {
+  width: 28px;
+  height: 32px;
+  background-position: -720px 0;
+}
+.icon-Application-Registration {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -48px;
+}
+.icon-Application-Security-Group {
+  width: 29px;
+  height: 32px;
+  background-position: -48px -48px;
+}
+.icon-Application-Service-Certificate {
+  width: 34px;
+  height: 32px;
+  background-position: -96px -48px;
+}
+.icon-Application-Service-Domain {
+  width: 35px;
+  height: 32px;
+  background-position: -144px -48px;
+}
+.icon-Application-Service-Environment {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -48px;
+}
+.icon-Application-Service-Plan {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -48px;
+}
+.icon-Application-Service {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -48px;
+}
+.icon-Archive-Storage {
+  width: 25px;
+  height: 32px;
+  background-position: -336px -48px;
+}
+.icon-ARM-Template {
+  width: 22px;
+  height: 32px;
+  background-position: -384px -48px;
+}
+.icon-Automation-Account {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -48px;
+}
+.icon-Azure-Active-Directory-Authentication-Method {
+  width: 33px;
+  height: 32px;
+  background-position: -480px -48px;
+}
+.icon-Azure-Active-Directory-B2B {
+  width: 25px;
+  height: 32px;
+  background-position: -528px -48px;
+}
+.icon-Azure-Active-Directory-B2C {
+  width: 25px;
+  height: 32px;
+  background-position: -576px -48px;
+}
+.icon-Azure-Active-Directory-Connect-Health {
+  width: 33px;
+  height: 32px;
+  background-position: -624px -48px;
+}
+.icon-Azure-Active-Directory-Domain-Services {
+  width: 34px;
+  height: 32px;
+  background-position: -672px -48px;
+}
+.icon-Azure-Active-Directory-Group {
+  width: 35px;
+  height: 32px;
+  background-position: 0 -96px;
+}
+.icon-Azure-Active-Directory-Identity-Protection {
+  width: 31px;
+  height: 32px;
+  background-position: -48px -96px;
+}
+.icon-Azure-Active-Directory-Identity-Secure-Score {
+  width: 25px;
+  height: 32px;
+  background-position: -96px -96px;
+}
+.icon-Azure-Active-Directory-Privileged-Identity-Management {
+  width: 27px;
+  height: 32px;
+  background-position: -144px -96px;
+}
+.icon-Azure-Active-Directory-Risk-Detection {
+  width: 26px;
+  height: 32px;
+  background-position: -192px -96px;
+}
+.icon-Azure-Active-Directory-Risky-Sign-In {
+  width: 24px;
+  height: 32px;
+  background-position: -240px -96px;
+}
+.icon-Azure-Active-Directory-Risky-User {
+  width: 24px;
+  height: 32px;
+  background-position: -288px -96px;
+}
+.icon-Azure-Active-Directory-Security {
+  width: 29px;
+  height: 32px;
+  background-position: -336px -96px;
+}
+.icon-Azure-Active-Directory-User {
+  width: 31px;
+  height: 32px;
+  background-position: -384px -96px;
+}
+.icon-Azure-Active-Directory {
+  width: 34px;
+  height: 32px;
+  background-position: -432px -96px;
+}
+.icon-Azure-Advisor {
+  width: 25px;
+  height: 32px;
+  background-position: -480px -96px;
+}
+.icon-Azure-API-For-FHIR {
+  width: 27px;
+  height: 32px;
+  background-position: -528px -96px;
+}
+.icon-Azure-Arc-Machine {
+  width: 27px;
+  height: 32px;
+  background-position: -576px -96px;
+}
+.icon-Azure-Arc-Service {
+  width: 35px;
+  height: 32px;
+  background-position: -624px -96px;
+}
+.icon-Azure-Artifact {
+  width: 24px;
+  height: 32px;
+  background-position: -672px -96px;
+}
+.icon-Azure-Attestation {
+  width: 20px;
+  height: 32px;
+  background-position: -720px -96px;
+}
+.icon-Azure-Automation-Runbook {
+  width: 22px;
+  height: 32px;
+  background-position: 0 -144px;
+}
+.icon-Azure-Batch-Account {
+  width: 24px;
+  height: 32px;
+  background-position: -48px -144px;
+}
+.icon-Azure-Batch {
+  width: 24px;
+  height: 32px;
+  background-position: -96px -144px;
+}
+.icon-Azure-Best-Practices {
+  width: 34px;
+  height: 32px;
+  background-position: -144px -144px;
+}
+.icon-Azure-Blockchain-Service {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -144px;
+}
+.icon-Azure-Blueprint {
+  width: 24px;
+  height: 32px;
+  background-position: -240px -144px;
+}
+.icon-Azure-Board {
+  width: 24px;
+  height: 32px;
+  background-position: -288px -144px;
+}
+.icon-Azure-Cache-For-Redis {
+  width: 35px;
+  height: 32px;
+  background-position: -336px -144px;
+}
+.icon-Azure-Cosmos-DB {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -144px;
+}
+.icon-Azure-Data-Explorer-Cluster {
+  width: 26px;
+  height: 32px;
+  background-position: -432px -144px;
+}
+.icon-Azure-Database-For-Mariadb {
+  width: 28px;
+  height: 32px;
+  background-position: -480px -144px;
+}
+.icon-Azure-Database-For-Mysql {
+  width: 28px;
+  height: 32px;
+  background-position: -528px -144px;
+}
+.icon-Azure-Database-For-Postgresql {
+  width: 28px;
+  height: 32px;
+  background-position: -576px -144px;
+}
+.icon-Azure-Database-Migration-Service {
+  width: 31px;
+  height: 32px;
+  background-position: -624px -144px;
+}
+.icon-Azure-Databricks {
+  width: 31px;
+  height: 32px;
+  background-position: -672px -144px;
+}
+.icon-Azure-Dev-Ops {
+  width: 24px;
+  height: 32px;
+  background-position: -720px -144px;
+}
+.icon-Azure-Front-Door {
+  width: 34px;
+  height: 32px;
+  background-position: 0 -192px;
+}
+.icon-Azure-Information-Protection {
+  width: 20px;
+  height: 32px;
+  background-position: -48px -192px;
+}
+.icon-Azure-Lighthouse-Management {
+  width: 26px;
+  height: 32px;
+  background-position: -96px -192px;
+}
+.icon-Azure-Lighthouse-My-Audit-History {
+  width: 25px;
+  height: 32px;
+  background-position: -144px -192px;
+}
+.icon-Azure-Lighthouse-My-Customers {
+  width: 35px;
+  height: 32px;
+  background-position: -192px -192px;
+}
+.icon-Azure-Lighthouse-My-Permission {
+  width: 31px;
+  height: 32px;
+  background-position: -240px -192px;
+}
+.icon-Azure-Lighthouse-My-Request {
+  width: 24px;
+  height: 32px;
+  background-position: -288px -192px;
+}
+.icon-Azure-Lighthouse-My-Role {
+  width: 27px;
+  height: 32px;
+  background-position: -336px -192px;
+}
+.icon-Azure-Lighthouse-Projection {
+  width: 28px;
+  height: 32px;
+  background-position: -384px -192px;
+}
+.icon-Azure-Lighthouse-Protection {
+  width: 24px;
+  height: 32px;
+  background-position: -432px -192px;
+}
+.icon-Azure-Lighthouse-RBAC {
+  width: 24px;
+  height: 32px;
+  background-position: -480px -192px;
+}
+.icon-Azure-Lighthouse-Service-Provider {
+  width: 24px;
+  height: 32px;
+  background-position: -528px -192px;
+}
+.icon-Azure-Lighthouse {
+  width: 30px;
+  height: 32px;
+  background-position: -576px -192px;
+}
+.icon-Azure-Maps-Account {
+  width: 24px;
+  height: 32px;
+  background-position: -624px -192px;
+}
+.icon-Azure-Migrate {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -192px;
+}
+.icon-Azure-Monitor-Private-Link-Scope {
+  width: 27px;
+  height: 32px;
+  background-position: -720px -192px;
+}
+.icon-Azure-Monitor {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -240px;
+}
+.icon-Azure-Multifactor-Authentication {
+  width: 29px;
+  height: 32px;
+  background-position: -48px -240px;
+}
+.icon-Azure-Netapp-Files {
+  width: 35px;
+  height: 32px;
+  background-position: -96px -240px;
+}
+.icon-Azure-Pipelines {
+  width: 24px;
+  height: 32px;
+  background-position: -144px -240px;
+}
+.icon-Azure-Repo {
+  width: 21px;
+  height: 32px;
+  background-position: -192px -240px;
+}
+.icon-Azure-Role-Based-Access-Control {
+  width: 24px;
+  height: 32px;
+  background-position: -240px -240px;
+}
+.icon-Azure-Spring-Cloud {
+  width: 28px;
+  height: 32px;
+  background-position: -288px -240px;
+}
+.icon-Azure-Stack-Backup {
+  width: 20px;
+  height: 32px;
+  background-position: -336px -240px;
+}
+.icon-Azure-Stack-Capacity {
+  width: 20px;
+  height: 32px;
+  background-position: -384px -240px;
+}
+.icon-Azure-Stack-Edge-Management {
+  width: 24px;
+  height: 32px;
+  background-position: -432px -240px;
+}
+.icon-Azure-Stack-Offer {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -240px;
+}
+.icon-Azure-Stack-Plan {
+  width: 29px;
+  height: 32px;
+  background-position: -528px -240px;
+}
+.icon-Azure-Stack-Update {
+  width: 24px;
+  height: 32px;
+  background-position: -576px -240px;
+}
+.icon-Azure-Stack-User-Subscription {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -240px;
+}
+.icon-Azure-Stack {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -240px;
+}
+.icon-Azure-Synapse-Analytics {
+  width: 30px;
+  height: 32px;
+  background-position: -720px -240px;
+}
+.icon-Azure-Test-Plan {
+  width: 26px;
+  height: 32px;
+  background-position: 0 -288px;
+}
+.icon-Azure {
+  width: 29px;
+  height: 32px;
+  background-position: -48px -288px;
+}
+.icon-Bastion {
+  width: 27px;
+  height: 32px;
+  background-position: -96px -288px;
+}
+.icon-Batch-AI {
+  width: 21px;
+  height: 32px;
+  background-position: -144px -288px;
+}
+.icon-Blockchain-ABS-Member {
+  width: 30px;
+  height: 32px;
+  background-position: -192px -288px;
+}
+.icon-Blockchain-Application {
+  width: 28px;
+  height: 32px;
+  background-position: -240px -288px;
+}
+.icon-Blockchain-Connection {
+  width: 34px;
+  height: 32px;
+  background-position: -288px -288px;
+}
+.icon-Blockchain-Consortium {
+  width: 24px;
+  height: 32px;
+  background-position: -336px -288px;
+}
+.icon-Blockchain-Data-Manager {
+  width: 34px;
+  height: 32px;
+  background-position: -384px -288px;
+}
+.icon-Blockchain-Devkit {
+  width: 24px;
+  height: 32px;
+  background-position: -432px -288px;
+}
+.icon-Blockchain-Streaming {
+  width: 28px;
+  height: 32px;
+  background-position: -480px -288px;
+}
+.icon-Blockchain-Token {
+  width: 30px;
+  height: 32px;
+  background-position: -528px -288px;
+}
+.icon-Blueprint {
+  width: 28px;
+  height: 32px;
+  background-position: -576px -288px;
+}
+.icon-Bot-Service {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -288px;
+}
+.icon-Budget {
+  width: 26px;
+  height: 32px;
+  background-position: -672px -288px;
+}
+.icon-CDN-Profile {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -288px;
+}
+.icon-Change-Analysis {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -336px;
+}
+.icon-Citrix-Virtual-Desktop-Essentials {
+  width: 24px;
+  height: 32px;
+  background-position: -48px -336px;
+}
+.icon-Client-App {
+  width: 27px;
+  height: 32px;
+  background-position: -96px -336px;
+}
+.icon-Cloud-Service-Classic {
+  width: 29px;
+  height: 32px;
+  background-position: -144px -336px;
+}
+.icon-Cloud-Simple-Service {
+  width: 24px;
+  height: 32px;
+  background-position: -192px -336px;
+}
+.icon-Cloud-Simple-Virtual-Machine {
+  width: 30px;
+  height: 32px;
+  background-position: -240px -336px;
+}
+.icon-Cognitive-Services-Search {
+  width: 24px;
+  height: 32px;
+  background-position: -288px -336px;
+}
+.icon-Cognitive-Services {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -336px;
+}
+.icon-Company-Branding {
+  width: 25px;
+  height: 32px;
+  background-position: -384px -336px;
+}
+.icon-Compliance {
+  width: 29px;
+  height: 32px;
+  background-position: -432px -336px;
+}
+.icon-Compute--App {
+  width: 29px;
+  height: 32px;
+  background-position: -480px -336px;
+}
+.icon-Conditional-Access {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -336px;
+}
+.icon-Configuration-Management {
+  width: 25px;
+  height: 32px;
+  background-position: -576px -336px;
+}
+.icon-Configuration {
+  width: 33px;
+  height: 32px;
+  background-position: -624px -336px;
+}
+.icon-Connection-Monitor {
+  width: 27px;
+  height: 32px;
+  background-position: -672px -336px;
+}
+.icon-Container-Batch-Account {
+  width: 33px;
+  height: 32px;
+  background-position: 0 -384px;
+}
+.icon-Container-Instance {
+  width: 31px;
+  height: 32px;
+  background-position: -48px -384px;
+}
+.icon-Container-Kubernetes-Service {
+  width: 34px;
+  height: 32px;
+  background-position: -96px -384px;
+}
+.icon-Container-Registry {
+  width: 34px;
+  height: 32px;
+  background-position: -144px -384px;
+}
+.icon-Container-Service-Fabric-Cluster {
+  width: 33px;
+  height: 32px;
+  background-position: -192px -384px;
+}
+.icon-Controller {
+  width: 28px;
+  height: 32px;
+  background-position: -240px -384px;
+}
+.icon-CORS {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -384px;
+}
+.icon-Cost-Alert {
+  width: 27px;
+  height: 32px;
+  background-position: -336px -384px;
+}
+.icon-Cost-Analysis {
+  width: 25px;
+  height: 32px;
+  background-position: -384px -384px;
+}
+.icon-Cost-Management-And-Billing {
+  width: 23px;
+  height: 32px;
+  background-position: -432px -384px;
+}
+.icon-Cost-Management {
+  width: 25px;
+  height: 32px;
+  background-position: -480px -384px;
+}
+.icon-Cost {
+  width: 34px;
+  height: 32px;
+  background-position: -528px -384px;
+}
+.icon-Customer-Lockbox-For-Microsoft-Azure {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -384px;
+}
+.icon-Data-And-Storage {
+  width: 26px;
+  height: 32px;
+  background-position: -624px -384px;
+}
+.icon-Data-Box-Edge-And-Gateway {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -384px;
+}
+.icon-Data-Box {
+  width: 33px;
+  height: 32px;
+  background-position: 0 -432px;
+}
+.icon-Data-Catalog {
+  width: 31px;
+  height: 32px;
+  background-position: -48px -432px;
+}
+.icon-Data-Factory {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -432px;
+}
+.icon-Data-Lake-Analytics {
+  width: 24px;
+  height: 32px;
+  background-position: -144px -432px;
+}
+.icon-Data-Lake-Storage-Gen1 {
+  width: 35px;
+  height: 32px;
+  background-position: -192px -432px;
+}
+.icon-Data-Lake {
+  width: 18px;
+  height: 32px;
+  background-position: -240px -432px;
+}
+.icon-Data-Share-Invitation {
+  width: 36px;
+  height: 32px;
+  background-position: -288px -432px;
+}
+.icon-Data-Share {
+  width: 35px;
+  height: 32px;
+  background-position: -336px -432px;
+}
+.icon-Data-Transfer {
+  width: 28px;
+  height: 32px;
+  background-position: -384px -432px;
+}
+.icon-Database-Migration-Service {
+  width: 23px;
+  height: 32px;
+  background-position: -432px -432px;
+}
+.icon-Ddos-Protection-Plan {
+  width: 29px;
+  height: 32px;
+  background-position: -480px -432px;
+}
+.icon-DDOS-Protection {
+  width: 22px;
+  height: 32px;
+  background-position: -528px -432px;
+}
+.icon-Deployment-Script {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -432px;
+}
+.icon-Deployment {
+  width: 28px;
+  height: 32px;
+  background-position: -624px -432px;
+}
+.icon-Devops-Project {
+  width: 28px;
+  height: 32px;
+  background-position: -672px -432px;
+}
+.icon-Devtest-Lab {
+  width: 27px;
+  height: 32px;
+  background-position: -720px -432px;
+}
+.icon-Diagnostics-Setting {
+  width: 30px;
+  height: 32px;
+  background-position: 0 -480px;
+}
+.icon-Disk-Encryption-Set {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -480px;
+}
+.icon-DNS-Zone {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -480px;
+}
+.icon-Ebook {
+  width: 29px;
+  height: 32px;
+  background-position: -144px -480px;
+}
+.icon-Education {
+  width: 28px;
+  height: 32px;
+  background-position: -192px -480px;
+}
+.icon-Elastic-Job-Agent {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -480px;
+}
+.icon-Endpoint-Security {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -480px;
+}
+.icon-Enterprise-Application {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -480px;
+}
+.icon-Event-Grid-Domain {
+  width: 34px;
+  height: 32px;
+  background-position: -384px -480px;
+}
+.icon-Event-Grid-Subscription {
+  width: 34px;
+  height: 32px;
+  background-position: -432px -480px;
+}
+.icon-Event-Grid-Topic {
+  width: 34px;
+  height: 32px;
+  background-position: -480px -480px;
+}
+.icon-Event-Hub-Cluster {
+  width: 35px;
+  height: 32px;
+  background-position: -528px -480px;
+}
+.icon-Event-Hub {
+  width: 34px;
+  height: 32px;
+  background-position: -576px -480px;
+}
+.icon-Event {
+  width: 22px;
+  height: 32px;
+  background-position: -624px -480px;
+}
+.icon-Export-Template {
+  width: 28px;
+  height: 32px;
+  background-position: -672px -480px;
+}
+.icon-Expressroute-Circuit {
+  width: 34px;
+  height: 32px;
+  background-position: 0 -528px;
+}
+.icon-Expressroute-Connection {
+  width: 24px;
+  height: 32px;
+  background-position: -48px -528px;
+}
+.icon-Expressroute-Filter {
+  width: 26px;
+  height: 32px;
+  background-position: -96px -528px;
+}
+.icon-Extended-Security-Updates {
+  width: 31px;
+  height: 32px;
+  background-position: -144px -528px;
+}
+.icon-Extension {
+  width: 24px;
+  height: 32px;
+  background-position: -192px -528px;
+}
+.icon-File-Integrity-Monitoring {
+  width: 27px;
+  height: 32px;
+  background-position: -240px -528px;
+}
+.icon-File-Share {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -528px;
+}
+.icon-Firewall-Manager {
+  width: 35px;
+  height: 32px;
+  background-position: -336px -528px;
+}
+.icon-Firewall-Policy {
+  width: 37px;
+  height: 32px;
+  background-position: -384px -528px;
+}
+.icon-Firewall {
+  width: 34px;
+  height: 32px;
+  background-position: -432px -528px;
+}
+.icon-Free-Services {
+  width: 26px;
+  height: 32px;
+  background-position: -480px -528px;
+}
+.icon-Function-App {
+  width: 34px;
+  height: 32px;
+  background-position: -528px -528px;
+}
+.icon-Genomics-Account {
+  width: 16px;
+  height: 32px;
+  background-position: -576px -528px;
+}
+.icon-Hdinsight-Cluster {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -528px;
+}
+.icon-Help-And-Support {
+  width: 29px;
+  height: 32px;
+  background-position: -672px -528px;
+}
+.icon-High-Availability {
+  width: 30px;
+  height: 32px;
+  background-position: -720px -528px;
+}
+.icon-Host-Group {
+  width: 24px;
+  height: 32px;
+  background-position: 0 -576px;
+}
+.icon-Host {
+  width: 24px;
+  height: 32px;
+  background-position: -48px -576px;
+}
+.icon-HPC-Cache {
+  width: 34px;
+  height: 32px;
+  background-position: -96px -576px;
+}
+.icon-Hunting {
+  width: 29px;
+  height: 32px;
+  background-position: -144px -576px;
+}
+.icon-Identity-And-Access {
+  width: 29px;
+  height: 32px;
+  background-position: -192px -576px;
+}
+.icon-Identity-Governance {
+  width: 26px;
+  height: 32px;
+  background-position: -240px -576px;
+}
+.icon-Import-Export-Job {
+  width: 31px;
+  height: 32px;
+  background-position: -288px -576px;
+}
+.icon-Incident {
+  width: 31px;
+  height: 32px;
+  background-position: -336px -576px;
+}
+.icon-Integration-Account {
+  width: 27px;
+  height: 32px;
+  background-position: -384px -576px;
+}
+.icon-Integration-Service-Environment {
+  width: 27px;
+  height: 32px;
+  background-position: -432px -576px;
+}
+.icon-Internet-Analyzer-Profile {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -576px;
+}
+.icon-Intune-App-Protection {
+  width: 34px;
+  height: 32px;
+  background-position: -528px -576px;
+}
+.icon-Intune-Device-Compliance {
+  width: 31px;
+  height: 32px;
+  background-position: -576px -576px;
+}
+.icon-Intune-Device-Configuration {
+  width: 24px;
+  height: 32px;
+  background-position: -624px -576px;
+}
+.icon-Intune-Device-Enrolment {
+  width: 34px;
+  height: 32px;
+  background-position: -672px -576px;
+}
+.icon-Intune-Device {
+  width: 34px;
+  height: 32px;
+  background-position: 0 -624px;
+}
+.icon-Intune-Exchange-Access {
+  width: 30px;
+  height: 32px;
+  background-position: -48px -624px;
+}
+.icon-Intune-Exchange-On-Premises-Access {
+  width: 18px;
+  height: 32px;
+  background-position: -96px -624px;
+}
+.icon-Intune-Managed-Desktop {
+  width: 27px;
+  height: 32px;
+  background-position: -144px -624px;
+}
+.icon-Intune-Security-Baseline {
+  width: 24px;
+  height: 32px;
+  background-position: -192px -624px;
+}
+.icon-Intune-Software-Update {
+  width: 28px;
+  height: 32px;
+  background-position: -240px -624px;
+}
+.icon-Intune-Tenant-Status {
+  width: 24px;
+  height: 32px;
+  background-position: -288px -624px;
+}
+.icon-Intune {
+  width: 34px;
+  height: 32px;
+  background-position: -336px -624px;
+}
+.icon-Iot-Central {
+  width: 20px;
+  height: 32px;
+  background-position: -384px -624px;
+}
+.icon-Iot-Device-Provisioning-Service {
+  width: 23px;
+  height: 32px;
+  background-position: -432px -624px;
+}
+.icon-Iot-Digital-Twin {
+  width: 25px;
+  height: 32px;
+  background-position: -480px -624px;
+}
+.icon-Iot-Edge {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -624px;
+}
+.icon-Iot-Hub-Security {
+  width: 27px;
+  height: 32px;
+  background-position: -576px -624px;
+}
+.icon-Iot-Hub {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -624px;
+}
+.icon-Iot-Solution-Accelerator {
+  width: 25px;
+  height: 32px;
+  background-position: -672px -624px;
+}
+.icon-Iot-Sphere {
+  width: 22px;
+  height: 32px;
+  background-position: -720px -624px;
+}
+.icon-Iot-Windows-10-Core {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -672px;
+}
+.icon-IP-Group {
+  width: 35px;
+  height: 32px;
+  background-position: -48px -672px;
+}
+.icon-Java {
+  width: 22px;
+  height: 32px;
+  background-position: -96px -672px;
+}
+.icon-Key-Vault-HSM {
+  width: 28px;
+  height: 32px;
+  background-position: -144px -672px;
+}
+.icon-Key-Vault {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -672px;
+}
+.icon-Lab-Service {
+  width: 33px;
+  height: 32px;
+  background-position: -240px -672px;
+}
+.icon-License {
+  width: 22px;
+  height: 32px;
+  background-position: -288px -672px;
+}
+.icon-Load-Balancer {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -672px;
+}
+.icon-Local-Network-Gateway {
+  width: 27px;
+  height: 32px;
+  background-position: -384px -672px;
+}
+.icon-Log-Analytics-Solution {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -672px;
+}
+.icon-Log-Analytics-Workspace {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -672px;
+}
+.icon-Logic-App-Custom-Connecton {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -672px;
+}
+.icon-Logic-App {
+  width: 36px;
+  height: 32px;
+  background-position: -576px -672px;
+}
+.icon-Machine-Learning-Studio-Web-Service-Classic {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -672px;
+}
+.icon-Machine-Learning-Studio-Web-Service-Plan-Classic {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -672px;
+}
+.icon-Machine-Learning-Studio-Workspace-Classic {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -672px;
+}
+.icon-Machine-Learning-Studio {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -720px;
+}
+.icon-Machine-Learning {
+  width: 31px;
+  height: 32px;
+  background-position: -48px -720px;
+}
+.icon-Maintenance-Configuration {
+  width: 33px;
+  height: 32px;
+  background-position: -96px -720px;
+}
+.icon-Managed-Application-Center {
+  width: 28px;
+  height: 32px;
+  background-position: -144px -720px;
+}
+.icon-Managed-Application {
+  width: 26px;
+  height: 32px;
+  background-position: -192px -720px;
+}
+.icon-Managed-Database {
+  width: 33px;
+  height: 32px;
+  background-position: -240px -720px;
+}
+.icon-Managed-Disk-Premium-SSD {
+  width: 27px;
+  height: 32px;
+  background-position: -288px -720px;
+}
+.icon-Managed-Disk-Snapshot {
+  width: 31px;
+  height: 32px;
+  background-position: -336px -720px;
+}
+.icon-Managed-Disk-Standard-HDD {
+  width: 27px;
+  height: 32px;
+  background-position: -384px -720px;
+}
+.icon-Managed-Disk-Standard-SSD {
+  width: 27px;
+  height: 32px;
+  background-position: -432px -720px;
+}
+.icon-Managed-Disk-Ultra-SSD {
+  width: 27px;
+  height: 32px;
+  background-position: -480px -720px;
+}
+.icon-Management-Certificate {
+  width: 34px;
+  height: 32px;
+  background-position: -528px -720px;
+}
+.icon-Management-Group {
+  width: 30px;
+  height: 32px;
+  background-position: -576px -720px;
+}
+.icon-Marketplace {
+  width: 30px;
+  height: 32px;
+  background-position: -624px -720px;
+}
+.icon-Mesh-Application {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -720px;
+}
+.icon-Metric {
+  width: 31px;
+  height: 32px;
+  background-position: -720px -720px;
+}
+.icon-Microsoft-Account {
+  width: 24px;
+  height: 32px;
+  background-position: 0 -768px;
+}
+.icon-Mobile-Application {
+  width: 23px;
+  height: 32px;
+  background-position: -48px -768px;
+}
+.icon-Mobility-MDM-And-MAM {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -768px;
+}
+.icon-Monitor {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -768px;
+}
+.icon-NAT-Gateway {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -768px;
+}
+.icon-Network-Interface {
+  width: 34px;
+  height: 32px;
+  background-position: -240px -768px;
+}
+.icon-Network-Security-Group-Classic {
+  width: 22px;
+  height: 32px;
+  background-position: -288px -768px;
+}
+.icon-Network-Security-Group {
+  width: 29px;
+  height: 32px;
+  background-position: -336px -768px;
+}
+.icon-Network-Watcher {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -768px;
+}
+.icon-Networking {
+  width: 26px;
+  height: 32px;
+  background-position: -432px -768px;
+}
+.icon-Node-JS {
+  width: 34px;
+  height: 32px;
+  background-position: -480px -768px;
+}
+.icon-Notification-Hub {
+  width: 34px;
+  height: 32px;
+  background-position: -528px -768px;
+}
+.icon-On-Premises-Data-Gateway {
+  width: 33px;
+  height: 32px;
+  background-position: -576px -768px;
+}
+.icon-Open-Dataset {
+  width: 26px;
+  height: 32px;
+  background-position: -624px -768px;
+}
+.icon-Openshift-Cluster {
+  width: 23px;
+  height: 32px;
+  background-position: -672px -768px;
+}
+.icon-Operational-Excellence {
+  width: 27px;
+  height: 32px;
+  background-position: -720px -768px;
+}
+.icon-Organisational-Relationship {
+  width: 31px;
+  height: 32px;
+  background-position: 0 -816px;
+}
+.icon-Peering-Service {
+  width: 27px;
+  height: 32px;
+  background-position: -48px -816px;
+}
+.icon-Performance-Diagnostics {
+  width: 27px;
+  height: 32px;
+  background-position: -96px -816px;
+}
+.icon-Performance {
+  width: 31px;
+  height: 32px;
+  background-position: -144px -816px;
+}
+.icon-Playbooks {
+  width: 30px;
+  height: 32px;
+  background-position: -192px -816px;
+}
+.icon-Policy {
+  width: 31px;
+  height: 32px;
+  background-position: -240px -816px;
+}
+.icon-Power-BI-Embedded {
+  width: 28px;
+  height: 32px;
+  background-position: -288px -816px;
+}
+.icon-Power-BI {
+  width: 30px;
+  height: 32px;
+  background-position: -336px -816px;
+}
+.icon-Powershell {
+  width: 29px;
+  height: 32px;
+  background-position: -384px -816px;
+}
+.icon-Private-DNS-Zone {
+  width: 27px;
+  height: 32px;
+  background-position: -432px -816px;
+}
+.icon-Private-Endpoint {
+  width: 28px;
+  height: 32px;
+  background-position: -480px -816px;
+}
+.icon-Private-Link {
+  width: 28px;
+  height: 32px;
+  background-position: -528px -816px;
+}
+.icon-Property {
+  width: 24px;
+  height: 32px;
+  background-position: -576px -816px;
+}
+.icon-Proximity-Placement-Group {
+  width: 33px;
+  height: 32px;
+  background-position: -624px -816px;
+}
+.icon-Public-IP-Address {
+  width: 35px;
+  height: 32px;
+  background-position: -672px -816px;
+}
+.icon-Public-IP-Prefix {
+  width: 35px;
+  height: 32px;
+  background-position: 0 -864px;
+}
+.icon-Python {
+  width: 25px;
+  height: 32px;
+  background-position: -48px -864px;
+}
+.icon-Quickstart-Center {
+  width: 24px;
+  height: 32px;
+  background-position: -96px -864px;
+}
+.icon-Recent {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -864px;
+}
+.icon-Recovery-Services-Vault {
+  width: 34px;
+  height: 32px;
+  background-position: -192px -864px;
+}
+.icon-Regulatory-Compliance {
+  width: 30px;
+  height: 32px;
+  background-position: -240px -864px;
+}
+.icon-Relay {
+  width: 34px;
+  height: 32px;
+  background-position: -288px -864px;
+}
+.icon-Remote-Rendering-Account {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -864px;
+}
+.icon-Reservation {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -864px;
+}
+.icon-Reserved-IP-Address-Classic {
+  width: 29px;
+  height: 32px;
+  background-position: -432px -864px;
+}
+.icon-Resource-Explorer {
+  width: 28px;
+  height: 32px;
+  background-position: -480px -864px;
+}
+.icon-Resource-Graph-Explorer {
+  width: 27px;
+  height: 32px;
+  background-position: -528px -864px;
+}
+.icon-Resource-Graph-Query {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -864px;
+}
+.icon-Resource-Group {
+  width: 33px;
+  height: 32px;
+  background-position: -624px -864px;
+}
+.icon-Resource-Health {
+  width: 33px;
+  height: 32px;
+  background-position: -672px -864px;
+}
+.icon-REST {
+  width: 24px;
+  height: 32px;
+  background-position: 0 -912px;
+}
+.icon-Review-Access {
+  width: 24px;
+  height: 32px;
+  background-position: -48px -912px;
+}
+.icon-Role {
+  width: 24px;
+  height: 32px;
+  background-position: -96px -912px;
+}
+.icon-Rollout {
+  width: 28px;
+  height: 32px;
+  background-position: -144px -912px;
+}
+.icon-Route-Filter {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -912px;
+}
+.icon-Route-Table {
+  width: 33px;
+  height: 32px;
+  background-position: -240px -912px;
+}
+.icon-Run-Command {
+  width: 28px;
+  height: 32px;
+  background-position: -288px -912px;
+}
+.icon-SAP-HANA-On-Azure {
+  width: 38px;
+  height: 32px;
+  background-position: -336px -912px;
+}
+.icon-Scheduler-Job-Collection {
+  width: 29px;
+  height: 32px;
+  background-position: -384px -912px;
+}
+.icon-Search-Service {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -912px;
+}
+.icon-Secure-Score {
+  width: 25px;
+  height: 32px;
+  background-position: -480px -912px;
+}
+.icon-Security-Baseline {
+  width: 31px;
+  height: 32px;
+  background-position: -528px -912px;
+}
+.icon-Security-Center {
+  width: 22px;
+  height: 32px;
+  background-position: -576px -912px;
+}
+.icon-Security-Detonation-Chamber {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -912px;
+}
+.icon-Sendgrid-Account {
+  width: 24px;
+  height: 32px;
+  background-position: -672px -912px;
+}
+.icon-Sentinel {
+  width: 28px;
+  height: 32px;
+  background-position: -720px -912px;
+}
+.icon-Service-Bus {
+  width: 34px;
+  height: 32px;
+  background-position: 0 -960px;
+}
+.icon-Service-Catalog-Managed-Application-Definition {
+  width: 26px;
+  height: 32px;
+  background-position: -48px -960px;
+}
+.icon-Service-Endpoint-Policy {
+  width: 31px;
+  height: 32px;
+  background-position: -96px -960px;
+}
+.icon-Service-Endpoint {
+  width: 26px;
+  height: 32px;
+  background-position: -144px -960px;
+}
+.icon-Service-Health {
+  width: 33px;
+  height: 32px;
+  background-position: -192px -960px;
+}
+.icon-Shared-Dashboard {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -960px;
+}
+.icon-Shared-Image-Gallery {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -960px;
+}
+.icon-Sign-In {
+  width: 26px;
+  height: 32px;
+  background-position: -336px -960px;
+}
+.icon-Signalr {
+  width: 27px;
+  height: 32px;
+  background-position: -384px -960px;
+}
+.icon-Software-As-A-Service {
+  width: 28px;
+  height: 32px;
+  background-position: -432px -960px;
+}
+.icon-Spatial-Anchors-Account {
+  width: 26px;
+  height: 32px;
+  background-position: -480px -960px;
+}
+.icon-SQL-Data-Warehouse {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -960px;
+}
+.icon-SQL-Database-Edge {
+  width: 26px;
+  height: 32px;
+  background-position: -576px -960px;
+}
+.icon-SQL-Database {
+  width: 28px;
+  height: 32px;
+  background-position: -624px -960px;
+}
+.icon-SQL-Elastic-Job-Agent {
+  width: 22px;
+  height: 32px;
+  background-position: -672px -960px;
+}
+.icon-SQL-Elastic-Pool {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -960px;
+}
+.icon-SQL-Instance-Pool {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1008px;
+}
+.icon-SQL-Managed-Instance {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1008px;
+}
+.icon-SQL-Server-Registry {
+  width: 34px;
+  height: 32px;
+  background-position: -96px -1008px;
+}
+.icon-SQL-Server {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1008px;
+}
+.icon-Storage-Account-Classic {
+  width: 35px;
+  height: 32px;
+  background-position: -192px -1008px;
+}
+.icon-Storage-Account-Container {
+  width: 29px;
+  height: 32px;
+  background-position: -240px -1008px;
+}
+.icon-Storage-Account-Table {
+  width: 29px;
+  height: 32px;
+  background-position: -288px -1008px;
+}
+.icon-Storage-Account {
+  width: 35px;
+  height: 32px;
+  background-position: -336px -1008px;
+}
+.icon-Storage-Explorer {
+  width: 30px;
+  height: 32px;
+  background-position: -384px -1008px;
+}
+.icon-Storage-Sync-Service {
+  width: 27px;
+  height: 32px;
+  background-position: -432px -1008px;
+}
+.icon-Storsimple-Data-Manager {
+  width: 29px;
+  height: 32px;
+  background-position: -480px -1008px;
+}
+.icon-Storsimple-Device-Manager {
+  width: 34px;
+  height: 32px;
+  background-position: -528px -1008px;
+}
+.icon-Stream-Analytics-Job {
+  width: 28px;
+  height: 32px;
+  background-position: -576px -1008px;
+}
+.icon-Subscription {
+  width: 26px;
+  height: 32px;
+  background-position: -624px -1008px;
+}
+.icon-Tag {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1008px;
+}
+.icon-Tags {
+  width: 24px;
+  height: 32px;
+  background-position: -720px -1008px;
+}
+.icon-Template {
+  width: 25px;
+  height: 32px;
+  background-position: 0 -1056px;
+}
+.icon-Tenant-Status {
+  width: 25px;
+  height: 32px;
+  background-position: -48px -1056px;
+}
+.icon-Terraform {
+  width: 22px;
+  height: 32px;
+  background-position: -96px -1056px;
+}
+.icon-Time-Series-Insights-Environment {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1056px;
+}
+.icon-Time-Series-Insights-Event-Source {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -1056px;
+}
+.icon-Time-Series-Insights-Reference-Data-Set {
+  width: 28px;
+  height: 32px;
+  background-position: -240px -1056px;
+}
+.icon-Traffic-Manager-Profile {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1056px;
+}
+.icon-Universal-Print-Service {
+  width: 34px;
+  height: 32px;
+  background-position: -336px -1056px;
+}
+.icon-Update-Management {
+  width: 28px;
+  height: 32px;
+  background-position: -384px -1056px;
+}
+.icon-Usage-And-Quota {
+  width: 29px;
+  height: 32px;
+  background-position: -432px -1056px;
+}
+.icon-User-Privacy {
+  width: 31px;
+  height: 32px;
+  background-position: -480px -1056px;
+}
+.icon-Virtual-Assistant {
+  width: 28px;
+  height: 32px;
+  background-position: -528px -1056px;
+}
+.icon-Virtual-Cluster {
+  width: 33px;
+  height: 32px;
+  background-position: -576px -1056px;
+}
+.icon-Virtual-Machine-Classic {
+  width: 34px;
+  height: 32px;
+  background-position: -624px -1056px;
+}
+.icon-Virtual-Machine-Availability-Set {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -1056px;
+}
+.icon-Virtual-Machine-Image-Classic {
+  width: 34px;
+  height: 32px;
+  background-position: 0 -1104px;
+}
+.icon-Virtual-Machine-Image-Definition {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -1104px;
+}
+.icon-Virtual-Machine-Image-Version {
+  width: 33px;
+  height: 32px;
+  background-position: -96px -1104px;
+}
+.icon-Virtual-Machine-Image {
+  width: 34px;
+  height: 32px;
+  background-position: -144px -1104px;
+}
+.icon-Virtual-Machine-Linux {
+  width: 34px;
+  height: 32px;
+  background-position: -192px -1104px;
+}
+.icon-Virtual-Machine-Non-Azure-Linux {
+  width: 34px;
+  height: 32px;
+  background-position: -240px -1104px;
+}
+.icon-Virtual-Machine-Non-Azure-Windows {
+  width: 34px;
+  height: 32px;
+  background-position: -288px -1104px;
+}
+.icon-Virtual-Machine-Non-Azure {
+  width: 34px;
+  height: 32px;
+  background-position: -336px -1104px;
+}
+.icon-Virtual-Machine-Scale-Set {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -1104px;
+}
+.icon-Virtual-Machine-SQL {
+  width: 33px;
+  height: 32px;
+  background-position: -432px -1104px;
+}
+.icon-Virtual-Machine-Windows {
+  width: 34px;
+  height: 32px;
+  background-position: -480px -1104px;
+}
+.icon-Virtual-Machine {
+  width: 34px;
+  height: 32px;
+  background-position: -528px -1104px;
+}
+.icon-Virtual-Network-Classic {
+  width: 36px;
+  height: 32px;
+  background-position: -576px -1104px;
+}
+.icon-Virtual-Network-Firewall {
+  width: 27px;
+  height: 32px;
+  background-position: -624px -1104px;
+}
+.icon-Virtual-Network-Gateway {
+  width: 28px;
+  height: 32px;
+  background-position: -672px -1104px;
+}
+.icon-Virtual-Network-Peering {
+  width: 30px;
+  height: 32px;
+  background-position: -720px -1104px;
+}
+.icon-Virtual-Network {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -1152px;
+}
+.icon-Virtual-Subnet {
+  width: 36px;
+  height: 32px;
+  background-position: -48px -1152px;
+}
+.icon-Virtual-WAN-Gateway {
+  width: 33px;
+  height: 32px;
+  background-position: -96px -1152px;
+}
+.icon-Virtual-WAN {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -1152px;
+}
+.icon-Visual-Studio-Code {
+  width: 26px;
+  height: 32px;
+  background-position: -192px -1152px;
+}
+.icon-Visual-Studio {
+  width: 26px;
+  height: 32px;
+  background-position: -240px -1152px;
+}
+.icon-WAF-Policy {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -1152px;
+}
+.icon-Windows-Virtual-Desktop {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -1152px;
+}
+.icon-Work-Account {
+  width: 24px;
+  height: 32px;
+  background-position: -384px -1152px;
+}
+.icon-Workbook {
+  width: 26px;
+  height: 32px;
+  background-position: -432px -1152px;
+}
+
