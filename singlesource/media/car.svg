@@ -1,71 +1,21 @@
-<svg id="mermaid-1614737156025"
+<svg id="mermaid-1614807786309"
      width="299.2435607910156"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      height="444.4740295410156"
      viewBox="0 0 299.2435607910156 444.4740295410156">
-  <style>
-  .label {
+  <style>#mermaid-1614807786309{font-family:"trebuchet ms",verdana,arial;font-size:16px;fill:#333;}#mermaid-1614807786309 .error-icon{fill:#552222;}#mermaid-1614807786309 .error-text{fill:#552222;stroke:#552222;}#mermaid-1614807786309 .edge-thickness-normal{stroke-width:2px;}#mermaid-1614807786309 .edge-thickness-thick{stroke-width:3.5px;}#mermaid-1614807786309 .edge-pattern-solid{stroke-dasharray:0;}#mermaid-1614807786309 .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-1614807786309 .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-1614807786309 .marker{fill:#333333;}#mermaid-1614807786309 .marker.cross{stroke:#333333;}#mermaid-1614807786309 svg{font-family:"trebuchet ms",verdana,arial;font-size:16px;}#mermaid-1614807786309 .label{font-family:"trebuchet ms",verdana,arial;color:#333;}#mermaid-1614807786309 .label text{fill:#333;}#mermaid-1614807786309 .node rect,#mermaid-1614807786309 .node circle,#mermaid-1614807786309 .node ellipse,#mermaid-1614807786309 .node polygon,#mermaid-1614807786309 .node path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}#mermaid-1614807786309 .node .label{text-align:center;}#mermaid-1614807786309 .node.clickable{cursor:pointer;}#mermaid-1614807786309 .arrowheadPath{fill:#333333;}#mermaid-1614807786309 .edgePath .path{stroke:#333333;stroke-width:1.5px;}#mermaid-1614807786309 .flowchart-link{stroke:#333333;fill:none;}#mermaid-1614807786309 .edgeLabel{background-color:#e8e8e8;text-align:center;}#mermaid-1614807786309 .edgeLabel rect{opacity:0.5;background-color:#e8e8e8;fill:#e8e8e8;}#mermaid-1614807786309 .cluster rect{fill:#ffffde;stroke:#aaaa33;stroke-width:1px;}#mermaid-1614807786309 .cluster text{fill:#333;}#mermaid-1614807786309 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:"trebuchet ms",verdana,arial;font-size:12px;background:hsl(80,100%,96.2745098039%);border:1px solid #aaaa33;border-radius:2px;pointer-events:none;z-index:100;}#mermaid-1614807786309:root{--mermaid-font-family:"trebuchet ms",verdana,arial;}#mermaid-1614807786309 flowchart-v2{fill:apa;}
+  label {
     display: block;
-    background: lightgrey;
     width: 100px;
     height: 100px;
 }
 
 #demo:checked + label {
-    background: blue;
-    color: white;
+    background:url(Activity.svg);
 }
-      @font-face{
-    font-family:SegoeUI;
-    src:url(https://docs.microsoft.com/static/third-party/SegoeUIWeb/1.01.206/SegoeUI-Roman-VF_web.woff2) format("woff2"),
-    url(https://docs.microsoft.com/static//static/third-party/SegoeUIWeb/1.01.206/SegoeUI-Roman-VF_web.woff) format("woff"),
-    url(https://docs.microsoft.com/static//static/third-party/SegoeUIWeb/1.01.206/SegoeUI-Roman-VF_web.ttf) format("ttf");font-weight:100 700}
-    
-    @font-face{
-        font-family:SegoeUI;
-        src:url(/static/third-party/SegoeUI/5.32/west-european/italic/latest.eot);
-        src:url(/static/third-party/SegoeUI/5.32/west-european/italic/latest.woff2) format("woff2"),
-            url(/static/third-party/SegoeUI/5.32/west-european/italic/latest.woff) format("woff"),
-            url(/static/third-party/SegoeUI/5.32/west-european/italic/latest.ttf) format("ttf");
-            font-style:italic;
-            font-weight:400
-        }
-        svg-icon {
-      width: 6em;
-      height: 6em;
-      fill: currentColor;
-    }    
-  #mermaid-1614737156025{
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  #mermaid-1614737156025 .error-icon{fill:#552222;}
-  #mermaid-1614737156025 .error-text{fill:#552222;stroke:#552222;}
-  #mermaid-1614737156025 .edge-thickness-normal{stroke-width:2px;}
-  #mermaid-1614737156025 .edge-thickness-thick{stroke-width:3.5px;}
-  #mermaid-1614737156025 .edge-pattern-solid{stroke-dasharray:0;}
-  #mermaid-1614737156025 .edge-pattern-dashed{stroke-dasharray:3;}
-  #mermaid-1614737156025 .edge-pattern-dotted{stroke-dasharray:2;}
-  #mermaid-1614737156025 .marker{fill:#333333;}
-  #mermaid-1614737156025 .marker.cross{stroke:#333333;}
-  #mermaid-1614737156025 svg{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:16px;}
-  #mermaid-1614737156025 .label{color:#333;}
-  #mermaid-1614737156025 .label text{fill:#333;}
-  #mermaid-1614737156025 .node rect,
-  #mermaid-1614737156025 .node circle,
-  #mermaid-1614737156025 .node ellipse,
-  #mermaid-1614737156025 .node polygon,
-  #mermaid-1614737156025 .node path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}
-  #mermaid-1614737156025 .node .label{text-align:center;}
-  #mermaid-1614737156025 .node.clickable{cursor:pointer;}
-  #mermaid-1614737156025 .arrowheadPath{fill:#333333;}
-  #mermaid-1614737156025 .edgePath .path{stroke:#333333;stroke-width:1.5px;}
-  #mermaid-1614737156025 .flowchart-link{stroke:#333333;fill:none;}
-  #mermaid-1614737156025 .edgeLabel{background-color:#e8e8e8;text-align:center;}
-  #mermaid-1614737156025 .edgeLabel rect{opacity:0.5;background-color:#e8e8e8;fill:#e8e8e8;}#mermaid-1614737156025 .cluster rect{fill:#ffffde;stroke:#aaaa33;stroke-width:1px;}
-  #mermaid-1614737156025 .cluster text{fill:#333;}
-  #mermaid-1614737156025 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-size:12px;background:hsl(80,100%,96.2745098039%);border:1px solid #aaaa33;border-radius:2px;pointer-events:none;z-index:100;}
-  #mermaid-1614737156025 flowchart-v2{fill:apa;}</style>
+ 
+  </style>
   <g transform="translate(0, -0.0000019073486328125)">
     <marker id="flowchart-pointEnd"
             class="marker flowchart"
@@ -182,6 +132,8 @@
                            height="18.7012996673584">
               <div xmlns="http://www.w3.org/1999/xhtml"
                    style="display: inline-block; white-space: nowrap;">
+                <input type="checkbox" id="demo"/>
+                <label for="demo">I'm a square. Click me.</label>
                 <span class="edgeLabel">Get money</span>
               </div>
             </foreignObject>
@@ -357,12 +309,8 @@
                            height="18.7012996673584">
               <div xmlns="http://www.w3.org/1999/xhtml"
                    style="display: inline-block; white-space: nowrap;">
-                   <svg class="icon icon--red">
-  <use xlink:href="demo_sprite.svg#icon-star"></use>
-</svg>
-                <input type="checkbox" id="demo"/>
-                <label for="demo">I'm a square. Click me.</label>
-                <span class="nodeLabel">Car</span>
+                <span class="nodeLabel">
+                  <i class="fa fa-car" /> Car</span>
                 </div>
               </foreignObject>
             </g>
