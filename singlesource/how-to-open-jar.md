@@ -11,4 +11,4 @@ ms.lastreviewed: 07/04/2020
 
 #### Open the jars
 
-[!INCLUDE [Open the jars](includes/task-open-jar.md)]
+Open the jars.

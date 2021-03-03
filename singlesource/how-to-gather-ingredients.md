@@ -11,4 +11,4 @@ ms.lastreviewed: 07/04/2020
 
 # Get all the ingredients together
 
-[!INCLUDE [Gather ingredients](includes/task-gather-ingredients.md)]
+Gather ingredients.
