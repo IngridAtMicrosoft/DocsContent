@@ -1,9 +1,0 @@
-{
-  "Apollo": [
-    "insight/executionText",
-    "insight/timeoutText",
-    "insight/noResultText",
-    "metric/title",
-    "videoGroup/video/title"
-  ]
-}
