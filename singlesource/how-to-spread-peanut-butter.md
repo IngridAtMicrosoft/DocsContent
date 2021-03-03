@@ -11,4 +11,5 @@ ms.lastreviewed: 07/04/2020
 
 ### Spread the peanut butter
 
-[!INCLUDE [Open the jars](includes/task-spread-peanut-butter.md)]
+Spread the peanut butter.
+<!--[!INCLUDE [Open the jars](includes/task-spread-peanut-butter.md)]-->
