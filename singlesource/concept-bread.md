@@ -11,7 +11,7 @@ ms.lastreviewed: 07/04/2020
 
 # Bread
 
-<iframe src="media/clickable_1.svg"></iframe>
+<iframe src="media/clickable_1.svg" frameBorder="1" height="500" width="200" scrolling="No"></iframe>
 
 Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world; it is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture; and plays an essential role in religious rituals and secular culture.
 
