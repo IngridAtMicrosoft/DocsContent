@@ -1,0 +1,28 @@
+@startuml
+sprite $ClientApps Client-Apps.svg
+rectangle "ClientApps" <<$ClientApps>> as ClientApps
+sprite $DedicatedEventHub Dedicated-Event-Hub.svg
+rectangle "DedicatedEventHub" <<$DedicatedEventHub>> as DedicatedEventHub
+sprite $DeviceCompliance Device-Compliance.svg
+rectangle "DeviceCompliance" <<$DeviceCompliance>> as DeviceCompliance
+sprite $DeviceConfig Device-Config.svg
+rectangle "DeviceConfig" <<$DeviceConfig>> as DeviceConfig
+sprite $DevicesGroups Devices-Groups.svg
+rectangle "DevicesGroups" <<$DevicesGroups>> as DevicesGroups
+sprite $eBooks eBooks.svg
+rectangle "eBooks" <<$eBooks>> as eBooks
+sprite $Enrollment Enrollment.svg
+rectangle "Enrollment" <<$Enrollment>> as Enrollment
+sprite $ExchangeOnPremisesAccess Exchange-On-Premises-Access.svg
+rectangle "ExchangeOnPremisesAccess" <<$ExchangeOnPremisesAccess>> as ExchangeOnPremisesAccess
+sprite $IntuneAppProtection Intune-App-Protection.svg
+rectangle "IntuneAppProtection" <<$IntuneAppProtection>> as IntuneAppProtection
+sprite $ManagedDesktop Managed-Desktop.svg
+rectangle "ManagedDesktop" <<$ManagedDesktop>> as ManagedDesktop
+sprite $SecurityBaselines Security-Baselines.svg
+rectangle "SecurityBaselines" <<$SecurityBaselines>> as SecurityBaselines
+sprite $SoftwareUpdate Software-Update.svg
+rectangle "SoftwareUpdate" <<$SoftwareUpdate>> as SoftwareUpdate
+sprite $Tools Tools.svg
+rectangle "Tools" <<$Tools>> as Tools
+@enduml

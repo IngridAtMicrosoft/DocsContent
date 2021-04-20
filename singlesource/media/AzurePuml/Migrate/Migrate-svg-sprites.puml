@@ -1,0 +1,8 @@
+@startuml
+sprite $AzureDatabaseMigrationServices Azure-Database-Migration-Services.svg
+rectangle "AzureDatabaseMigrationServices" <<$AzureDatabaseMigrationServices>> as AzureDatabaseMigrationServices
+sprite $MigrationProjects Migration-Projects.svg
+rectangle "MigrationProjects" <<$MigrationProjects>> as MigrationProjects
+sprite $RecoveryServicesVaults Recovery-Services-Vaults.svg
+rectangle "RecoveryServicesVaults" <<$RecoveryServicesVaults>> as RecoveryServicesVaults
+@enduml

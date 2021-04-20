@@ -1,0 +1,8 @@
+@startuml
+sprite $ContainerInstances Container-Instances.svg
+rectangle "ContainerInstances" <<$ContainerInstances>> as ContainerInstances
+sprite $ContainerRegistries Container-Registries.svg
+rectangle "ContainerRegistries" <<$ContainerRegistries>> as ContainerRegistries
+sprite $KubernetesServices Kubernetes-Services.svg
+rectangle "KubernetesServices" <<$KubernetesServices>> as KubernetesServices
+@enduml

@@ -1,0 +1,46 @@
+@startuml
+sprite $ActivityLog Activity-Log.svg
+rectangle "ActivityLog" <<$ActivityLog>> as ActivityLog
+sprite $Advisor Advisor.svg
+rectangle "Advisor" <<$Advisor>> as Advisor
+sprite $Alerts Alerts.svg
+rectangle "Alerts" <<$Alerts>> as Alerts
+sprite $AutomationAccounts Automation-Accounts.svg
+rectangle "AutomationAccounts" <<$AutomationAccounts>> as AutomationAccounts
+sprite $AzureMediaPlayer Azure-Media-Player.svg
+rectangle "AzureMediaPlayer" <<$AzureMediaPlayer>> as AzureMediaPlayer
+sprite $Blueprints Blueprints.svg
+rectangle "Blueprints" <<$Blueprints>> as Blueprints
+sprite $ContentProtection Content-Protection.svg
+rectangle "ContentProtection" <<$ContentProtection>> as ContentProtection
+sprite $CostManagement+Billing Cost-Management-+-Billing.svg
+rectangle "CostManagement+Billing" <<$CostManagement+Billing>> as CostManagement+Billing
+sprite $DiagnosticSettings Diagnostic-Settings.svg
+rectangle "DiagnosticSettings" <<$DiagnosticSettings>> as DiagnosticSettings
+sprite $FreeServices Free-Services.svg
+rectangle "FreeServices" <<$FreeServices>> as FreeServices
+sprite $GuestAssignments Guest-Assignments.svg
+rectangle "GuestAssignments" <<$GuestAssignments>> as GuestAssignments
+sprite $ManagedApplications Managed-Applications.svg
+rectangle "ManagedApplications" <<$ManagedApplications>> as ManagedApplications
+sprite $MediaEncoding Media-Encoding.svg
+rectangle "MediaEncoding" <<$MediaEncoding>> as MediaEncoding
+sprite $MediaOnDemand Media-On-Demand.svg
+rectangle "MediaOnDemand" <<$MediaOnDemand>> as MediaOnDemand
+sprite $Metrics Metrics.svg
+rectangle "Metrics" <<$Metrics>> as Metrics
+sprite $Monitor Monitor.svg
+rectangle "Monitor" <<$Monitor>> as Monitor
+sprite $NetworkWatcher Network-Watcher.svg
+rectangle "NetworkWatcher" <<$NetworkWatcher>> as NetworkWatcher
+sprite $Policy Policy.svg
+rectangle "Policy" <<$Policy>> as Policy
+sprite $RecoveryServicesVaults Recovery-Services-Vaults.svg
+rectangle "RecoveryServicesVaults" <<$RecoveryServicesVaults>> as RecoveryServicesVaults
+sprite $ResourceGraphExplorer Resource-Graph-Explorer.svg
+rectangle "ResourceGraphExplorer" <<$ResourceGraphExplorer>> as ResourceGraphExplorer
+sprite $SchedulerJobCollections Scheduler-Job-Collections.svg
+rectangle "SchedulerJobCollections" <<$SchedulerJobCollections>> as SchedulerJobCollections
+sprite $Solutions Solutions.svg
+rectangle "Solutions" <<$Solutions>> as Solutions
+@enduml

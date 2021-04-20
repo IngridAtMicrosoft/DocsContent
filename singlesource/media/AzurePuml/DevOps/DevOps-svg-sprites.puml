@@ -1,0 +1,18 @@
+@startuml
+sprite $ApplicationInsights Application-Insights.svg
+rectangle "ApplicationInsights" <<$ApplicationInsights>> as ApplicationInsights
+sprite $AzureArtifacts Azure-Artifacts.svg
+rectangle "AzureArtifacts" <<$AzureArtifacts>> as AzureArtifacts
+sprite $AzureBoards Azure-Boards.svg
+rectangle "AzureBoards" <<$AzureBoards>> as AzureBoards
+sprite $AzureDevOps Azure-DevOps.svg
+rectangle "AzureDevOps" <<$AzureDevOps>> as AzureDevOps
+sprite $AzureDevTestLabs Azure-DevTest-Labs.svg
+rectangle "AzureDevTestLabs" <<$AzureDevTestLabs>> as AzureDevTestLabs
+sprite $AzurePipelines Azure-Pipelines.svg
+rectangle "AzurePipelines" <<$AzurePipelines>> as AzurePipelines
+sprite $AzureRepos Azure-Repos.svg
+rectangle "AzureRepos" <<$AzureRepos>> as AzureRepos
+sprite $AzureTestPlans Azure-Test-Plans.svg
+rectangle "AzureTestPlans" <<$AzureTestPlans>> as AzureTestPlans
+@enduml

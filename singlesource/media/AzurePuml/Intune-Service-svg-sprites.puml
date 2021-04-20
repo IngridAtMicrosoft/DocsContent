@@ -1,0 +1,30 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+sprite $ClientApps Intune-Service/Client-Apps.svg
+rectangle "ClientApps" <<$ClientApps>> as ClientApps
+sprite $DedicatedEventHub Intune-Service/Dedicated-Event-Hub.svg
+rectangle "DedicatedEventHub" <<$DedicatedEventHub>> as DedicatedEventHub
+sprite $DeviceCompliance Intune-Service/Device-Compliance.svg
+rectangle "DeviceCompliance" <<$DeviceCompliance>> as DeviceCompliance
+sprite $DeviceConfig Intune-Service/Device-Config.svg
+rectangle "DeviceConfig" <<$DeviceConfig>> as DeviceConfig
+sprite $DevicesGroups Intune-Service/Devices-Groups.svg
+rectangle "DevicesGroups" <<$DevicesGroups>> as DevicesGroups
+sprite $eBooks Intune-Service/eBooks.svg
+rectangle "eBooks" <<$eBooks>> as eBooks
+sprite $Enrollment Intune-Service/Enrollment.svg
+rectangle "Enrollment" <<$Enrollment>> as Enrollment
+sprite $ExchangeOnPremisesAccess Intune-Service/Exchange-On-Premises-Access.svg
+rectangle "ExchangeOnPremisesAccess" <<$ExchangeOnPremisesAccess>> as ExchangeOnPremisesAccess
+sprite $IntuneAppProtection Intune-Service/Intune-App-Protection.svg
+rectangle "IntuneAppProtection" <<$IntuneAppProtection>> as IntuneAppProtection
+sprite $ManagedDesktop Intune-Service/Managed-Desktop.svg
+rectangle "ManagedDesktop" <<$ManagedDesktop>> as ManagedDesktop
+sprite $SecurityBaselines Intune-Service/Security-Baselines.svg
+rectangle "SecurityBaselines" <<$SecurityBaselines>> as SecurityBaselines
+sprite $SoftwareUpdate Intune-Service/Software-Update.svg
+rectangle "SoftwareUpdate" <<$SoftwareUpdate>> as SoftwareUpdate
+sprite $Tools Intune-Service/Tools.svg
+rectangle "Tools" <<$Tools>> as Tools
+@enduml

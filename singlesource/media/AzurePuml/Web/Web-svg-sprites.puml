@@ -1,0 +1,22 @@
+@startuml
+sprite $APIConnections API-Connections.svg
+rectangle "APIConnections" <<$APIConnections>> as APIConnections
+sprite $AppServiceCertificates App-Service-Certificates.svg
+rectangle "AppServiceCertificates" <<$AppServiceCertificates>> as AppServiceCertificates
+sprite $AppServiceDomains App-Service-Domains.svg
+rectangle "AppServiceDomains" <<$AppServiceDomains>> as AppServiceDomains
+sprite $AppServiceEnvironments App-Service-Environments.svg
+rectangle "AppServiceEnvironments" <<$AppServiceEnvironments>> as AppServiceEnvironments
+sprite $AppServicePlans App-Service-Plans.svg
+rectangle "AppServicePlans" <<$AppServicePlans>> as AppServicePlans
+sprite $AppServices App-Services.svg
+rectangle "AppServices" <<$AppServices>> as AppServices
+sprite $AzureMediaServices Azure-Media-Services.svg
+rectangle "AzureMediaServices" <<$AzureMediaServices>> as AzureMediaServices
+sprite $AzureSearch Azure-Search.svg
+rectangle "AzureSearch" <<$AzureSearch>> as AzureSearch
+sprite $NotificationHubNamespaces Notification-Hub-Namespaces.svg
+rectangle "NotificationHubNamespaces" <<$NotificationHubNamespaces>> as NotificationHubNamespaces
+sprite $SignalR SignalR.svg
+rectangle "SignalR" <<$SignalR>> as SignalR
+@enduml

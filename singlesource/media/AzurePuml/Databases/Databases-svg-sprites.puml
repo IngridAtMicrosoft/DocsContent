@@ -1,0 +1,40 @@
+@startuml
+sprite $AzureCacheforRedis Azure-Cache-for-Redis.svg
+rectangle "AzureCacheforRedis" <<$AzureCacheforRedis>> as AzureCacheforRedis
+sprite $AzureCacheplusRedis Azure-Cache-plus-Redis.svg
+rectangle "AzureCacheplusRedis" <<$AzureCacheplusRedis>> as AzureCacheplusRedis
+sprite $AzureCosmosDB Azure-Cosmos-DB.svg
+rectangle "AzureCosmosDB" <<$AzureCosmosDB>> as AzureCosmosDB
+sprite $AzureDatabase(Generic) Azure-Database-(Generic).svg
+rectangle "AzureDatabase(Generic)" <<$AzureDatabase(Generic)>> as AzureDatabase(Generic)
+sprite $AzureDatabaseforMariaDBservers Azure-Database-for-MariaDB-servers.svg
+rectangle "AzureDatabaseforMariaDBservers" <<$AzureDatabaseforMariaDBservers>> as AzureDatabaseforMariaDBservers
+sprite $AzureDatabaseforMySQLservers Azure-Database-for-MySQL-servers.svg
+rectangle "AzureDatabaseforMySQLservers" <<$AzureDatabaseforMySQLservers>> as AzureDatabaseforMySQLservers
+sprite $AzureDatabaseforPostgreSQLservers Azure-Database-for-PostgreSQL-servers.svg
+rectangle "AzureDatabaseforPostgreSQLservers" <<$AzureDatabaseforPostgreSQLservers>> as AzureDatabaseforPostgreSQLservers
+sprite $AzureSQLDataWarehouse Azure-SQL-DataWarehouse.svg
+rectangle "AzureSQLDataWarehouse" <<$AzureSQLDataWarehouse>> as AzureSQLDataWarehouse
+sprite $BlobStorage Blob-Storage.svg
+rectangle "BlobStorage" <<$BlobStorage>> as BlobStorage
+sprite $DataLake Data-Lake.svg
+rectangle "DataLake" <<$DataLake>> as DataLake
+sprite $ElasticDatabasePools Elastic-Database-Pools.svg
+rectangle "ElasticDatabasePools" <<$ElasticDatabasePools>> as ElasticDatabasePools
+sprite $ElasticJobAgents Elastic-Job-Agents.svg
+rectangle "ElasticJobAgents" <<$ElasticJobAgents>> as ElasticJobAgents
+sprite $ManagedDatabases Managed-Databases.svg
+rectangle "ManagedDatabases" <<$ManagedDatabases>> as ManagedDatabases
+sprite $SQLDatabases SQL-Databases.svg
+rectangle "SQLDatabases" <<$SQLDatabases>> as SQLDatabases
+sprite $SQLManagedInstances SQL-Managed-Instances.svg
+rectangle "SQLManagedInstances" <<$SQLManagedInstances>> as SQLManagedInstances
+sprite $SQLServerstretchDatabases SQL-Server-stretch-Databases.svg
+rectangle "SQLServerstretchDatabases" <<$SQLServerstretchDatabases>> as SQLServerstretchDatabases
+sprite $SQLServers SQL-Servers.svg
+rectangle "SQLServers" <<$SQLServers>> as SQLServers
+sprite $VirtualClusters Virtual-Clusters.svg
+rectangle "VirtualClusters" <<$VirtualClusters>> as VirtualClusters
+sprite $VirtualDatacenter Virtual-Datacenter.svg
+rectangle "VirtualDatacenter" <<$VirtualDatacenter>> as VirtualDatacenter
+@enduml

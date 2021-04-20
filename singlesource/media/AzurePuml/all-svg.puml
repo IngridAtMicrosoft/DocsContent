@@ -1,0 +1,113 @@
+' AI Machine Learning/
+sprite $AzureBotService AzurePuml/AIMachineLearning/AzureBotService.svg
+sprite $AzureCognitiveServices AzurePuml/AIMachineLearning/AzureCognitiveServices.svg
+sprite $AzureMachineLearningService AzurePuml/AIMachineLearning/AzureMachineLearningService.svg
+sprite $AzureMachineLearningStudio AzurePuml/AIMachineLearning/AzureMachineLearningStudio.svg
+sprite $MicrosoftGenomics AzurePuml/AIMachineLearning/MicrosoftGenomics.svg
+'Analytics/
+sprite $AzureAnalysisServices AzurePuml/Analytics/AzureAnalysisServices.svg
+sprite $AzureDatabricks AzurePuml/Analytics/AzureDatabricks.svg
+sprite $AzureDataCatalog AzurePuml/Analytics/AzureDataCatalog.svg
+sprite $AzureDataExplorer AzurePuml/Analytics/AzureDataExplorer.svg
+sprite $AzureDataLakeAnalytics AzurePuml/Analytics/AzureDataLakeAnalytics.svg
+sprite $AzureEventHub AzurePuml/Analytics/AzureEventHub.svg
+sprite $AzureHDInsight AzurePuml/Analytics/AzureHDInsight.svg
+sprite $AzureStreamAnalytics AzurePuml/Analytics/AzureStreamAnalytics.svg
+'Compute/
+sprite $AzureAppService AzurePuml/Compute/AzureAppService.svg
+sprite $AzureBatch AzurePuml/Compute/AzureBatch.svg
+sprite $AzureFunction AzurePuml/Compute/AzureFunction.svg
+sprite $AzureServiceFabric AzurePuml/Compute/AzureServiceFabric.svg
+sprite $AzureVirtualMachine AzurePuml/Compute/AzureVirtualMachine.svg
+sprite $AzureVirtualMachineScaleSet AzurePuml/Compute/AzureVirtualMachineScaleSet.svg
+'Containers/
+sprite $AzureContainerInstance AzurePuml/Containers/AzureContainerInstance.svg
+sprite $AzureContainerRegistry AzurePuml/Containers/AzureContainerRegistry.svg
+sprite $AzureKubernetesService AzurePuml/Containers/AzureKubernetesService.svg
+sprite $AzureServiceFabricMesh AzurePuml/Containers/AzureServiceFabricMesh.svg
+sprite $AzureWebAppForContainers AzurePuml/Containers/AzureWebAppForContainers.svg
+'Databases/
+sprite $AzureDatabaseForMariaDB AzurePuml/Databases/AzureDatabaseForMariaDB.svg
+sprite $AzureDatabaseForMySQL AzurePuml/Databases/AzureDatabaseForMySQL.svg
+sprite $AzureDatabaseForPostgreSQL AzurePuml/Databases/AzureDatabaseForPostgreSQL.svg 
+sprite $AzureDataFactory AzurePuml/Databases/AzureDataFactory.svg
+sprite $AzureRedisCache AzurePuml/Databases/AzureRedisCache.svg
+sprite $AzureSqlDatabase AzurePuml/Databases/AzureSqlDatabase.svg
+sprite $AzureSqlDataWarehouse AzurePuml/Databases/AzureSqlDataWarehouse.svg
+sprite $AzureSqlStretchDatabase AzurePuml/Databases/AzureSqlStretchDatabase.svg
+'DevOps/
+sprite $AzureApplicationInsights AzurePuml/DevOps/AzureApplicationInsights.svg
+sprite $AzureArtifacts AzurePuml/DevOps/AzureArtifacts.svg
+sprite $AzureBoards AzurePuml/DevOps/AzureBoards.svg
+sprite $AzureDevOps AzurePuml/DevOps/AzureDevOps.svg
+sprite $AzureDevTestLabs AzurePuml/DevOps/AzureDevTestLabs.svg
+sprite $AzureLabServices AzurePuml/DevOps/AzureLabServices.svg
+sprite $AzurePipelines AzurePuml/DevOps/AzurePipelines.svg
+sprite $AzureRepos AzurePuml/DevOps/AzureRepos.svg
+sprite $AzureTestPlans AzurePuml/DevOps/AzureTestPlans.svg
+'General/
+sprite $Azure AzurePuml/General/Azure.svg 
+'Identity/
+sprite $AzureActiveDirectory AzurePuml/Identity/AzureActiveDirectory.svg
+sprite $AzureActiveDirectoryB2C AzurePuml/Identity/AzureActiveDirectoryB2C.svg
+sprite $AzureActiveDirectoryDomainServices AzurePuml/Identity/AzureActiveDirectoryDomainServices.svg
+'Integration/
+sprite $AzureEventGrid AzurePuml/Integration/AzureEventGrid.svg
+sprite $AzureLogicApps AzurePuml/Integration/AzureLogicApps.svg
+sprite $AzureServiceBus AzurePuml/Integration/AzureServiceBus.svg
+'InternetOfThings/
+sprite $AzureDigitalTwins AzurePuml/InternetOfThings/AzureDigitalTwins.svg
+sprite $AzureIoTCentral AzurePuml/InternetOfThings/AzureIoTCentral.svg
+sprite $AzureIoTEdge AzurePuml/InternetOfThings/AzureIoTEdge.svg
+sprite $AzureIoTHub AzurePuml/InternetOfThings/AzureIoTHub.svg
+sprite $AzureMaps AzurePuml/InternetOfThings/AzureMaps.svg
+sprite $AzureTimeSeriesInsights AzurePuml/InternetOfThings/AzureTimeSeriesInsights.svg
+'Management/
+sprite $AzureAutomation AzurePuml/Management/AzureAutomation.svg
+sprite $AzureBackup AzurePuml/Management/AzureBackup.svg
+sprite $AzureBlueprints AzurePuml/Management/AzureBlueprints.svg
+sprite $AzureLogAnalytics AzurePuml/Management/AzureLogAnalytics.svg
+sprite $AzureManagedApplications AzurePuml/Management/AzureManagedApplications.svg
+sprite $AzureManagementGroups AzurePuml/Management/AzureManagementGroups.svg
+sprite $AzureMonitor AzurePuml/Management/AzureMonitor.svg
+sprite $AzurePolicy AzurePuml/Management/AzurePolicy.svg
+sprite $AzureResourceGroups AzurePuml/Management/AzureResourceGroups.svg
+sprite $AzureScheduler AzurePuml/Management/AzureScheduler.svg
+sprite $AzureSiteRecovery AzurePuml/Management/AzureSiteRecovery.svg
+sprite $AzureSubscription AzurePuml/Management/AzureSubscription.svg
+'Media/
+sprite $AzureMediaServices AzurePuml/Media/AzureMediaServices.svg 
+'Mobile/
+sprite $AzureMobileApp AzurePuml/Mobile/AzureMobileApp.svg
+sprite $AzureNotificationHubs AzurePuml/Mobile/AzureNotificationHubs.svg
+'Networking/
+sprite $AzureApplicationGateway AzurePuml/Networking/AzureApplicationGateway.svg
+sprite $AzureAzureDDoSProtection AzurePuml/Networking/AzureAzureDDoSProtection.svg
+sprite $AzureDNS AzurePuml/Networking/AzureDNS.svg
+sprite $AzureExpressRoute AzurePuml/Networking/AzureExpressRoute.svg
+sprite $AzureFrontDoorService AzurePuml/Networking/AzureFrontDoorService.svg
+sprite $AzureLoadBalancer AzurePuml/Networking/AzureLoadBalancer.svg
+sprite $AzureTrafficManager AzurePuml/Networking/AzureTrafficManager.svg
+sprite $AzureVirtualNetwork AzurePuml/Networking/AzureVirtualNetwork.svg
+sprite $AzureVirtualWAN AzurePuml/Networking/AzureVirtualWAN.svg
+sprite $AzureVPNGateway AzurePuml/Networking/AzureVPNGateway.svg
+'Security/
+sprite $AzureKeyVault AzurePuml/Security/AzureKeyVault.svg
+sprite $AzureSentinel AzurePuml/Security/AzureSentinel.svg
+'Storage/
+sprite $AzureBlobStorage AzurePuml/Storage/AzureBlobStorage.svg
+sprite $AzureDataBox AzurePuml/Storage/AzureDataBox.svg
+sprite $AzureDataLakeStorage AzurePuml/Storage/AzureDataLakeStorage.svg
+sprite $AzureDiskStorage AzurePuml/Storage/AzureDiskStorage.svg
+sprite $AzureFileStorage AzurePuml/Storage/AzureFileStorage.svg
+sprite $AzureManagedDisks AzurePuml/Storage/AzureManagedDisks.svg
+sprite $AzureNetAppFiles AzurePuml/Storage/AzureNetAppFiles.svg
+sprite $AzureQueueStorage AzurePuml/Storage/AzureQueueStorage.svg
+sprite $AzureStorage AzurePuml/Storage/AzureStorage.svg
+sprite $AzureStorSimple AzurePuml/Storage/AzureStorSimple.svg
+'Web/
+sprite $AzureAPIManagement AzurePuml/Web/AzureAPIManagement.svg
+sprite $AzureCDN AzurePuml/Web/AzureCDN.svg
+sprite $AzureSearch AzurePuml/Web/AzureSearch.svg
+sprite $AzureSignalRService AzurePuml/Web/AzureSignalRService.svg
+sprite $AzureWebApp AzurePuml/Web/AzureWebApp.svg

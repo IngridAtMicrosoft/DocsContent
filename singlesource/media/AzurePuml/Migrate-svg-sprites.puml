@@ -1,0 +1,10 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+sprite $AzureDatabaseMigrationServices Migrate/Azure-Database-Migration-Services.svg
+rectangle "AzureDatabaseMigrationServices" <<$AzureDatabaseMigrationServices>> as AzureDatabaseMigrationServices
+sprite $MigrationProjects Migrate/Migration-Projects.svg
+rectangle "MigrationProjects" <<$MigrationProjects>> as MigrationProjects
+sprite $RecoveryServicesVaults Migrate/Recovery-Services-Vaults.svg
+rectangle "RecoveryServicesVaults" <<$RecoveryServicesVaults>> as RecoveryServicesVaults
+@enduml

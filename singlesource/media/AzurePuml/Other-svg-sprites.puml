@@ -1,0 +1,26 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+sprite $CloudSimpleNodes Other/CloudSimple-Nodes.svg
+rectangle "CloudSimpleNodes" <<$CloudSimpleNodes>> as CloudSimpleNodes
+sprite $CloudSimpleServices Other/CloudSimple-Services.svg
+rectangle "CloudSimpleServices" <<$CloudSimpleServices>> as CloudSimpleServices
+sprite $Controllers Other/Controllers.svg
+rectangle "Controllers" <<$Controllers>> as Controllers
+sprite $CustomerLockbox Other/Customer-Lockbox.svg
+rectangle "CustomerLockbox" <<$CustomerLockbox>> as CustomerLockbox
+sprite $Education Other/Education.svg
+rectangle "Education" <<$Education>> as Education
+sprite $ImageDefinitions Other/Image-Definitions.svg
+rectangle "ImageDefinitions" <<$ImageDefinitions>> as ImageDefinitions
+sprite $ImageVersions Other/Image-Versions.svg
+rectangle "ImageVersions" <<$ImageVersions>> as ImageVersions
+sprite $ResourceExplorer Other/Resource-Explorer.svg
+rectangle "ResourceExplorer" <<$ResourceExplorer>> as ResourceExplorer
+sprite $SharedImageGalleries Other/Shared-Image-Galleries.svg
+rectangle "SharedImageGalleries" <<$SharedImageGalleries>> as SharedImageGalleries
+sprite $TenantStatus Other/Tenant-Status.svg
+rectangle "TenantStatus" <<$TenantStatus>> as TenantStatus
+sprite $WebAppFirewall Other/Web-App-Firewall.svg
+rectangle "WebAppFirewall" <<$WebAppFirewall>> as WebAppFirewall
+@enduml

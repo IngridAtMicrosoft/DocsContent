@@ -1,0 +1,48 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+sprite $ActivityLog Management-Governance/Activity-Log.svg
+rectangle "ActivityLog" <<$ActivityLog>> as ActivityLog
+sprite $Advisor Management-Governance/Advisor.svg
+rectangle "Advisor" <<$Advisor>> as Advisor
+sprite $Alerts Management-Governance/Alerts.svg
+rectangle "Alerts" <<$Alerts>> as Alerts
+sprite $AutomationAccounts Management-Governance/Automation-Accounts.svg
+rectangle "AutomationAccounts" <<$AutomationAccounts>> as AutomationAccounts
+sprite $AzureMediaPlayer Management-Governance/Azure-Media-Player.svg
+rectangle "AzureMediaPlayer" <<$AzureMediaPlayer>> as AzureMediaPlayer
+sprite $Blueprints Management-Governance/Blueprints.svg
+rectangle "Blueprints" <<$Blueprints>> as Blueprints
+sprite $ContentProtection Management-Governance/Content-Protection.svg
+rectangle "ContentProtection" <<$ContentProtection>> as ContentProtection
+sprite $CostManagement+Billing Management-Governance/Cost-Management-+-Billing.svg
+rectangle "CostManagement+Billing" <<$CostManagement+Billing>> as CostManagement+Billing
+sprite $DiagnosticSettings Management-Governance/Diagnostic-Settings.svg
+rectangle "DiagnosticSettings" <<$DiagnosticSettings>> as DiagnosticSettings
+sprite $FreeServices Management-Governance/Free-Services.svg
+rectangle "FreeServices" <<$FreeServices>> as FreeServices
+sprite $GuestAssignments Management-Governance/Guest-Assignments.svg
+rectangle "GuestAssignments" <<$GuestAssignments>> as GuestAssignments
+sprite $ManagedApplications Management-Governance/Managed-Applications.svg
+rectangle "ManagedApplications" <<$ManagedApplications>> as ManagedApplications
+sprite $MediaEncoding Management-Governance/Media-Encoding.svg
+rectangle "MediaEncoding" <<$MediaEncoding>> as MediaEncoding
+sprite $MediaOnDemand Management-Governance/Media-On-Demand.svg
+rectangle "MediaOnDemand" <<$MediaOnDemand>> as MediaOnDemand
+sprite $Metrics Management-Governance/Metrics.svg
+rectangle "Metrics" <<$Metrics>> as Metrics
+sprite $Monitor Management-Governance/Monitor.svg
+rectangle "Monitor" <<$Monitor>> as Monitor
+sprite $NetworkWatcher Management-Governance/Network-Watcher.svg
+rectangle "NetworkWatcher" <<$NetworkWatcher>> as NetworkWatcher
+sprite $Policy Management-Governance/Policy.svg
+rectangle "Policy" <<$Policy>> as Policy
+sprite $RecoveryServicesVaults Management-Governance/Recovery-Services-Vaults.svg
+rectangle "RecoveryServicesVaults" <<$RecoveryServicesVaults>> as RecoveryServicesVaults
+sprite $ResourceGraphExplorer Management-Governance/Resource-Graph-Explorer.svg
+rectangle "ResourceGraphExplorer" <<$ResourceGraphExplorer>> as ResourceGraphExplorer
+sprite $SchedulerJobCollections Management-Governance/Scheduler-Job-Collections.svg
+rectangle "SchedulerJobCollections" <<$SchedulerJobCollections>> as SchedulerJobCollections
+sprite $Solutions Management-Governance/Solutions.svg
+rectangle "Solutions" <<$Solutions>> as Solutions
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+sprite $AzureSentinel Security/Azure-Sentinel.svg
+rectangle "AzureSentinel" <<$AzureSentinel>> as AzureSentinel
+sprite $KeyVaults Security/Key-Vaults.svg
+rectangle "KeyVaults" <<$KeyVaults>> as KeyVaults
+sprite $SecurityCenter Security/Security-Center.svg
+rectangle "SecurityCenter" <<$SecurityCenter>> as SecurityCenter
+@enduml

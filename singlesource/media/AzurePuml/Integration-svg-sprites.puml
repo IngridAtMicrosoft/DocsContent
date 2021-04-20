@@ -1,0 +1,38 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+sprite $APIManagementServices Integration/API-Management-Services.svg
+rectangle "APIManagementServices" <<$APIManagementServices>> as APIManagementServices
+sprite $AppConfiguration Integration/App-Configuration.svg
+rectangle "AppConfiguration" <<$AppConfiguration>> as AppConfiguration
+sprite $AzureAPIforFHIR Integration/Azure-API-for-FHIR.svg
+rectangle "AzureAPIforFHIR" <<$AzureAPIforFHIR>> as AzureAPIforFHIR
+sprite $AzureDataCatalog Integration/Azure-Data-Catalog.svg
+rectangle "AzureDataCatalog" <<$AzureDataCatalog>> as AzureDataCatalog
+sprite $AzureServiceBusRelays Integration/Azure-Service-Bus-Relays.svg
+rectangle "AzureServiceBusRelays" <<$AzureServiceBusRelays>> as AzureServiceBusRelays
+sprite $AzureServiceBus Integration/Azure-Service-Bus.svg
+rectangle "AzureServiceBus" <<$AzureServiceBus>> as AzureServiceBus
+sprite $AzureStorSimpleDeviceManagers Integration/Azure-StorSimple-Device-Managers.svg
+rectangle "AzureStorSimpleDeviceManagers" <<$AzureStorSimpleDeviceManagers>> as AzureStorSimpleDeviceManagers
+sprite $EventGridDomains Integration/Event-Grid-Domains.svg
+rectangle "EventGridDomains" <<$EventGridDomains>> as EventGridDomains
+sprite $EventGridSubscriptions Integration/Event-Grid-Subscriptions.svg
+rectangle "EventGridSubscriptions" <<$EventGridSubscriptions>> as EventGridSubscriptions
+sprite $EventGridTopics Integration/Event-Grid-Topics.svg
+rectangle "EventGridTopics" <<$EventGridTopics>> as EventGridTopics
+sprite $IntegrationAccounts Integration/Integration-Accounts.svg
+rectangle "IntegrationAccounts" <<$IntegrationAccounts>> as IntegrationAccounts
+sprite $IntegrationServiceEnvironments Integration/Integration-Service-Environments.svg
+rectangle "IntegrationServiceEnvironments" <<$IntegrationServiceEnvironments>> as IntegrationServiceEnvironments
+sprite $LogicAppsCustomConnector Integration/Logic-Apps-Custom-Connector.svg
+rectangle "LogicAppsCustomConnector" <<$LogicAppsCustomConnector>> as LogicAppsCustomConnector
+sprite $LogicApps Integration/Logic-Apps.svg
+rectangle "LogicApps" <<$LogicApps>> as LogicApps
+sprite $SendGridAccounts Integration/SendGrid-Accounts.svg
+rectangle "SendGridAccounts" <<$SendGridAccounts>> as SendGridAccounts
+sprite $ServiceCatalogManagedApplicationDefinitions Integration/Service-Catalog-Managed-Application-Definitions.svg
+rectangle "ServiceCatalogManagedApplicationDefinitions" <<$ServiceCatalogManagedApplicationDefinitions>> as ServiceCatalogManagedApplicationDefinitions
+sprite $SoftwareasaService(SaaS) Integration/Software-as-a-Service-(SaaS).svg
+rectangle "SoftwareasaService(SaaS)" <<$SoftwareasaService(SaaS)>> as SoftwareasaService(SaaS)
+@enduml

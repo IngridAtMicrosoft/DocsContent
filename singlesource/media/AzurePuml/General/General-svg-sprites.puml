@@ -1,0 +1,54 @@
+@startuml
+sprite $AllResources All-Resources.svg
+rectangle "AllResources" <<$AllResources>> as AllResources
+sprite $AzureHome Azure-Home.svg
+rectangle "AzureHome" <<$AzureHome>> as AzureHome
+sprite $DeveloperTools DeveloperTools.svg
+rectangle "DeveloperTools" <<$DeveloperTools>> as DeveloperTools
+sprite $Help+Support Help-+-Support.svg
+rectangle "Help+Support" <<$Help+Support>> as Help+Support
+sprite $Information Information.svg
+rectangle "Information" <<$Information>> as Information
+sprite $ManagementGroups Management-Groups.svg
+rectangle "ManagementGroups" <<$ManagementGroups>> as ManagementGroups
+sprite $Marketplace Marketplace.svg
+rectangle "Marketplace" <<$Marketplace>> as Marketplace
+sprite $QuickStartCenter Quick-Start-Center.svg
+rectangle "QuickStartCenter" <<$QuickStartCenter>> as QuickStartCenter
+sprite $Recent Recent.svg
+rectangle "Recent" <<$Recent>> as Recent
+sprite $Reservations Reservations.svg
+rectangle "Reservations" <<$Reservations>> as Reservations
+sprite $ResourceGroups Resource-Groups.svg
+rectangle "ResourceGroups" <<$ResourceGroups>> as ResourceGroups
+sprite $Resource Resource.svg
+rectangle "Resource" <<$Resource>> as Resource
+sprite $ServiceHealth Service-Health.svg
+rectangle "ServiceHealth" <<$ServiceHealth>> as ServiceHealth
+sprite $SharedDashboard Shared-Dashboard.svg
+rectangle "SharedDashboard" <<$SharedDashboard>> as SharedDashboard
+sprite $Subscriptions Subscriptions.svg
+rectangle "Subscriptions" <<$Subscriptions>> as Subscriptions
+sprite $SupportRequests Support-Requests.svg
+rectangle "SupportRequests" <<$SupportRequests>> as SupportRequests
+sprite $Support Support.svg
+rectangle "Support" <<$Support>> as Support
+sprite $Tag Tag.svg
+rectangle "Tag" <<$Tag>> as Tag
+sprite $Tags Tags.svg
+rectangle "Tags" <<$Tags>> as Tags
+sprite $Templates Templates.svg
+rectangle "Templates" <<$Templates>> as Templates
+sprite $TwoUserIcon Two-User-Icon.svg
+rectangle "TwoUserIcon" <<$TwoUserIcon>> as TwoUserIcon
+sprite $UserHealthIcon User-Health-Icon.svg
+rectangle "UserHealthIcon" <<$UserHealthIcon>> as UserHealthIcon
+sprite $UserIcon User-Icon.svg
+rectangle "UserIcon" <<$UserIcon>> as UserIcon
+sprite $UserPrivacy User-Privacy.svg
+rectangle "UserPrivacy" <<$UserPrivacy>> as UserPrivacy
+sprite $UserResource User-Resource.svg
+rectangle "UserResource" <<$UserResource>> as UserResource
+sprite $WhatsNew Whats-New.svg
+rectangle "WhatsNew" <<$WhatsNew>> as WhatsNew
+@enduml

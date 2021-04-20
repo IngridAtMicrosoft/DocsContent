@@ -1,0 +1,55 @@
+@startuml
+sprite $AvailabilitySets Availability-Sets.svg
+rectangle "AvailabilitySets" <<$AvailabilitySets>> as AvailabilitySets
+/'Broken
+sprite $BatchAccounts Batch-Accounts.svg
+rectangle "BatchAccounts" <<$BatchAccounts>> as BatchAccounts
+'/
+/'Broken
+sprite $CitrixVirtualDesktopsEssentials Citrix-Virtual-Desktops-Essentials.svg
+rectangle "CitrixVirtualDesktopsEssentials" <<$CitrixVirtualDesktopsEssentials>> as CitrixVirtualDesktopsEssentials
+'/
+sprite $CloudServicesClassic Cloud-Services-Classic.svg
+rectangle "CloudServicesClassic" <<$CloudServicesClassic>> as CloudServicesClassic
+sprite $CloudServices Cloud-Services.svg
+rectangle "CloudServices" <<$CloudServices>> as CloudServices
+sprite $CloudSimpleVirtualMachines CloudSimple-Virtual-Machines.svg
+rectangle "CloudSimpleVirtualMachines" <<$CloudSimpleVirtualMachines>> as CloudSimpleVirtualMachines
+sprite $DiskSnapshots Disk-Snapshots.svg
+rectangle "DiskSnapshots" <<$DiskSnapshots>> as DiskSnapshots
+sprite $Disks Disks.svg
+rectangle "Disks" <<$Disks>> as Disks
+sprite $FunctionApps Function-Apps.svg
+rectangle "FunctionApps" <<$FunctionApps>> as FunctionApps
+sprite $MeshApplications Mesh-Applications.svg
+rectangle "MeshApplications" <<$MeshApplications>> as MeshApplications
+'too small
+sprite $Nonazuremachine Non-azure-machine.svg
+rectangle "Nonazuremachine" <<$Nonazuremachine>> as Nonazuremachine
+sprite $OSImagesClassic OS-Images-Classic.svg
+rectangle "OSImagesClassic" <<$OSImagesClassic>> as OSImagesClassic
+sprite $SAPHANAonAzure SAP-HANA-on-Azure.svg
+rectangle "SAPHANAonAzure" <<$SAPHANAonAzure>> as SAPHANAonAzure
+sprite $ServiceFabricClusters Service-Fabric-Clusters.svg
+rectangle "ServiceFabricClusters" <<$ServiceFabricClusters>> as ServiceFabricClusters
+sprite $VMClassic VM-Classic.svg
+rectangle "VMClassic" <<$VMClassic>> as VMClassic
+sprite $VMImages VM-Images.svg
+rectangle "VMImages" <<$VMImages>> as VMImages
+sprite $VMLinuxnonazure VM-Linux-non-azure.svg
+rectangle "VMLinuxnonazure" <<$VMLinuxnonazure>> as VMLinuxnonazure
+sprite $VMLinux VM-Linux.svg
+rectangle "VMLinux" <<$VMLinux>> as VMLinux
+sprite $VMnonazure VM-non-azure.svg
+rectangle "VMnonazure" <<$VMnonazure>> as VMnonazure
+/'broken
+sprite $VMScaleSets VM-Scale-Sets.svg
+rectangle "VMScaleSets" <<$VMScaleSets>> as VMScaleSets
+'/
+sprite $VMwindowsnonazure VM-windows-non-azure.svg
+rectangle "VMwindowsnonazure" <<$VMwindowsnonazure>> as VMwindowsnonazure
+sprite $VMwindows VM-windows.svg
+rectangle "VMwindows" <<$VMwindows>> as VMwindows
+sprite $VM VM.svg
+rectangle "VM" <<$VM>> as VM
+@enduml

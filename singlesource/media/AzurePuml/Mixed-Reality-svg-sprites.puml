@@ -1,0 +1,6 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+sprite $SpatialAnchor Mixed-Reality/Spatial-Anchor.svg
+rectangle "SpatialAnchor" <<$SpatialAnchor>> as SpatialAnchor
+@enduml

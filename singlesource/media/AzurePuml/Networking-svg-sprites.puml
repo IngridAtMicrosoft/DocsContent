@@ -1,0 +1,56 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+sprite $ApplicationGateway Networking/Application-Gateway.svg
+rectangle "ApplicationGateway" <<$ApplicationGateway>> as ApplicationGateway
+sprite $ApplicationSecurityGroups Networking/Application-Security-Groups.svg
+rectangle "ApplicationSecurityGroups" <<$ApplicationSecurityGroups>> as ApplicationSecurityGroups
+sprite $AzureFirewall Networking/Azure-Firewall.svg
+rectangle "AzureFirewall" <<$AzureFirewall>> as AzureFirewall
+sprite $CDNProfiles Networking/CDN-Profiles.svg
+rectangle "CDNProfiles" <<$CDNProfiles>> as CDNProfiles
+sprite $Connections Networking/Connections.svg
+rectangle "Connections" <<$Connections>> as Connections
+sprite $DDOSProtectionPlans Networking/DDOS-Protection-Plans.svg
+rectangle "DDOSProtectionPlans" <<$DDOSProtectionPlans>> as DDOSProtectionPlans
+sprite $DNSPrivateZones Networking/DNS-Private-Zones.svg
+rectangle "DNSPrivateZones" <<$DNSPrivateZones>> as DNSPrivateZones
+sprite $DNSZones Networking/DNS-Zones.svg
+rectangle "DNSZones" <<$DNSZones>> as DNSZones
+sprite $ExpressRouteCircuits Networking/ExpressRoute-Circuits.svg
+rectangle "ExpressRouteCircuits" <<$ExpressRouteCircuits>> as ExpressRouteCircuits
+sprite $FrontDoors Networking/Front-Doors.svg
+rectangle "FrontDoors" <<$FrontDoors>> as FrontDoors
+sprite $LoadBalancers Networking/Load-Balancers.svg
+rectangle "LoadBalancers" <<$LoadBalancers>> as LoadBalancers
+sprite $LocalNetworkGateways Networking/Local-Network-Gateways.svg
+rectangle "LocalNetworkGateways" <<$LocalNetworkGateways>> as LocalNetworkGateways
+sprite $NetworkInterfaces Networking/Network-Interfaces.svg
+rectangle "NetworkInterfaces" <<$NetworkInterfaces>> as NetworkInterfaces
+sprite $NetworkSecurityGroupsClassic Networking/Network-Security-Groups-Classic.svg
+rectangle "NetworkSecurityGroupsClassic" <<$NetworkSecurityGroupsClassic>> as NetworkSecurityGroupsClassic
+sprite $NetworkWatcher Networking/Network-Watcher.svg
+rectangle "NetworkWatcher" <<$NetworkWatcher>> as NetworkWatcher
+sprite $OnpremisesDataGateways Networking/On-premises-Data-Gateways.svg
+rectangle "OnpremisesDataGateways" <<$OnpremisesDataGateways>> as OnpremisesDataGateways
+sprite $PublicIPAddresses Networking/Public-IP-Addresses.svg
+rectangle "PublicIPAddresses" <<$PublicIPAddresses>> as PublicIPAddresses
+sprite $ReservedIPAddressesClassic Networking/Reserved-IP-Addresses-Classic.svg
+rectangle "ReservedIPAddressesClassic" <<$ReservedIPAddressesClassic>> as ReservedIPAddressesClassic
+sprite $RouteFilters Networking/Route-Filters.svg
+rectangle "RouteFilters" <<$RouteFilters>> as RouteFilters
+sprite $RouteTables Networking/Route-Tables.svg
+rectangle "RouteTables" <<$RouteTables>> as RouteTables
+sprite $ServiceEndpointPolicies Networking/Service-Endpoint-Policies.svg
+rectangle "ServiceEndpointPolicies" <<$ServiceEndpointPolicies>> as ServiceEndpointPolicies
+sprite $TrafficManagerProfiles Networking/Traffic-Manager-Profiles.svg
+rectangle "TrafficManagerProfiles" <<$TrafficManagerProfiles>> as TrafficManagerProfiles
+sprite $VirtualNetworkClassic Networking/Virtual-Network-Classic.svg
+rectangle "VirtualNetworkClassic" <<$VirtualNetworkClassic>> as VirtualNetworkClassic
+sprite $VirtualNetworkGateways Networking/Virtual-Network-Gateways.svg
+rectangle "VirtualNetworkGateways" <<$VirtualNetworkGateways>> as VirtualNetworkGateways
+sprite $VirtualNetworks Networking/Virtual-Networks.svg
+rectangle "VirtualNetworks" <<$VirtualNetworks>> as VirtualNetworks
+sprite $VirtualWANs Networking/Virtual-WANs.svg
+rectangle "VirtualWANs" <<$VirtualWANs>> as VirtualWANs
+@enduml

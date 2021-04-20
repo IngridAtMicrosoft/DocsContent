@@ -1,0 +1,56 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+sprite $AllResources General/All-Resources.svg
+rectangle "AllResources" <<$AllResources>> as AllResources
+sprite $AzureHome General/Azure-Home.svg
+rectangle "AzureHome" <<$AzureHome>> as AzureHome
+sprite $DeveloperTools General/DeveloperTools.svg
+rectangle "DeveloperTools" <<$DeveloperTools>> as DeveloperTools
+sprite $Help+Support General/Help-+-Support.svg
+rectangle "Help+Support" <<$Help+Support>> as Help+Support
+sprite $Information General/Information.svg
+rectangle "Information" <<$Information>> as Information
+sprite $ManagementGroups General/Management-Groups.svg
+rectangle "ManagementGroups" <<$ManagementGroups>> as ManagementGroups
+sprite $Marketplace General/Marketplace.svg
+rectangle "Marketplace" <<$Marketplace>> as Marketplace
+sprite $QuickStartCenter General/Quick-Start-Center.svg
+rectangle "QuickStartCenter" <<$QuickStartCenter>> as QuickStartCenter
+sprite $Recent General/Recent.svg
+rectangle "Recent" <<$Recent>> as Recent
+sprite $Reservations General/Reservations.svg
+rectangle "Reservations" <<$Reservations>> as Reservations
+sprite $ResourceGroups General/Resource-Groups.svg
+rectangle "ResourceGroups" <<$ResourceGroups>> as ResourceGroups
+sprite $Resource General/Resource.svg
+rectangle "Resource" <<$Resource>> as Resource
+sprite $ServiceHealth General/Service-Health.svg
+rectangle "ServiceHealth" <<$ServiceHealth>> as ServiceHealth
+sprite $SharedDashboard General/Shared-Dashboard.svg
+rectangle "SharedDashboard" <<$SharedDashboard>> as SharedDashboard
+sprite $Subscriptions General/Subscriptions.svg
+rectangle "Subscriptions" <<$Subscriptions>> as Subscriptions
+sprite $SupportRequests General/Support-Requests.svg
+rectangle "SupportRequests" <<$SupportRequests>> as SupportRequests
+sprite $Support General/Support.svg
+rectangle "Support" <<$Support>> as Support
+sprite $Tag General/Tag.svg
+rectangle "Tag" <<$Tag>> as Tag
+sprite $Tags General/Tags.svg
+rectangle "Tags" <<$Tags>> as Tags
+sprite $Templates General/Templates.svg
+rectangle "Templates" <<$Templates>> as Templates
+sprite $TwoUserIcon General/Two-User-Icon.svg
+rectangle "TwoUserIcon" <<$TwoUserIcon>> as TwoUserIcon
+sprite $UserHealthIcon General/User-Health-Icon.svg
+rectangle "UserHealthIcon" <<$UserHealthIcon>> as UserHealthIcon
+sprite $UserIcon General/User-Icon.svg
+rectangle "UserIcon" <<$UserIcon>> as UserIcon
+sprite $UserPrivacy General/User-Privacy.svg
+rectangle "UserPrivacy" <<$UserPrivacy>> as UserPrivacy
+sprite $UserResource General/User-Resource.svg
+rectangle "UserResource" <<$UserResource>> as UserResource
+sprite $WhatsNew General/Whats-New.svg
+rectangle "WhatsNew" <<$WhatsNew>> as WhatsNew
+@enduml

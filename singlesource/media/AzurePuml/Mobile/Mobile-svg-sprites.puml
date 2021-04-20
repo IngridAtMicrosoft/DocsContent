@@ -1,0 +1,8 @@
+@startuml
+sprite $AzureAppServiceMobile Azure-App-Service---Mobile.svg
+rectangle "AzureAppServiceMobile" <<$AzureAppServiceMobile>> as AzureAppServiceMobile
+sprite $AzureMobileEngagement Azure-Mobile-Engagement.svg
+rectangle "AzureMobileEngagement" <<$AzureMobileEngagement>> as AzureMobileEngagement
+sprite $NotificationHubs Notification-Hubs.svg
+rectangle "NotificationHubs" <<$NotificationHubs>> as NotificationHubs
+@enduml
