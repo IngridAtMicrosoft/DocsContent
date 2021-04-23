@@ -1,0 +1,22 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with N'
+sprite $NATGateway NAT-Gateway.svg
+rectangle "NATGateway" <<$NATGateway>> as NATGateway
+sprite $NetworkInterface Network-Interface.svg
+rectangle "NetworkInterface" <<$NetworkInterface>> as NetworkInterface
+sprite $NetworkSecurityGroupClassic Network-Security-Group-Classic.svg
+rectangle "NetworkSecurityGroupClassic" <<$NetworkSecurityGroupClassic>> as NetworkSecurityGroupClassic
+sprite $NetworkSecurityGroup Network-Security-Group.svg
+rectangle "NetworkSecurityGroup" <<$NetworkSecurityGroup>> as NetworkSecurityGroup
+sprite $NetworkWatcher Network-Watcher.svg
+rectangle "NetworkWatcher" <<$NetworkWatcher>> as NetworkWatcher
+sprite $Networking Networking.svg
+rectangle "Networking" <<$Networking>> as Networking
+sprite $NodeJS Node-JS.svg
+rectangle "NodeJS" <<$NodeJS>> as NodeJS
+sprite $NotificationHub Notification-Hub.svg
+rectangle "NotificationHub" <<$NotificationHub>> as NotificationHub
+@enduml

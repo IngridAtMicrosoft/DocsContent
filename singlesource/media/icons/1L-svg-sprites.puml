@@ -1,0 +1,22 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with L'
+sprite $LabService Lab-Service.svg
+rectangle "LabService" <<$LabService>> as LabService
+sprite $License License.svg
+rectangle "License" <<$License>> as License
+sprite $LoadBalancer Load-Balancer.svg
+rectangle "LoadBalancer" <<$LoadBalancer>> as LoadBalancer
+sprite $LocalNetworkGateway Local-Network-Gateway.svg
+rectangle "LocalNetworkGateway" <<$LocalNetworkGateway>> as LocalNetworkGateway
+sprite $LogAnalyticsSolution Log-Analytics-Solution.svg
+rectangle "LogAnalyticsSolution" <<$LogAnalyticsSolution>> as LogAnalyticsSolution
+sprite $LogAnalyticsWorkspace Log-Analytics-Workspace.svg
+rectangle "LogAnalyticsWorkspace" <<$LogAnalyticsWorkspace>> as LogAnalyticsWorkspace
+sprite $LogicAppCustomConnecton Logic-App-Custom-Connecton.svg
+rectangle "LogicAppCustomConnecton" <<$LogicAppCustomConnecton>> as LogicAppCustomConnecton
+sprite $LogicApp Logic-App.svg
+rectangle "LogicApp" <<$LogicApp>> as LogicApp
+@enduml

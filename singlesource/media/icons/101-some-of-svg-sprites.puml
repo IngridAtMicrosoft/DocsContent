@@ -7,10 +7,10 @@ sprite $ActivityLog Activity-Log.svg
 rectangle "ActivityLog" <<$ActivityLog>> as ActivityLog
 sprite $Activity Activity.svg
 rectangle "Activity" <<$Activity>> as Activity
+/'
 sprite $AdaptiveApplicationControl Adaptive-Application-Control.svg
 rectangle "AdaptiveApplicationControl" <<$AdaptiveApplicationControl>> as AdaptiveApplicationControl
 sprite $AdaptiveNetworkHardening Adaptive-Network-Hardening.svg
-/'
 rectangle "AdaptiveNetworkHardening" <<$AdaptiveNetworkHardening>> as AdaptiveNetworkHardening
 sprite $ADFSProxy ADFS-Proxy.svg
 rectangle "ADFSProxy" <<$ADFSProxy>> as ADFSProxy

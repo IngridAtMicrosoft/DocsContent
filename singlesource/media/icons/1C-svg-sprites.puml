@@ -1,0 +1,78 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with C'
+sprite $CDNProfile CDN-Profile.svg
+rectangle "CDNProfile" <<$CDNProfile>> as CDNProfile
+sprite $ChangeAnalysis Change-Analysis.svg
+rectangle "ChangeAnalysis" <<$ChangeAnalysis>> as ChangeAnalysis
+sprite $CitrixVirtualDesktopEssentials Citrix-Virtual-Desktop-Essentials.svg
+rectangle "CitrixVirtualDesktopEssentials" <<$CitrixVirtualDesktopEssentials>> as CitrixVirtualDesktopEssentials
+sprite $ClientApp Client-App.svg
+rectangle "ClientApp" <<$ClientApp>> as ClientApp
+sprite $CloudAppSecurity Cloud-App-Security.svg
+rectangle "CloudAppSecurity" <<$CloudAppSecurity>> as CloudAppSecurity
+sprite $CloudServiceClassic Cloud-Service-Classic.svg
+rectangle "CloudServiceClassic" <<$CloudServiceClassic>> as CloudServiceClassic
+sprite $CloudSimpleNode Cloud-Simple-Node.svg
+rectangle "CloudSimpleNode" <<$CloudSimpleNode>> as CloudSimpleNode
+sprite $CloudSimpleService Cloud-Simple-Service.svg
+rectangle "CloudSimpleService" <<$CloudSimpleService>> as CloudSimpleService
+sprite $CloudSimpleVirtualMachine Cloud-Simple-Virtual-Machine.svg
+rectangle "CloudSimpleVirtualMachine" <<$CloudSimpleVirtualMachine>> as CloudSimpleVirtualMachine
+sprite $CognitiveServicesDecision Cognitive-Services-Decision.svg
+rectangle "CognitiveServicesDecision" <<$CognitiveServicesDecision>> as CognitiveServicesDecision
+sprite $CognitiveServicesKnowledge Cognitive-Services-Knowledge.svg
+rectangle "CognitiveServicesKnowledge" <<$CognitiveServicesKnowledge>> as CognitiveServicesKnowledge
+sprite $CognitiveServicesLanguage Cognitive-Services-Language.svg
+rectangle "CognitiveServicesLanguage" <<$CognitiveServicesLanguage>> as CognitiveServicesLanguage
+sprite $CognitiveServicesSearch Cognitive-Services-Search.svg
+rectangle "CognitiveServicesSearch" <<$CognitiveServicesSearch>> as CognitiveServicesSearch
+sprite $CognitiveServicesSpeech Cognitive-Services-Speech.svg
+rectangle "CognitiveServicesSpeech" <<$CognitiveServicesSpeech>> as CognitiveServicesSpeech
+sprite $CognitiveServicesVision Cognitive-Services-Vision.svg
+rectangle "CognitiveServicesVision" <<$CognitiveServicesVision>> as CognitiveServicesVision
+sprite $CognitiveServices Cognitive-Services.svg
+rectangle "CognitiveServices" <<$CognitiveServices>> as CognitiveServices
+sprite $CompanyBranding Company-Branding.svg
+rectangle "CompanyBranding" <<$CompanyBranding>> as CompanyBranding
+sprite $Compliance Compliance.svg
+rectangle "Compliance" <<$Compliance>> as Compliance
+sprite $ComputeApp Compute-App.svg
+rectangle "ComputeApp" <<$ComputeApp>> as ComputeApp
+sprite $ConditionalAccess Conditional-Access.svg
+rectangle "ConditionalAccess" <<$ConditionalAccess>> as ConditionalAccess
+sprite $ConfigurationManagement Configuration-Management.svg
+rectangle "ConfigurationManagement" <<$ConfigurationManagement>> as ConfigurationManagement
+sprite $Configuration Configuration.svg
+rectangle "Configuration" <<$Configuration>> as Configuration
+sprite $ConnectionMonitor Connection-Monitor.svg
+rectangle "ConnectionMonitor" <<$ConnectionMonitor>> as ConnectionMonitor
+sprite $ContainerBatchAccount Container-Batch-Account.svg
+rectangle "ContainerBatchAccount" <<$ContainerBatchAccount>> as ContainerBatchAccount
+sprite $ContainerInstance Container-Instance.svg
+rectangle "ContainerInstance" <<$ContainerInstance>> as ContainerInstance
+sprite $ContainerKubernetesService Container-Kubernetes-Service.svg
+rectangle "ContainerKubernetesService" <<$ContainerKubernetesService>> as ContainerKubernetesService
+sprite $ContainerRegistry Container-Registry.svg
+rectangle "ContainerRegistry" <<$ContainerRegistry>> as ContainerRegistry
+sprite $ContainerServiceFabricCluster Container-Service-Fabric-Cluster.svg
+rectangle "ContainerServiceFabricCluster" <<$ContainerServiceFabricCluster>> as ContainerServiceFabricCluster
+sprite $Controller Controller.svg
+rectangle "Controller" <<$Controller>> as Controller
+sprite $CORS CORS.svg
+rectangle "CORS" <<$CORS>> as CORS
+sprite $CostAlert Cost-Alert.svg
+rectangle "CostAlert" <<$CostAlert>> as CostAlert
+sprite $CostAnalysis Cost-Analysis.svg
+rectangle "CostAnalysis" <<$CostAnalysis>> as CostAnalysis
+sprite $CostManagementAndBilling Cost-Management-And-Billing.svg
+rectangle "CostManagementAndBilling" <<$CostManagementAndBilling>> as CostManagementAndBilling
+sprite $CostManagement Cost-Management.svg
+rectangle "CostManagement" <<$CostManagement>> as CostManagement
+sprite $Cost Cost.svg
+rectangle "Cost" <<$Cost>> as Cost
+sprite $CustomerLockboxForMicrosoftAzure Customer-Lockbox-For-Microsoft-Azure.svg
+rectangle "CustomerLockboxForMicrosoftAzure" <<$CustomerLockboxForMicrosoftAzure>> as CustomerLockboxForMicrosoftAzure
+@enduml

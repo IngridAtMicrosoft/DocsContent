@@ -1,0 +1,24 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with T'
+sprite $Tag Tag.svg
+rectangle "Tag" <<$Tag>> as Tag
+sprite $Tags Tags.svg
+rectangle "Tags" <<$Tags>> as Tags
+sprite $Template Template.svg
+rectangle "Template" <<$Template>> as Template
+sprite $TenantStatus Tenant-Status.svg
+rectangle "TenantStatus" <<$TenantStatus>> as TenantStatus
+sprite $Terraform Terraform.svg
+rectangle "Terraform" <<$Terraform>> as Terraform
+sprite $TimeSeriesInsightsEnvironment Time-Series-Insights-Environment.svg
+rectangle "TimeSeriesInsightsEnvironment" <<$TimeSeriesInsightsEnvironment>> as TimeSeriesInsightsEnvironment
+sprite $TimeSeriesInsightsEventSource Time-Series-Insights-Event-Source.svg
+rectangle "TimeSeriesInsightsEventSource" <<$TimeSeriesInsightsEventSource>> as TimeSeriesInsightsEventSource
+sprite $TimeSeriesInsightsReferenceDataSet Time-Series-Insights-Reference-Data-Set.svg
+rectangle "TimeSeriesInsightsReferenceDataSet" <<$TimeSeriesInsightsReferenceDataSet>> as TimeSeriesInsightsReferenceDataSet
+sprite $TrafficManagerProfile Traffic-Manager-Profile.svg
+rectangle "TrafficManagerProfile" <<$TrafficManagerProfile>> as TrafficManagerProfile
+@enduml

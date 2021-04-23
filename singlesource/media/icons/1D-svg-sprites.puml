@@ -1,0 +1,48 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with D'
+sprite $DataAndStorage Data-And-Storage.svg
+rectangle "DataAndStorage" <<$DataAndStorage>> as DataAndStorage
+sprite $DataBoxEdgeAndGateway Data-Box-Edge-And-Gateway.svg
+rectangle "DataBoxEdgeAndGateway" <<$DataBoxEdgeAndGateway>> as DataBoxEdgeAndGateway
+sprite $DataBox Data-Box.svg
+rectangle "DataBox" <<$DataBox>> as DataBox
+sprite $DataCatalog Data-Catalog.svg
+rectangle "DataCatalog" <<$DataCatalog>> as DataCatalog
+sprite $DataFactory Data-Factory.svg
+rectangle "DataFactory" <<$DataFactory>> as DataFactory
+sprite $DataLakeAnalytics Data-Lake-Analytics.svg
+rectangle "DataLakeAnalytics" <<$DataLakeAnalytics>> as DataLakeAnalytics
+sprite $DataLakeStorageGen1 Data-Lake-Storage-Gen1.svg
+rectangle "DataLakeStorageGen1" <<$DataLakeStorageGen1>> as DataLakeStorageGen1
+sprite $DataLake Data-Lake.svg
+rectangle "DataLake" <<$DataLake>> as DataLake
+sprite $DataShareInvitation Data-Share-Invitation.svg
+rectangle "DataShareInvitation" <<$DataShareInvitation>> as DataShareInvitation
+sprite $DataShare Data-Share.svg
+rectangle "DataShare" <<$DataShare>> as DataShare
+sprite $DataTransfer Data-Transfer.svg
+rectangle "DataTransfer" <<$DataTransfer>> as DataTransfer
+sprite $DatabaseMigrationService Database-Migration-Service.svg
+rectangle "DatabaseMigrationService" <<$DatabaseMigrationService>> as DatabaseMigrationService
+sprite $DdosProtectionPlan Ddos-Protection-Plan.svg
+rectangle "DdosProtectionPlan" <<$DdosProtectionPlan>> as DdosProtectionPlan
+sprite $DDOSProtection DDOS-Protection.svg
+rectangle "DDOSProtection" <<$DDOSProtection>> as DDOSProtection
+sprite $DeploymentScript Deployment-Script.svg
+rectangle "DeploymentScript" <<$DeploymentScript>> as DeploymentScript
+sprite $Deployment Deployment.svg
+rectangle "Deployment" <<$Deployment>> as Deployment
+sprite $DevopsProject Devops-Project.svg
+rectangle "DevopsProject" <<$DevopsProject>> as DevopsProject
+sprite $DevtestLab Devtest-Lab.svg
+rectangle "DevtestLab" <<$DevtestLab>> as DevtestLab
+sprite $DiagnosticsSetting Diagnostics-Setting.svg
+rectangle "DiagnosticsSetting" <<$DiagnosticsSetting>> as DiagnosticsSetting
+sprite $DiskEncryptionSet Disk-Encryption-Set.svg
+rectangle "DiskEncryptionSet" <<$DiskEncryptionSet>> as DiskEncryptionSet
+sprite $DNSZone DNS-Zone.svg
+rectangle "DNSZone" <<$DNSZone>> as DNSZone
+@enduml

@@ -1,0 +1,56 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with M'
+sprite $MachineLearningStudioWebServiceClassic Machine-Learning-Studio-Web-Service-Classic.svg
+rectangle "MachineLearningStudioWebServiceClassic" <<$MachineLearningStudioWebServiceClassic>> as MachineLearningStudioWebServiceClassic
+sprite $MachineLearningStudioWebServicePlanClassic Machine-Learning-Studio-Web-Service-Plan-Classic.svg
+rectangle "MachineLearningStudioWebServicePlanClassic" <<$MachineLearningStudioWebServicePlanClassic>> as MachineLearningStudioWebServicePlanClassic
+sprite $MachineLearningStudioWorkspaceClassic Machine-Learning-Studio-Workspace-Classic.svg
+rectangle "MachineLearningStudioWorkspaceClassic" <<$MachineLearningStudioWorkspaceClassic>> as MachineLearningStudioWorkspaceClassic
+sprite $MachineLearningStudio Machine-Learning-Studio.svg
+rectangle "MachineLearningStudio" <<$MachineLearningStudio>> as MachineLearningStudio
+sprite $MachineLearning Machine-Learning.svg
+rectangle "MachineLearning" <<$MachineLearning>> as MachineLearning
+sprite $MaintenanceConfiguration Maintenance-Configuration.svg
+rectangle "MaintenanceConfiguration" <<$MaintenanceConfiguration>> as MaintenanceConfiguration
+sprite $ManagedApplicationCenter Managed-Application-Center.svg
+rectangle "ManagedApplicationCenter" <<$ManagedApplicationCenter>> as ManagedApplicationCenter
+sprite $ManagedApplication Managed-Application.svg
+rectangle "ManagedApplication" <<$ManagedApplication>> as ManagedApplication
+sprite $ManagedDatabase Managed-Database.svg
+rectangle "ManagedDatabase" <<$ManagedDatabase>> as ManagedDatabase
+sprite $ManagedDiskPremiumSSD Managed-Disk-Premium-SSD.svg
+rectangle "ManagedDiskPremiumSSD" <<$ManagedDiskPremiumSSD>> as ManagedDiskPremiumSSD
+sprite $ManagedDiskSnapshot Managed-Disk-Snapshot.svg
+rectangle "ManagedDiskSnapshot" <<$ManagedDiskSnapshot>> as ManagedDiskSnapshot
+sprite $ManagedDiskStandardHDD Managed-Disk-Standard-HDD.svg
+rectangle "ManagedDiskStandardHDD" <<$ManagedDiskStandardHDD>> as ManagedDiskStandardHDD
+sprite $ManagedDiskStandardSSD Managed-Disk-Standard-SSD.svg
+rectangle "ManagedDiskStandardSSD" <<$ManagedDiskStandardSSD>> as ManagedDiskStandardSSD
+sprite $ManagedDiskUltraSSD Managed-Disk-Ultra-SSD.svg
+rectangle "ManagedDiskUltraSSD" <<$ManagedDiskUltraSSD>> as ManagedDiskUltraSSD
+sprite $ManagedIdentity Managed-Identity.svg
+rectangle "ManagedIdentity" <<$ManagedIdentity>> as ManagedIdentity
+sprite $ManagementCertificate Management-Certificate.svg
+rectangle "ManagementCertificate" <<$ManagementCertificate>> as ManagementCertificate
+sprite $ManagementGroup Management-Group.svg
+rectangle "ManagementGroup" <<$ManagementGroup>> as ManagementGroup
+sprite $Marketplace Marketplace.svg
+rectangle "Marketplace" <<$Marketplace>> as Marketplace
+sprite $MeshApplication Mesh-Application.svg
+rectangle "MeshApplication" <<$MeshApplication>> as MeshApplication
+sprite $Metric Metric.svg
+rectangle "Metric" <<$Metric>> as Metric
+sprite $MicrosoftAccount Microsoft-Account.svg
+rectangle "MicrosoftAccount" <<$MicrosoftAccount>> as MicrosoftAccount
+sprite $MobileApplication Mobile-Application.svg
+rectangle "MobileApplication" <<$MobileApplication>> as MobileApplication
+sprite $MobilityMDMAndMAM Mobility-MDM-And-MAM.svg
+rectangle "MobilityMDMAndMAM" <<$MobilityMDMAndMAM>> as MobilityMDMAndMAM
+sprite $Monitor Monitor.svg
+rectangle "Monitor" <<$Monitor>> as Monitor
+sprite $NATGateway NAT-Gateway.svg
+rectangle "NATGateway" <<$NATGateway>> as NATGateway
+@enduml

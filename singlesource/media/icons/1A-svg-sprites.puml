@@ -1,0 +1,202 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with A'
+sprite $ActivityLog Activity-Log.svg
+rectangle "ActivityLog" <<$ActivityLog>> as ActivityLog
+sprite $Activity Activity.svg
+rectangle "Activity" <<$Activity>> as Activity
+sprite $AdaptiveApplicationControl Adaptive-Application-Control.svg
+rectangle "AdaptiveApplicationControl" <<$AdaptiveApplicationControl>> as AdaptiveApplicationControl
+sprite $AdaptiveNetworkHardening Adaptive-Network-Hardening.svg
+rectangle "AdaptiveNetworkHardening" <<$AdaptiveNetworkHardening>> as AdaptiveNetworkHardening
+sprite $ADFSProxy ADFS-Proxy.svg
+rectangle "ADFSProxy" <<$ADFSProxy>> as ADFSProxy
+sprite $ADFS ADFS.svg
+rectangle "ADFS" <<$ADFS>> as ADFS
+sprite $Advisor Advisor.svg
+rectangle "Advisor" <<$Advisor>> as Advisor
+sprite $Alert Alert.svg
+rectangle "Alert" <<$Alert>> as Alert
+sprite $AllResources All-Resources.svg
+rectangle "AllResources" <<$AllResources>> as AllResources
+sprite $AnalysisService Analysis-Service.svg
+rectangle "AnalysisService" <<$AnalysisService>> as AnalysisService
+sprite $APIConnection API-Connection.svg
+rectangle "APIConnection" <<$APIConnection>> as APIConnection
+sprite $APIManagementService API-Management-Service.svg
+rectangle "APIManagementService" <<$APIManagementService>> as APIManagementService
+sprite $ApplicationChangeAnalysis Application-Change-Analysis.svg
+rectangle "ApplicationChangeAnalysis" <<$ApplicationChangeAnalysis>> as ApplicationChangeAnalysis
+sprite $ApplicationConfiguration Application-Configuration.svg
+rectangle "ApplicationConfiguration" <<$ApplicationConfiguration>> as ApplicationConfiguration
+sprite $ApplicationGateway Application-Gateway.svg
+rectangle "ApplicationGateway" <<$ApplicationGateway>> as ApplicationGateway
+sprite $ApplicationInsights Application-Insights.svg
+rectangle "ApplicationInsights" <<$ApplicationInsights>> as ApplicationInsights
+sprite $ApplicationRegistration Application-Registration.svg
+rectangle "ApplicationRegistration" <<$ApplicationRegistration>> as ApplicationRegistration
+sprite $ApplicationSecurityGroup Application-Security-Group.svg
+rectangle "ApplicationSecurityGroup" <<$ApplicationSecurityGroup>> as ApplicationSecurityGroup
+sprite $ApplicationServiceCertificate Application-Service-Certificate.svg
+rectangle "ApplicationServiceCertificate" <<$ApplicationServiceCertificate>> as ApplicationServiceCertificate
+sprite $ApplicationServiceDomain Application-Service-Domain.svg
+rectangle "ApplicationServiceDomain" <<$ApplicationServiceDomain>> as ApplicationServiceDomain
+sprite $ApplicationServiceEnvironment Application-Service-Environment.svg
+rectangle "ApplicationServiceEnvironment" <<$ApplicationServiceEnvironment>> as ApplicationServiceEnvironment
+sprite $ApplicationServicePlan Application-Service-Plan.svg
+rectangle "ApplicationServicePlan" <<$ApplicationServicePlan>> as ApplicationServicePlan
+sprite $ApplicationService Application-Service.svg
+rectangle "ApplicationService" <<$ApplicationService>> as ApplicationService
+sprite $ArchiveStorage Archive-Storage.svg
+rectangle "ArchiveStorage" <<$ArchiveStorage>> as ArchiveStorage
+sprite $ARMTemplate ARM-Template.svg
+rectangle "ARMTemplate" <<$ARMTemplate>> as ARMTemplate
+sprite $AutomationAccount Automation-Account.svg
+rectangle "AutomationAccount" <<$AutomationAccount>> as AutomationAccount
+sprite $AzureActiveDirectoryAuthenticationMethod Azure-Active-Directory-Authentication-Method.svg
+rectangle "AzureActiveDirectoryAuthenticationMethod" <<$AzureActiveDirectoryAuthenticationMethod>> as AzureActiveDirectoryAuthenticationMethod
+sprite $AzureActiveDirectoryB2B Azure-Active-Directory-B2B.svg
+rectangle "AzureActiveDirectoryB2B" <<$AzureActiveDirectoryB2B>> as AzureActiveDirectoryB2B
+sprite $AzureActiveDirectoryB2C Azure-Active-Directory-B2C.svg
+rectangle "AzureActiveDirectoryB2C" <<$AzureActiveDirectoryB2C>> as AzureActiveDirectoryB2C
+sprite $AzureActiveDirectoryConnectHealth Azure-Active-Directory-Connect-Health.svg
+rectangle "AzureActiveDirectoryConnectHealth" <<$AzureActiveDirectoryConnectHealth>> as AzureActiveDirectoryConnectHealth
+sprite $AzureActiveDirectoryDomainServices Azure-Active-Directory-Domain-Services.svg
+rectangle "AzureActiveDirectoryDomainServices" <<$AzureActiveDirectoryDomainServices>> as AzureActiveDirectoryDomainServices
+sprite $AzureActiveDirectoryGroup Azure-Active-Directory-Group.svg
+rectangle "AzureActiveDirectoryGroup" <<$AzureActiveDirectoryGroup>> as AzureActiveDirectoryGroup
+sprite $AzureActiveDirectoryIdentityProtection Azure-Active-Directory-Identity-Protection.svg
+rectangle "AzureActiveDirectoryIdentityProtection" <<$AzureActiveDirectoryIdentityProtection>> as AzureActiveDirectoryIdentityProtection
+sprite $AzureActiveDirectoryIdentitySecureScore Azure-Active-Directory-Identity-Secure-Score.svg
+rectangle "AzureActiveDirectoryIdentitySecureScore" <<$AzureActiveDirectoryIdentitySecureScore>> as AzureActiveDirectoryIdentitySecureScore
+sprite $AzureActiveDirectoryPrivilegedIdentityManagement Azure-Active-Directory-Privileged-Identity-Management.svg
+rectangle "AzureActiveDirectoryPrivilegedIdentityManagement" <<$AzureActiveDirectoryPrivilegedIdentityManagement>> as AzureActiveDirectoryPrivilegedIdentityManagement
+sprite $AzureActiveDirectoryRiskDetection Azure-Active-Directory-Risk-Detection.svg
+rectangle "AzureActiveDirectoryRiskDetection" <<$AzureActiveDirectoryRiskDetection>> as AzureActiveDirectoryRiskDetection
+sprite $AzureActiveDirectoryRiskySignIn Azure-Active-Directory-Risky-Sign-In.svg
+rectangle "AzureActiveDirectoryRiskySignIn" <<$AzureActiveDirectoryRiskySignIn>> as AzureActiveDirectoryRiskySignIn
+sprite $AzureActiveDirectoryRiskyUser Azure-Active-Directory-Risky-User.svg
+rectangle "AzureActiveDirectoryRiskyUser" <<$AzureActiveDirectoryRiskyUser>> as AzureActiveDirectoryRiskyUser
+sprite $AzureActiveDirectorySecurity Azure-Active-Directory-Security.svg
+rectangle "AzureActiveDirectorySecurity" <<$AzureActiveDirectorySecurity>> as AzureActiveDirectorySecurity
+sprite $AzureActiveDirectoryUser Azure-Active-Directory-User.svg
+rectangle "AzureActiveDirectoryUser" <<$AzureActiveDirectoryUser>> as AzureActiveDirectoryUser
+sprite $AzureActiveDirectory Azure-Active-Directory.svg
+rectangle "AzureActiveDirectory" <<$AzureActiveDirectory>> as AzureActiveDirectory
+sprite $AzureAdvisor Azure-Advisor.svg
+rectangle "AzureAdvisor" <<$AzureAdvisor>> as AzureAdvisor
+sprite $AzureAPIForFHIR Azure-API-For-FHIR.svg
+rectangle "AzureAPIForFHIR" <<$AzureAPIForFHIR>> as AzureAPIForFHIR
+sprite $AzureArcMachine Azure-Arc-Machine.svg
+rectangle "AzureArcMachine" <<$AzureArcMachine>> as AzureArcMachine
+sprite $AzureArcService Azure-Arc-Service.svg
+rectangle "AzureArcService" <<$AzureArcService>> as AzureArcService
+sprite $AzureArtifact Azure-Artifact.svg
+rectangle "AzureArtifact" <<$AzureArtifact>> as AzureArtifact
+sprite $AzureAttestation Azure-Attestation.svg
+rectangle "AzureAttestation" <<$AzureAttestation>> as AzureAttestation
+sprite $AzureAutomationRunbook Azure-Automation-Runbook.svg
+rectangle "AzureAutomationRunbook" <<$AzureAutomationRunbook>> as AzureAutomationRunbook
+sprite $AzureBatchAccount Azure-Batch-Account.svg
+rectangle "AzureBatchAccount" <<$AzureBatchAccount>> as AzureBatchAccount
+sprite $AzureBatch Azure-Batch.svg
+rectangle "AzureBatch" <<$AzureBatch>> as AzureBatch
+sprite $AzureBestPractices Azure-Best-Practices.svg
+rectangle "AzureBestPractices" <<$AzureBestPractices>> as AzureBestPractices
+sprite $AzureBlockchainService Azure-Blockchain-Service.svg
+rectangle "AzureBlockchainService" <<$AzureBlockchainService>> as AzureBlockchainService
+sprite $AzureBlueprint Azure-Blueprint.svg
+rectangle "AzureBlueprint" <<$AzureBlueprint>> as AzureBlueprint
+sprite $AzureBoard Azure-Board.svg
+rectangle "AzureBoard" <<$AzureBoard>> as AzureBoard
+sprite $AzureCacheForRedis Azure-Cache-For-Redis.svg
+rectangle "AzureCacheForRedis" <<$AzureCacheForRedis>> as AzureCacheForRedis
+sprite $AzureCosmosDB Azure-Cosmos-DB.svg
+rectangle "AzureCosmosDB" <<$AzureCosmosDB>> as AzureCosmosDB
+sprite $AzureDataExplorerCluster Azure-Data-Explorer-Cluster.svg
+rectangle "AzureDataExplorerCluster" <<$AzureDataExplorerCluster>> as AzureDataExplorerCluster
+sprite $AzureDatabaseForMariadb Azure-Database-For-Mariadb.svg
+rectangle "AzureDatabaseForMariadb" <<$AzureDatabaseForMariadb>> as AzureDatabaseForMariadb
+sprite $AzureDatabaseForMysql Azure-Database-For-Mysql.svg
+rectangle "AzureDatabaseForMysql" <<$AzureDatabaseForMysql>> as AzureDatabaseForMysql
+sprite $AzureDatabaseForPostgresql Azure-Database-For-Postgresql.svg
+rectangle "AzureDatabaseForPostgresql" <<$AzureDatabaseForPostgresql>> as AzureDatabaseForPostgresql
+sprite $AzureDatabaseMigrationService Azure-Database-Migration-Service.svg
+rectangle "AzureDatabaseMigrationService" <<$AzureDatabaseMigrationService>> as AzureDatabaseMigrationService
+sprite $AzureDatabricks Azure-Databricks.svg
+rectangle "AzureDatabricks" <<$AzureDatabricks>> as AzureDatabricks
+sprite $AzureDevOps Azure-Dev-Ops.svg
+rectangle "AzureDevOps" <<$AzureDevOps>> as AzureDevOps
+sprite $AzureFrontDoor Azure-Front-Door.svg
+rectangle "AzureFrontDoor" <<$AzureFrontDoor>> as AzureFrontDoor
+sprite $AzureInformationProtection Azure-Information-Protection.svg
+rectangle "AzureInformationProtection" <<$AzureInformationProtection>> as AzureInformationProtection
+sprite $AzureLighthouseManagement Azure-Lighthouse-Management.svg
+rectangle "AzureLighthouseManagement" <<$AzureLighthouseManagement>> as AzureLighthouseManagement
+sprite $AzureLighthouseMyAuditHistory Azure-Lighthouse-My-Audit-History.svg
+rectangle "AzureLighthouseMyAuditHistory" <<$AzureLighthouseMyAuditHistory>> as AzureLighthouseMyAuditHistory
+sprite $AzureLighthouseMyCustomers Azure-Lighthouse-My-Customers.svg
+rectangle "AzureLighthouseMyCustomers" <<$AzureLighthouseMyCustomers>> as AzureLighthouseMyCustomers
+sprite $AzureLighthouseMyPermission Azure-Lighthouse-My-Permission.svg
+rectangle "AzureLighthouseMyPermission" <<$AzureLighthouseMyPermission>> as AzureLighthouseMyPermission
+sprite $AzureLighthouseMyRequest Azure-Lighthouse-My-Request.svg
+rectangle "AzureLighthouseMyRequest" <<$AzureLighthouseMyRequest>> as AzureLighthouseMyRequest
+sprite $AzureLighthouseMyRole Azure-Lighthouse-My-Role.svg
+rectangle "AzureLighthouseMyRole" <<$AzureLighthouseMyRole>> as AzureLighthouseMyRole
+sprite $AzureLighthouseProjection Azure-Lighthouse-Projection.svg
+rectangle "AzureLighthouseProjection" <<$AzureLighthouseProjection>> as AzureLighthouseProjection
+sprite $AzureLighthouseProtection Azure-Lighthouse-Protection.svg
+rectangle "AzureLighthouseProtection" <<$AzureLighthouseProtection>> as AzureLighthouseProtection
+sprite $AzureLighthouseRBAC Azure-Lighthouse-RBAC.svg
+rectangle "AzureLighthouseRBAC" <<$AzureLighthouseRBAC>> as AzureLighthouseRBAC
+sprite $AzureLighthouseServiceProvider Azure-Lighthouse-Service-Provider.svg
+rectangle "AzureLighthouseServiceProvider" <<$AzureLighthouseServiceProvider>> as AzureLighthouseServiceProvider
+sprite $AzureLighthouse Azure-Lighthouse.svg
+rectangle "AzureLighthouse" <<$AzureLighthouse>> as AzureLighthouse
+sprite $AzureMapsAccount Azure-Maps-Account.svg
+rectangle "AzureMapsAccount" <<$AzureMapsAccount>> as AzureMapsAccount
+sprite $AzureMediaServices Azure-Media-Services.svg
+rectangle "AzureMediaServices" <<$AzureMediaServices>> as AzureMediaServices
+sprite $AzureMigrate Azure-Migrate.svg
+rectangle "AzureMigrate" <<$AzureMigrate>> as AzureMigrate
+sprite $AzureMonitorPrivateLinkScope Azure-Monitor-Private-Link-Scope.svg
+rectangle "AzureMonitorPrivateLinkScope" <<$AzureMonitorPrivateLinkScope>> as AzureMonitorPrivateLinkScope
+sprite $AzureMonitor Azure-Monitor.svg
+rectangle "AzureMonitor" <<$AzureMonitor>> as AzureMonitor
+sprite $AzureMultifactorAuthentication Azure-Multifactor-Authentication.svg
+rectangle "AzureMultifactorAuthentication" <<$AzureMultifactorAuthentication>> as AzureMultifactorAuthentication
+sprite $AzureNetappFiles Azure-Netapp-Files.svg
+rectangle "AzureNetappFiles" <<$AzureNetappFiles>> as AzureNetappFiles
+sprite $AzurePipelines Azure-Pipelines.svg
+rectangle "AzurePipelines" <<$AzurePipelines>> as AzurePipelines
+sprite $AzureRepo Azure-Repo.svg
+rectangle "AzureRepo" <<$AzureRepo>> as AzureRepo
+sprite $AzureRoleBasedAccessControl Azure-Role-Based-Access-Control.svg
+rectangle "AzureRoleBasedAccessControl" <<$AzureRoleBasedAccessControl>> as AzureRoleBasedAccessControl
+sprite $AzureSpringCloud Azure-Spring-Cloud.svg
+rectangle "AzureSpringCloud" <<$AzureSpringCloud>> as AzureSpringCloud
+sprite $AzureStackBackup Azure-Stack-Backup.svg
+rectangle "AzureStackBackup" <<$AzureStackBackup>> as AzureStackBackup
+sprite $AzureStackCapacity Azure-Stack-Capacity.svg
+rectangle "AzureStackCapacity" <<$AzureStackCapacity>> as AzureStackCapacity
+sprite $AzureStackEdgeManagement Azure-Stack-Edge-Management.svg
+rectangle "AzureStackEdgeManagement" <<$AzureStackEdgeManagement>> as AzureStackEdgeManagement
+sprite $AzureStackOffer Azure-Stack-Offer.svg
+rectangle "AzureStackOffer" <<$AzureStackOffer>> as AzureStackOffer
+sprite $AzureStackPlan Azure-Stack-Plan.svg
+rectangle "AzureStackPlan" <<$AzureStackPlan>> as AzureStackPlan
+sprite $AzureStackUpdate Azure-Stack-Update.svg
+rectangle "AzureStackUpdate" <<$AzureStackUpdate>> as AzureStackUpdate
+sprite $AzureStackUserSubscription Azure-Stack-User-Subscription.svg
+rectangle "AzureStackUserSubscription" <<$AzureStackUserSubscription>> as AzureStackUserSubscription
+sprite $AzureStack Azure-Stack.svg
+rectangle "AzureStack" <<$AzureStack>> as AzureStack
+sprite $AzureSynapseAnalytics Azure-Synapse-Analytics.svg
+rectangle "AzureSynapseAnalytics" <<$AzureSynapseAnalytics>> as AzureSynapseAnalytics
+sprite $AzureTestPlan Azure-Test-Plan.svg
+rectangle "AzureTestPlan" <<$AzureTestPlan>> as AzureTestPlan
+sprite $Azure Azure.svg
+rectangle "Azure" <<$Azure>> as Azure
+@enduml

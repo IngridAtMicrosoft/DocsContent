@@ -1,0 +1,41 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with P and Q'
+sprite $PeeringService Peering-Service.svg
+rectangle "PeeringService" <<$PeeringService>> as PeeringService
+sprite $PerformanceDiagnostics Performance-Diagnostics.svg
+rectangle "PerformanceDiagnostics" <<$PerformanceDiagnostics>> as PerformanceDiagnostics
+sprite $Performance Performance.svg
+rectangle "Performance" <<$Performance>> as Performance
+sprite $Playbooks Playbooks.svg
+rectangle "Playbooks" <<$Playbooks>> as Playbooks
+sprite $Policy Policy.svg
+rectangle "Policy" <<$Policy>> as Policy
+sprite $PowerBIEmbedded Power-BI-Embedded.svg
+rectangle "PowerBIEmbedded" <<$PowerBIEmbedded>> as PowerBIEmbedded
+sprite $PowerBI Power-BI.svg
+rectangle "PowerBI" <<$PowerBI>> as PowerBI
+sprite $Powershell Powershell.svg
+rectangle "Powershell" <<$Powershell>> as Powershell
+sprite $PrivateDNSZone Private-DNS-Zone.svg
+rectangle "PrivateDNSZone" <<$PrivateDNSZone>> as PrivateDNSZone
+sprite $PrivateEndpoint Private-Endpoint.svg
+rectangle "PrivateEndpoint" <<$PrivateEndpoint>> as PrivateEndpoint
+sprite $PrivateLink Private-Link.svg
+rectangle "PrivateLink" <<$PrivateLink>> as PrivateLink
+sprite $Property Property.svg
+rectangle "Property" <<$Property>> as Property
+sprite $ProximityPlacementGroup Proximity-Placement-Group.svg
+rectangle "ProximityPlacementGroup" <<$ProximityPlacementGroup>> as ProximityPlacementGroup
+sprite $PublicIPAddress Public-IP-Address.svg
+rectangle "PublicIPAddress" <<$PublicIPAddress>> as PublicIPAddress
+sprite $PublicIPPrefix Public-IP-Prefix.svg
+rectangle "PublicIPPrefix" <<$PublicIPPrefix>> as PublicIPPrefix
+sprite $Python Python.svg
+rectangle "Python" <<$Python>> as Python
+sprite $QuickstartCenter Quickstart-Center.svg
+rectangle "QuickstartCenter" <<$QuickstartCenter>> as QuickstartCenter
+sprite $Recent Recent.svg
+@enduml

@@ -1,0 +1,16 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with O'
+sprite $OnPremisesDataGateway On-Premises-Data-Gateway.svg
+rectangle "OnPremisesDataGateway" <<$OnPremisesDataGateway>> as OnPremisesDataGateway
+sprite $OpenDataset Open-Dataset.svg
+rectangle "OpenDataset" <<$OpenDataset>> as OpenDataset
+sprite $OpenshiftCluster Openshift-Cluster.svg
+rectangle "OpenshiftCluster" <<$OpenshiftCluster>> as OpenshiftCluster
+sprite $OperationalExcellence Operational-Excellence.svg
+rectangle "OperationalExcellence" <<$OperationalExcellence>> as OperationalExcellence
+sprite $OrganisationalRelationship Organisational-Relationship.svg
+rectangle "OrganisationalRelationship" <<$OrganisationalRelationship>> as OrganisationalRelationship
+@enduml

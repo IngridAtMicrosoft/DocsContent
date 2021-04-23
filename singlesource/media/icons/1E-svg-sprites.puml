@@ -1,0 +1,40 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with E'
+sprite $Ebook Ebook.svg
+rectangle "Ebook" <<$Ebook>> as Ebook
+sprite $Education Education.svg
+rectangle "Education" <<$Education>> as Education
+sprite $ElasticJobAgent Elastic-Job-Agent.svg
+rectangle "ElasticJobAgent" <<$ElasticJobAgent>> as ElasticJobAgent
+sprite $EndpointSecurity Endpoint-Security.svg
+rectangle "EndpointSecurity" <<$EndpointSecurity>> as EndpointSecurity
+sprite $EnterpriseApplication Enterprise-Application.svg
+rectangle "EnterpriseApplication" <<$EnterpriseApplication>> as EnterpriseApplication
+sprite $EventGridDomain Event-Grid-Domain.svg
+rectangle "EventGridDomain" <<$EventGridDomain>> as EventGridDomain
+sprite $EventGridSubscription Event-Grid-Subscription.svg
+rectangle "EventGridSubscription" <<$EventGridSubscription>> as EventGridSubscription
+sprite $EventGridTopic Event-Grid-Topic.svg
+rectangle "EventGridTopic" <<$EventGridTopic>> as EventGridTopic
+sprite $EventHubCluster Event-Hub-Cluster.svg
+rectangle "EventHubCluster" <<$EventHubCluster>> as EventHubCluster
+sprite $EventHub Event-Hub.svg
+rectangle "EventHub" <<$EventHub>> as EventHub
+sprite $Event Event.svg
+rectangle "Event" <<$Event>> as Event
+sprite $ExportTemplate Export-Template.svg
+rectangle "ExportTemplate" <<$ExportTemplate>> as ExportTemplate
+sprite $ExpressrouteCircuit Expressroute-Circuit.svg
+rectangle "ExpressrouteCircuit" <<$ExpressrouteCircuit>> as ExpressrouteCircuit
+sprite $ExpressrouteConnection Expressroute-Connection.svg
+rectangle "ExpressrouteConnection" <<$ExpressrouteConnection>> as ExpressrouteConnection
+sprite $ExpressrouteFilter Expressroute-Filter.svg
+rectangle "ExpressrouteFilter" <<$ExpressrouteFilter>> as ExpressrouteFilter
+sprite $ExtendedSecurityUpdates Extended-Security-Updates.svg
+rectangle "ExtendedSecurityUpdates" <<$ExtendedSecurityUpdates>> as ExtendedSecurityUpdates
+sprite $Extension Extension.svg
+rectangle "Extension" <<$Extension>> as Extension
+@enduml

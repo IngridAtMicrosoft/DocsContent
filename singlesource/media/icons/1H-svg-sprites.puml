@@ -1,0 +1,19 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+'all svg sprites starting with H'
+sprite $HdinsightCluster Hdinsight-Cluster.svg
+rectangle "HdinsightCluster" <<$HdinsightCluster>> as HdinsightCluster
+sprite $HelpAndSupport Help-And-Support.svg
+rectangle "HelpAndSupport" <<$HelpAndSupport>> as HelpAndSupport
+sprite $HighAvailability High-Availability.svg
+rectangle "HighAvailability" <<$HighAvailability>> as HighAvailability
+sprite $HostGroup Host-Group.svg
+rectangle "HostGroup" <<$HostGroup>> as HostGroup
+sprite $Host Host.svg
+rectangle "Host" <<$Host>> as Host
+sprite $HPCCache HPC-Cache.svg
+rectangle "HPCCache" <<$HPCCache>> as HPCCache
+sprite $Hunting Hunting.svg
+@enduml
