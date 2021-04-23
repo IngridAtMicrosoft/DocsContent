@@ -47,6 +47,6 @@ jobs:
         with: 
           commit_user_name: "IngridAtMicrosoft"
           commit_user_email: "inhenkel@microsoft.com"
-          commit_author: "IngridAtMicrosoft>"
+          commit_author: "IngridAtMicrosoft"
           commit_message: "Generate SVG and PNG images for PlantUML diagrams" 
           branch: ${{ github.head_ref }}
