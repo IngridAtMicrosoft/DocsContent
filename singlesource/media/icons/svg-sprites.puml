@@ -1,6 +1,8 @@
 @startuml
 !pragma revision 1
 !include AzureCommon.puml
+
+/'all svg sprites'/
 sprite $ActivityLog /Activity-Log.svg
 rectangle "ActivityLog" <<$ActivityLog>> as ActivityLog
 sprite $Activity /Activity.svg
