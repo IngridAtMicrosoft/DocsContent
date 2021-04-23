@@ -1,4 +1,0 @@
-@startuml
-!pragma revision 1
-!include AzureCommon.puml
-@enduml
