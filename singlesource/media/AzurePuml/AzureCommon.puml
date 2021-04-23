@@ -20,6 +20,9 @@ skinparam maxMessageSize 150
 
 skinparam rectangle {
     StereotypeFontSize 12
+    BackgroundColor white
+    BorderThickness 2
+    Shadowing false
 }
 
 skinparam Arrow {

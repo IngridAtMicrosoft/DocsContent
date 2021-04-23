@@ -1,8 +1,0 @@
-@startuml
-sprite $AzureSentinel Azure-Sentinel.svg
-rectangle "AzureSentinel" <<$AzureSentinel>> as AzureSentinel
-sprite $KeyVaults Key-Vaults.svg
-rectangle "KeyVaults" <<$KeyVaults>> as KeyVaults
-sprite $SecurityCenter Security-Center.svg
-rectangle "SecurityCenter" <<$SecurityCenter>> as SecurityCenter
-@enduml

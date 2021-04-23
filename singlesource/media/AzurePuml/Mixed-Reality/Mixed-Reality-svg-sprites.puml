@@ -1,4 +1,0 @@
-@startuml
-sprite $SpatialAnchor Spatial-Anchor.svg
-rectangle "SpatialAnchor" <<$SpatialAnchor>> as SpatialAnchor
-@enduml
