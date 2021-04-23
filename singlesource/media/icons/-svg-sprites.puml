@@ -1,0 +1,801 @@
+@startuml
+!pragma revision 1
+!include AzureCommon.puml
+
+sprite $ActivityLog /Activity-Log.svg
+rectangle "ActivityLog" <<$ActivityLog>> as ActivityLog
+sprite $Activity /Activity.svg
+rectangle "Activity" <<$Activity>> as Activity
+/'
+sprite $AdaptiveApplicationControl /Adaptive-Application-Control.svg
+rectangle "AdaptiveApplicationControl" <<$AdaptiveApplicationControl>> as AdaptiveApplicationControl
+sprite $AdaptiveNetworkHardening /Adaptive-Network-Hardening.svg
+rectangle "AdaptiveNetworkHardening" <<$AdaptiveNetworkHardening>> as AdaptiveNetworkHardening
+sprite $ADFSProxy /ADFS-Proxy.svg
+rectangle "ADFSProxy" <<$ADFSProxy>> as ADFSProxy
+sprite $ADFS /ADFS.svg
+rectangle "ADFS" <<$ADFS>> as ADFS
+sprite $Advisor /Advisor.svg
+rectangle "Advisor" <<$Advisor>> as Advisor
+sprite $Alert /Alert.svg
+rectangle "Alert" <<$Alert>> as Alert
+sprite $AllResources /All-Resources.svg
+rectangle "AllResources" <<$AllResources>> as AllResources
+sprite $AnalysisService /Analysis-Service.svg
+rectangle "AnalysisService" <<$AnalysisService>> as AnalysisService
+sprite $APIConnection /API-Connection.svg
+rectangle "APIConnection" <<$APIConnection>> as APIConnection
+sprite $APIManagementService /API-Management-Service.svg
+rectangle "APIManagementService" <<$APIManagementService>> as APIManagementService
+sprite $ApplicationChangeAnalysis /Application-Change-Analysis.svg
+rectangle "ApplicationChangeAnalysis" <<$ApplicationChangeAnalysis>> as ApplicationChangeAnalysis
+sprite $ApplicationConfiguration /Application-Configuration.svg
+rectangle "ApplicationConfiguration" <<$ApplicationConfiguration>> as ApplicationConfiguration
+sprite $ApplicationGateway /Application-Gateway.svg
+rectangle "ApplicationGateway" <<$ApplicationGateway>> as ApplicationGateway
+sprite $ApplicationInsights /Application-Insights.svg
+rectangle "ApplicationInsights" <<$ApplicationInsights>> as ApplicationInsights
+sprite $ApplicationRegistration /Application-Registration.svg
+rectangle "ApplicationRegistration" <<$ApplicationRegistration>> as ApplicationRegistration
+sprite $ApplicationSecurityGroup /Application-Security-Group.svg
+rectangle "ApplicationSecurityGroup" <<$ApplicationSecurityGroup>> as ApplicationSecurityGroup
+sprite $ApplicationServiceCertificate /Application-Service-Certificate.svg
+rectangle "ApplicationServiceCertificate" <<$ApplicationServiceCertificate>> as ApplicationServiceCertificate
+sprite $ApplicationServiceDomain /Application-Service-Domain.svg
+rectangle "ApplicationServiceDomain" <<$ApplicationServiceDomain>> as ApplicationServiceDomain
+sprite $ApplicationServiceEnvironment /Application-Service-Environment.svg
+rectangle "ApplicationServiceEnvironment" <<$ApplicationServiceEnvironment>> as ApplicationServiceEnvironment
+sprite $ApplicationServicePlan /Application-Service-Plan.svg
+rectangle "ApplicationServicePlan" <<$ApplicationServicePlan>> as ApplicationServicePlan
+sprite $ApplicationService /Application-Service.svg
+rectangle "ApplicationService" <<$ApplicationService>> as ApplicationService
+sprite $ArchiveStorage /Archive-Storage.svg
+rectangle "ArchiveStorage" <<$ArchiveStorage>> as ArchiveStorage
+sprite $ARMTemplate /ARM-Template.svg
+rectangle "ARMTemplate" <<$ARMTemplate>> as ARMTemplate
+sprite $AutomationAccount /Automation-Account.svg
+rectangle "AutomationAccount" <<$AutomationAccount>> as AutomationAccount
+sprite $AzureActiveDirectoryAuthenticationMethod /Azure-Active-Directory-Authentication-Method.svg
+rectangle "AzureActiveDirectoryAuthenticationMethod" <<$AzureActiveDirectoryAuthenticationMethod>> as AzureActiveDirectoryAuthenticationMethod
+sprite $AzureActiveDirectoryB2B /Azure-Active-Directory-B2B.svg
+rectangle "AzureActiveDirectoryB2B" <<$AzureActiveDirectoryB2B>> as AzureActiveDirectoryB2B
+sprite $AzureActiveDirectoryB2C /Azure-Active-Directory-B2C.svg
+rectangle "AzureActiveDirectoryB2C" <<$AzureActiveDirectoryB2C>> as AzureActiveDirectoryB2C
+sprite $AzureActiveDirectoryConnectHealth /Azure-Active-Directory-Connect-Health.svg
+rectangle "AzureActiveDirectoryConnectHealth" <<$AzureActiveDirectoryConnectHealth>> as AzureActiveDirectoryConnectHealth
+sprite $AzureActiveDirectoryDomainServices /Azure-Active-Directory-Domain-Services.svg
+rectangle "AzureActiveDirectoryDomainServices" <<$AzureActiveDirectoryDomainServices>> as AzureActiveDirectoryDomainServices
+sprite $AzureActiveDirectoryGroup /Azure-Active-Directory-Group.svg
+rectangle "AzureActiveDirectoryGroup" <<$AzureActiveDirectoryGroup>> as AzureActiveDirectoryGroup
+sprite $AzureActiveDirectoryIdentityProtection /Azure-Active-Directory-Identity-Protection.svg
+rectangle "AzureActiveDirectoryIdentityProtection" <<$AzureActiveDirectoryIdentityProtection>> as AzureActiveDirectoryIdentityProtection
+sprite $AzureActiveDirectoryIdentitySecureScore /Azure-Active-Directory-Identity-Secure-Score.svg
+rectangle "AzureActiveDirectoryIdentitySecureScore" <<$AzureActiveDirectoryIdentitySecureScore>> as AzureActiveDirectoryIdentitySecureScore
+sprite $AzureActiveDirectoryPrivilegedIdentityManagement /Azure-Active-Directory-Privileged-Identity-Management.svg
+rectangle "AzureActiveDirectoryPrivilegedIdentityManagement" <<$AzureActiveDirectoryPrivilegedIdentityManagement>> as AzureActiveDirectoryPrivilegedIdentityManagement
+sprite $AzureActiveDirectoryRiskDetection /Azure-Active-Directory-Risk-Detection.svg
+rectangle "AzureActiveDirectoryRiskDetection" <<$AzureActiveDirectoryRiskDetection>> as AzureActiveDirectoryRiskDetection
+sprite $AzureActiveDirectoryRiskySignIn /Azure-Active-Directory-Risky-Sign-In.svg
+rectangle "AzureActiveDirectoryRiskySignIn" <<$AzureActiveDirectoryRiskySignIn>> as AzureActiveDirectoryRiskySignIn
+sprite $AzureActiveDirectoryRiskyUser /Azure-Active-Directory-Risky-User.svg
+rectangle "AzureActiveDirectoryRiskyUser" <<$AzureActiveDirectoryRiskyUser>> as AzureActiveDirectoryRiskyUser
+sprite $AzureActiveDirectorySecurity /Azure-Active-Directory-Security.svg
+rectangle "AzureActiveDirectorySecurity" <<$AzureActiveDirectorySecurity>> as AzureActiveDirectorySecurity
+sprite $AzureActiveDirectoryUser /Azure-Active-Directory-User.svg
+rectangle "AzureActiveDirectoryUser" <<$AzureActiveDirectoryUser>> as AzureActiveDirectoryUser
+sprite $AzureActiveDirectory /Azure-Active-Directory.svg
+rectangle "AzureActiveDirectory" <<$AzureActiveDirectory>> as AzureActiveDirectory
+sprite $AzureAdvisor /Azure-Advisor.svg
+rectangle "AzureAdvisor" <<$AzureAdvisor>> as AzureAdvisor
+sprite $AzureAPIForFHIR /Azure-API-For-FHIR.svg
+rectangle "AzureAPIForFHIR" <<$AzureAPIForFHIR>> as AzureAPIForFHIR
+sprite $AzureArcMachine /Azure-Arc-Machine.svg
+rectangle "AzureArcMachine" <<$AzureArcMachine>> as AzureArcMachine
+sprite $AzureArcService /Azure-Arc-Service.svg
+rectangle "AzureArcService" <<$AzureArcService>> as AzureArcService
+sprite $AzureArtifact /Azure-Artifact.svg
+rectangle "AzureArtifact" <<$AzureArtifact>> as AzureArtifact
+sprite $AzureAttestation /Azure-Attestation.svg
+rectangle "AzureAttestation" <<$AzureAttestation>> as AzureAttestation
+sprite $AzureAutomationRunbook /Azure-Automation-Runbook.svg
+rectangle "AzureAutomationRunbook" <<$AzureAutomationRunbook>> as AzureAutomationRunbook
+sprite $AzureBatchAccount /Azure-Batch-Account.svg
+rectangle "AzureBatchAccount" <<$AzureBatchAccount>> as AzureBatchAccount
+sprite $AzureBatch /Azure-Batch.svg
+rectangle "AzureBatch" <<$AzureBatch>> as AzureBatch
+sprite $AzureBestPractices /Azure-Best-Practices.svg
+rectangle "AzureBestPractices" <<$AzureBestPractices>> as AzureBestPractices
+sprite $AzureBlockchainService /Azure-Blockchain-Service.svg
+rectangle "AzureBlockchainService" <<$AzureBlockchainService>> as AzureBlockchainService
+sprite $AzureBlueprint /Azure-Blueprint.svg
+rectangle "AzureBlueprint" <<$AzureBlueprint>> as AzureBlueprint
+sprite $AzureBoard /Azure-Board.svg
+rectangle "AzureBoard" <<$AzureBoard>> as AzureBoard
+sprite $AzureCacheForRedis /Azure-Cache-For-Redis.svg
+rectangle "AzureCacheForRedis" <<$AzureCacheForRedis>> as AzureCacheForRedis
+sprite $AzureCosmosDB /Azure-Cosmos-DB.svg
+rectangle "AzureCosmosDB" <<$AzureCosmosDB>> as AzureCosmosDB
+sprite $AzureDataExplorerCluster /Azure-Data-Explorer-Cluster.svg
+rectangle "AzureDataExplorerCluster" <<$AzureDataExplorerCluster>> as AzureDataExplorerCluster
+sprite $AzureDatabaseForMariadb /Azure-Database-For-Mariadb.svg
+rectangle "AzureDatabaseForMariadb" <<$AzureDatabaseForMariadb>> as AzureDatabaseForMariadb
+sprite $AzureDatabaseForMysql /Azure-Database-For-Mysql.svg
+rectangle "AzureDatabaseForMysql" <<$AzureDatabaseForMysql>> as AzureDatabaseForMysql
+sprite $AzureDatabaseForPostgresql /Azure-Database-For-Postgresql.svg
+rectangle "AzureDatabaseForPostgresql" <<$AzureDatabaseForPostgresql>> as AzureDatabaseForPostgresql
+sprite $AzureDatabaseMigrationService /Azure-Database-Migration-Service.svg
+rectangle "AzureDatabaseMigrationService" <<$AzureDatabaseMigrationService>> as AzureDatabaseMigrationService
+sprite $AzureDatabricks /Azure-Databricks.svg
+rectangle "AzureDatabricks" <<$AzureDatabricks>> as AzureDatabricks
+sprite $AzureDevOps /Azure-Dev-Ops.svg
+rectangle "AzureDevOps" <<$AzureDevOps>> as AzureDevOps
+sprite $AzureFrontDoor /Azure-Front-Door.svg
+rectangle "AzureFrontDoor" <<$AzureFrontDoor>> as AzureFrontDoor
+sprite $AzureInformationProtection /Azure-Information-Protection.svg
+rectangle "AzureInformationProtection" <<$AzureInformationProtection>> as AzureInformationProtection
+sprite $AzureLighthouseManagement /Azure-Lighthouse-Management.svg
+rectangle "AzureLighthouseManagement" <<$AzureLighthouseManagement>> as AzureLighthouseManagement
+sprite $AzureLighthouseMyAuditHistory /Azure-Lighthouse-My-Audit-History.svg
+rectangle "AzureLighthouseMyAuditHistory" <<$AzureLighthouseMyAuditHistory>> as AzureLighthouseMyAuditHistory
+sprite $AzureLighthouseMyCustomers /Azure-Lighthouse-My-Customers.svg
+rectangle "AzureLighthouseMyCustomers" <<$AzureLighthouseMyCustomers>> as AzureLighthouseMyCustomers
+sprite $AzureLighthouseMyPermission /Azure-Lighthouse-My-Permission.svg
+rectangle "AzureLighthouseMyPermission" <<$AzureLighthouseMyPermission>> as AzureLighthouseMyPermission
+sprite $AzureLighthouseMyRequest /Azure-Lighthouse-My-Request.svg
+rectangle "AzureLighthouseMyRequest" <<$AzureLighthouseMyRequest>> as AzureLighthouseMyRequest
+sprite $AzureLighthouseMyRole /Azure-Lighthouse-My-Role.svg
+rectangle "AzureLighthouseMyRole" <<$AzureLighthouseMyRole>> as AzureLighthouseMyRole
+sprite $AzureLighthouseProjection /Azure-Lighthouse-Projection.svg
+rectangle "AzureLighthouseProjection" <<$AzureLighthouseProjection>> as AzureLighthouseProjection
+sprite $AzureLighthouseProtection /Azure-Lighthouse-Protection.svg
+rectangle "AzureLighthouseProtection" <<$AzureLighthouseProtection>> as AzureLighthouseProtection
+sprite $AzureLighthouseRBAC /Azure-Lighthouse-RBAC.svg
+rectangle "AzureLighthouseRBAC" <<$AzureLighthouseRBAC>> as AzureLighthouseRBAC
+sprite $AzureLighthouseServiceProvider /Azure-Lighthouse-Service-Provider.svg
+rectangle "AzureLighthouseServiceProvider" <<$AzureLighthouseServiceProvider>> as AzureLighthouseServiceProvider
+sprite $AzureLighthouse /Azure-Lighthouse.svg
+rectangle "AzureLighthouse" <<$AzureLighthouse>> as AzureLighthouse
+sprite $AzureMapsAccount /Azure-Maps-Account.svg
+rectangle "AzureMapsAccount" <<$AzureMapsAccount>> as AzureMapsAccount
+sprite $AzureMediaServices /Azure-Media-Services.svg
+rectangle "AzureMediaServices" <<$AzureMediaServices>> as AzureMediaServices
+sprite $AzureMigrate /Azure-Migrate.svg
+rectangle "AzureMigrate" <<$AzureMigrate>> as AzureMigrate
+sprite $AzureMonitorPrivateLinkScope /Azure-Monitor-Private-Link-Scope.svg
+rectangle "AzureMonitorPrivateLinkScope" <<$AzureMonitorPrivateLinkScope>> as AzureMonitorPrivateLinkScope
+sprite $AzureMonitor /Azure-Monitor.svg
+rectangle "AzureMonitor" <<$AzureMonitor>> as AzureMonitor
+sprite $AzureMultifactorAuthentication /Azure-Multifactor-Authentication.svg
+rectangle "AzureMultifactorAuthentication" <<$AzureMultifactorAuthentication>> as AzureMultifactorAuthentication
+sprite $AzureNetappFiles /Azure-Netapp-Files.svg
+rectangle "AzureNetappFiles" <<$AzureNetappFiles>> as AzureNetappFiles
+sprite $AzurePipelines /Azure-Pipelines.svg
+rectangle "AzurePipelines" <<$AzurePipelines>> as AzurePipelines
+sprite $AzureRepo /Azure-Repo.svg
+rectangle "AzureRepo" <<$AzureRepo>> as AzureRepo
+sprite $AzureRoleBasedAccessControl /Azure-Role-Based-Access-Control.svg
+rectangle "AzureRoleBasedAccessControl" <<$AzureRoleBasedAccessControl>> as AzureRoleBasedAccessControl
+sprite $AzureSpringCloud /Azure-Spring-Cloud.svg
+rectangle "AzureSpringCloud" <<$AzureSpringCloud>> as AzureSpringCloud
+sprite $AzureStackBackup /Azure-Stack-Backup.svg
+rectangle "AzureStackBackup" <<$AzureStackBackup>> as AzureStackBackup
+sprite $AzureStackCapacity /Azure-Stack-Capacity.svg
+rectangle "AzureStackCapacity" <<$AzureStackCapacity>> as AzureStackCapacity
+sprite $AzureStackEdgeManagement /Azure-Stack-Edge-Management.svg
+rectangle "AzureStackEdgeManagement" <<$AzureStackEdgeManagement>> as AzureStackEdgeManagement
+sprite $AzureStackOffer /Azure-Stack-Offer.svg
+rectangle "AzureStackOffer" <<$AzureStackOffer>> as AzureStackOffer
+sprite $AzureStackPlan /Azure-Stack-Plan.svg
+rectangle "AzureStackPlan" <<$AzureStackPlan>> as AzureStackPlan
+sprite $AzureStackUpdate /Azure-Stack-Update.svg
+rectangle "AzureStackUpdate" <<$AzureStackUpdate>> as AzureStackUpdate
+sprite $AzureStackUserSubscription /Azure-Stack-User-Subscription.svg
+rectangle "AzureStackUserSubscription" <<$AzureStackUserSubscription>> as AzureStackUserSubscription
+sprite $AzureStack /Azure-Stack.svg
+rectangle "AzureStack" <<$AzureStack>> as AzureStack
+sprite $AzureSynapseAnalytics /Azure-Synapse-Analytics.svg
+rectangle "AzureSynapseAnalytics" <<$AzureSynapseAnalytics>> as AzureSynapseAnalytics
+sprite $AzureTestPlan /Azure-Test-Plan.svg
+rectangle "AzureTestPlan" <<$AzureTestPlan>> as AzureTestPlan
+sprite $Azure /Azure.svg
+rectangle "Azure" <<$Azure>> as Azure
+sprite $Bastion /Bastion.svg
+rectangle "Bastion" <<$Bastion>> as Bastion
+sprite $BatchAI /Batch-AI.svg
+rectangle "BatchAI" <<$BatchAI>> as BatchAI
+sprite $BlockchainABSMember /Blockchain-ABS-Member.svg
+rectangle "BlockchainABSMember" <<$BlockchainABSMember>> as BlockchainABSMember
+sprite $BlockchainApplication /Blockchain-Application.svg
+rectangle "BlockchainApplication" <<$BlockchainApplication>> as BlockchainApplication
+sprite $BlockchainConnection /Blockchain-Connection.svg
+rectangle "BlockchainConnection" <<$BlockchainConnection>> as BlockchainConnection
+sprite $BlockchainConsortium /Blockchain-Consortium.svg
+rectangle "BlockchainConsortium" <<$BlockchainConsortium>> as BlockchainConsortium
+sprite $BlockchainDataManager /Blockchain-Data-Manager.svg
+rectangle "BlockchainDataManager" <<$BlockchainDataManager>> as BlockchainDataManager
+sprite $BlockchainDevkit /Blockchain-Devkit.svg
+rectangle "BlockchainDevkit" <<$BlockchainDevkit>> as BlockchainDevkit
+sprite $BlockchainStreaming /Blockchain-Streaming.svg
+rectangle "BlockchainStreaming" <<$BlockchainStreaming>> as BlockchainStreaming
+sprite $BlockchainToken /Blockchain-Token.svg
+rectangle "BlockchainToken" <<$BlockchainToken>> as BlockchainToken
+sprite $Blueprint /Blueprint.svg
+rectangle "Blueprint" <<$Blueprint>> as Blueprint
+sprite $BotService /Bot-Service.svg
+rectangle "BotService" <<$BotService>> as BotService
+sprite $Budget /Budget.svg
+rectangle "Budget" <<$Budget>> as Budget
+sprite $CDNProfile /CDN-Profile.svg
+rectangle "CDNProfile" <<$CDNProfile>> as CDNProfile
+sprite $ChangeAnalysis /Change-Analysis.svg
+rectangle "ChangeAnalysis" <<$ChangeAnalysis>> as ChangeAnalysis
+sprite $CitrixVirtualDesktopEssentials /Citrix-Virtual-Desktop-Essentials.svg
+rectangle "CitrixVirtualDesktopEssentials" <<$CitrixVirtualDesktopEssentials>> as CitrixVirtualDesktopEssentials
+sprite $ClientApp /Client-App.svg
+rectangle "ClientApp" <<$ClientApp>> as ClientApp
+sprite $CloudAppSecurity /Cloud-App-Security.svg
+rectangle "CloudAppSecurity" <<$CloudAppSecurity>> as CloudAppSecurity
+sprite $CloudServiceClassic /Cloud-Service-Classic.svg
+rectangle "CloudServiceClassic" <<$CloudServiceClassic>> as CloudServiceClassic
+sprite $CloudSimpleNode /Cloud-Simple-Node.svg
+rectangle "CloudSimpleNode" <<$CloudSimpleNode>> as CloudSimpleNode
+sprite $CloudSimpleService /Cloud-Simple-Service.svg
+rectangle "CloudSimpleService" <<$CloudSimpleService>> as CloudSimpleService
+sprite $CloudSimpleVirtualMachine /Cloud-Simple-Virtual-Machine.svg
+rectangle "CloudSimpleVirtualMachine" <<$CloudSimpleVirtualMachine>> as CloudSimpleVirtualMachine
+sprite $CognitiveServicesDecision /Cognitive-Services-Decision.svg
+rectangle "CognitiveServicesDecision" <<$CognitiveServicesDecision>> as CognitiveServicesDecision
+sprite $CognitiveServicesKnowledge /Cognitive-Services-Knowledge.svg
+rectangle "CognitiveServicesKnowledge" <<$CognitiveServicesKnowledge>> as CognitiveServicesKnowledge
+sprite $CognitiveServicesLanguage /Cognitive-Services-Language.svg
+rectangle "CognitiveServicesLanguage" <<$CognitiveServicesLanguage>> as CognitiveServicesLanguage
+sprite $CognitiveServicesSearch /Cognitive-Services-Search.svg
+rectangle "CognitiveServicesSearch" <<$CognitiveServicesSearch>> as CognitiveServicesSearch
+sprite $CognitiveServicesSpeech /Cognitive-Services-Speech.svg
+rectangle "CognitiveServicesSpeech" <<$CognitiveServicesSpeech>> as CognitiveServicesSpeech
+sprite $CognitiveServicesVision /Cognitive-Services-Vision.svg
+rectangle "CognitiveServicesVision" <<$CognitiveServicesVision>> as CognitiveServicesVision
+sprite $CognitiveServices /Cognitive-Services.svg
+rectangle "CognitiveServices" <<$CognitiveServices>> as CognitiveServices
+sprite $CompanyBranding /Company-Branding.svg
+rectangle "CompanyBranding" <<$CompanyBranding>> as CompanyBranding
+sprite $Compliance /Compliance.svg
+rectangle "Compliance" <<$Compliance>> as Compliance
+sprite $ComputeApp /Compute-App.svg
+rectangle "ComputeApp" <<$ComputeApp>> as ComputeApp
+sprite $ConditionalAccess /Conditional-Access.svg
+rectangle "ConditionalAccess" <<$ConditionalAccess>> as ConditionalAccess
+sprite $ConfigurationManagement /Configuration-Management.svg
+rectangle "ConfigurationManagement" <<$ConfigurationManagement>> as ConfigurationManagement
+sprite $Configuration /Configuration.svg
+rectangle "Configuration" <<$Configuration>> as Configuration
+sprite $ConnectionMonitor /Connection-Monitor.svg
+rectangle "ConnectionMonitor" <<$ConnectionMonitor>> as ConnectionMonitor
+sprite $ContainerBatchAccount /Container-Batch-Account.svg
+rectangle "ContainerBatchAccount" <<$ContainerBatchAccount>> as ContainerBatchAccount
+sprite $ContainerInstance /Container-Instance.svg
+rectangle "ContainerInstance" <<$ContainerInstance>> as ContainerInstance
+sprite $ContainerKubernetesService /Container-Kubernetes-Service.svg
+rectangle "ContainerKubernetesService" <<$ContainerKubernetesService>> as ContainerKubernetesService
+sprite $ContainerRegistry /Container-Registry.svg
+rectangle "ContainerRegistry" <<$ContainerRegistry>> as ContainerRegistry
+sprite $ContainerServiceFabricCluster /Container-Service-Fabric-Cluster.svg
+rectangle "ContainerServiceFabricCluster" <<$ContainerServiceFabricCluster>> as ContainerServiceFabricCluster
+sprite $Controller /Controller.svg
+rectangle "Controller" <<$Controller>> as Controller
+sprite $CORS /CORS.svg
+rectangle "CORS" <<$CORS>> as CORS
+sprite $CostAlert /Cost-Alert.svg
+rectangle "CostAlert" <<$CostAlert>> as CostAlert
+sprite $CostAnalysis /Cost-Analysis.svg
+rectangle "CostAnalysis" <<$CostAnalysis>> as CostAnalysis
+sprite $CostManagementAndBilling /Cost-Management-And-Billing.svg
+rectangle "CostManagementAndBilling" <<$CostManagementAndBilling>> as CostManagementAndBilling
+sprite $CostManagement /Cost-Management.svg
+rectangle "CostManagement" <<$CostManagement>> as CostManagement
+sprite $Cost /Cost.svg
+rectangle "Cost" <<$Cost>> as Cost
+sprite $CustomerLockboxForMicrosoftAzure /Customer-Lockbox-For-Microsoft-Azure.svg
+rectangle "CustomerLockboxForMicrosoftAzure" <<$CustomerLockboxForMicrosoftAzure>> as CustomerLockboxForMicrosoftAzure
+sprite $DataAndStorage /Data-And-Storage.svg
+rectangle "DataAndStorage" <<$DataAndStorage>> as DataAndStorage
+sprite $DataBoxEdgeAndGateway /Data-Box-Edge-And-Gateway.svg
+rectangle "DataBoxEdgeAndGateway" <<$DataBoxEdgeAndGateway>> as DataBoxEdgeAndGateway
+sprite $DataBox /Data-Box.svg
+rectangle "DataBox" <<$DataBox>> as DataBox
+sprite $DataCatalog /Data-Catalog.svg
+rectangle "DataCatalog" <<$DataCatalog>> as DataCatalog
+sprite $DataFactory /Data-Factory.svg
+rectangle "DataFactory" <<$DataFactory>> as DataFactory
+sprite $DataLakeAnalytics /Data-Lake-Analytics.svg
+rectangle "DataLakeAnalytics" <<$DataLakeAnalytics>> as DataLakeAnalytics
+sprite $DataLakeStorageGen1 /Data-Lake-Storage-Gen1.svg
+rectangle "DataLakeStorageGen1" <<$DataLakeStorageGen1>> as DataLakeStorageGen1
+sprite $DataLake /Data-Lake.svg
+rectangle "DataLake" <<$DataLake>> as DataLake
+sprite $DataShareInvitation /Data-Share-Invitation.svg
+rectangle "DataShareInvitation" <<$DataShareInvitation>> as DataShareInvitation
+sprite $DataShare /Data-Share.svg
+rectangle "DataShare" <<$DataShare>> as DataShare
+sprite $DataTransfer /Data-Transfer.svg
+rectangle "DataTransfer" <<$DataTransfer>> as DataTransfer
+sprite $DatabaseMigrationService /Database-Migration-Service.svg
+rectangle "DatabaseMigrationService" <<$DatabaseMigrationService>> as DatabaseMigrationService
+sprite $DdosProtectionPlan /Ddos-Protection-Plan.svg
+rectangle "DdosProtectionPlan" <<$DdosProtectionPlan>> as DdosProtectionPlan
+sprite $DDOSProtection /DDOS-Protection.svg
+rectangle "DDOSProtection" <<$DDOSProtection>> as DDOSProtection
+sprite $DeploymentScript /Deployment-Script.svg
+rectangle "DeploymentScript" <<$DeploymentScript>> as DeploymentScript
+sprite $Deployment /Deployment.svg
+rectangle "Deployment" <<$Deployment>> as Deployment
+sprite $DevopsProject /Devops-Project.svg
+rectangle "DevopsProject" <<$DevopsProject>> as DevopsProject
+sprite $DevtestLab /Devtest-Lab.svg
+rectangle "DevtestLab" <<$DevtestLab>> as DevtestLab
+sprite $DiagnosticsSetting /Diagnostics-Setting.svg
+rectangle "DiagnosticsSetting" <<$DiagnosticsSetting>> as DiagnosticsSetting
+sprite $DiskEncryptionSet /Disk-Encryption-Set.svg
+rectangle "DiskEncryptionSet" <<$DiskEncryptionSet>> as DiskEncryptionSet
+sprite $DNSZone /DNS-Zone.svg
+rectangle "DNSZone" <<$DNSZone>> as DNSZone
+sprite $Ebook /Ebook.svg
+rectangle "Ebook" <<$Ebook>> as Ebook
+sprite $Education /Education.svg
+rectangle "Education" <<$Education>> as Education
+sprite $ElasticJobAgent /Elastic-Job-Agent.svg
+rectangle "ElasticJobAgent" <<$ElasticJobAgent>> as ElasticJobAgent
+sprite $EndpointSecurity /Endpoint-Security.svg
+rectangle "EndpointSecurity" <<$EndpointSecurity>> as EndpointSecurity
+sprite $EnterpriseApplication /Enterprise-Application.svg
+rectangle "EnterpriseApplication" <<$EnterpriseApplication>> as EnterpriseApplication
+sprite $EventGridDomain /Event-Grid-Domain.svg
+rectangle "EventGridDomain" <<$EventGridDomain>> as EventGridDomain
+sprite $EventGridSubscription /Event-Grid-Subscription.svg
+rectangle "EventGridSubscription" <<$EventGridSubscription>> as EventGridSubscription
+sprite $EventGridTopic /Event-Grid-Topic.svg
+rectangle "EventGridTopic" <<$EventGridTopic>> as EventGridTopic
+sprite $EventHubCluster /Event-Hub-Cluster.svg
+rectangle "EventHubCluster" <<$EventHubCluster>> as EventHubCluster
+sprite $EventHub /Event-Hub.svg
+rectangle "EventHub" <<$EventHub>> as EventHub
+sprite $Event /Event.svg
+rectangle "Event" <<$Event>> as Event
+sprite $ExportTemplate /Export-Template.svg
+rectangle "ExportTemplate" <<$ExportTemplate>> as ExportTemplate
+sprite $ExpressrouteCircuit /Expressroute-Circuit.svg
+rectangle "ExpressrouteCircuit" <<$ExpressrouteCircuit>> as ExpressrouteCircuit
+sprite $ExpressrouteConnection /Expressroute-Connection.svg
+rectangle "ExpressrouteConnection" <<$ExpressrouteConnection>> as ExpressrouteConnection
+sprite $ExpressrouteFilter /Expressroute-Filter.svg
+rectangle "ExpressrouteFilter" <<$ExpressrouteFilter>> as ExpressrouteFilter
+sprite $ExtendedSecurityUpdates /Extended-Security-Updates.svg
+rectangle "ExtendedSecurityUpdates" <<$ExtendedSecurityUpdates>> as ExtendedSecurityUpdates
+sprite $Extension /Extension.svg
+rectangle "Extension" <<$Extension>> as Extension
+sprite $FileIntegrityMonitoring /File-Integrity-Monitoring.svg
+rectangle "FileIntegrityMonitoring" <<$FileIntegrityMonitoring>> as FileIntegrityMonitoring
+sprite $FileShare /File-Share.svg
+rectangle "FileShare" <<$FileShare>> as FileShare
+sprite $FirewallManager /Firewall-Manager.svg
+rectangle "FirewallManager" <<$FirewallManager>> as FirewallManager
+sprite $FirewallPolicy /Firewall-Policy.svg
+rectangle "FirewallPolicy" <<$FirewallPolicy>> as FirewallPolicy
+sprite $Firewall /Firewall.svg
+rectangle "Firewall" <<$Firewall>> as Firewall
+sprite $FreeServices /Free-Services.svg
+rectangle "FreeServices" <<$FreeServices>> as FreeServices
+sprite $FunctionApp /Function-App.svg
+rectangle "FunctionApp" <<$FunctionApp>> as FunctionApp
+sprite $GenomicsAccount /Genomics-Account.svg
+rectangle "GenomicsAccount" <<$GenomicsAccount>> as GenomicsAccount
+sprite $GeoReplication /Geo-Replication.svg
+rectangle "GeoReplication" <<$GeoReplication>> as GeoReplication
+sprite $HdinsightCluster /Hdinsight-Cluster.svg
+rectangle "HdinsightCluster" <<$HdinsightCluster>> as HdinsightCluster
+sprite $HelpAndSupport /Help-And-Support.svg
+rectangle "HelpAndSupport" <<$HelpAndSupport>> as HelpAndSupport
+sprite $HighAvailability /High-Availability.svg
+rectangle "HighAvailability" <<$HighAvailability>> as HighAvailability
+sprite $HostGroup /Host-Group.svg
+rectangle "HostGroup" <<$HostGroup>> as HostGroup
+sprite $Host /Host.svg
+rectangle "Host" <<$Host>> as Host
+sprite $HPCCache /HPC-Cache.svg
+rectangle "HPCCache" <<$HPCCache>> as HPCCache
+sprite $Hunting /Hunting.svg
+rectangle "Hunting" <<$Hunting>> as Hunting
+sprite $IdentityAndAccess /Identity-And-Access.svg
+rectangle "IdentityAndAccess" <<$IdentityAndAccess>> as IdentityAndAccess
+sprite $IdentityGovernance /Identity-Governance.svg
+rectangle "IdentityGovernance" <<$IdentityGovernance>> as IdentityGovernance
+sprite $ImportExportJob /Import-Export-Job.svg
+rectangle "ImportExportJob" <<$ImportExportJob>> as ImportExportJob
+sprite $Incident /Incident.svg
+rectangle "Incident" <<$Incident>> as Incident
+sprite $IntegrationAccount /Integration-Account.svg
+rectangle "IntegrationAccount" <<$IntegrationAccount>> as IntegrationAccount
+sprite $IntegrationServiceEnvironment /Integration-Service-Environment.svg
+rectangle "IntegrationServiceEnvironment" <<$IntegrationServiceEnvironment>> as IntegrationServiceEnvironment
+sprite $InternetAnalyzerProfile /Internet-Analyzer-Profile.svg
+rectangle "InternetAnalyzerProfile" <<$InternetAnalyzerProfile>> as InternetAnalyzerProfile
+sprite $IntuneAppProtection /Intune-App-Protection.svg
+rectangle "IntuneAppProtection" <<$IntuneAppProtection>> as IntuneAppProtection
+sprite $IntuneDeviceCompliance /Intune-Device-Compliance.svg
+rectangle "IntuneDeviceCompliance" <<$IntuneDeviceCompliance>> as IntuneDeviceCompliance
+sprite $IntuneDeviceConfiguration /Intune-Device-Configuration.svg
+rectangle "IntuneDeviceConfiguration" <<$IntuneDeviceConfiguration>> as IntuneDeviceConfiguration
+sprite $IntuneDeviceEnrolment /Intune-Device-Enrolment.svg
+rectangle "IntuneDeviceEnrolment" <<$IntuneDeviceEnrolment>> as IntuneDeviceEnrolment
+sprite $IntuneDevice /Intune-Device.svg
+rectangle "IntuneDevice" <<$IntuneDevice>> as IntuneDevice
+sprite $IntuneExchangeAccess /Intune-Exchange-Access.svg
+rectangle "IntuneExchangeAccess" <<$IntuneExchangeAccess>> as IntuneExchangeAccess
+sprite $IntuneExchangeOnPremisesAccess /Intune-Exchange-On-Premises-Access.svg
+rectangle "IntuneExchangeOnPremisesAccess" <<$IntuneExchangeOnPremisesAccess>> as IntuneExchangeOnPremisesAccess
+sprite $IntuneManagedDesktop /Intune-Managed-Desktop.svg
+rectangle "IntuneManagedDesktop" <<$IntuneManagedDesktop>> as IntuneManagedDesktop
+sprite $IntuneSecurityBaseline /Intune-Security-Baseline.svg
+rectangle "IntuneSecurityBaseline" <<$IntuneSecurityBaseline>> as IntuneSecurityBaseline
+sprite $IntuneSoftwareUpdate /Intune-Software-Update.svg
+rectangle "IntuneSoftwareUpdate" <<$IntuneSoftwareUpdate>> as IntuneSoftwareUpdate
+sprite $IntuneTenantStatus /Intune-Tenant-Status.svg
+rectangle "IntuneTenantStatus" <<$IntuneTenantStatus>> as IntuneTenantStatus
+sprite $Intune /Intune.svg
+rectangle "Intune" <<$Intune>> as Intune
+sprite $IotCentral /Iot-Central.svg
+rectangle "IotCentral" <<$IotCentral>> as IotCentral
+sprite $IotDeviceProvisioningService /Iot-Device-Provisioning-Service.svg
+rectangle "IotDeviceProvisioningService" <<$IotDeviceProvisioningService>> as IotDeviceProvisioningService
+sprite $IotDigitalTwin /Iot-Digital-Twin.svg
+rectangle "IotDigitalTwin" <<$IotDigitalTwin>> as IotDigitalTwin
+sprite $IotEdge /Iot-Edge.svg
+rectangle "IotEdge" <<$IotEdge>> as IotEdge
+sprite $IotHubSecurity /Iot-Hub-Security.svg
+rectangle "IotHubSecurity" <<$IotHubSecurity>> as IotHubSecurity
+sprite $IotHub /Iot-Hub.svg
+rectangle "IotHub" <<$IotHub>> as IotHub
+sprite $IotSolutionAccelerator /Iot-Solution-Accelerator.svg
+rectangle "IotSolutionAccelerator" <<$IotSolutionAccelerator>> as IotSolutionAccelerator
+sprite $IotSphere /Iot-Sphere.svg
+rectangle "IotSphere" <<$IotSphere>> as IotSphere
+sprite $IotWindows10Core /Iot-Windows-10-Core.svg
+rectangle "IotWindows10Core" <<$IotWindows10Core>> as IotWindows10Core
+sprite $IPGroup /IP-Group.svg
+rectangle "IPGroup" <<$IPGroup>> as IPGroup
+sprite $Java /Java.svg
+rectangle "Java" <<$Java>> as Java
+sprite $KeyVaultHSM /Key-Vault-HSM.svg
+rectangle "KeyVaultHSM" <<$KeyVaultHSM>> as KeyVaultHSM
+sprite $KeyVault /Key-Vault.svg
+rectangle "KeyVault" <<$KeyVault>> as KeyVault
+sprite $LabService /Lab-Service.svg
+rectangle "LabService" <<$LabService>> as LabService
+sprite $License /License.svg
+rectangle "License" <<$License>> as License
+sprite $LoadBalancer /Load-Balancer.svg
+rectangle "LoadBalancer" <<$LoadBalancer>> as LoadBalancer
+sprite $LocalNetworkGateway /Local-Network-Gateway.svg
+rectangle "LocalNetworkGateway" <<$LocalNetworkGateway>> as LocalNetworkGateway
+sprite $LogAnalyticsSolution /Log-Analytics-Solution.svg
+rectangle "LogAnalyticsSolution" <<$LogAnalyticsSolution>> as LogAnalyticsSolution
+sprite $LogAnalyticsWorkspace /Log-Analytics-Workspace.svg
+rectangle "LogAnalyticsWorkspace" <<$LogAnalyticsWorkspace>> as LogAnalyticsWorkspace
+sprite $LogicAppCustomConnecton /Logic-App-Custom-Connecton.svg
+rectangle "LogicAppCustomConnecton" <<$LogicAppCustomConnecton>> as LogicAppCustomConnecton
+sprite $LogicApp /Logic-App.svg
+rectangle "LogicApp" <<$LogicApp>> as LogicApp
+sprite $MachineLearningStudioWebServiceClassic /Machine-Learning-Studio-Web-Service-Classic.svg
+rectangle "MachineLearningStudioWebServiceClassic" <<$MachineLearningStudioWebServiceClassic>> as MachineLearningStudioWebServiceClassic
+sprite $MachineLearningStudioWebServicePlanClassic /Machine-Learning-Studio-Web-Service-Plan-Classic.svg
+rectangle "MachineLearningStudioWebServicePlanClassic" <<$MachineLearningStudioWebServicePlanClassic>> as MachineLearningStudioWebServicePlanClassic
+sprite $MachineLearningStudioWorkspaceClassic /Machine-Learning-Studio-Workspace-Classic.svg
+rectangle "MachineLearningStudioWorkspaceClassic" <<$MachineLearningStudioWorkspaceClassic>> as MachineLearningStudioWorkspaceClassic
+sprite $MachineLearningStudio /Machine-Learning-Studio.svg
+rectangle "MachineLearningStudio" <<$MachineLearningStudio>> as MachineLearningStudio
+sprite $MachineLearning /Machine-Learning.svg
+rectangle "MachineLearning" <<$MachineLearning>> as MachineLearning
+sprite $MaintenanceConfiguration /Maintenance-Configuration.svg
+rectangle "MaintenanceConfiguration" <<$MaintenanceConfiguration>> as MaintenanceConfiguration
+sprite $ManagedApplicationCenter /Managed-Application-Center.svg
+rectangle "ManagedApplicationCenter" <<$ManagedApplicationCenter>> as ManagedApplicationCenter
+sprite $ManagedApplication /Managed-Application.svg
+rectangle "ManagedApplication" <<$ManagedApplication>> as ManagedApplication
+sprite $ManagedDatabase /Managed-Database.svg
+rectangle "ManagedDatabase" <<$ManagedDatabase>> as ManagedDatabase
+sprite $ManagedDiskPremiumSSD /Managed-Disk-Premium-SSD.svg
+rectangle "ManagedDiskPremiumSSD" <<$ManagedDiskPremiumSSD>> as ManagedDiskPremiumSSD
+sprite $ManagedDiskSnapshot /Managed-Disk-Snapshot.svg
+rectangle "ManagedDiskSnapshot" <<$ManagedDiskSnapshot>> as ManagedDiskSnapshot
+sprite $ManagedDiskStandardHDD /Managed-Disk-Standard-HDD.svg
+rectangle "ManagedDiskStandardHDD" <<$ManagedDiskStandardHDD>> as ManagedDiskStandardHDD
+sprite $ManagedDiskStandardSSD /Managed-Disk-Standard-SSD.svg
+rectangle "ManagedDiskStandardSSD" <<$ManagedDiskStandardSSD>> as ManagedDiskStandardSSD
+sprite $ManagedDiskUltraSSD /Managed-Disk-Ultra-SSD.svg
+rectangle "ManagedDiskUltraSSD" <<$ManagedDiskUltraSSD>> as ManagedDiskUltraSSD
+sprite $ManagedIdentity /Managed-Identity.svg
+rectangle "ManagedIdentity" <<$ManagedIdentity>> as ManagedIdentity
+sprite $ManagementCertificate /Management-Certificate.svg
+rectangle "ManagementCertificate" <<$ManagementCertificate>> as ManagementCertificate
+sprite $ManagementGroup /Management-Group.svg
+rectangle "ManagementGroup" <<$ManagementGroup>> as ManagementGroup
+sprite $Marketplace /Marketplace.svg
+rectangle "Marketplace" <<$Marketplace>> as Marketplace
+sprite $MeshApplication /Mesh-Application.svg
+rectangle "MeshApplication" <<$MeshApplication>> as MeshApplication
+sprite $Metric /Metric.svg
+rectangle "Metric" <<$Metric>> as Metric
+sprite $MicrosoftAccount /Microsoft-Account.svg
+rectangle "MicrosoftAccount" <<$MicrosoftAccount>> as MicrosoftAccount
+sprite $MobileApplication /Mobile-Application.svg
+rectangle "MobileApplication" <<$MobileApplication>> as MobileApplication
+sprite $MobilityMDMAndMAM /Mobility-MDM-And-MAM.svg
+rectangle "MobilityMDMAndMAM" <<$MobilityMDMAndMAM>> as MobilityMDMAndMAM
+sprite $Monitor /Monitor.svg
+rectangle "Monitor" <<$Monitor>> as Monitor
+sprite $NATGateway /NAT-Gateway.svg
+rectangle "NATGateway" <<$NATGateway>> as NATGateway
+sprite $NetworkInterface /Network-Interface.svg
+rectangle "NetworkInterface" <<$NetworkInterface>> as NetworkInterface
+sprite $NetworkSecurityGroupClassic /Network-Security-Group-Classic.svg
+rectangle "NetworkSecurityGroupClassic" <<$NetworkSecurityGroupClassic>> as NetworkSecurityGroupClassic
+sprite $NetworkSecurityGroup /Network-Security-Group.svg
+rectangle "NetworkSecurityGroup" <<$NetworkSecurityGroup>> as NetworkSecurityGroup
+sprite $NetworkWatcher /Network-Watcher.svg
+rectangle "NetworkWatcher" <<$NetworkWatcher>> as NetworkWatcher
+sprite $Networking /Networking.svg
+rectangle "Networking" <<$Networking>> as Networking
+sprite $NodeJS /Node-JS.svg
+rectangle "NodeJS" <<$NodeJS>> as NodeJS
+sprite $NotificationHub /Notification-Hub.svg
+rectangle "NotificationHub" <<$NotificationHub>> as NotificationHub
+sprite $OnPremisesDataGateway /On-Premises-Data-Gateway.svg
+rectangle "OnPremisesDataGateway" <<$OnPremisesDataGateway>> as OnPremisesDataGateway
+sprite $OpenDataset /Open-Dataset.svg
+rectangle "OpenDataset" <<$OpenDataset>> as OpenDataset
+sprite $OpenshiftCluster /Openshift-Cluster.svg
+rectangle "OpenshiftCluster" <<$OpenshiftCluster>> as OpenshiftCluster
+sprite $OperationalExcellence /Operational-Excellence.svg
+rectangle "OperationalExcellence" <<$OperationalExcellence>> as OperationalExcellence
+sprite $OrganisationalRelationship /Organisational-Relationship.svg
+rectangle "OrganisationalRelationship" <<$OrganisationalRelationship>> as OrganisationalRelationship
+sprite $PeeringService /Peering-Service.svg
+rectangle "PeeringService" <<$PeeringService>> as PeeringService
+sprite $PerformanceDiagnostics /Performance-Diagnostics.svg
+rectangle "PerformanceDiagnostics" <<$PerformanceDiagnostics>> as PerformanceDiagnostics
+sprite $Performance /Performance.svg
+rectangle "Performance" <<$Performance>> as Performance
+sprite $Playbooks /Playbooks.svg
+rectangle "Playbooks" <<$Playbooks>> as Playbooks
+sprite $Policy /Policy.svg
+rectangle "Policy" <<$Policy>> as Policy
+sprite $PowerBIEmbedded /Power-BI-Embedded.svg
+rectangle "PowerBIEmbedded" <<$PowerBIEmbedded>> as PowerBIEmbedded
+sprite $PowerBI /Power-BI.svg
+rectangle "PowerBI" <<$PowerBI>> as PowerBI
+sprite $Powershell /Powershell.svg
+rectangle "Powershell" <<$Powershell>> as Powershell
+sprite $PrivateDNSZone /Private-DNS-Zone.svg
+rectangle "PrivateDNSZone" <<$PrivateDNSZone>> as PrivateDNSZone
+sprite $PrivateEndpoint /Private-Endpoint.svg
+rectangle "PrivateEndpoint" <<$PrivateEndpoint>> as PrivateEndpoint
+sprite $PrivateLink /Private-Link.svg
+rectangle "PrivateLink" <<$PrivateLink>> as PrivateLink
+sprite $Property /Property.svg
+rectangle "Property" <<$Property>> as Property
+sprite $ProximityPlacementGroup /Proximity-Placement-Group.svg
+rectangle "ProximityPlacementGroup" <<$ProximityPlacementGroup>> as ProximityPlacementGroup
+sprite $PublicIPAddress /Public-IP-Address.svg
+rectangle "PublicIPAddress" <<$PublicIPAddress>> as PublicIPAddress
+sprite $PublicIPPrefix /Public-IP-Prefix.svg
+rectangle "PublicIPPrefix" <<$PublicIPPrefix>> as PublicIPPrefix
+sprite $Python /Python.svg
+rectangle "Python" <<$Python>> as Python
+sprite $QuickstartCenter /Quickstart-Center.svg
+rectangle "QuickstartCenter" <<$QuickstartCenter>> as QuickstartCenter
+sprite $Recent /Recent.svg
+rectangle "Recent" <<$Recent>> as Recent
+sprite $RecoveryServicesVault /Recovery-Services-Vault.svg
+rectangle "RecoveryServicesVault" <<$RecoveryServicesVault>> as RecoveryServicesVault
+sprite $RegulatoryCompliance /Regulatory-Compliance.svg
+rectangle "RegulatoryCompliance" <<$RegulatoryCompliance>> as RegulatoryCompliance
+sprite $Relay /Relay.svg
+rectangle "Relay" <<$Relay>> as Relay
+sprite $RemoteRenderingAccount /Remote-Rendering-Account.svg
+rectangle "RemoteRenderingAccount" <<$RemoteRenderingAccount>> as RemoteRenderingAccount
+sprite $Reservation /Reservation.svg
+rectangle "Reservation" <<$Reservation>> as Reservation
+sprite $ReservedIPAddressClassic /Reserved-IP-Address-Classic.svg
+rectangle "ReservedIPAddressClassic" <<$ReservedIPAddressClassic>> as ReservedIPAddressClassic
+sprite $ResourceExplorer /Resource-Explorer.svg
+rectangle "ResourceExplorer" <<$ResourceExplorer>> as ResourceExplorer
+sprite $ResourceGraphExplorer /Resource-Graph-Explorer.svg
+rectangle "ResourceGraphExplorer" <<$ResourceGraphExplorer>> as ResourceGraphExplorer
+sprite $ResourceGraphQuery /Resource-Graph-Query.svg
+rectangle "ResourceGraphQuery" <<$ResourceGraphQuery>> as ResourceGraphQuery
+sprite $ResourceGroup /Resource-Group.svg
+rectangle "ResourceGroup" <<$ResourceGroup>> as ResourceGroup
+sprite $ResourceHealth /Resource-Health.svg
+rectangle "ResourceHealth" <<$ResourceHealth>> as ResourceHealth
+sprite $REST /REST.svg
+rectangle "REST" <<$REST>> as REST
+sprite $ReviewAccess /Review-Access.svg
+rectangle "ReviewAccess" <<$ReviewAccess>> as ReviewAccess
+sprite $Role /Role.svg
+rectangle "Role" <<$Role>> as Role
+sprite $Rollout /Rollout.svg
+rectangle "Rollout" <<$Rollout>> as Rollout
+sprite $RouteFilter /Route-Filter.svg
+rectangle "RouteFilter" <<$RouteFilter>> as RouteFilter
+sprite $RouteTable /Route-Table.svg
+rectangle "RouteTable" <<$RouteTable>> as RouteTable
+sprite $RunCommand /Run-Command.svg
+rectangle "RunCommand" <<$RunCommand>> as RunCommand
+sprite $SAPHANAOnAzure /SAP-HANA-On-Azure.svg
+rectangle "SAPHANAOnAzure" <<$SAPHANAOnAzure>> as SAPHANAOnAzure
+sprite $SchedulerJobCollection /Scheduler-Job-Collection.svg
+rectangle "SchedulerJobCollection" <<$SchedulerJobCollection>> as SchedulerJobCollection
+sprite $SearchService /Search-Service.svg
+rectangle "SearchService" <<$SearchService>> as SearchService
+sprite $SecureScore /Secure-Score.svg
+rectangle "SecureScore" <<$SecureScore>> as SecureScore
+sprite $SecurityBaseline /Security-Baseline.svg
+rectangle "SecurityBaseline" <<$SecurityBaseline>> as SecurityBaseline
+sprite $SecurityCenter /Security-Center.svg
+rectangle "SecurityCenter" <<$SecurityCenter>> as SecurityCenter
+sprite $SecurityDetonationChamber /Security-Detonation-Chamber.svg
+rectangle "SecurityDetonationChamber" <<$SecurityDetonationChamber>> as SecurityDetonationChamber
+sprite $SendgridAccount /Sendgrid-Account.svg
+rectangle "SendgridAccount" <<$SendgridAccount>> as SendgridAccount
+sprite $Sentinel /Sentinel.svg
+rectangle "Sentinel" <<$Sentinel>> as Sentinel
+sprite $ServiceBus /Service-Bus.svg
+rectangle "ServiceBus" <<$ServiceBus>> as ServiceBus
+sprite $ServiceCatalogManagedApplicationDefinition /Service-Catalog-Managed-Application-Definition.svg
+rectangle "ServiceCatalogManagedApplicationDefinition" <<$ServiceCatalogManagedApplicationDefinition>> as ServiceCatalogManagedApplicationDefinition
+sprite $ServiceEndpointPolicy /Service-Endpoint-Policy.svg
+rectangle "ServiceEndpointPolicy" <<$ServiceEndpointPolicy>> as ServiceEndpointPolicy
+sprite $ServiceEndpoint /Service-Endpoint.svg
+rectangle "ServiceEndpoint" <<$ServiceEndpoint>> as ServiceEndpoint
+sprite $ServiceHealth /Service-Health.svg
+rectangle "ServiceHealth" <<$ServiceHealth>> as ServiceHealth
+sprite $SharedDashboard /Shared-Dashboard.svg
+rectangle "SharedDashboard" <<$SharedDashboard>> as SharedDashboard
+sprite $SharedImageGallery /Shared-Image-Gallery.svg
+rectangle "SharedImageGallery" <<$SharedImageGallery>> as SharedImageGallery
+sprite $SignIn /Sign-In.svg
+rectangle "SignIn" <<$SignIn>> as SignIn
+sprite $Signalr /Signalr.svg
+rectangle "Signalr" <<$Signalr>> as Signalr
+sprite $SoftwareAsAService /Software-As-A-Service.svg
+rectangle "SoftwareAsAService" <<$SoftwareAsAService>> as SoftwareAsAService
+sprite $SpatialAnchorsAccount /Spatial-Anchors-Account.svg
+rectangle "SpatialAnchorsAccount" <<$SpatialAnchorsAccount>> as SpatialAnchorsAccount
+sprite $SQLDataWarehouse /SQL-Data-Warehouse.svg
+rectangle "SQLDataWarehouse" <<$SQLDataWarehouse>> as SQLDataWarehouse
+sprite $SQLDatabaseEdge /SQL-Database-Edge.svg
+rectangle "SQLDatabaseEdge" <<$SQLDatabaseEdge>> as SQLDatabaseEdge
+sprite $SQLDatabase /SQL-Database.svg
+rectangle "SQLDatabase" <<$SQLDatabase>> as SQLDatabase
+sprite $SQLElasticJobAgent /SQL-Elastic-Job-Agent.svg
+rectangle "SQLElasticJobAgent" <<$SQLElasticJobAgent>> as SQLElasticJobAgent
+sprite $SQLElasticPool /SQL-Elastic-Pool.svg
+rectangle "SQLElasticPool" <<$SQLElasticPool>> as SQLElasticPool
+sprite $SQLInstancePool /SQL-Instance-Pool.svg
+rectangle "SQLInstancePool" <<$SQLInstancePool>> as SQLInstancePool
+sprite $SQLManagedInstance /SQL-Managed-Instance.svg
+rectangle "SQLManagedInstance" <<$SQLManagedInstance>> as SQLManagedInstance
+sprite $SQLServerRegistry /SQL-Server-Registry.svg
+rectangle "SQLServerRegistry" <<$SQLServerRegistry>> as SQLServerRegistry
+sprite $SQLServer /SQL-Server.svg
+rectangle "SQLServer" <<$SQLServer>> as SQLServer
+sprite $StorageAccountClassic /Storage-Account-Classic.svg
+rectangle "StorageAccountClassic" <<$StorageAccountClassic>> as StorageAccountClassic
+sprite $StorageAccountContainer /Storage-Account-Container.svg
+rectangle "StorageAccountContainer" <<$StorageAccountContainer>> as StorageAccountContainer
+sprite $StorageAccountQueue /Storage-Account-Queue.svg
+rectangle "StorageAccountQueue" <<$StorageAccountQueue>> as StorageAccountQueue
+sprite $StorageAccountTable /Storage-Account-Table.svg
+rectangle "StorageAccountTable" <<$StorageAccountTable>> as StorageAccountTable
+sprite $StorageAccount /Storage-Account.svg
+rectangle "StorageAccount" <<$StorageAccount>> as StorageAccount
+sprite $StorageExplorer /Storage-Explorer.svg
+rectangle "StorageExplorer" <<$StorageExplorer>> as StorageExplorer
+sprite $StorageSyncService /Storage-Sync-Service.svg
+rectangle "StorageSyncService" <<$StorageSyncService>> as StorageSyncService
+sprite $StorsimpleDataManager /Storsimple-Data-Manager.svg
+rectangle "StorsimpleDataManager" <<$StorsimpleDataManager>> as StorsimpleDataManager
+sprite $StorsimpleDeviceManager /Storsimple-Device-Manager.svg
+rectangle "StorsimpleDeviceManager" <<$StorsimpleDeviceManager>> as StorsimpleDeviceManager
+sprite $StreamAnalyticsJob /Stream-Analytics-Job.svg
+rectangle "StreamAnalyticsJob" <<$StreamAnalyticsJob>> as StreamAnalyticsJob
+sprite $Subscription /Subscription.svg
+rectangle "Subscription" <<$Subscription>> as Subscription
+sprite $Tag /Tag.svg
+rectangle "Tag" <<$Tag>> as Tag
+sprite $Tags /Tags.svg
+rectangle "Tags" <<$Tags>> as Tags
+sprite $Template /Template.svg
+rectangle "Template" <<$Template>> as Template
+sprite $TenantStatus /Tenant-Status.svg
+rectangle "TenantStatus" <<$TenantStatus>> as TenantStatus
+sprite $Terraform /Terraform.svg
+rectangle "Terraform" <<$Terraform>> as Terraform
+sprite $TimeSeriesInsightsEnvironment /Time-Series-Insights-Environment.svg
+rectangle "TimeSeriesInsightsEnvironment" <<$TimeSeriesInsightsEnvironment>> as TimeSeriesInsightsEnvironment
+sprite $TimeSeriesInsightsEventSource /Time-Series-Insights-Event-Source.svg
+rectangle "TimeSeriesInsightsEventSource" <<$TimeSeriesInsightsEventSource>> as TimeSeriesInsightsEventSource
+sprite $TimeSeriesInsightsReferenceDataSet /Time-Series-Insights-Reference-Data-Set.svg
+rectangle "TimeSeriesInsightsReferenceDataSet" <<$TimeSeriesInsightsReferenceDataSet>> as TimeSeriesInsightsReferenceDataSet
+sprite $TrafficManagerProfile /Traffic-Manager-Profile.svg
+rectangle "TrafficManagerProfile" <<$TrafficManagerProfile>> as TrafficManagerProfile
+sprite $UniversalPrintService /Universal-Print-Service.svg
+rectangle "UniversalPrintService" <<$UniversalPrintService>> as UniversalPrintService
+sprite $UpdateManagement /Update-Management.svg
+rectangle "UpdateManagement" <<$UpdateManagement>> as UpdateManagement
+sprite $UsageAndQuota /Usage-And-Quota.svg
+rectangle "UsageAndQuota" <<$UsageAndQuota>> as UsageAndQuota
+sprite $UserPrivacy /User-Privacy.svg
+rectangle "UserPrivacy" <<$UserPrivacy>> as UserPrivacy
+sprite $VirtualAssistant /Virtual-Assistant.svg
+rectangle "VirtualAssistant" <<$VirtualAssistant>> as VirtualAssistant
+sprite $VirtualCluster /Virtual-Cluster.svg
+rectangle "VirtualCluster" <<$VirtualCluster>> as VirtualCluster
+sprite $VirtualMachineClassic /Virtual-Machine-Classic.svg
+rectangle "VirtualMachineClassic" <<$VirtualMachineClassic>> as VirtualMachineClassic
+sprite $VirtualMachineAvailabilitySet /Virtual-Machine-Availability-Set.svg
+rectangle "VirtualMachineAvailabilitySet" <<$VirtualMachineAvailabilitySet>> as VirtualMachineAvailabilitySet
+sprite $VirtualMachineImageClassic /Virtual-Machine-Image-Classic.svg
+rectangle "VirtualMachineImageClassic" <<$VirtualMachineImageClassic>> as VirtualMachineImageClassic
+sprite $VirtualMachineImageDefinition /Virtual-Machine-Image-Definition.svg
+rectangle "VirtualMachineImageDefinition" <<$VirtualMachineImageDefinition>> as VirtualMachineImageDefinition
+sprite $VirtualMachineImageVersion /Virtual-Machine-Image-Version.svg
+rectangle "VirtualMachineImageVersion" <<$VirtualMachineImageVersion>> as VirtualMachineImageVersion
+sprite $VirtualMachineImage /Virtual-Machine-Image.svg
+rectangle "VirtualMachineImage" <<$VirtualMachineImage>> as VirtualMachineImage
+sprite $VirtualMachineLinux /Virtual-Machine-Linux.svg
+rectangle "VirtualMachineLinux" <<$VirtualMachineLinux>> as VirtualMachineLinux
+sprite $VirtualMachineNonAzureLinux /Virtual-Machine-Non-Azure-Linux.svg
+rectangle "VirtualMachineNonAzureLinux" <<$VirtualMachineNonAzureLinux>> as VirtualMachineNonAzureLinux
+sprite $VirtualMachineNonAzureWindows /Virtual-Machine-Non-Azure-Windows.svg
+rectangle "VirtualMachineNonAzureWindows" <<$VirtualMachineNonAzureWindows>> as VirtualMachineNonAzureWindows
+sprite $VirtualMachineNonAzure /Virtual-Machine-Non-Azure.svg
+rectangle "VirtualMachineNonAzure" <<$VirtualMachineNonAzure>> as VirtualMachineNonAzure
+sprite $VirtualMachineScaleSet /Virtual-Machine-Scale-Set.svg
+rectangle "VirtualMachineScaleSet" <<$VirtualMachineScaleSet>> as VirtualMachineScaleSet
+sprite $VirtualMachineSQL /Virtual-Machine-SQL.svg
+rectangle "VirtualMachineSQL" <<$VirtualMachineSQL>> as VirtualMachineSQL
+sprite $VirtualMachineWindows /Virtual-Machine-Windows.svg
+rectangle "VirtualMachineWindows" <<$VirtualMachineWindows>> as VirtualMachineWindows
+sprite $VirtualMachine /Virtual-Machine.svg
+rectangle "VirtualMachine" <<$VirtualMachine>> as VirtualMachine
+sprite $VirtualNetworkClassic /Virtual-Network-Classic.svg
+rectangle "VirtualNetworkClassic" <<$VirtualNetworkClassic>> as VirtualNetworkClassic
+sprite $VirtualNetworkFirewall /Virtual-Network-Firewall.svg
+rectangle "VirtualNetworkFirewall" <<$VirtualNetworkFirewall>> as VirtualNetworkFirewall
+sprite $VirtualNetworkGateway /Virtual-Network-Gateway.svg
+rectangle "VirtualNetworkGateway" <<$VirtualNetworkGateway>> as VirtualNetworkGateway
+sprite $VirtualNetworkPeering /Virtual-Network-Peering.svg
+rectangle "VirtualNetworkPeering" <<$VirtualNetworkPeering>> as VirtualNetworkPeering
+sprite $VirtualNetwork /Virtual-Network.svg
+rectangle "VirtualNetwork" <<$VirtualNetwork>> as VirtualNetwork
+sprite $VirtualSubnet /Virtual-Subnet.svg
+rectangle "VirtualSubnet" <<$VirtualSubnet>> as VirtualSubnet
+sprite $VirtualWANGateway /Virtual-WAN-Gateway.svg
+rectangle "VirtualWANGateway" <<$VirtualWANGateway>> as VirtualWANGateway
+sprite $VirtualWAN /Virtual-WAN.svg
+rectangle "VirtualWAN" <<$VirtualWAN>> as VirtualWAN
+sprite $VisualStudioCode /Visual-Studio-Code.svg
+rectangle "VisualStudioCode" <<$VisualStudioCode>> as VisualStudioCode
+sprite $VisualStudio /Visual-Studio.svg
+rectangle "VisualStudio" <<$VisualStudio>> as VisualStudio
+sprite $WAFPolicy /WAF-Policy.svg
+rectangle "WAFPolicy" <<$WAFPolicy>> as WAFPolicy
+sprite $WindowsVirtualDesktop /Windows-Virtual-Desktop.svg
+rectangle "WindowsVirtualDesktop" <<$WindowsVirtualDesktop>> as WindowsVirtualDesktop
+sprite $WorkAccount /Work-Account.svg
+rectangle "WorkAccount" <<$WorkAccount>> as WorkAccount
+sprite $Workbook /Workbook.svg
+rectangle "Workbook" <<$Workbook>> as Workbook
+'/
+@enduml

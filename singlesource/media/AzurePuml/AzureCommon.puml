@@ -30,34 +30,3 @@ skinparam Arrow {
     FontColor #666666
     FontSize 12
 }
-
-!definelong AzureEntityColoring(e_stereo)
-skinparam rectangle<<e_stereo>> {
-    BackgroundColor AZURE_BG_COLOR
-    BorderColor AZURE_BORDER_COLOR
-}
-!enddefinelong
-
-' Layout
-' ##################################
-
-!definelong LAYOUT_AS_SKETCH
-skinparam backgroundColor #EEEBDC
-skinparam handwritten true
-skinparam defaultFontName "Comic Sans MS"
-center footer <font color=red>Warning:</font> Created for discussion, needs to be validated
-!enddefinelong
-
-!define LAYOUT_TOP_DOWN top to bottom direction
-!define LAYOUT_LEFT_RIGHT left to right direction
-
-' Elements
-' ##################################
-
-!definelong AzureEntity(e_alias, e_label, e_techn, e_color, e_sprite, e_stereo)
-rectangle "==e_label\n<color:e_color><$e_sprite></color>\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//" <<e_stereo>> as e_alias
-!enddefinelong
-
-!definelong AzureEntity(e_alias, e_label, e_techn, e_descr, e_color, e_sprite, e_stereo)
-rectangle "==e_label\n<color:e_color><$e_sprite></color>\n//<size:TECHN_FONT_SIZE>[e_techn]</size>//\n\n e_descr" <<e_stereo>> as e_alias
-!enddefinelong
