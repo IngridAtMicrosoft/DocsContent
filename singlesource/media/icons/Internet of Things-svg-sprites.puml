@@ -1,8 +1,0 @@
-@startuml
-!pragma revision 1
-!include ../../includes/AzureCommon.puml
-sprite $DigitalTwins Internet of Things/01030-icon-service-Digital-Twins.svg
-rectangle " Digital Twins" <<$DigitalTwins{scale=3}>> as DigitalTwins
-sprite $TimeSeriesInsightsAccessPolicies Internet of Things/10192-icon-service-Time-Series-Insights-Access-Policies.svg
-rectangle " Time Series Insights Access Policies" <<$TimeSeriesInsightsAccessPolicies{scale=3}>> as TimeSeriesInsightsAccessPolicies
-@enduml

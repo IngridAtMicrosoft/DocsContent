@@ -2,15 +2,15 @@
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
 sprite $DeviceSecurityApple Intune/00399-icon-service-Device-Security-Apple.svg
-rectangle " Device Security Apple" <<$DeviceSecurityApple{scale=3}>> as DeviceSecurityApple
+rectangle "Device Security Apple" <<$DeviceSecurityApple{scale=3}>> as DeviceSecurityApple
 sprite $DeviceSecurityGoogle Intune/00399-icon-service-Device-Security-Google.svg
-rectangle " Device Security Google" <<$DeviceSecurityGoogle{scale=3}>> as DeviceSecurityGoogle
+rectangle "Device Security Google" <<$DeviceSecurityGoogle{scale=3}>> as DeviceSecurityGoogle
 sprite $DeviceSecurityWindows Intune/00399-icon-service-Device-Security-Windows.svg
-rectangle " Device Security Windows" <<$DeviceSecurityWindows{scale=3}>> as DeviceSecurityWindows
+rectangle "Device Security Windows" <<$DeviceSecurityWindows{scale=3}>> as DeviceSecurityWindows
 sprite $Intune Intune/10329-icon-service-Intune.svg
-rectangle " Intune" <<$Intune{scale=3}>> as Intune
+rectangle "Intune" <<$Intune{scale=3}>> as Intune
 sprite $AzureADRolesandAdministrators Intune/10340-icon-service-Azure-AD-Roles-and-Administrators.svg
-rectangle " Azure AD Roles and Administrators" <<$AzureADRolesandAdministrators{scale=3}>> as AzureADRolesandAdministrators
+rectangle "Azure AD Roles and Administrators" <<$AzureADRolesandAdministrators{scale=3}>> as AzureADRolesandAdministrators
 sprite $IntuneForEducation Intune/10343-icon-service-Intune-For-Education.svg
-rectangle " Intune For Education" <<$IntuneForEducation{scale=3}>> as IntuneForEducation
+rectangle "Intune For Education" <<$IntuneForEducation{scale=3}>> as IntuneForEducation
 @enduml

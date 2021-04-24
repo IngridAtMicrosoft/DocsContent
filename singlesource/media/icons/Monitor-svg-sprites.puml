@@ -2,5 +2,5 @@
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
 sprite $SAPAzureMonitor Monitor/00438-icon-service-SAP-Azure-Monitor.svg
-rectangle " SAP Azure Monitor" <<$SAPAzureMonitor{scale=3}>> as SAPAzureMonitor
+rectangle "SAP Azure Monitor" <<$SAPAzureMonitor{scale=3}>> as SAPAzureMonitor
 @enduml

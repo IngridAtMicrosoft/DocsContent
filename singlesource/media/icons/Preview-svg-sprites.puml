@@ -2,21 +2,21 @@
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
 sprite $AzureCloudShell Preview/00559-icon-service-Azure-Cloud-Shell.svg
-rectangle " Azure Cloud Shell" <<$AzureCloudShell{scale=3}>> as AzureCloudShell
+rectangle "Azure Cloud Shell" <<$AzureCloudShell{scale=3}>> as AzureCloudShell
 sprite $StaticApps Preview/01007-icon-service-Static-Apps.svg
-rectangle " Static Apps" <<$StaticApps{scale=3}>> as StaticApps
+rectangle "Static Apps" <<$StaticApps{scale=3}>> as StaticApps
 sprite $AzureWorkbooks Preview/02189-icon-service-Azure-Workbooks.svg
-rectangle " Azure Workbooks" <<$AzureWorkbooks{scale=3}>> as AzureWorkbooks
+rectangle "Azure Workbooks" <<$AzureWorkbooks{scale=3}>> as AzureWorkbooks
 sprite $PrivateLinkHub Preview/02209-icon-service-Private-Link-Hub.svg
-rectangle " Private Link Hub" <<$PrivateLinkHub{scale=3}>> as PrivateLinkHub
+rectangle "Private Link Hub" <<$PrivateLinkHub{scale=3}>> as PrivateLinkHub
 sprite $IoTEdge Preview/10186-icon-service-IoT-Edge.svg
-rectangle " IoT Edge" <<$IoTEdge{scale=3}>> as IoTEdge
+rectangle "IoT Edge" <<$IoTEdge{scale=3}>> as IoTEdge
 sprite $AzureSphere Preview/10190-icon-service-Azure-Sphere.svg
-rectangle " Azure Sphere" <<$AzureSphere{scale=3}>> as AzureSphere
+rectangle "Azure Sphere" <<$AzureSphere{scale=3}>> as AzureSphere
 sprite $TimeSeriesDataSets Preview/10198-icon-service-Time-Series-Data-Sets.svg
-rectangle " Time Series Data Sets" <<$TimeSeriesDataSets{scale=3}>> as TimeSeriesDataSets
+rectangle "Time Series Data Sets" <<$TimeSeriesDataSets{scale=3}>> as TimeSeriesDataSets
 sprite $RTOS Preview/10778-icon-service-RTOS.svg
-rectangle " RTOS" <<$RTOS{scale=3}>> as RTOS
+rectangle "RTOS" <<$RTOS{scale=3}>> as RTOS
 sprite $WebEnvironment Preview/10846-icon-service-Web-Environment.svg
-rectangle " Web Environment" <<$WebEnvironment{scale=3}>> as WebEnvironment
+rectangle "Web Environment" <<$WebEnvironment{scale=3}>> as WebEnvironment
 @enduml

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="268px" preserveAspectRatio="none" style="width:228px;height:268px;" version="1.1" viewBox="0 0 228 268" width="228px" zoomAndPan="magnify"><defs/><g><!--MD5=[909249635cb913ac42f02201de036c92]
+entity ApplicationInsights--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="84" x="9" y="7"/><svg x="24" y="17"><g transform="scale(3,3)" ><defs><radialGradient id="a7a1c431-6c6d-4a8f-9a69-8da437e5b0c5" cx="9" cy="7.35" r="6.42" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b77af4" /><stop offset="0.21" stop-color="#b378f2" /><stop offset="0.43" stop-color="#a672ed" /><stop offset="0.65" stop-color="#9267e4" /><stop offset="0.88" stop-color="#7559d8" /><stop offset="1" stop-color="#624fd0" /></radialGradient><linearGradient id="ec0c4f0d-5c8e-4882-96a1-89d61808eb49" x1="9.02" y1="3.91" x2="9.08" y2="11.49" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f2f2f2" /><stop offset="0.23" stop-color="#f1f1f2" stop-opacity="0.99" /><stop offset="0.37" stop-color="#ededf1" stop-opacity="0.95" /><stop offset="0.48" stop-color="#e7e5f0" stop-opacity="0.89" /><stop offset="0.58" stop-color="#dedbee" stop-opacity="0.81" /><stop offset="0.67" stop-color="#d3ceeb" stop-opacity="0.7" /><stop offset="0.76" stop-color="#c4bee8" stop-opacity="0.57" /><stop offset="0.84" stop-color="#b4abe5" stop-opacity="0.41" /><stop offset="0.92" stop-color="#a095e1" stop-opacity="0.22" /><stop offset="0.99" stop-color="#8b7ddc" stop-opacity="0.02" /><stop offset="1" stop-color="#897bdc" stop-opacity="0" /></linearGradient></defs><title>Icon-manage-310</title><path d="M10.23,17.39l.81-.87V14.2H7v2.32l.81.87A.32.32,0,0,0,8,17.5h2A.32.32,0,0,0,10.23,17.39Z" fill="#cecece" /><path d="M9,.5A5.89,5.89,0,0,0,3.09,7.07c.27,2.47,2.62,3.62,3.29,6.75a.49.49,0,0,0,.47.38h4.3a.49.49,0,0,0,.47-.38c.67-3.13,3-4.28,3.29-6.75A5.89,5.89,0,0,0,9,.5ZM7,14.2" fill="url(#a7a1c431-6c6d-4a8f-9a69-8da437e5b0c5)" /><path d="M11.46,3.79a1.4,1.4,0,0,0-1.35,1.44V6H8V5.23A1.41,1.41,0,0,0,6.59,3.79,1.4,1.4,0,0,0,5.24,5.23,1.41,1.41,0,0,0,6.59,6.68h.64v6a.36.36,0,0,0,.72,0v-6h2.16v6a.36.36,0,1,0,.72,0v-6h.63a1.4,1.4,0,0,0,1.35-1.45A1.4,1.4,0,0,0,11.46,3.79ZM7.23,6H6.55a.74.74,0,0,1-.68-.77.74.74,0,0,1,.68-.77.74.74,0,0,1,.68.77Zm4.28,0h-.68V5.19a.68.68,0,1,1,1.35,0A.73.73,0,0,1,11.51,6Z" fill="url(#ec0c4f0d-5c8e-4882-96a1-89d61808eb49)" /><polygon points="6.96 15.8 11.04 15.01 11.04 14.56 6.96 15.36 6.96 15.8" fill="#999" /><polygon points="11.04 16.11 11.04 15.67 6.96 16.48 6.96 16.52 7.27 16.86 11.04 16.11" fill="#999" /></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="61" x="19" y="83.9492">Application</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="41" x="30.5" y="99.9102">Insights</text><!--MD5=[76c6ac12af645ed03c81a4d09c02f5f8]
+entity AzureDevOps--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="94" x="128" y="15"/><svg x="148" y="25"><g transform="scale(3,3)" ><defs><linearGradient id="ba420277-700e-42cc-9de9-5388a5c16e54" x1="9" y1="16.97" x2="9" y2="1.03" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4" /><stop offset="0.16" stop-color="#1380da" /><stop offset="0.53" stop-color="#3c91e5" /><stop offset="0.82" stop-color="#559cec" /><stop offset="1" stop-color="#5ea0ef" /></linearGradient></defs><title>Icon-devops-261</title><path id="a91f0ca4-8fb7-4019-9c09-0a52e2c05754" d="M17,4v9.74l-4,3.28-6.2-2.26V17L3.29,12.41l10.23.8V4.44Zm-3.41.49L7.85,1V3.29L2.58,4.84,1,6.87v4.61l2.26,1V6.57Z" fill="url(#ba420277-700e-42cc-9de9-5388a5c16e54)" /></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="74" x="138" y="91.9492">Azure DevOps</text><!--MD5=[54b0542f98e0e26aa81da79e6d478459]
+entity DevTestLabs--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="88" x="7" y="173"/><svg x="24" y="183"><g transform="scale(3,3)" ><defs><linearGradient id="b80226ba-6d0d-4956-8f19-ab3101ca010c" x1="9" y1="16.39" x2="9" y2="-1.94" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4" /><stop offset="0.16" stop-color="#1380da" /><stop offset="0.53" stop-color="#3c91e5" /><stop offset="0.82" stop-color="#559cec" /><stop offset="1" stop-color="#5ea0ef" /></linearGradient><linearGradient id="a4c1ad8b-2628-48af-97c3-ee4a90db0ba3" x1="9.88" y1="7.11" x2="9.99" y2="17.27" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32d4f5" /><stop offset="0.32" stop-color="#31d1f3" /><stop offset="0.53" stop-color="#2ec9eb" /><stop offset="0.7" stop-color="#29bade" /><stop offset="0.86" stop-color="#22a5cb" /><stop offset="1" stop-color="#198ab3" /><stop offset="1" stop-color="#198ab3" /></linearGradient></defs><title>Icon-devops-264</title><path d="M17.5,9.08a3.82,3.82,0,0,0-3.32-3.67A4.81,4.81,0,0,0,9.23.8,5,5,0,0,0,4.48,4a4.54,4.54,0,0,0-4,4.39,4.62,4.62,0,0,0,4.79,4.44,3,3,0,0,0,.42,0h7.75a.64.64,0,0,0,.2,0A3.86,3.86,0,0,0,17.5,9.08Z" fill="url(#b80226ba-6d0d-4956-8f19-ab3101ca010c)" /><path d="M14.81,17.2H5.17c-.31,0-.49-.49-.32-.75l3.32-4.84a.34.34,0,0,0,.07-.22V8.19A.2.2,0,0,0,8.05,8H7.87a.38.38,0,0,1-.38-.38V7.45a.38.38,0,0,1,.38-.38H12.1a.38.38,0,0,1,.38.38v.17A.38.38,0,0,1,12.1,8h-.18a.19.19,0,0,0-.19.19V11.4a.36.36,0,0,0,.07.22l3.32,4.83C15.29,16.7,15.11,17.2,14.81,17.2Z" fill="url(#a4c1ad8b-2628-48af-97c3-ee4a90db0ba3)" /><path d="M6.28,15.9,8.8,12.22A.94.94,0,0,0,9,11.7V10.22a.29.29,0,0,1,.29-.29h1.44a.29.29,0,0,1,.29.29V11.8a.61.61,0,0,0,.11.35l2.58,3.75a.23.23,0,0,1-.18.35h-7A.22.22,0,0,1,6.28,15.9Z" fill="#552f99" /></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="68" x="17" y="249.9492">DevTest Labs</text><!--MD5=[12a74825c699b2503c45e1b9ed534a28]
+entity LabServices--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="84" x="130" y="173"/><svg x="145" y="183"><g transform="scale(3,3)" ><defs><linearGradient id="e57d1fe5-b52e-4274-9d08-e2461ccc36fe" x1="9" y1="16.39" x2="9" y2="-1.94" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4" /><stop offset="0.16" stop-color="#1380da" /><stop offset="0.53" stop-color="#3c91e5" /><stop offset="0.82" stop-color="#559cec" /><stop offset="1" stop-color="#5ea0ef" /></linearGradient><linearGradient id="be195039-c4e2-4308-9e01-e416f2347f85" x1="9.88" y1="7.11" x2="9.99" y2="17.27" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32d4f5" /><stop offset="0.32" stop-color="#31d1f3" /><stop offset="0.53" stop-color="#2ec9eb" /><stop offset="0.7" stop-color="#29bade" /><stop offset="0.86" stop-color="#22a5cb" /><stop offset="1" stop-color="#198ab3" /><stop offset="1" stop-color="#198ab3" /></linearGradient></defs><title>Icon-devops-265</title><path d="M17.5,9.08a3.82,3.82,0,0,0-3.32-3.67A4.81,4.81,0,0,0,9.23.8,5,5,0,0,0,4.48,4a4.54,4.54,0,0,0-4,4.39,4.62,4.62,0,0,0,4.79,4.44,3,3,0,0,0,.42,0h7.75a.64.64,0,0,0,.2,0A3.86,3.86,0,0,0,17.5,9.08Z" fill="url(#e57d1fe5-b52e-4274-9d08-e2461ccc36fe)" /><path d="M14.81,17.2H5.17c-.31,0-.49-.49-.32-.75l3.32-4.84a.34.34,0,0,0,.07-.22V8.19A.2.2,0,0,0,8.05,8H7.87a.38.38,0,0,1-.38-.38V7.45a.38.38,0,0,1,.38-.38H12.1a.38.38,0,0,1,.38.38v.17A.38.38,0,0,1,12.1,8h-.18a.19.19,0,0,0-.19.19V11.4a.36.36,0,0,0,.07.22l3.32,4.83C15.29,16.7,15.11,17.2,14.81,17.2Z" fill="url(#be195039-c4e2-4308-9e01-e416f2347f85)" /><path d="M6.28,15.9,8.8,12.22A.94.94,0,0,0,9,11.7V10.22a.29.29,0,0,1,.29-.29h1.44a.29.29,0,0,1,.29.29V11.8a.61.61,0,0,0,.11.35l2.58,3.75a.23.23,0,0,1-.18.35h-7A.22.22,0,0,1,6.28,15.9Z" fill="#fff" /></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="64" x="140" y="249.9492">Lab Services</text><!--MD5=[0153243c4e74137e8a883f059e67e458]
+link ApplicationInsights to AzureDevOps--><!--MD5=[6bd0639cbc98f83f71ef9d3051bb6264]
+link ApplicationInsights to DevTestLabs--><!--MD5=[db72e35a57b3075af6a2b656425a3cb3]
+link DevTestLabs to LabServices--><!--MD5=[64f307dfb3ad0bf8810428238a891108]
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $ApplicationInsights DevOps/00012-icon-service-Application-Insights.svg
+rectangle "Application Insights" <<$ApplicationInsights{scale=3}>> as ApplicationInsights
+sprite $AzureDevOps DevOps/10261-icon-service-Azure-DevOps.svg
+rectangle "Azure DevOps" <<$AzureDevOps{scale=3}>> as AzureDevOps
+sprite $DevTestLabs DevOps/10264-icon-service-DevTest-Labs.svg
+rectangle "DevTest Labs" <<$DevTestLabs{scale=3}>> as DevTestLabs
+sprite $LabServices DevOps/10265-icon-service-Lab-Services.svg
+rectangle "Lab Services" <<$LabServices{scale=3}>> as LabServices
+@enduml
+
+@startuml
+!pragma revision 1
+
+
+skinparam defaultTextAlignment center
+skinparam defaultFontName Segoe UI
+skinparam defaultBackgroundColor white
+skinparam RectangleBackgroundColor white
+skinparam RectangleBorderColor #3C7FC0
+skinparam WrapWidth 100
+
+skinparam rectangle {
+    FontSize 12
+    BorderThickness 1
+    Shadowing false
+}
+sprite $ApplicationInsights DevOps/00012-icon-service-Application-Insights.svg
+rectangle "Application Insights" <<$ApplicationInsights{scale=3}>> as ApplicationInsights
+sprite $AzureDevOps DevOps/10261-icon-service-Azure-DevOps.svg
+rectangle "Azure DevOps" <<$AzureDevOps{scale=3}>> as AzureDevOps
+sprite $DevTestLabs DevOps/10264-icon-service-DevTest-Labs.svg
+rectangle "DevTest Labs" <<$DevTestLabs{scale=3}>> as DevTestLabs
+sprite $LabServices DevOps/10265-icon-service-Lab-Services.svg
+rectangle "Lab Services" <<$LabServices{scale=3}>> as LabServices
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 02:25:05 PST 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

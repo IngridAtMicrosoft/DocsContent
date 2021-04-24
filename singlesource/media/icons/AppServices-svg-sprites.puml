@@ -1,0 +1,22 @@
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $AppServicePlans AppServices/00046-icon-service-App-Service-Plans.svg
+rectangle "App Service Plans" <<$AppServicePlans{scale=3}>> as AppServicePlans
+sprite $AppServiceCertificates AppServices/00049-icon-service-App-Service-Certificates.svg
+rectangle "App Service Certificates" <<$AppServiceCertificates{scale=3}>> as AppServiceCertificates
+sprite $AppServiceDomains AppServices/00050-icon-service-App-Service-Domains.svg
+rectangle "App Service Domains" <<$AppServiceDomains{scale=3}>> as AppServiceDomains
+sprite $CDNProfiles AppServices/00056-icon-service-CDN-Profiles.svg
+rectangle "CDN Profiles" <<$CDNProfiles{scale=3}>> as CDNProfiles
+sprite $AppServices AppServices/10035-icon-service-App-Services.svg
+rectangle "App Services" <<$AppServices{scale=3}>> as AppServices
+sprite $APIManagementServices AppServices/10042-icon-service-API-Management-Services.svg
+rectangle "API Management Services" <<$APIManagementServices{scale=3}>> as APIManagementServices
+sprite $SearchServices AppServices/10044-icon-service-Search-Services.svg
+rectangle "Search Services" <<$SearchServices{scale=3}>> as SearchServices
+sprite $NotificationHubs AppServices/10045-icon-service-Notification-Hubs.svg
+rectangle "Notification Hubs" <<$NotificationHubs{scale=3}>> as NotificationHubs
+sprite $AppServiceEnvironments AppServices/10047-icon-service-App-Service-Environments.svg
+rectangle "App Service Environments" <<$AppServiceEnvironments{scale=3}>> as AppServiceEnvironments
+@enduml

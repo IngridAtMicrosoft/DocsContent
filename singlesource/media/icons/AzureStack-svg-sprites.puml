@@ -1,0 +1,20 @@
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $MultiTenancy AzureStack/00965-icon-service-Multi-Tenancy.svg
+rectangle "Multi Tenancy" <<$MultiTenancy{scale=3}>> as MultiTenancy
+sprite $InfrastructureBackup AzureStack/10108-icon-service-Infrastructure-Backup.svg
+rectangle "Infrastructure Backup" <<$InfrastructureBackup{scale=3}>> as InfrastructureBackup
+sprite $Capacity AzureStack/10109-icon-service-Capacity.svg
+rectangle "Capacity" <<$Capacity{scale=3}>> as Capacity
+sprite $Offers AzureStack/10110-icon-service-Offers.svg
+rectangle "Offers" <<$Offers{scale=3}>> as Offers
+sprite $UserSubscriptions AzureStack/10111-icon-service-User-Subscriptions.svg
+rectangle "User Subscriptions" <<$UserSubscriptions{scale=3}>> as UserSubscriptions
+sprite $Plans AzureStack/10113-icon-service-Plans.svg
+rectangle "Plans" <<$Plans{scale=3}>> as Plans
+sprite $AzureStack AzureStack/10114-icon-service-Azure-Stack.svg
+rectangle "Azure Stack" <<$AzureStack{scale=3}>> as AzureStack
+sprite $Updates AzureStack/10115-icon-service-Updates.svg
+rectangle "Updates" <<$Updates{scale=3}>> as Updates
+@enduml

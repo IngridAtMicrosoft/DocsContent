@@ -2,11 +2,11 @@
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
 sprite $ApplicationInsights DevOps/00012-icon-service-Application-Insights.svg
-rectangle " Application Insights" <<$ApplicationInsights{scale=3}>> as ApplicationInsights
+rectangle "Application Insights" <<$ApplicationInsights{scale=3}>> as ApplicationInsights
 sprite $AzureDevOps DevOps/10261-icon-service-Azure-DevOps.svg
-rectangle " Azure DevOps" <<$AzureDevOps{scale=3}>> as AzureDevOps
+rectangle "Azure DevOps" <<$AzureDevOps{scale=3}>> as AzureDevOps
 sprite $DevTestLabs DevOps/10264-icon-service-DevTest-Labs.svg
-rectangle " DevTest Labs" <<$DevTestLabs{scale=3}>> as DevTestLabs
+rectangle "DevTest Labs" <<$DevTestLabs{scale=3}>> as DevTestLabs
 sprite $LabServices DevOps/10265-icon-service-Lab-Services.svg
-rectangle " Lab Services" <<$LabServices{scale=3}>> as LabServices
+rectangle "Lab Services" <<$LabServices{scale=3}>> as LabServices
 @enduml
