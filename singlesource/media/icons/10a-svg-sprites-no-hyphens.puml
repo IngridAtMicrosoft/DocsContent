@@ -1,6 +1,5 @@
 @startuml
 !pragma revision 1
-!include AzureCommon.puml
 
 'all svg sprites starting with A'
 sprite $ActivityLog ActivityLog.svg
@@ -199,4 +198,6 @@ sprite $AzureTestPlan AzureTestPlan.svg
 rectangle "AzureTestPlan" <<$AzureTestPlan>> as AzureTestPlan
 sprite $Azure Azure.svg
 rectangle "Azure" <<$Azure>> as Azure
+
+ActivityLog -> Azure
 @enduml
