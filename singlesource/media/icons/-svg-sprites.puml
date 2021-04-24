@@ -1,0 +1,6 @@
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $ /-svg-sprites.svg
+rectangle "" <<${scale=3}>> as 
+@enduml
