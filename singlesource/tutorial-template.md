@@ -6,6 +6,7 @@ ms.author: #Required; microsoft alias of author; optional team alias.
 ms.service: #Required; service per approved list. service slug assigned to your service by ACOM.
 ms.topic: tutorial #Required
 ms.date: #Required; mm/dd/yyyy format.
+ms.service: media-services
 ---
 
 <!---Recommended: Remove all the comments in this template before you
