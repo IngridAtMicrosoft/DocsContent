@@ -1,5 +1,3 @@
-- name: Compile Mermaid Markdown
-  uses: neenjaw/compile-mermaid-markdown-action@0.2.4
 - name: Single Source
   href: index.md
 - name: Overview
@@ -14,6 +12,8 @@
     href: tutorial-peanut-butter-wrap.md
 - name: Concepts
   items:
+  - name: PlantUML
+    href: plantuml.md
   - name: Sandwich
     href: concept-sandwich.md
   - name: Ingredients
