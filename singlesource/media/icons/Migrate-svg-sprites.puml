@@ -1,0 +1,14 @@
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $CostManagementandBilling \Migrate/00004-icon-service-Cost-Management-and-Billing.svg
+rectangle " Cost Management and Billing" <<$CostManagementandBilling{scale=3}>> as CostManagementandBilling
+sprite $RecoveryServicesVaults \Migrate/00017-icon-service-Recovery-Services-Vaults.svg
+rectangle " Recovery Services Vaults" <<$RecoveryServicesVaults{scale=3}>> as RecoveryServicesVaults
+sprite $DataBox \Migrate/10094-icon-service-Data-Box.svg
+rectangle " Data Box" <<$DataBox{scale=3}>> as DataBox
+sprite $DataBoxEdge \Migrate/10095-icon-service-Data-Box-Edge.svg
+rectangle " Data Box Edge" <<$DataBoxEdge{scale=3}>> as DataBoxEdge
+sprite $AzureMigrate \Migrate/10281-icon-service-Azure-Migrate.svg
+rectangle " Azure Migrate" <<$AzureMigrate{scale=3}>> as AzureMigrate
+@enduml
