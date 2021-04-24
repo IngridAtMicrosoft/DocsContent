@@ -1,16 +1,16 @@
 @startuml
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
-sprite $MachineLearningStudioClassicWebServices \AI + Machine Learning/00030-icon-service-Machine-Learning-Studio-Classic-Web-Services.svg
+sprite $MachineLearningStudioClassicWebServices AI Machine Learning/00030-icon-service-Machine-Learning-Studio-Classic-Web-Services.svg
 rectangle " Machine Learning Studio Classic Web Services" <<$MachineLearningStudioClassicWebServices{scale=3}>> as MachineLearningStudioClassicWebServices
-sprite $TranslatorText \AI + Machine Learning/00800-icon-service-Translator-Text.svg
+sprite $TranslatorText AI Machine Learning/00800-icon-service-Translator-Text.svg
 rectangle " Translator Text" <<$TranslatorText{scale=3}>> as TranslatorText
-sprite $CognitiveServices \AI + Machine Learning/10162-icon-service-Cognitive-Services.svg
+sprite $CognitiveServices AI Machine Learning/10162-icon-service-Cognitive-Services.svg
 rectangle " Cognitive Services" <<$CognitiveServices{scale=3}>> as CognitiveServices
-sprite $BotServices \AI + Machine Learning/10165-icon-service-Bot-Services.svg
+sprite $BotServices AI Machine Learning/10165-icon-service-Bot-Services.svg
 rectangle " Bot Services" <<$BotServices{scale=3}>> as BotServices
-sprite $MachineLearningStudioWorkspaces \AI + Machine Learning/10167-icon-service-Machine-Learning-Studio-Workspaces.svg
+sprite $MachineLearningStudioWorkspaces AI Machine Learning/10167-icon-service-Machine-Learning-Studio-Workspaces.svg
 rectangle " Machine Learning Studio Workspaces" <<$MachineLearningStudioWorkspaces{scale=3}>> as MachineLearningStudioWorkspaces
-sprite $MachineLearningStudioWebServicePlans \AI + Machine Learning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg
+sprite $MachineLearningStudioWebServicePlans AI Machine Learning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg
 rectangle " Machine Learning Studio Web Service Plans" <<$MachineLearningStudioWebServicePlans{scale=3}>> as MachineLearningStudioWebServicePlans
 @enduml

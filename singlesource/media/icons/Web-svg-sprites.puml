@@ -1,8 +1,8 @@
 @startuml
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
-sprite $NotificationHubNamespaces \Web/10053-icon-service-Notification-Hub-Namespaces.svg
+sprite $NotificationHubNamespaces Web/10053-icon-service-Notification-Hub-Namespaces.svg
 rectangle " Notification Hub Namespaces" <<$NotificationHubNamespaces{scale=3}>> as NotificationHubNamespaces
-sprite $AzureMediaService \Web/10309-icon-service-Azure-Media-Service.svg
+sprite $AzureMediaService Web/10309-icon-service-Azure-Media-Service.svg
 rectangle " Azure Media Service" <<$AzureMediaService{scale=3}>> as AzureMediaService
 @enduml

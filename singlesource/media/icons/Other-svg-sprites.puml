@@ -1,28 +1,28 @@
 @startuml
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
-sprite $WindowsVirtualDesktop \Other/00327-icon-service-Windows-Virtual-Desktop.svg
+sprite $WindowsVirtualDesktop Other/00327-icon-service-Windows-Virtual-Desktop.svg
 rectangle " Windows Virtual Desktop" <<$WindowsVirtualDesktop{scale=3}>> as WindowsVirtualDesktop
-sprite $Detonation \Other/00378-icon-service-Detonation.svg
+sprite $Detonation Other/00378-icon-service-Detonation.svg
 rectangle " Detonation" <<$Detonation{scale=3}>> as Detonation
-sprite $SSHKeys \Other/00412-icon-service-SSH-Keys.svg
+sprite $SSHKeys Other/00412-icon-service-SSH-Keys.svg
 rectangle " SSH Keys" <<$SSHKeys{scale=3}>> as SSHKeys
-sprite $InternetAnalyzerProfiles \Other/00469-icon-service-Internet-Analyzer-Profiles.svg
+sprite $InternetAnalyzerProfiles Other/00469-icon-service-Internet-Analyzer-Profiles.svg
 rectangle " Internet Analyzer Profiles" <<$InternetAnalyzerProfiles{scale=3}>> as InternetAnalyzerProfiles
-sprite $UniversalPrint \Other/00571-icon-service-Universal-Print.svg
+sprite $UniversalPrint Other/00571-icon-service-Universal-Print.svg
 rectangle " Universal Print" <<$UniversalPrint{scale=3}>> as UniversalPrint
-sprite $ExpressRouteDirect \Other/00903-icon-service-ExpressRoute-Direct.svg
+sprite $ExpressRouteDirect Other/00903-icon-service-ExpressRoute-Direct.svg
 rectangle " ExpressRoute Direct" <<$ExpressRouteDirect{scale=3}>> as ExpressRouteDirect
-sprite $PeeringService \Other/00970-icon-service-Peering-Service.svg
+sprite $PeeringService Other/00970-icon-service-Peering-Service.svg
 rectangle " Peering Service" <<$PeeringService{scale=3}>> as PeeringService
-sprite $ResourceMover \Other/02200-icon-service-Resource-Mover.svg
+sprite $ResourceMover Other/02200-icon-service-Resource-Mover.svg
 rectangle " Resource Mover" <<$ResourceMover{scale=3}>> as ResourceMover
-sprite $TemplateSpecs \Other/02340-icon-service-Template-Specs.svg
+sprite $TemplateSpecs Other/02340-icon-service-Template-Specs.svg
 rectangle " Template Specs" <<$TemplateSpecs{scale=3}>> as TemplateSpecs
-sprite $AzureBackupCenter \Other/02360-icon-service-Azure-Backup-Center.svg
+sprite $AzureBackupCenter Other/02360-icon-service-Azure-Backup-Center.svg
 rectangle " Azure Backup Center" <<$AzureBackupCenter{scale=3}>> as AzureBackupCenter
-sprite $LocalNetworkGateways \Other/10077-icon-service-Local-Network-Gateways.svg
+sprite $LocalNetworkGateways Other/10077-icon-service-Local-Network-Gateways.svg
 rectangle " Local Network Gateways" <<$LocalNetworkGateways{scale=3}>> as LocalNetworkGateways
-sprite $InstancePools \Other/10139-icon-service-Instance-Pools.svg
+sprite $InstancePools Other/10139-icon-service-Instance-Pools.svg
 rectangle " Instance Pools" <<$InstancePools{scale=3}>> as InstancePools
 @enduml
