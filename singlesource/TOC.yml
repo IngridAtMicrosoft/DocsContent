@@ -4,40 +4,10 @@
   items:
   - name: What is Single Source?
     href: overview-single-source.md
-- name: Tutorials
-  items:
-  - name: Make a peanut butter and jelly sandwich
-    href: tutorial-peanut-butter-sandwich.md
-  - name: Make a peanut butter and jelly wrap
-    href: tutorial-peanut-butter-wrap.md
 - name: Concepts
   items:
   - name: PlantUML
-    href: plantuml.md
-  - name: Sandwich
-    href: concept-sandwich.md
-  - name: Ingredients
-    items:
-    - name: Bread
-      href: concept-bread.md
-    - name: Peanut Butter
-      href: concept-peanut-butter.md
-    - name: Jelly
-      href: concept-jelly.md
-  - name: Tools
-    items:
-    - name: Sandwich making tools
-      href: concept-sandwich-making-tools.md
-- name: How-to guides
-  items: 
-  - name: Make a peanut butter sandwich
-    href: how-to-peanut-butter-sandwich.md
-- name: Reference
-  items:
-  - name: Types of bread
-    href: ref-types-bread.md
-  - name: Types of jelly
-    href: ref-types-jelly.md    
+    href: plantuml.md      
 - name: Related
   items:
   - name: Structured Documentation
