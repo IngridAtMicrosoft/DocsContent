@@ -32,18 +32,6 @@
   items: 
   - name: Make a peanut butter sandwich
     href: how-to-peanut-butter-sandwich.md
-  - name: Tasks
-    items:
-    - name: Prepare bread
-      href: task-prepare-bread.md
-    - name: Prepare tortilla
-      href: task-prepare-tortilla.md
-    - name: Open a jar
-      href: task-open-jar.md
-    - name: Spread peanut butter
-      href: task-spread-peanut-butter.md
-    - name: Spread jelly
-      href: task-spread-jelly.md
 - name: Reference
   items:
   - name: Types of bread
