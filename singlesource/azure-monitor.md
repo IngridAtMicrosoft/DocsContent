@@ -14,14 +14,14 @@ ms.service: media-services
 
 This is a sample SVG made from the available sprites.
 
-## Azure Monitor
+## Azure Monitor PRETTY diagram
 
 ![Azure Monitor](./media/diagrams/Azure-Monitor.svg)
-
-## Media Services class diagram
-
-Media services class diagram will go here.
 
 ## Media Services encoding diagram
 
 Media services encoding diagram will go here.
+
+## Media Services class diagram
+
+Media services class diagram will go here.
