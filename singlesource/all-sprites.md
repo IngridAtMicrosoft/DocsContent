@@ -1,5 +1,5 @@
 ---
-title: Bread 
+title: All SVG Sprites
 description: What is bread?
 author: IngridAtMicrosoft
 ms.topic: article
@@ -10,7 +10,8 @@ ms.lastreviewed: 07/04/2020
 ms.service: media-services
 ---
 
-# PlantUML diagrams
+# All SVG Sprites
+
 This is a list of all the SVG sprites that are available for PlantUML diagrams so far.
 
 ## AI and Machine Learning

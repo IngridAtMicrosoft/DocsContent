@@ -10,6 +10,6 @@ ms.lastreviewed: 07/04/2020
 ms.service: media-services
 ---
 
-# Welcome to singlesource!
+# Welcome to Single Source!
 
-This is just a page.
+This repo is dedicated to using single source documentation principles with GitHub.

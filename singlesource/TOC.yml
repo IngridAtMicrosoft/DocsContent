@@ -7,7 +7,7 @@
 - name: Concepts
   items:
   - name: Azure PlantUML Sprites
-    href: plantuml.md
+    href: all-sprites.md
   - name: Azure Monitor PRETTY diagram
     href: azure-monitor.md
   - name: Media Services diagrams
