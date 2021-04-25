@@ -1,14 +1,26 @@
 @startuml
 
-rectangle Arrows
-rectangle Up
-rectangle Down
-rectangle Left
-rectangle Right
+skinparam Linetype ortho
+'skinparam nodesep 10
+skinparam ranksep 20
 
-Arrows -u-> Up 
-Arrows -d-> Down
-Arrows -l-> Left
-Arrows -r-> Right
+rectangle Arrows
+'rectangle Up
+'rectangle Down
+'rectangle Left
+together {
+    rectangle Right {
+        rectangle child 
+        rectangle child2
+        child -d-> child2
+    }
+rectangle Right2
+}
+
+'Arrows -u-> Up 
+'Arrows -d-> Down
+'Arrows -l-> Left
+Arrows -d- Right2
+Right2 -d-> Right
 
 @enduml
