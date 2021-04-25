@@ -1,16 +1,16 @@
 @startuml
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
-sprite $MachineLearningStudioClassicWebServices AIMachineLearning/00030-icon-service-Machine-Learning-Studio-Classic-Web-Services.svg
+sprite $MachineLearningStudioClassicWebServices ../../media/icons/AIMachineLearning/00030-icon-service-Machine-Learning-Studio-Classic-Web-Services.svg
 rectangle "Machine Learning Studio Classic Web Services" <<$MachineLearningStudioClassicWebServices{scale=3}>> as MachineLearningStudioClassicWebServices
-sprite $TranslatorText AIMachineLearning/00800-icon-service-Translator-Text.svg
+sprite $TranslatorText ../../media/icons/AIMachineLearning/00800-icon-service-Translator-Text.svg
 rectangle "Translator Text" <<$TranslatorText{scale=3}>> as TranslatorText
-sprite $CognitiveServices AIMachineLearning/10162-icon-service-Cognitive-Services.svg
+sprite $CognitiveServices ../../media/icons/AIMachineLearning/10162-icon-service-Cognitive-Services.svg
 rectangle "Cognitive Services" <<$CognitiveServices{scale=3}>> as CognitiveServices
-sprite $BotServices AIMachineLearning/10165-icon-service-Bot-Services.svg
+sprite $BotServices ../../media/icons/AIMachineLearning/10165-icon-service-Bot-Services.svg
 rectangle "Bot Services" <<$BotServices{scale=3}>> as BotServices
-sprite $MachineLearningStudioWorkspaces AIMachineLearning/10167-icon-service-Machine-Learning-Studio-Workspaces.svg
+sprite $MachineLearningStudioWorkspaces ../../media/icons/AIMachineLearning/10167-icon-service-Machine-Learning-Studio-Workspaces.svg
 rectangle "Machine Learning Studio Workspaces" <<$MachineLearningStudioWorkspaces{scale=3}>> as MachineLearningStudioWorkspaces
-sprite $MachineLearningStudioWebServicePlans AIMachineLearning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg
+sprite $MachineLearningStudioWebServicePlans ../../media/icons/AIMachineLearning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg
 rectangle "Machine Learning Studio Web Service Plans" <<$MachineLearningStudioWebServicePlans{scale=3}>> as MachineLearningStudioWebServicePlans
 @enduml

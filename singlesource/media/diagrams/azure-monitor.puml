@@ -57,27 +57,27 @@ hide <<srcs>> stereotype
 
 '##############SPRITES###########################
 'Establish sprites'
-sprite $Monitor ManagementGovernance/00001-icon-service-Monitor.svg
-sprite $Metrics ManagementGovernance/00020-icon-service-Metrics.svg
-sprite $ActivityLog ManagementGovernance/00007-icon-service-Activity-Log.svg
-sprite $ApplicationInsights DevOps/00012-icon-service-Application-Insights.svg
-sprite $ContainerInstances Containers/10104-icon-service-Container-Instances.svg
-sprite $VirtualMachine Compute/10021-icon-service-Virtual-Machine.svg
-sprite $SAPAzureMonitor Monitor/00438-icon-service-SAP-Azure-Monitor.svg
-sprite $Dashboard General/10015-icon-service-Dashboard.svg
-sprite $Mobile General/10822-icon-service-Mobile.svg
-sprite $PowerBI Other/not-icon-service-Power-BI.svg
-sprite $Workbooks General/10851-icon-service-Workbooks.svg
-sprite $AnalysisServices Analytics/10148-icon-service-Analysis-Services.svg
-sprite $LogAnalyticsWorkspaces Analytics/00009-icon-service-Log-Analytics-Workspaces.svg
-sprite $Alerts ManagementGovernance/00002-icon-service-Alerts.svg
-sprite $VMScaleSets Compute/10034-icon-service-VM-Scale-Sets.svg
-sprite $LogicApps Integration/10201-icon-service-Logic-Apps.svg
-sprite $APIManagementServices Integration/10042-icon-service-API-Management-Services.svg
-sprite $StaticApps Preview/01007-icon-service-Static-Apps.svg
-sprite $ResourceGroups General/10007-icon-service-Resource-Groups.svg
-sprite $Subscriptions General/10002-icon-service-Subscriptions.svg
-sprite $MyCustomers ManagementGovernance/00014-icon-service-My-Customers.svg
+sprite $Monitor ../../media/icons/ManagementGovernance/00001-icon-service-Monitor.svg
+sprite $Metrics ../../media/icons/ManagementGovernance/00020-icon-service-Metrics.svg
+sprite $ActivityLog ../../media/icons/ManagementGovernance/00007-icon-service-Activity-Log.svg
+sprite $ApplicationInsights ../../media/icons/DevOps/00012-icon-service-Application-Insights.svg
+sprite $ContainerInstances ../../media/icons/Containers/10104-icon-service-Container-Instances.svg
+sprite $VirtualMachine ../../media/icons/Compute/10021-icon-service-Virtual-Machine.svg
+sprite $SAPAzureMonitor ../../media/icons/Monitor/00438-icon-service-SAP-Azure-Monitor.svg
+sprite $Dashboard ../../media/icons/General/10015-icon-service-Dashboard.svg
+sprite $Mobile ../../media/icons/General/10822-icon-service-Mobile.svg
+sprite $PowerBI ../../media/icons/Other/not-icon-service-Power-BI.svg
+sprite $Workbooks ../../media/icons/General/10851-icon-service-Workbooks.svg
+sprite $AnalysisServices ../../media/icons/Analytics/10148-icon-service-Analysis-Services.svg
+sprite $LogAnalyticsWorkspaces ../../media/icons/Analytics/00009-icon-service-Log-Analytics-Workspaces.svg
+sprite $Alerts ../../media/icons/ManagementGovernance/00002-icon-service-Alerts.svg
+sprite $VMScaleSets ../../media/icons/Compute/10034-icon-service-VM-Scale-Sets.svg
+sprite $LogicApps ../../media/icons/Integration/10201-icon-service-Logic-Apps.svg
+sprite $APIManagementServices ../../media/icons/Integration/10042-icon-service-API-Management-Services.svg
+sprite $StaticApps ../../media/icons/Preview/01007-icon-service-Static-Apps.svg
+sprite $ResourceGroups ../../media/icons/General/10007-icon-service-Resource-Groups.svg
+sprite $Subscriptions ../../media/icons/General/10002-icon-service-Subscriptions.svg
+sprite $MyCustomers ../../media/icons/ManagementGovernance/00014-icon-service-My-Customers.svg
 
 '################RELATIONSHIPS#########################
 'start relationships
