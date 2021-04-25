@@ -25,4 +25,6 @@ sprite $LocalNetworkGateways Other/10077-icon-service-Local-Network-Gateways.svg
 rectangle "Local Network Gateways" <<$LocalNetworkGateways{scale=3}>> as LocalNetworkGateways
 sprite $InstancePools Other/10139-icon-service-Instance-Pools.svg
 rectangle "Instance Pools" <<$InstancePools{scale=3}>> as InstancePools
+sprite $PowerBI Other/not-icon-service-Power-BI.svg
+rectangle "Power BI" <<$PowerBI{scale=3}>> as PowerBI
 @enduml
