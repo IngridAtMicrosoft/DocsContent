@@ -82,7 +82,7 @@ This is a list of all the SVG sprites that are available for PlantUML diagrams s
 
 ![Management and Governance](./media/diagrams/ManagementGovernance-svg-sprites.svg)
 
-# Media Services
+## Media Services
 
 ![Media Services](./media/diagrams/MediaServices-svg-sprites.svg)
 
