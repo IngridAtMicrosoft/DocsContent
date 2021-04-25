@@ -6,8 +6,10 @@
     href: overview-single-source.md
 - name: Concepts
   items:
-  - name: PlantUML
-    href: plantuml.md      
+  - name: Azure PlantUML Sprites
+    href: plantuml.md
+  - name: Azure Monitor Sample Diagram
+    href: azure-monitor.md
 - name: Related
   items:
   - name: Structured Documentation
