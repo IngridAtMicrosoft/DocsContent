@@ -1,12 +1,11 @@
 ---
 title: All SVG Sprites
-description: What is bread?
+description: This is a list of all the SVG sprites that are available for PlantUML diagrams so far.
 author: IngridAtMicrosoft
-ms.topic: article
-ms.date: 04/23/2021
+ms.topic: reference
+ms.date: 04/25/2021
 ms.author: inhenkel
 ms.reviewer: inhenkel
-ms.lastreviewed: 07/04/2020
 ms.service: media-services
 ---
 

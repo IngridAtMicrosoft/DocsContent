@@ -4,19 +4,22 @@
   items:
   - name: What is Single Source?
     href: overview-single-source.md
-- name: Concepts
+- name: Concepts  
   items:
-  - name: Azure PlantUML Sprites
-    href: all-sprites.md
-  - name: Azure Monitor PRETTY diagram
-    href: azure-monitor.md
-  - name: Media Services diagrams
-    href: media-services-diagrams.md
-- name: Related
-  items:
-  - name: Structured Documentation
-    href: http://adl.org
-- name: Resources
-  items:
-  - name: Instructional Design Training and certification
-    href: https://www.td.org/
+  - name: GitHub Structured Documentation
+  - name: Reuse in Graphics
+    items:
+    - name: Azure Sprite Icons
+      href: all-sprites.md
+    - name: Azure Monitor PRETTY diagram
+      href: azure-monitor.md
+    - name: Media Services diagrams
+      href: media-services-diagrams.md
+  - name: Related
+    items:
+    - name: Structured Documentation
+      href: http://adl.org
+  - name: Resources
+    items:
+    - name: Instructional Design Training and certification
+      href: https://www.td.org/
