@@ -1,5 +1,5 @@
 {
     "plantuml.exportFormat": "svg",
-    "plantuml.exportOutDir": "media\\diagrams",
+    "plantuml.exportOutDir": "diagrams",
     "plantuml.exportSubFolder": false
 }

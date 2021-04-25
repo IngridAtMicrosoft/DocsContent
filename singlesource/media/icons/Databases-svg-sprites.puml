@@ -7,7 +7,7 @@ sprite $AzureSynapseAnalytics Databases/00606-icon-service-Azure-Synapse-Analyti
 rectangle "Azure Synapse Analytics" <<$AzureSynapseAnalytics{scale=3}>> as AzureSynapseAnalytics
 sprite $AzureSQL Databases/02390-icon-service-Azure-SQL.svg
 rectangle "Azure SQL" <<$AzureSQL{scale=3}>> as AzureSQL
-sprite $SSISLiftAndShiftIR Databases/02392-icon-service-SSIS-Lift-And-Shift-IR.svg
+sprite $SSISLiftAndShiftIR Databases/02392-icon-service-SSIS-Lift-And-Shift-IR_edited.svg
 rectangle "SSIS Lift And Shift IR" <<$SSISLiftAndShiftIR{scale=3}>> as SSISLiftAndShiftIR
 sprite $AzureCosmosDB Databases/10121-icon-service-Azure-Cosmos-DB.svg
 rectangle "Azure Cosmos DB" <<$AzureCosmosDB{scale=3}>> as AzureCosmosDB
