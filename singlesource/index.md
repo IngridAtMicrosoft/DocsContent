@@ -13,3 +13,7 @@ ms.service: media-services
 # Welcome to Single Source!
 
 This repo is dedicated to using single source documentation principles with GitHub.
+
+## Testing Liquid
+
+{{ page.title }}
