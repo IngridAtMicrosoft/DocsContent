@@ -16,7 +16,7 @@ This is a test of the DocFx UID.
 
 ## First heading
 
-:::code language="" source="./includes/section-include.md" id="windows1":::
+:::code language="html" source="./includes/section-include.html" id="windows1":::
 
 ## Second heading
 
