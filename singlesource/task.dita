@@ -1,0 +1,14 @@
+<step> 
+    <cmd>Grease the skillet with bacon drippings (ideal) or oil. </cmd> 
+    <info> 
+       <note>Butter isn't recommended, since it can burn when you 
+       preheat the skillet.</note> </info>
+ </step>
+ <step> 
+     <cmd>Bake for 25-30 minutes. </cmd>
+     <stepresult> 
+          <p>The cornbread should have a golden brown color when done,
+           and a knitting needle or knife-point will come out "dry" when 
+           inserted in the bread.</p> 
+      </stepresult> 
+ </step>
