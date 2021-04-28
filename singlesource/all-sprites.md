@@ -11,7 +11,7 @@ ms.service: media-services
 
 # All SVG Sprites
 
-This is a list all the SVG sprites that are available for PlantUML diagrams so far.
+This is a of list all the SVG sprites that are available for PlantUML diagrams so far.
 
 ## AI and Machine Learning
 
