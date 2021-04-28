@@ -1,6 +1,6 @@
 ---
 title: Media Services Diagrams
-description: What is bread?
+description: Media services diagrams
 author: IngridAtMicrosoft
 ms.topic: concept
 ms.date: 04/23/2021

@@ -1,6 +1,6 @@
 ---
-title: Bread 
-description: What is bread?
+title: Azure Monitor PRETTY diagram
+description: Pretty things
 author: IngridAtMicrosoft
 ms.topic: concept
 ms.date: 04/23/2021
