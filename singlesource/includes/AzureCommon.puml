@@ -17,6 +17,6 @@ skinparam WrapWidth 100
 
 skinparam rectangle {
     FontSize 12
-    BorderThickness 1
+    BorderThickness 0
     Shadowing false
 }

@@ -21,7 +21,7 @@ skinparam maxMessageSize 150
 skinparam rectangle {
     StereotypeFontSize 12
     BackgroundColor white
-    BorderThickness 2
+    BorderThickness 0
     Shadowing false
 }
 

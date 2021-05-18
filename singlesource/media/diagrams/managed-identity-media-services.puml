@@ -1,0 +1,66 @@
+@startuml
+title "Managed Identities Scenario Comparison"
+
+' Colors
+' ##################################
+!define AZURE_COLOR #0072C6
+!define AZURE_BG_COLOR #FFFFFF
+!define AZURE_BORDER_COLOR #3C7FC0
+!define AZURE_SYMBOL_COLOR AZURE_COLOR
+
+' Styling
+' ##################################
+left to right direction
+
+skinparam defaultTextAlignment center
+skinparam defaultFontName Segoe UI
+skinparam defaultBackgroundColor white
+skinparam RectangleBackgroundColor white
+skinparam RectangleBorderColor AZURE_BORDER_COLOR
+skinparam WrapWidth 50
+skinparam ArrowColor black
+
+skinparam rectangle {
+    FontSize 12
+    BorderThickness 0
+    Shadowing false
+}
+
+skinparam card {
+    Shadowing false
+    BackgroundColor white
+    BorderThickness 1
+    FontColor AZURE_BORDER_COLOR
+}
+
+sprite $AMSazuremediaservice ../../media/icons/MediaServices/Icon-web-309-azuremediaservice3.svg
+sprite $ManagedIdentities ../../media/icons/Identity/10227-icon-service-Managed-Identities.svg
+sprite $StorageAccounts ../../media/icons/Storage/10086-icon-service-Storage-Accounts.svg
+sprite $KeyVaults ../../media/icons/Security/10245-icon-service-Key-Vaults2.svg
+sprite $FunctionApps ../../media/icons/Compute/10029-icon-service-Function-Apps2.svg
+
+card "Allow other services to access Media Services" as scenario3 {
+  rectangle "Media Services Account" <<$AMSazuremediaservice{scale=2}>> as AMSazuremediaservice3
+  rectangle "Managed Identity" <<$ManagedIdentities{scale=3}>> as ManagedIdentities3    
+  rectangle "Function App" <<$FunctionApps{scale=3}>> as FunctionApps3
+  
+  FunctionApps3 -- ManagedIdentities3 : uses
+  ManagedIdentities3 --> AMSazuremediaservice3 : to access 
+}
+
+card "Grant a Media Services Account Key Vault access" as scenario2 {
+  rectangle "Key Vault" <<$KeyVaults{scale=3}>> as KeyVaults2
+  rectangle "Media Services Account" <<$AMSazuremediaservice{scale=2}>> as AMSazuremediaservice2
+  rectangle "Managed Identity" <<$ManagedIdentities{scale=3}>> as ManagedIdentities2
+  AMSazuremediaservice2 -- ManagedIdentities2 : uses
+  ManagedIdentities2 --> KeyVaults2: to access
+}
+
+card "Grant storage permissions to Media Services Account" as scenario1 {
+  rectangle "Storage Account" <<$StorageAccounts{scale=3}>> as StorageAccounts1 
+  rectangle "Media Services Account" <<$AMSazuremediaservice{scale=2}>> as AMSazuremediaservice1
+  rectangle "Managed Identity" <<$ManagedIdentities{scale=3}>> as ManagedIdentities1
+  AMSazuremediaservice1 -- ManagedIdentities1 : uses
+  ManagedIdentities1 --> StorageAccounts1: to access
+}
+@enduml

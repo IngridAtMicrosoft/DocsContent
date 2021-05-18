@@ -46,7 +46,7 @@
       "feedback_system": "None"
     },
     "fileMetadata": {},
-    "template": ["default","DocFx.Plugins.PlantUml/template"],
+    "template": [],
     "dest": "singlesource",
     "markdownEngineName": "markdig"
   }
