@@ -17,6 +17,11 @@
       href: azure-monitor.md
     - name: Media Services diagrams
       href: media-services-diagrams.md
+  - name: Interactive Content
+    items:
+    - name: Support metrics training example
+      href: interactive-content.md
+
   - name: Related
     items:
     - name: Structured Documentation
