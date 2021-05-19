@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6J041cyU8x4_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">P369 to Lens</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/6IkRUHWodcz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scroll the mouse wheel</name>
+			<description lang="und">Scroll the mouse wheel</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/5dTqiH4lny1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the Products menu button</name>
+			<description lang="und">Click the Products menu button</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/5eWKaGwhAhs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Type Media</name>
+			<description lang="und">Type Media</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/5W0gygO6OuW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the group</name>
+			<description lang="und">Click the group</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/5lmXqzVPBGI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the group</name>
+			<description lang="und">Click the group</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/6BjHFurlt4g" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the Self-Help label</name>
+			<description lang="und">Click the Self-Help label</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/6i6VTP9o2Kt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scroll the mouse wheel</name>
+			<description lang="und">Scroll the mouse wheel</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/6VSH2d9qLQH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the Overall CSAT (Avg) - Monthly Support pane</name>
+			<description lang="und">Click the Overall CSAT (Avg) - Monthly Support pane</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/6PGYvv022Qs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the Sample Tickets tab page</name>
+			<description lang="und">Click the Sample Tickets tab page</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/628eSM1n7h9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Now you try</name>
+			<description lang="und">Now you try</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/6VcVUZiuy0l" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the Products menu button</name>
+			<description lang="und">Click the Products menu button</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/5hdEPsZyxoW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Type Media</name>
+			<description lang="und">Type Media</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/5hdEPsZyxoW/6qd7h49FIl4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Text Entry Interaction</name>
+			<description lang="und">Text Entry Interaction</description>
+			<interactionType>fill-in</interactionType>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/5V1fsl6uchp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the group</name>
+			<description lang="und">Click the group</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/5yU5KBi8TWD" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the group</name>
+			<description lang="und">Click the group</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/6JtQYxUb934" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the Self-Help label</name>
+			<description lang="und">Click the Self-Help label</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/6oUqu1wX5EP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scroll the mouse wheel</name>
+			<description lang="und">Scroll the mouse wheel</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/6P6ntiUwp4s" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the Overall CSAT (Avg) - Monthly Support pane</name>
+			<description lang="und">Click the Overall CSAT (Avg) - Monthly Support pane</description>
+		</activity>
+		<activity id="http://6J041cyU8x4_course_id/6I1jJlVm9qb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Click the Sample Tickets tab page</name>
+			<description lang="und">Click the Sample Tickets tab page</description>
+		</activity>
+	</activities>
+</tincan>
