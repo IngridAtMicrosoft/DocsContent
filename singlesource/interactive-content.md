@@ -1,6 +1,6 @@
 ---
-title: Overview of single sourcing documentation 
-description: Overview of single sourcing documentation.
+title: Interactive content
+description: Overview of safe, interactive content
 author: IngridAtMicrosoft
 ms.topic: concept
 ms.date: 04/25/2021
