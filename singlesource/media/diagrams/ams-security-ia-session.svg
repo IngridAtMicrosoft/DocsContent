@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="807px" preserveAspectRatio="none" style="width:5390px;height:807px;" version="1.1" viewBox="0 0 5390 807" width="5390px" zoomAndPan="magnify"><defs/><g><!--MD5=[9a075cc12ac85b1fdea0a76afd0e1269]
+cluster SecureStreaming--><rect fill="#FFFFFF" height="578" style="stroke:#3C7FC0;stroke-width:1.0;" width="2034" x="1420" y="223"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="100" x="2387" y="237.9492">Secure Streaming</text><!--MD5=[c01fafcdfa26b26d0d84ff4bc36af4a9]
+cluster StreamingEncryption--><rect fill="#FFFFFF" height="334" style="stroke:#3C7FC0;stroke-width:1.0;" width="250" x="3180" y="347"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="120" x="3245" y="361.9492">Streaming Encryption</text><!--MD5=[db398b336cd1bcbf62ee8f46148768f1]
+cluster KeyDelivery--><rect fill="#FFFFFF" height="496" style="stroke:#3C7FC0;stroke-width:1.0;" width="1096" x="2052" y="273"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="71" x="2564.5" y="287.9492">Key Delivery</text><!--MD5=[f5bc860940d7343023e41b5d14ca1cac]
+cluster TokenAuthentication--><rect fill="#FFFFFF" height="216" style="stroke:#3C7FC0;stroke-width:1.0;" width="1008" x="2092" y="513"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="121" x="2535.5" y="527.9492">Token Authentication</text><!--MD5=[61d8787ab6904a18108a0acbf7dd7bfe]
+cluster AADAuth--><rect fill="#FFFFFF" height="118" style="stroke:#3C7FC0;stroke-width:1.0;" width="163" x="2897" y="571"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="55" x="2951" y="585.9492">AAD Auth</text><!--MD5=[c56104b1feaf7e636133208485eb786f]
+cluster AccountConfiguration--><rect fill="#FFFFFF" height="118" style="stroke:#3C7FC0;stroke-width:1.0;" width="422" x="2368" y="331"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="125" x="2516.5" y="345.9492">Account Configuration</text><!--MD5=[ea1b41610687e2bf72c713ec0496a514]
+cluster DRMKeyAccess--><rect fill="#FFFFFF" height="184" style="stroke:#3C7FC0;stroke-width:1.0;" width="560" x="1452" y="289"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="100" x="1682" y="303.9492">DRM / Key Access</text><!--MD5=[3f49082b2b82ecafdc934ac5133e7b3a]
+cluster Widevine--><rect fill="#FFFFFF" height="102" style="stroke:#3C7FC0;stroke-width:1.0;" width="146" x="1834" y="339"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="53" x="1880.5" y="353.9492">Widevine</text><!--MD5=[d92d75d26bb77fbd954435a8a0600240]
+cluster Fairplay--><rect fill="#FFFFFF" height="86" style="stroke:#3C7FC0;stroke-width:1.0;" width="146" x="1664" y="347"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="42" x="1716" y="361.9492">Fairplay</text><!--MD5=[298d8cf23f722701f8654e2678d984dc]
+cluster PlayReady--><rect fill="#FFFFFF" height="86" style="stroke:#3C7FC0;stroke-width:1.0;" width="148" x="1492" y="347"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="56" x="1538" y="361.9492">PlayReady</text><!--MD5=[040f123e2f00d1d6693be0f4c3d8392e]
+cluster AccountSecurity--><rect fill="#FFFFFF" height="458" style="stroke:#3C7FC0;stroke-width:1.0;" width="1389" x="7" y="7"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="95" x="654" y="21.9492">Account Security</text><!--MD5=[4567ecc711f52aaf9f3637a6af5910a4]
+cluster ManagedIdentity--><rect fill="#FFFFFF" height="368" style="stroke:#3C7FC0;stroke-width:1.0;" width="430" x="942" y="73"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="98" x="1108" y="87.9492">Managed Identity</text><!--MD5=[02f879ad141858345f0373a5db64024d]
+cluster RoleBasedAccessControl--><rect fill="#FFFFFF" height="102" style="stroke:#3C7FC0;stroke-width:1.0;" width="283" x="635" y="73"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="704" y="87.9492">Role Based Access Control</text><!--MD5=[d133aceb7f04ad886275c2a894630103]
+cluster AzurePolicy--><rect fill="#FFFFFF" height="134" style="stroke:#3C7FC0;stroke-width:1.0;" width="187" x="416" y="57"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="68" x="475.5" y="71.9492">Azure Policy</text><!--MD5=[2624416537ea1f16b6b6b9eb0cdd0712]
+cluster NetworkSecurity--><rect fill="#FFFFFF" height="200" style="stroke:#3C7FC0;stroke-width:1.0;" width="1284" x="3478" y="521"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="99" x="4070.5" y="535.9492">Network Security</text><!--MD5=[8a091f2decdbeb73e105481d677849b7]
+cluster AllowedTLSversions--><rect fill="#FFFFFF" height="134" style="stroke:#3C7FC0;stroke-width:1.0;" width="144" x="4594" y="563"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="117" x="4607.5" y="577.9492">Allowed TLS versions</text><!--MD5=[63e8c22eff33c34c400307645239f8cc]
+cluster OriginSecurity--><rect fill="#FFFFFF" height="102" style="stroke:#3C7FC0;stroke-width:1.0;" width="267" x="4303" y="579"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="83" x="4395" y="593.9492">Origin Security</text><!--MD5=[87a0340483d32b7fc8076c2e4bafeffd]
+cluster LiveEventSecurity--><rect fill="#FFFFFF" height="102" style="stroke:#3C7FC0;stroke-width:1.0;" width="142" x="4137" y="579"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="107" x="4154.5" y="593.9492">Live Event Security</text><!--MD5=[aaf9334ffd7d7568497a0785c1dfe776]
+cluster SecureStorage--><rect fill="#FFFFFF" height="368" style="stroke:#3C7FC0;stroke-width:1.0;" width="442" x="4623" y="73"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="86" x="4801" y="87.9492">Secure Storage</text><!--MD5=[87ea37bf56c2e14bfdf6ea2989f143dd]
+cluster MonitoringAnalysis--><rect fill="#FFFFFF" height="458" style="stroke:#3C7FC0;stroke-width:1.0;" width="1121" x="3478" y="7"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="116" x="3980.5" y="21.9492">Monitoring / Analysis</text><!--MD5=[ec2818015826bb006e714a95d4dc193c]
+cluster Logging--><rect fill="#FFFFFF" height="376" style="stroke:#3C7FC0;stroke-width:1.0;" width="372" x="4203" y="65"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="44" x="4367" y="79.9492">Logging</text><!--MD5=[2ac7e541007120d2415d7d021104d138]
+cluster Metrics--><rect fill="#FFFFFF" height="118" style="stroke:#3C7FC0;stroke-width:1.0;" width="155" x="4016" y="65"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="42" x="4072.5" y="79.9492">Metrics</text><!--MD5=[bef2d35a36341533cb1d9b34ae0e2bd0]
+cluster CDNRealTimeMonitoring--><rect fill="#FFFFFF" height="134" style="stroke:#3C7FC0;stroke-width:1.0;" width="296" x="3680" y="57"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="156" x="3750" y="71.9492">CDN - Real Time Monitoring</text><!--MD5=[8633d0018f86223b4e667365b83b0875]
+cluster EventGrid--><rect fill="#FFFFFF" height="86" style="stroke:#3C7FC0;stroke-width:1.0;" width="146" x="3502" y="81"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="59" x="3545.5" y="95.9492">Event Grid</text><!--MD5=[7e99dfc4bb3620efaac49d8b6950ee6e]
+cluster Iamnotsure--><rect fill="#FFFFFF" height="118" style="stroke:#3C7FC0;stroke-width:1.0;" width="295" x="5089" y="65"/><text fill="#000000" font-family="Segoe UI" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="76" x="5198.5" y="79.9492">I am  not sure</text><!--MD5=[0bacfadc2202e16eb6636bdb8a5205c4]
+entity AESEnvelope--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="99" x="1570.5" y="621"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="79" x="1580.5" y="643.9492">AES / Envelope</text><!--MD5=[165dc043d3aee75d5abf3fe0f112204d]
+entity CDNRulesEngineBasedSecurity--><rect fill="#FFFFFF" height="67.8828" style="stroke:#3C7FC0;stroke-width:1.0;" width="93" x="1822.5" y="605"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="64" x="1835.5" y="627.9492">CDN - Rules</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="70" x="1832.5" y="643.9102">Engine Based</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="42" x="1848" y="659.8711">Security</text><!--MD5=[5ba4e993b392c5d193c5fc0ddccc0b2d]
+entity AssetFilters--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="82" x="1705" y="621"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="62" x="1715" y="643.9492">Asset Filters</text><!--MD5=[880f1bff054d5b4b5b92dd4135d8e57a]
+entity AccountFilters--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="99" x="1436.5" y="621"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="79" x="1446.5" y="643.9492">Account Filters</text><!--MD5=[c8f84d5b61469bf766512ba3eacf548b]
+entity CORS--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="50" x="3224" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="30" x="3234" y="403.9492">CORS</text><!--MD5=[6ef408cd3a901c352e34ca46c4bec462]
+entity AES128--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="63" x="3309.5" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="43" x="3319.5" y="403.9492">AES-128</text><!--MD5=[98596b4b11eb171668a3011f48b8d109]
+entity CBCSEncyption--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="105" x="3196.5" y="621"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="85" x="3206.5" y="643.9492">CBCS Encyption</text><!--MD5=[43306305da6f5283c793c82bb14c88f4]
+entity dynamicencryption--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="77" x="3336.5" y="613"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="46" x="3350.5" y="635.9492">dynamic</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="57" x="3346.5" y="651.9102">encryption</text><!--MD5=[dd90604fa831fc76b18e649d7867cfc1]
+entity TokenRestrictions--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="116" x="2225" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="96" x="2235" y="403.9492">Token Restrictions</text><!--MD5=[61c786859270523122d10ce25110dbff]
+entity OpenRestrictions--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="113" x="2076.5" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="93" x="2086.5" y="403.9492">Open Restrictions</text><!--MD5=[69727fdf64df93ad680f45f39b35e1ab]
+entity RequiredClaims--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="106" x="2135" y="621"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="86" x="2145" y="643.9492">Required Claims</text><!--MD5=[f11fa8e7b23cad18b8039c710ec86eb7]
+entity TokenReuse--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="86" x="2276" y="621"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="66" x="2286" y="643.9492">Token Reuse</text><!--MD5=[a4693ac9e0bceb9426bcc36103c44f17]
+entity JWTTokens--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="81" x="2664.5" y="621"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="61" x="2674.5" y="643.9492">JWT Tokens</text><!--MD5=[5ed97c8eee2504aaaccb9ef8620a5157]
+entity JWTCustomClaims--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="89" x="2780.5" y="613"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="66" x="2790.5" y="635.9492">JWT Custom</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="36" x="2807" y="651.9102">Claims</text><!--MD5=[0a03cd26e78fafd3b4b9f723491198f1]
+entity Customtokenproviders--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="98" x="2397" y="613"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="75" x="2407" y="635.9492">Custom token</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="49" x="2420" y="651.9102">providers</text><!--MD5=[35b510d22ef0d71ff116e9aa97b72c17]
+entity 3rdPartyDRMContentKeys--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="99" x="2530.5" y="613"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="76" x="2540.5" y="635.9492">3rd Party DRM</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="70" x="2545" y="651.9102">Content Keys</text><!--MD5=[f61fcbc55a2f84470a050b03313a442d]
+entity AzureADB2CAuth--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="96" x="2940" y="613"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="73" x="2950" y="635.9492">Azure AD B2C</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="26" x="2975" y="651.9102">Auth</text><!--MD5=[b3b34336e572d536e728894ea89edc01]
+entity CDNTokenauth--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="110" x="2411" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="90" x="2421" y="403.9492">CDN  Token auth</text><!--MD5=[d50fbf897f0289d2e33ae975122a89c7]
+entity KeyDeliveryQuotas--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="87" x="2556.5" y="373"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="64" x="2566.5" y="395.9492">Key Delivery</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="38" x="2581" y="411.9102">Quotas</text><!--MD5=[373e804f9f6afc6bfc7487070c65c624]
+entity KeyRotation--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="87" x="2678.5" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="67" x="2688.5" y="403.9492">Key Rotation</text><!--MD5=[e5946c6009aa3868b04126313721b87f]
+entity WidevineTemplateSchema--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="114" x="1850" y="373"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="49" x="1881" y="395.9492">Widevine</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="94" x="1860" y="411.9102">Template Schema</text><!--MD5=[8de2a3cd4955b7c1f6742287f22651c8]
+entity Fairplaydoclinks--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="114" x="1680" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="94" x="1690" y="403.9492">Fairplay doc  links</text><!--MD5=[68d173dde26393b8ac4c6cce6b98fa08]
+entity PlayReadySL3000--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="116" x="1508" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="96" x="1518" y="403.9492">PlayReady SL 3000</text><!--MD5=[f8d26fa3caf33fc202cbc8324c9d0200]
+entity ARMauth--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="73" x="23.5" y="115"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="53" x="33.5" y="137.9492">ARM auth</text><!--MD5=[02455149a52c7a858f46c6664a9923e5]
+entity PlayreadyTemplateschema--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="113" x="131.5" y="107"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="51" x="161" y="129.9492">Playready</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="93" x="141.5" y="145.9102">Template schema</text><!--MD5=[464a4554f26a0431f255b9c4734f0b36]
+entity ServiceprincipalauthtoMediaServices--><rect fill="#FFFFFF" height="67.8828" style="stroke:#3C7FC0;stroke-width:1.0;" width="109" x="279.5" y="99"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="86" x="289.5" y="121.9492">Service principal</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="74" x="295.5" y="137.9102">auth to Media</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="42" x="313" y="153.8711">Services</text><!--MD5=[00337831af09330faef140e8eb83b5b7]
+entity ManagedIdentityauthtoMediaServices--><rect fill="#FFFFFF" height="67.8828" style="stroke:#3C7FC0;stroke-width:1.0;" width="116" x="23" y="365"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="93" x="33" y="387.9492">Managed Identity</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="74" x="42.5" y="403.9102">auth to Media</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="42" x="60" y="419.8711">Services</text><!--MD5=[bc9988370a221705b1ecab339b5d164d]
+entity UserauthtoMediaServices--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="120" x="174" y="373"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="100" x="184" y="395.9492">User auth to Media</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="42" x="213" y="411.9102">Services</text><!--MD5=[d0c3d560264f093d73c4e2de8200178c]
+entity SystemManagedIdentity--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="114" x="958" y="107"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="91" x="968" y="129.9492">System Managed</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="40" x="995" y="145.9102">Identity</text><!--MD5=[80d0bc1cd9e4393c218361d8dee21714]
+entity UserManagedIdentity--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="99" x="1107.5" y="107"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="76" x="1117.5" y="129.9492">User Managed</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="40" x="1137" y="145.9102">Identity</text><!--MD5=[4baf3ee44557ef5ae41ba30056cf0e99]
+entity ManagedIDauthtostorage--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="114" x="1242" y="107"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="91" x="1252" y="129.9492">Managed ID auth</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="53" x="1272.5" y="145.9102">to storage</text><!--MD5=[66414fa62a393ba1c1a28e41f54995d0]
+entity ManagedIDauthtoKeyVault--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="114" x="958" y="373"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="91" x="968" y="395.9492">Managed ID auth</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="63" x="983.5" y="411.9102">to Key Vault</text><!--MD5=[837284b2627040d4057e61526832fcc1]
+entity customermanagedkey--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="91" x="1107.5" y="373"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="52" x="1125.5" y="395.9492">Customer</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="71" x="1117.5" y="411.9102">managed key</text><!--MD5=[5f3be229b3d459ed230c19c47d89a9d6]
+entity BuiltinRBACrules--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="118" x="784" y="115"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="98" x="794" y="137.9492">Built in RBAC rules</text><!--MD5=[302c5e8d75e377fcf901abe4f1a971ff]
+entity CustomRBACrules--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="98" x="651" y="107"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="75" x="661" y="129.9492">Custom RBAC</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="25" x="687.5" y="145.9102">rules</text><!--MD5=[818ff2d6ef43a61433ad5abac7893db2]
+entity DisablingRESTv2Closingbackdoors--><rect fill="#FFFFFF" height="67.8828" style="stroke:#3C7FC0;stroke-width:1.0;" width="120" x="459" y="99"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="97" x="469" y="121.9492">Disabling RESTv2 /</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="40" x="497.5" y="137.9102">Closing</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="61" x="488.5" y="153.8711">'backdoors'</text><!--MD5=[634632bd0cdbf2feb69b094f4d16dd25]
+entity PublicNetworkAccess--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="104" x="3770" y="613"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="81" x="3780" y="635.9492">Public Network</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="36" x="3804" y="651.9102">Access</text><!--MD5=[92d85c6ba28f88e7802cd5b526abaae2]
+entity IPAllowLists--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="89" x="3909.5" y="621"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="69" x="3919.5" y="643.9492">IP Allow Lists</text><!--MD5=[1104920e2f3ae54aaeb9fc1dfc1779d5]
+entity PrivateLinks--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="86" x="3649" y="621"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="66" x="3659" y="643.9492">Private Links</text><!--MD5=[496d6c5a2a10d30672c11895907237a2]
+entity SecureIngestwithAuth--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="119" x="3494.5" y="613"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="96" x="3504.5" y="635.9492">Secure Ingest with</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="26" x="3541" y="651.9102">Auth</text><!--MD5=[ce41d481ff66530245d7743bdab1518c]
+entity IPsUsedforStreaming--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="85" x="4033.5" y="613"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="62" x="4043.5" y="635.9492">IPs Used for</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="54" x="4049" y="651.9102">Streaming</text><!--MD5=[b581eca5c889330909c0cdc4eaa5e9f2]
+entity TLSEncryptionSupportedincludingCipherinfo--><rect fill="#FFFFFF" height="83.8438" style="stroke:#3C7FC0;stroke-width:1.0;" width="111" x="4610.5" y="597"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="78" x="4625.5" y="619.9492">TLS Encryption</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="63" x="4633" y="635.9102">Supported -</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="88" x="4620.5" y="651.8711">including Cipher</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="21" x="4655.5" y="667.832">info</text><!--MD5=[562a2620fad12b9d3ec59f1b986a3c57]
+entity CDNOriginSecurity--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="84" x="4470" y="613"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="61" x="4480" y="635.9492">CDN Origin</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="42" x="4491" y="651.9102">Security</text><!--MD5=[ddff59a524d626130d8a66a7667987f2]
+entity AkamaiG2OAuth--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="115" x="4319.5" y="621"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="95" x="4329.5" y="643.9492">Akamai G2O Auth</text><!--MD5=[794acf3a0395f8d2017291e6c04d4f05]
+entity LiveEventtokenauth--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="109" x="4153.5" y="613"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="86" x="4163.5" y="635.9492">Live Event token</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="24" x="4196" y="651.9102">auth</text><!--MD5=[8ee90a9605bab298c353a799d49dbac1]
+entity StorageEncryption--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="120" x="4639" y="115"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="100" x="4649" y="137.9492">Storage Encryption</text><!--MD5=[7e744ef94034ea9804fe5fba2f5e317b]
+entity StorageContainerEncryption--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="118" x="4794" y="107"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="98" x="4804" y="129.9492">Storage  Container</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="57" x="4824.5" y="145.9102">Encryption</text><!--MD5=[29dc0ce4c7e55148fa85eca79b4643eb]
+entity TrustedStorage--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="102" x="4947" y="115"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="82" x="4957" y="137.9492">Trusted Storage</text><!--MD5=[6b5cfc098efdecf5e4d5edba6a276c1a]
+entity SASURLs--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="69" x="4664.5" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="49" x="4674.5" y="403.9492">SAS URLs</text><!--MD5=[96061ff045d906254682f2c960468684]
+entity systemkey--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="78" x="4769" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="58" x="4779" y="403.9492">system key</text><!--MD5=[a7315aa46717ee40bf9a537d7f693b26]
+entity BYOKCustomerManagedKeys--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="116" x="4882" y="373"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="93" x="4892" y="395.9492">BYOK / Customer</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="77" x="4901.5" y="411.9102">Managed Keys</text><!--MD5=[13f7cb74af111cb1fc0d6f35bfb92749]
+entity StorageMonitoringLogAnalytics--><rect fill="#FFFFFF" height="67.8828" style="stroke:#3C7FC0;stroke-width:1.0;" width="113" x="4333.5" y="99"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="40" x="4368.5" y="121.9492">Storage</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="90" x="4343.5" y="137.9102">Monitoring - e.g.</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="71" x="4354.5" y="153.8711">Log Analytics</text><!--MD5=[f48d5a828ecf6799779121e3616bdcb4]
+entity AuditLogs--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="77" x="4481.5" y="115"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="57" x="4491.5" y="137.9492">Audit Logs</text><!--MD5=[392a84056d7b30773451f5b1a77e3017]
+entity SecurityLogmonitoring--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="91" x="4336.5" y="373"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="65" x="4346.5" y="395.9492">Security Log</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="60" x="4352" y="411.9102">monitoring</text><!--MD5=[5fcae57a63b39ab6354ec20ed70e1d7a]
+entity DiagnosticLogging--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="79" x="4219.5" y="107"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="56" x="4229.5" y="129.9492">Diagnostic</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="44" x="4237" y="145.9102">Logging</text><!--MD5=[81a9f574a410be2b205505519824d49b]
+entity AzureMonitor--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="96" x="4463" y="381"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="76" x="4473" y="403.9492">Azure Monitor</text><!--MD5=[848e9de26ab52b06787a5e08ee533239]
+entity KeyDeliveryMetrics--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="87" x="4059.5" y="107"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="64" x="4069.5" y="129.9492">Key Delivery</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="39" x="4083.5" y="145.9102">Metrics</text><!--MD5=[8a85d3bcaef42ac2b70e7a6ae1c029d6]
+entity CDNLogs--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="73" x="3878.5" y="115"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="53" x="3888.5" y="137.9492">CDN Logs</text><!--MD5=[201f8c0a9721265ad3a662052ce00f8a]
+entity Using3rdPartyToolsSplunKetc--><rect fill="#FFFFFF" height="67.8828" style="stroke:#3C7FC0;stroke-width:1.0;" width="120" x="3723" y="99"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="80" x="3741.5" y="121.9492">Using 3rd Party</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="100" x="3733" y="137.9102">Tools - e.g. Splunk,</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="19" x="3773.5" y="153.8711">etc.</text><!--MD5=[cb50e33f622b01b8d20d65b12a67d829]
+entity LiveIngestEvents--><rect fill="#FFFFFF" height="35.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="113" x="3518.5" y="115"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="93" x="3528.5" y="137.9492">Live Ingest Events</text><!--MD5=[819bc1e3a10b15d9b38cda507f717ff9]
+entity Contentmoderationabuseprotection--><rect fill="#FFFFFF" height="67.8828" style="stroke:#3C7FC0;stroke-width:1.0;" width="109" x="5258.5" y="99"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="43" x="5290" y="121.9492">Content</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="70" x="5276.5" y="137.9102">moderation /</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="89" x="5268.5" y="153.8711">abuse protection</text><!--MD5=[fe0e39bc7c586569e0081fcafda3557b]
+entity WatermarkingABwithpartners--><rect fill="#FFFFFF" height="51.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="118" x="5105" y="107"/><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="98" x="5115" y="129.9492">Watermarking A/B</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="69" x="5129.5" y="145.9102">with partners</text><!--MD5=[eb5e736f849e5c393e8dedf78522f8cc]
+link PublicNetworkAccess to IPAllowLists--><!--MD5=[23f3ad21228b7cc2b49e192792689b5c]
+link IPAllowLists to IPsUsedforStreaming--><!--MD5=[fb91f6578b2f160067e6d327903e7d36]
+link AADAuth to RequiredClaims--><!--MD5=[8ec3928e02d9bc4801a789e76f032139]
+link RequiredClaims to TokenReuse--><!--MD5=[819713c7c73dba56cda13c0f616a5734]
+link TokenReuse to Customtokenproviders--><!--MD5=[9fef95b4b7529ad74b01c81581377c2f]
+link Customtokenproviders to 3rdPartyDRMContentKeys--><!--MD5=[39fd8affbae000642951f621d1d8329a]
+link 3rdPartyDRMContentKeys to JWTTokens--><!--MD5=[c4108d7181400c9673545c10f71f42eb]
+link JWTTokens to JWTCustomClaims--><!--MD5=[ade809db99f04026470d126cad3ca916]
+link OpenRestrictions to TokenRestrictions--><!--MD5=[99905fe6e98c14e840178efb2786807e]
+link CDNTokenauth to KeyDeliveryQuotas--><!--MD5=[99e2bcd41a2bcbeb9541fa79914d0f78]
+link KeyDeliveryQuotas to KeyRotation--><!--MD5=[98fed2513461871a80d4ef6cce6ae876]
+link AccountConfiguration to TokenAuthentication--><!--MD5=[8423366ff7828818caed9f33bbfbe9ed]
+link OpenRestrictions to AccountConfiguration--><!--MD5=[0907d5eaf9e1b5a42e74783bc7e64c1b]
+link TokenRestrictions to AccountConfiguration--><!--MD5=[6d12237014c89449ee48d63d1e4272bc]
+link AESEnvelope to CDNRulesEngineBasedSecurity--><!--MD5=[9000e7d9ab4da37fd875eee09a582fcf]
+link DRMKeyAccess to AESEnvelope--><!--MD5=[a8342aac6bfb6b5ff36075013c3ede07]
+link DRMKeyAccess to AccountFilters--><!--MD5=[9acd575366819fe3ea090db5c2fd0e5d]
+link DRMKeyAccess to AssetFilters--><!--MD5=[6a750e72e2c5639efadfcd82f7472d9d]
+link KeyDelivery to IPAllowLists--><path d="M3148.0309,441.0078 C3148.1283,441.3111 3148.227,441.6147 3148.3267,441.9187 C3148.5263,442.5267 3148.7305,443.1362 3148.9395,443.7467 C3149.7754,446.1888 3150.6875,448.6478 3151.6825,451.0989 C3153.6726,456.0012 3155.9945,460.872 3158.7017,465.5123 C3164.1163,474.7931 3171.0725,483.1525 3180,489 C3213.09,510.67 3859,475.19 3892,497 C3932.45,523.73 3946.7,583.32 3951.58,615.82 " fill="none" id="KeyDelivery-to-IPAllowLists" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="3952.28,620.79,3954.9785,611.318,3951.5789,615.8394,3947.0575,612.4398,3952.28,620.79" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[4f85add95a28fb57dcab749ef4be797b]
+link AzurePolicy to KeyDelivery--><path d="M430.6649,191.1251 C430.7734,191.3527 430.8833,191.5794 430.9947,191.8052 C431.2175,192.2568 431.4463,192.705 431.6811,193.1493 C432.6203,194.9267 433.6564,196.6434 434.7987,198.2805 C437.0833,201.5548 439.7925,204.5113 443,207 C455.83,216.96 2766.21,211.17 2782,215 C2824.735,225.3675 2868.1175,241.715 2909.2408,260.4714 C2914.3812,262.816 2919.4863,265.1981 2924.5504,267.611 C2927.0825,268.8174 2929.6043,270.0315 2932.1152,271.2524 C2932.7429,271.5576 2933.3699,271.8633 2933.9963,272.1693 " fill="none" id="AzurePolicy-to-KeyDelivery" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="2933.9963,272.1693,2927.6662,264.6241,2929.5039,269.9742,2924.1539,271.8119,2933.9963,272.1693" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[0b4042571ebc66ee0099008039235458]
+link Metrics to KeyDelivery--><path d="M4015.9004,152.3303 C4015.8464,152.4372 4015.7922,152.5444 4015.7376,152.6518 C4015.5195,153.0817 4015.2972,153.5163 4015.0706,153.9551 C4013.2579,157.4656 4011.1734,161.2512 4008.8213,165.15 C3999.4125,180.745 3985.72,198.15 3968,207 C3948.42,216.78 3196.98,201.19 3180,215 C3164.105,227.9275 3153.6106,245.575 3146.8214,264.8366 C3145.9728,267.2443 3145.182,269.6772 3144.4458,272.1292 " fill="none" id="Metrics-to-KeyDelivery" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="3144.4458,272.1292,3150.8648,264.6595,3145.8836,267.3404,3143.2027,262.3592,3144.4458,272.1292" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[9122e2f78ccb1cb9650b3da51c918229]
+link CDNRealTimeMonitoring to KeyDelivery--><path d="M3679.9971,163.0133 C3679.9518,163.1331 3679.9062,163.253 3679.8604,163.373 C3679.6773,163.8533 3679.4905,164.3357 3679.3,164.82 C3673.205,180.3175 3663.34,197.735 3648,207 C3625.74,220.44 3200.12,198.52 3180,215 C3164.15,227.9825 3153.6788,245.6581 3146.8988,264.9308 C3146.0513,267.3399 3145.2614,269.7739 3144.526,272.2268 " fill="none" id="CDNRealTimeMonitoring-to-KeyDelivery" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="3144.526,272.2268,3150.9422,264.7547,3145.9619,267.4375,3143.2792,262.4572,3144.526,272.2268" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[b7a6162a9605ad5fd7db8a7a6fbc972d]
+link DiagnosticLogging to KeyDelivery--><path d="M4235.2,159.18 C4217.22,176.28 4190.94,197.46 4163,207 C4137.16,215.83 3201.2,197.79 3180,215 C3164.0925,227.9125 3153.5919,245.5525 3146.8003,264.8113 C3145.9514,267.2186 3145.1604,269.6512 3144.424,272.1031 " fill="none" id="DiagnosticLogging-to-KeyDelivery" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="3144.424,272.1031,3150.8437,264.634,3145.8622,267.3144,3143.1818,262.3329,3144.424,272.1031" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[994a5bc692ab58861e6dc4bcc459b738]
+link CORS to AES128--><!--MD5=[4ec906c6c2c7e4863d6bcf7e2105f3cf]
+link CORS to CBCSEncyption--><!--MD5=[6679a6598d2ff75c8ec783d905a78cad]
+link CBCSEncyption to dynamicencryption--><!--MD5=[115e66ff895b6a6d651dd642374058e8]
+link ARMauth to PlayreadyTemplateschema--><!--MD5=[f38a0c34c44c4d909fcfa3ad345737b7]
+link PlayreadyTemplateschema to ServiceprincipalauthtoMediaServices--><!--MD5=[bb09fbe3451dd262259a4eab684c8616]
+link ARMauth to ManagedIdentityauthtoMediaServices--><!--MD5=[927c27db86d10dad9eacb49acffe889a]
+link ManagedIdentityauthtoMediaServices to UserauthtoMediaServices--><!--MD5=[9aebcc74f7689842557102c7248c0f24]
+link SystemManagedIdentity to UserManagedIdentity--><!--MD5=[454fdbd0ff5b828f523a6e5305863c68]
+link UserManagedIdentity to ManagedIDauthtostorage--><!--MD5=[3e9a5d29d3905522d4c3fdb6b9fbd23e]
+link SystemManagedIdentity to ManagedIDauthtoKeyVault--><!--MD5=[b1125c6c536c9c07d92d40a7f5e51e91]
+link ManagedIDauthtoKeyVault to customermanagedkey--><!--MD5=[c7a80fdaf5f59d47121b36aa42d9ee9a]
+link StorageEncryption to StorageContainerEncryption--><!--MD5=[748ce785bc9c5b4d736b7e2c5177c00d]
+link StorageContainerEncryption to TrustedStorage--><!--MD5=[95ed38f853fd822db771beaf109594c3]
+link StorageEncryption to SASURLs--><!--MD5=[48455b96a85639fd16025e77c5c594c7]
+link SASURLs to systemkey--><!--MD5=[751371cc7eb791fa5aa91bc68fb02461]
+link systemkey to BYOKCustomerManagedKeys--><!--MD5=[2631d42066a7560e98b981c59b3b33fb]
+link StorageMonitoringLogAnalytics to AuditLogs--><!--MD5=[6e5edaf0a023169089296ec588c927b4]
+link StorageMonitoringLogAnalytics to SecurityLogmonitoring--><!--MD5=[1f74881a59356306ac96623148fb8d94]
+link SecurityLogmonitoring to AzureMonitor--><!--MD5=[e22ac4b5cc90bd4623c260e3eb272cd4]
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+
+top to bottom direction
+rectangle "Secure Streaming" as SecureStreaming {
+    
+    rectangle "Streaming Encryption" as StreamingEncryption {
+        rectangle "CORS" as CORS
+        rectangle "AES-128" as AES128
+        rectangle "CBCS Encyption" as CBCSEncyption
+        rectangle "dynamic encryption" as dynamicencryption
+    }
+    rectangle "Key Delivery" as KeyDelivery {
+        rectangle "Token Restrictions" as TokenRestrictions
+        rectangle "Open Restrictions" as OpenRestrictions
+        rectangle "Token Authentication" as TokenAuthentication {
+            rectangle "AAD Auth" as AADAuth {
+                rectangle "Azure AD B2C Auth" as AzureADB2CAuth
+            } 
+            rectangle "Required Claims" as RequiredClaims
+            rectangle "Token Reuse" as TokenReuse
+            rectangle "JWT Tokens" as JWTTokens
+            rectangle "JWT Custom Claims" as JWTCustomClaims
+            rectangle "Custom token providers " as Customtokenproviders
+            rectangle "3rd Party DRM Content Keys" as 3rdPartyDRMContentKeys
+        }
+        rectangle "Account Configuration" as AccountConfiguration {
+            rectangle "CDN  Token auth" as CDNTokenauth
+            rectangle "Key Delivery Quotas" as KeyDeliveryQuotas
+            rectangle "Key Rotation" as KeyRotation
+        }
+    }
+    rectangle "DRM / Key Access" as DRMKeyAccess {
+        rectangle "Widevine" as Widevine {
+            rectangle "Widevine Template Schema" as WidevineTemplateSchema
+        }
+        rectangle "Fairplay" as Fairplay{
+            rectangle "Fairplay doc  links" as Fairplaydoclinks
+        }
+        rectangle "PlayReady" as PlayReady {
+            rectangle "PlayReady SL 3000" as PlayReadySL3000
+        }
+    }
+    rectangle "AES / Envelope" as AESEnvelope
+    rectangle "CDN - Rules Engine Based Security" as CDNRulesEngineBasedSecurity
+    rectangle "Asset Filters" as AssetFilters
+    rectangle "Account Filters" as AccountFilters
+}
+rectangle "Account Security" as AccountSecurity {
+    rectangle "Managed Identity" as ManagedIdentity {
+        rectangle "System Managed Identity" as SystemManagedIdentity
+        rectangle "User Managed Identity" as UserManagedIdentity
+        rectangle "Managed ID auth to storage" as ManagedIDauthtostorage
+        rectangle "Managed ID auth to Key Vault" as ManagedIDauthtoKeyVault
+        rectangle "Customer managed key" as customermanagedkey
+    }
+    rectangle "ARM auth" as ARMauth
+    rectangle "Playready Template schema" as PlayreadyTemplateschema
+    rectangle "Role Based Access Control" as RoleBasedAccessControl {
+        rectangle "Built in RBAC rules" as BuiltinRBACrules
+        rectangle "Custom RBAC rules" as CustomRBACrules
+    }
+    rectangle "Azure Policy" as AzurePolicy {
+        rectangle "Disabling RESTv2 / Closing 'backdoors'" as DisablingRESTv2Closingbackdoors
+    }
+    rectangle "Service principal auth to Media Services" as ServiceprincipalauthtoMediaServices
+    rectangle "Managed Identity auth to Media Services" as ManagedIdentityauthtoMediaServices
+    rectangle "User auth to Media Services" as UserauthtoMediaServices  
+}
+
+
+
+rectangle "Network Security" as NetworkSecurity{
+    rectangle "Public Network Access" as PublicNetworkAccess
+    rectangle "IP Allow Lists" as IPAllowLists
+    rectangle "Private Links" as PrivateLinks
+    rectangle "Secure Ingest with  Auth" as SecureIngestwithAuth
+    rectangle "IPs Used for Streaming" as IPsUsedforStreaming
+    rectangle "Allowed TLS versions" as AllowedTLSversions{
+        rectangle "TLS Encryption Supported - including Cipher info" as TLSEncryptionSupportedincludingCipherinfo
+    }
+    rectangle "Origin Security" as OriginSecurity {
+        rectangle "CDN Origin Security" as CDNOriginSecurity
+        rectangle "Akamai G2O Auth" as AkamaiG2OAuth
+        rectangle "IP Allow Lists" as IPAllowLists
+    }
+    rectangle "Live Event Security" as LiveEventSecurity {
+        rectangle "Live Event token auth" as LiveEventtokenauth
+    }
+}
+rectangle "Secure Storage" as SecureStorage{
+    rectangle "Storage Encryption" as StorageEncryption
+    rectangle "Storage  Container Encryption" as StorageContainerEncryption
+    rectangle "Trusted Storage" as TrustedStorage
+    rectangle "SAS URLs" as SASURLs
+    rectangle "system key" as systemkey
+    rectangle "BYOK / Customer Managed Keys" as BYOKCustomerManagedKeys
+}
+rectangle "Monitoring / Analysis" as MonitoringAnalysis {
+    rectangle "Logging" as Logging {
+        rectangle "Storage Monitoring - e.g. Log Analytics" as StorageMonitoringLogAnalytics
+        rectangle "Audit Logs" as AuditLogs
+        rectangle "Security Log  monitoring" as SecurityLogmonitoring
+        rectangle "Diagnostic Logging" as DiagnosticLogging
+        rectangle "Azure Monitor" as AzureMonitor
+    }
+    rectangle "Metrics" as Metrics {
+        rectangle "Key Delivery Metrics" as KeyDeliveryMetrics
+    }
+    rectangle "CDN - Real Time Monitoring" as CDNRealTimeMonitoring {
+        rectangle "CDN Logs" as CDNLogs
+        rectangle "Using 3rd Party Tools - e.g. Splunk, etc." as Using3rdPartyToolsSplunKetc
+    }
+    rectangle "Event Grid" as EventGrid{
+        rectangle "Live Ingest Events" as LiveIngestEvents
+    }
+}
+
+rectangle "I am  not sure" as Iamnotsure {
+    rectangle "Content moderation / abuse protection" as Contentmoderationabuseprotection
+    rectangle "Watermarking A/B with partners" as WatermarkingABwithpartners
+}
+
+PublicNetworkAccess - -[hidden]r- - IPAllowLists
+IPAllowLists - -[hidden]r- - IPsUsedforStreaming
+AADAuth -[hidden]r- RequiredClaims
+RequiredClaims -[hidden]r- TokenReuse
+TokenReuse -[hidden]r- Customtokenproviders
+Customtokenproviders -[hidden]r- 3rdPartyDRMContentKeys
+3rdPartyDRMContentKeys -[hidden]r- JWTTokens
+JWTTokens -[hidden]r- JWTCustomClaims
+OpenRestrictions -[hidden]r- TokenRestrictions
+CDNTokenauth -[hidden]r- KeyDeliveryQuotas
+KeyDeliveryQuotas -[hidden]r- KeyRotation
+AccountConfiguration -[hidden]d- TokenAuthentication
+OpenRestrictions -[hidden]r- AccountConfiguration
+TokenRestrictions -[hidden]r- AccountConfiguration
+AESEnvelope -[hidden]r- CDNRulesEngineBasedSecurity
+DRMKeyAccess -[hidden]d- AESEnvelope
+DRMKeyAccess -[hidden]d- AccountFilters
+DRMKeyAccess -[hidden]d- AssetFilters
+KeyDelivery - -> IPAllowLists
+AzurePolicy - -> KeyDelivery
+Metrics - -> KeyDelivery
+CDNRealTimeMonitoring - -> KeyDelivery
+DiagnosticLogging - -> KeyDelivery
+
+@enduml
+
+@startuml
+!pragma revision 1
+
+
+skinparam defaultTextAlignment center
+skinparam defaultFontName Segoe UI
+skinparam defaultBackgroundColor white
+skinparam RectangleBackgroundColor white
+skinparam RectangleBorderColor #3C7FC0
+skinparam WrapWidth 100
+
+skinparam rectangle {
+    FontSize 12
+    BorderThickness 1
+    Shadowing false
+}
+
+top to bottom direction
+rectangle "Secure Streaming" as SecureStreaming {
+    
+    rectangle "Streaming Encryption" as StreamingEncryption {
+        rectangle "CORS" as CORS
+        rectangle "AES-128" as AES128
+        rectangle "CBCS Encyption" as CBCSEncyption
+        rectangle "dynamic encryption" as dynamicencryption
+    }
+    rectangle "Key Delivery" as KeyDelivery {
+        rectangle "Token Restrictions" as TokenRestrictions
+        rectangle "Open Restrictions" as OpenRestrictions
+        rectangle "Token Authentication" as TokenAuthentication {
+            rectangle "AAD Auth" as AADAuth {
+                rectangle "Azure AD B2C Auth" as AzureADB2CAuth
+            } 
+            rectangle "Required Claims" as RequiredClaims
+            rectangle "Token Reuse" as TokenReuse
+            rectangle "JWT Tokens" as JWTTokens
+            rectangle "JWT Custom Claims" as JWTCustomClaims
+            rectangle "Custom token providers " as Customtokenproviders
+            rectangle "3rd Party DRM Content Keys" as 3rdPartyDRMContentKeys
+        }
+        rectangle "Account Configuration" as AccountConfiguration {
+            rectangle "CDN  Token auth" as CDNTokenauth
+            rectangle "Key Delivery Quotas" as KeyDeliveryQuotas
+            rectangle "Key Rotation" as KeyRotation
+        }
+    }
+    rectangle "DRM / Key Access" as DRMKeyAccess {
+        rectangle "Widevine" as Widevine {
+            rectangle "Widevine Template Schema" as WidevineTemplateSchema
+        }
+        rectangle "Fairplay" as Fairplay{
+            rectangle "Fairplay doc  links" as Fairplaydoclinks
+        }
+        rectangle "PlayReady" as PlayReady {
+            rectangle "PlayReady SL 3000" as PlayReadySL3000
+        }
+    }
+    rectangle "AES / Envelope" as AESEnvelope
+    rectangle "CDN - Rules Engine Based Security" as CDNRulesEngineBasedSecurity
+    rectangle "Asset Filters" as AssetFilters
+    rectangle "Account Filters" as AccountFilters
+}
+rectangle "Account Security" as AccountSecurity {
+    rectangle "Managed Identity" as ManagedIdentity {
+        rectangle "System Managed Identity" as SystemManagedIdentity
+        rectangle "User Managed Identity" as UserManagedIdentity
+        rectangle "Managed ID auth to storage" as ManagedIDauthtostorage
+        rectangle "Managed ID auth to Key Vault" as ManagedIDauthtoKeyVault
+        rectangle "Customer managed key" as customermanagedkey
+    }
+    rectangle "ARM auth" as ARMauth
+    rectangle "Playready Template schema" as PlayreadyTemplateschema
+    rectangle "Role Based Access Control" as RoleBasedAccessControl {
+        rectangle "Built in RBAC rules" as BuiltinRBACrules
+        rectangle "Custom RBAC rules" as CustomRBACrules
+    }
+    rectangle "Azure Policy" as AzurePolicy {
+        rectangle "Disabling RESTv2 / Closing 'backdoors'" as DisablingRESTv2Closingbackdoors
+    }
+    rectangle "Service principal auth to Media Services" as ServiceprincipalauthtoMediaServices
+    rectangle "Managed Identity auth to Media Services" as ManagedIdentityauthtoMediaServices
+    rectangle "User auth to Media Services" as UserauthtoMediaServices  
+}
+
+
+
+rectangle "Network Security" as NetworkSecurity{
+    rectangle "Public Network Access" as PublicNetworkAccess
+    rectangle "IP Allow Lists" as IPAllowLists
+    rectangle "Private Links" as PrivateLinks
+    rectangle "Secure Ingest with  Auth" as SecureIngestwithAuth
+    rectangle "IPs Used for Streaming" as IPsUsedforStreaming
+    rectangle "Allowed TLS versions" as AllowedTLSversions{
+        rectangle "TLS Encryption Supported - including Cipher info" as TLSEncryptionSupportedincludingCipherinfo
+    }
+    rectangle "Origin Security" as OriginSecurity {
+        rectangle "CDN Origin Security" as CDNOriginSecurity
+        rectangle "Akamai G2O Auth" as AkamaiG2OAuth
+        rectangle "IP Allow Lists" as IPAllowLists
+    }
+    rectangle "Live Event Security" as LiveEventSecurity {
+        rectangle "Live Event token auth" as LiveEventtokenauth
+    }
+}
+rectangle "Secure Storage" as SecureStorage{
+    rectangle "Storage Encryption" as StorageEncryption
+    rectangle "Storage  Container Encryption" as StorageContainerEncryption
+    rectangle "Trusted Storage" as TrustedStorage
+    rectangle "SAS URLs" as SASURLs
+    rectangle "system key" as systemkey
+    rectangle "BYOK / Customer Managed Keys" as BYOKCustomerManagedKeys
+}
+rectangle "Monitoring / Analysis" as MonitoringAnalysis {
+    rectangle "Logging" as Logging {
+        rectangle "Storage Monitoring - e.g. Log Analytics" as StorageMonitoringLogAnalytics
+        rectangle "Audit Logs" as AuditLogs
+        rectangle "Security Log  monitoring" as SecurityLogmonitoring
+        rectangle "Diagnostic Logging" as DiagnosticLogging
+        rectangle "Azure Monitor" as AzureMonitor
+    }
+    rectangle "Metrics" as Metrics {
+        rectangle "Key Delivery Metrics" as KeyDeliveryMetrics
+    }
+    rectangle "CDN - Real Time Monitoring" as CDNRealTimeMonitoring {
+        rectangle "CDN Logs" as CDNLogs
+        rectangle "Using 3rd Party Tools - e.g. Splunk, etc." as Using3rdPartyToolsSplunKetc
+    }
+    rectangle "Event Grid" as EventGrid{
+        rectangle "Live Ingest Events" as LiveIngestEvents
+    }
+}
+
+rectangle "I am  not sure" as Iamnotsure {
+    rectangle "Content moderation / abuse protection" as Contentmoderationabuseprotection
+    rectangle "Watermarking A/B with partners" as WatermarkingABwithpartners
+}
+
+PublicNetworkAccess - -[hidden]r- - IPAllowLists
+IPAllowLists - -[hidden]r- - IPsUsedforStreaming
+AADAuth -[hidden]r- RequiredClaims
+RequiredClaims -[hidden]r- TokenReuse
+TokenReuse -[hidden]r- Customtokenproviders
+Customtokenproviders -[hidden]r- 3rdPartyDRMContentKeys
+3rdPartyDRMContentKeys -[hidden]r- JWTTokens
+JWTTokens -[hidden]r- JWTCustomClaims
+OpenRestrictions -[hidden]r- TokenRestrictions
+CDNTokenauth -[hidden]r- KeyDeliveryQuotas
+KeyDeliveryQuotas -[hidden]r- KeyRotation
+AccountConfiguration -[hidden]d- TokenAuthentication
+OpenRestrictions -[hidden]r- AccountConfiguration
+TokenRestrictions -[hidden]r- AccountConfiguration
+AESEnvelope -[hidden]r- CDNRulesEngineBasedSecurity
+DRMKeyAccess -[hidden]d- AESEnvelope
+DRMKeyAccess -[hidden]d- AccountFilters
+DRMKeyAccess -[hidden]d- AssetFilters
+KeyDelivery - -> IPAllowLists
+AzurePolicy - -> KeyDelivery
+Metrics - -> KeyDelivery
+CDNRealTimeMonitoring - -> KeyDelivery
+DiagnosticLogging - -> KeyDelivery
+
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 02:25:05 PST 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

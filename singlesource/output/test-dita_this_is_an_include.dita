@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
-  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="this-is-an-include">
-        <title>This is an include</title>
-        <shortdesc>[!INCLUDE <xref href="AzureCommon.puml" format="puml">something from the includes
-                folder</xref>]</shortdesc>
-        <body/>
-    </topic>
