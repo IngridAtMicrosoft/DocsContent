@@ -6,9 +6,6 @@
     href: overview-single-source.md
 - name: Concepts  
   items:
-  - name: GitHub Structured Documentation
-  - name: Localization
-  - name: Support
   - name: Reuse in Graphics
     items:
     - name: Azure Sprite Icons
@@ -17,11 +14,6 @@
       href: azure-monitor.md
     - name: Media Services diagrams
       href: media-services-diagrams.md
-  - name: Interactive Content
-    items:
-    - name: Support metrics training example
-      href: interactive-content.md
-
   - name: Related
     items:
     - name: Structured Documentation
