@@ -18,7 +18,7 @@ Some version-specific content that applies only to .NET Core 2.0 and above....
 
 ::: moniker-end
 
-::: moniker range="netcore-2.0"
+::: moniker range="netcore-1.0"
 
 Some version-specific content that applies only to .NET versions prior to .NET Core 2.0.
 
