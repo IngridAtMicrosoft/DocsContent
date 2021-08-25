@@ -21,25 +21,7 @@
           "ThirdPartyNotices.md",
           "folder1",
           "folder2"
-        ],
-        "group": ".",
-        "src" : "."
-      },
-      {
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-        "group": "group1",
-        "src": "folder1"
-      },
-      {
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-        "group": "group2",
-        "src": "folder2"
+        ]
       }
     ],
     "resource": [
@@ -57,24 +39,6 @@
           "**/docfx.json",
           "_repo.en-us/**"
         ]
-      },
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg",
-          "**/*.svg"
-        ],
-        "group": "group1",
-        "src" : "folder1"
-      },
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg",
-          "**/*.svg"
-        ],
-        "group": "group2",
-        "src" : "folder2"
       }
     ],
     "overwrite": [],
@@ -86,16 +50,7 @@
     },
     "fileMetadata": {},
     "template": ["default","DocFx.Plugins.PlantUml/template"],
-    "dest": "singlesource",
-    "groups": {
-      "group1": {
-        "dest": "folder1",
-        "moniker-range": "netcore-1.0"
-      },
-      "group2": {
-        "dest": "folder2",
-        "moniker-range": "netcore-2.0"
-      }
+    "dest": "singlesource"
     },
     "markdownEngineName": "markdig"
   }
