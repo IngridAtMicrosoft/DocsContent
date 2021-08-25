@@ -3,7 +3,7 @@
 - name: Concepts
   items:
   - name: Monikers
-    href: ./netcore-1.0/monikers.md
+    href: ./folder1/monikers.md
   - name: Reuse in Graphics
     items:
     - name: Azure Sprite Icons
