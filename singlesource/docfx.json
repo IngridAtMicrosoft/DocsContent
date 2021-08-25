@@ -19,7 +19,8 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices.md",
-          "folder1"
+          "folder1",
+          "folder2"
         ]
       },
       {
@@ -29,6 +30,14 @@
         ],
         "group": "group1",
         "src": "folder1"
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "group": "group2",
+        "src": "folder2"
       }
     ],
     "resource": [
@@ -55,6 +64,15 @@
         ],
         "group": "group1",
         "src" : "folder1"
+      },
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.svg"
+        ],
+        "group": "group2",
+        "src" : "folder2"
       }
     ],
     "overwrite": [],
@@ -71,6 +89,10 @@
       "group1": {
         "dest": "group1-dest",
         "moniker-range": "netcore-1.0"
+      },
+      "group2": {
+        "dest": "group2-dest",
+        "moniker-range": "netcore-2.0"
       }
     },
     "markdownEngineName": "markdig"

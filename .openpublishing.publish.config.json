@@ -6,7 +6,7 @@
       "build_output_subfolder": "singlesource",
       "locale": "en-us",
       "monikers": ["netcore-1.0","netcore-2.0"],
-      "moniker_ranges": [">= netcore-1.0", "<= netframework-5.0"],
+      "moniker_ranges": [">= netcore-1.0", "<= netframework-2.0"],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content"
