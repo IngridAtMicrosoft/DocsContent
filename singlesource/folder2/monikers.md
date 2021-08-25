@@ -1,6 +1,6 @@
 ---
-title: Test page for monikers 
-description: This is a page to test monikers.
+title: Test page for monikers 2.0
+description: This is a page to test monikers 2.0
 author: IngridAtMicrosoft
 ms.author: inhenkel
 ms.topic: article
