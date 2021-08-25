@@ -44,6 +44,7 @@
       {
         "group": "version-ash",
         "src" : "partner",
+        "version" : "azs-1802",
         "dest" : "partner",
         "files": [
           "**/*.md",
@@ -63,6 +64,7 @@
       {
         "group": "version-ash",
         "src" : "user",
+        "version" : "azs-1802",
         "dest" : "user",
         "files": [
           "**/*.md",
@@ -82,6 +84,7 @@
       {
         "src": ".",
         "dest": ".",
+        "version" : ".",
         "files": [
           "**/*.md",
           "**/*.yml"
