@@ -18,8 +18,17 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices.md"
+          "ThirdPartyNotices.md",
+          "folder1"
         ]
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "group": "group1",
+        "src": "folder1"
       }
     ],
     "resource": [
@@ -37,6 +46,15 @@
           "**/docfx.json",
           "_repo.en-us/**"
         ]
+      },
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.svg"
+        ],
+        "group": "group1",
+        "src" : "folder1"
       }
     ],
     "overwrite": [],
@@ -49,6 +67,12 @@
     "fileMetadata": {},
     "template": ["default","DocFx.Plugins.PlantUml/template"],
     "dest": "singlesource",
+    "groups": {
+      "group1": {
+        "dest": "group1-dest",
+        "moniker-range": ">= netcore-1.0"
+      }
+    },
     "markdownEngineName": "markdig"
   }
 }
