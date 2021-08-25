@@ -4,6 +4,14 @@
       {
         "files": [
           "**/*.md",
+          "**/*.yml"
+        ],
+        "group": "group1",
+        "src": "folder1"
+      },
+      {
+        "files": [
+          "**/*.md",
           "**/*.mmd",
           "**/*.yml",
           "**/*.html"
@@ -20,9 +28,17 @@
           "LICENSE-CODE",
           "ThirdPartyNotices.md"
         ]
-      }
+      },
     ],
     "resource": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "group": "group1",
+        "src": "folder1"
+      },
       {
         "files": [
           "**/*.png",
@@ -44,10 +60,6 @@
       "group1": {
         "dest": "group1-dest",
         "moniker_range": "> netcore-1.0"
-      },
-      "group2": {
-        "dest": "group2-dest",
-        "moniker_range": "< netframework-5.0"
       }
     },
     "overwrite": [],
