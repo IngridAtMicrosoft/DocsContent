@@ -19,8 +19,8 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices.md",
-          "folder1",
-          "folder2"
+          "netcore-1.0",
+          "netcore-2.0"
         ]
       },
       {
@@ -29,7 +29,7 @@
           "**/*.yml"
         ],
         "group": "group1",
-        "src": "folder1"
+        "src": "netcore-1.0"
       },
       {
         "files": [
@@ -37,7 +37,7 @@
           "**/*.yml"
         ],
         "group": "group2",
-        "src": "folder2"
+        "src": "netcore-2.0"
       }
     ],
     "resource": [
@@ -63,7 +63,7 @@
           "**/*.svg"
         ],
         "group": "group1",
-        "src" : "folder1"
+        "src" : "netcore-1.0"
       },
       {
         "files": [
@@ -72,7 +72,7 @@
           "**/*.svg"
         ],
         "group": "group2",
-        "src" : "folder2"
+        "src" : "netcore-2.0"
       }
     ],
     "overwrite": [],
