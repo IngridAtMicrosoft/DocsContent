@@ -10,4 +10,20 @@ ms.service: media-services
 
 # Test page for monikers
 
-Removing monikers in file for now.
+# Getting Started with .NET Core
+
+Some shared content that is applicable to all product versions mapped to the folder...
+
+::: moniker range=">= netcore-2.0"
+
+Some version-specific content that applies only to .NET Core 2.0 and above....
+
+::: moniker-end
+
+::: moniker range="< netcore-2.0"
+
+Some version-specific content that applies only to .NET versions prior to .NET Core 2.0.
+
+::: moniker-end
+
+Some more shared content here...
