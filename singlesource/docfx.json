@@ -5,7 +5,7 @@
         "group": "version-ash",
         "src" : "asdk",
         "dest" : "asdk",
-        "version": "azs-1802"
+        "version": "azs-1802",
         "files": [
           "**/*.md",
           "**/*.yml"
