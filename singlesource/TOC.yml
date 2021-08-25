@@ -2,8 +2,6 @@
   href: index.md
 - name: Concepts
   items:
-  - name: Moniker 1
-    href: ./folder1/monikers.md
   - name: Reuse in Graphics
     items:
     - name: Azure Sprite Icons
