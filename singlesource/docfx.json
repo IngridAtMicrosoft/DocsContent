@@ -84,7 +84,7 @@
       {
         "src": ".",
         "dest": ".",
-        "version" : ".",
+        "version" : ">azs-1802",
         "files": [
           "**/*.md",
           "**/*.yml"
