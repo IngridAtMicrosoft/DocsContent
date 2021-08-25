@@ -39,7 +39,7 @@
         ]
       }
     ],
-    "dest": "contoso",
+    "dest": "singlesource",
     "groups": {
       "group1": {
         "dest": "group1-dest",
