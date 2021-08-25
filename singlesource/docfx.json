@@ -5,6 +5,7 @@
         "group": "version-ash",
         "src" : "asdk",
         "dest" : "asdk",
+        "version": "azs-1802"
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -23,6 +24,7 @@
       {
         "group": "version-ash",
         "src" : "operator",
+        "version" : "azs-2005"
         "dest" : "operator",
         "files": [
           "**/*.md",
