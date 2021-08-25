@@ -10,8 +10,6 @@ ms.service: media-services
 
 # Test page for monikers
 
-# Getting Started with .NET Core
-
 Some shared content that is applicable to all product versions mapped to the folder...
 
 ::: moniker range="netcore-1.0"
