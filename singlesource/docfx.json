@@ -24,7 +24,7 @@
       {
         "group": "version-ash",
         "src" : "operator",
-        "version" : "azs-2005"
+        "version" : "azs-2005",
         "dest" : "operator",
         "files": [
           "**/*.md",
