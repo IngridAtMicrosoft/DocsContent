@@ -18,8 +18,12 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices.md"
-        ]
+          "ThirdPartyNotices.md",
+          "folder1",
+          "folder2"
+        ],
+        "group": ".",
+        "src" : "."
       },
       {
         "files": [
