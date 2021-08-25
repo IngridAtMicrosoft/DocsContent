@@ -4,14 +4,6 @@
       {
         "files": [
           "**/*.md",
-          "**/*.yml"
-        ],
-        "group": "group1",
-        "src": "folder1"
-      },
-      {
-        "files": [
-          "**/*.md",
           "**/*.mmd",
           "**/*.yml",
           "**/*.html"
@@ -33,14 +25,6 @@
     "resource": [
       {
         "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-        "group": "group1",
-        "src": "folder1"
-      },
-      {
-        "files": [
           "**/*.png",
           "**/*.jpg",
           "**/*.svg"
@@ -55,13 +39,6 @@
         ]
       }
     ],
-    "dest": "singlesource",
-    "groups": {
-      "group1": {
-        "dest": "group1-dest",
-        "moniker_range": "> netcore-1.0"
-      }
-    },
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
