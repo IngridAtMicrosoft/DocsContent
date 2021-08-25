@@ -14,13 +14,13 @@ ms.service: media-services
 
 Some shared content that is applicable to all product versions mapped to the folder...
 
-::: moniker range=">= netcore-2.0"
+::: moniker range="netcore-1.0"
 
 Some version-specific content that applies only to .NET Core 2.0 and above....
 
 ::: moniker-end
 
-::: moniker range="< netcore-2.0"
+::: moniker range="netcore-2.0"
 
 Some version-specific content that applies only to .NET versions prior to .NET Core 2.0.
 

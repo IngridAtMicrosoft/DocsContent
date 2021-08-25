@@ -70,7 +70,7 @@
     "groups": {
       "group1": {
         "dest": "group1-dest",
-        "moniker-range": ">= netcore-1.0"
+        "moniker-range": "netcore-1.0"
       }
     },
     "markdownEngineName": "markdig"
