@@ -5,7 +5,7 @@
       "build_source_folder": "singlesource",
       "build_output_subfolder": "singlesource",
       "locale": "en-us",
-      "monikers": [],
+      "monikers": ["netcore-1.0","netcore-2.0"],
       "moniker_ranges": [">= netcore-1.0", "<= netframework-5.0"],
       "open_to_public_contributors": false,
       "type_mapping": {
