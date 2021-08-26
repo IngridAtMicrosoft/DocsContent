@@ -234,8 +234,7 @@
     },
     "fileMetadata": {},
     "template": ["default","DocFx.Plugins.PlantUml/template"],
-    "dest": "singlesource"
-    },
+    "dest": "singlesource",
     "markdownEngineName": "markdig"
   }
 }
