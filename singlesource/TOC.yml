@@ -2,6 +2,8 @@
   href: index.md
 - name: Concepts
   items:
+  - name: Inline Moniker
+    href: inline-moniker-test.md
   - name: Reuse in Graphics
     items:
     - name: Azure Sprite Icons
