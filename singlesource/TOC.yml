@@ -27,7 +27,7 @@
   href: ./how-to/index.md
   items:
   - name: How-to Template
-    href: ./how-to/how-to-template.md.md
+    href: ./how-to/how-to-template.md
   - name: Install, upgrade, and migrate
     items:
     - name: Determine Windows Server installation requirements
