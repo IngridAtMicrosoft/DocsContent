@@ -23,6 +23,23 @@
       href: azure-monitor.md
 - name: How-to Guides
   href: ./how-to/index.md
+  items:
+  - name: Failover and Clustering
+    items:
+    - name: How to Failover
+      href: ./how-to/failover/failover-how-to.md
+  - name: Identity
+    items:
+    - name: How to Identity
+      href: ./how-to/identity/identity-how-to.md
+  - name: Management
+    items:
+    - name: How to Manage
+      href: ./how-to/management/management-how-to.md
+  - name: Networking
+    items:
+    - name: How to Network
+      href: ./how-to/networking/networking-how-to.md
 - name: Reference
   href: ./reference/index.md
 - name: Resources
