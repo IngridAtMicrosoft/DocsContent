@@ -12,4 +12,6 @@ ms.service: media-services
 
 # Quickstarts section
 
-This is the Quickstarts section.  All quickstart articles go in this folder.
+This is the Quickstarts section.  Quickstarts should only be used for things that can be done with a portal-type UI.  Quickstarts are not for anything that is done with REST, CLI, PowerShell or an SDK (API).  They are intended only for helping a customer "get their feet wet" and to show off a new feature that now can be done with a UI interface.
+
+The Quickstart section doesn't have subfolders or additional nodes in the TOC tree.  That is because there should only be a few of them.
