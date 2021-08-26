@@ -230,7 +230,7 @@
       href: ./how-to/how-to-template.md
     - name: Manage container images using Microsoft Azure
       href: ./how-to/how-to-template.md
-  - name: High Availability
+  - name: Failover and Clustering
     items:
     - name: Implement Hyper-V Replica
       href: ./how-to/how-to-template.md
@@ -304,7 +304,7 @@
       href: ./how-to/how-to-template.md
     - name: Upgrade an NLB cluster
       href: ./how-to/how-to-template.md
-  - name: Maintain and Monitor
+  - name: Management
     items:
       - name: Implement Windows Server Update Services (WSUS) solutions
         href: ./how-to/how-to-template.md
@@ -576,7 +576,7 @@
         href: ./how-to/how-to-template.md
       - name: Determine requirements and scenarios for Datacenter firewall policies and network security groups
         href: ./how-to/how-to-template.md
-  - name: Identity - Active Directory
+  - name: Identity
     items:
       - name: Install a new forest
         href: ./how-to/how-to-template.md
