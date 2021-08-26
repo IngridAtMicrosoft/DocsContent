@@ -4,14 +4,14 @@ items:
     topicHref: /singlesource/index
     items:
     - name: Failover and Clustering
-      tocHref: /singlesource/failover/
-      topicHref: /singlsource/failover/
+      tocHref: /singlesource/concepts/failover/
+      topicHref: /singlsource/concepts/failover/
     - name: Identity and Access
-      tocHref: /singlesource/identity/
-      topicHref: /singlsource/identity/
+      tocHref: /singlesource/concepts/identity/
+      topicHref: /singlsource/concepts/identity/
     - name: Management
-      tocHref: /singlesource/management/
-      topicHref: /singlsource/mangement/
+      tocHref: /singlesource/concepts/management/
+      topicHref: /singlsource/concepts/mangement/
     - name: Networking
-      tocHref: /singlesource/networking/
-      topicHref: /singlsource/networking/
+      tocHref: /singlesource/concepts/networking/
+      topicHref: /singlsource/concepts/networking/

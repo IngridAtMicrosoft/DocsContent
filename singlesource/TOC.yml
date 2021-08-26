@@ -1,15 +1,18 @@
 - name: Single Source
   href: index.md
-- name: Identity and Access
-  href: ./identity/identity-overview.md
-- name: Failover Clustering
-  href: ./failover/failover-overview.md
-- name: Management
-  href: ./management/management-overview.md
-- name: Networking
-  href: ./networking/networking-overview.md
+- name: Quickstarts
+  href: ./quickstarts/index.md
 - name: Concepts
+  href: ./concepts/index.md
   items:
+  - name: Identity and Access
+    href: ./identity/concepts/identity-overview.md
+  - name: Failover Clustering
+    href: ./failover/concepts/failover-overview.md
+  - name: Management
+    href: ./management/concepts/management-overview.md
+  - name: Networking
+    href: ./networking/concepts/networking-overview.md
   - name: Inline Moniker
     href: inline-moniker-test.md
   - name: Reuse in Graphics
@@ -18,11 +21,12 @@
       href: all-sprites.md
     - name: Azure Monitor PRETTY diagram
       href: azure-monitor.md
-  - name: Related
-    items:
-    - name: Structured Documentation
-      href: http://adl.org
-  - name: Resources
-    items:
-    - name: Instructional Design Training and certification
-      href: https://www.td.org/
+- name: How-to Guides
+  href: ./how-to/index.md
+- name: Reference
+  href: ./reference/index.md
+- name: Resources
+  href: ./resources/index.md
+  items:
+  - name: Instructional Design Training and certification
+    href: https://www.td.org/

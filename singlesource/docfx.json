@@ -3,8 +3,8 @@
     "content": [
       {
         "group": "version-ash",
-        "src" : "failover",
-        "dest" : "failover",
+        "src" : "concepts",
+        "dest" : "concepts",
         "version": ">=windows-server-2008",
         "files": [
           "**/*.md",
@@ -23,9 +23,9 @@
       },
       {
         "group": "version-ash",
-        "src" : "identity",
+        "src" : "quickstarts",
+        "dest" : "quickstarts",
         "version" : ">=windows-server-2008",
-        "dest" : "identity",
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -43,9 +43,9 @@
       },
       {
         "group": "version-ash",
-        "src" : "management",
+        "src" : "reference",
+        "dest" : "reference",
         "version" : ">=windows-server-2008",
-        "dest" : "management",
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -63,9 +63,9 @@
       },
       {
         "group": "version-ash",
-        "src" : "networking",
+        "src" : "resources",
+        "dest" : "resources",
         "version" : ">=windows-server-2008",
-        "dest" : "networking",
         "files": [
           "**/*.md",
           "**/*.yml"
