@@ -14,15 +14,15 @@ This is the Failover and Clustering overview page.
 
 This is content that is supposed to show up for every version
 
-::: moniker range="azs-2108"
+::: moniker range="windows-server-2022"
 
 ## Failover for Windows Server 2022
 
-Content that only shows up only for 2108.
+Content that only shows up only for 22022.
 
 ::: moniker-end
 
-::: moniker range="<= azs-2107"
+::: moniker range=">windows-server-2019"
 
 ## Failover for Windows Server 2019
 

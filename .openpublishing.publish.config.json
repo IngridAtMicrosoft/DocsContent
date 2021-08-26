@@ -7,7 +7,7 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [
-        ">=azs-1802"
+        ">=windows-server-2008"
       ],
       "open_to_public_contributors": false,
       "type_mapping": {
