@@ -28,22 +28,78 @@
   items:
   - name: How-to Template
     href: ./how-to/how-to-template.md
-  - name: Failover and Clustering
+  - name: Install, upgrade, and migrate
     items:
-    - name: How to Failover
-      href: ./how-to/failover/failover-how-to.md
-  - name: Identity
+    - name: Determine Windows Server installation requirements
+      href: index.md 
+    - name: Determine appropriate Windows Server 2016 editions per workloads
+      href: index.md 
+    - name: Install Windows Server
+      href: index.md
+    - name: Install Windows Server features and roles
+      href: index.md
+    - name: Install and configure Windows Server Core
+      href: index.md
+    - name: Manage Windows Server Core installations using Windows PowerShell, command line, and remote management capabilities
+      href: index.md
+    - name: Implement Windows PowerShell Desired State Configuration (DSC) to install and maintain integrity of installed environments
+      href: index.md
+    - name: Perform upgrades and migrations of servers and core workloads from Windows Server 2008 and Windows Server 2012 to Windows Server 2016
+      href: index.md
+    - name: Determine the appropriate activation model for server installation, such as Automatic Virtual Machine Activation (AVMA), Key-Management Service (KMS), and Active Directory- name:based Activation
+      href: index.md
+  - name: Create, manage, and maintain images
     items:
-    - name: How to Identity
-      href: ./how-to/identity/identity-how-to.md
-  - name: Management
+    - name: Assess virtualization workloads using the Microsoft Assessment and Planning (MAP) Toolkit
+      href: index.md
+    - name: Determine considerations for deploying workloads into virtualized environments
+      href: index.md  
+    - name: Update images with patches, hotfixes, last cumulative updates and drivers
+      href: index.md
+    - name: Install roles and features in offline images
+      href: index.md
+    - name: Manage and maintain Windows Server Core, and VHDs using Windows PowerShell
+      href: index.md
+  - name: Implement Storage Solutions
     items:
-    - name: How to Manage
-      href: ./how-to/management/management-how-to.md
-  - name: Networking
-    items:
-    - name: How to Network
-      href: ./how-to/networking/networking-how-to.md
+    - name: Configure sector sizes appropriate for various workloads
+      href: index.md
+    - name: Configure GUID partition table (GPT) disks
+      href: index.md
+    - name: Create VHD and VHDX files using Disk Management or Windows PowerShell
+      href: index.md
+    - name: Mount virtual hard disks
+      href: index.md
+    - name: Determine when to use NTFS and ReFS file systems
+      href: index.md
+    - name: Configure NFS and SMB shares using Server-Manager
+      href: index.md
+    - name: Configure SMB share and session settings using Windows PowerShell
+      href: index.md
+    - name: Configure SMB server and SMB client configuration settings using Windows PowerShell
+      href: index.md
+    - name: Configure file and folder permissions
+      href: index.md
+    - name: Configure storage pools
+      href: index.md
+    - name: Implement simple, mirror, and parity storage layout options for disks or enclosures
+      href: index.md
+    - name: Expand storage pools
+      href: index.md
+    - name: Configure Tiered Storage
+      href: index.md
+    - name: Configure iSCSI target and initiator
+      href: index.md
+    - name: Configure iSNS
+      href: index.md
+    - name: Configure Datacenter Bridging (DCB)
+      href: index.md
+    - name: Configure Multi- name:Path IO (MPIO)
+      href: index.md
+    - name: Determine usage scenarios for Storage Replica
+      href: index.md
+    - name: Implement Storage Replica for server- name:to- name:server, cluster- name:to- name:cluster, and stretch cluster scenarios
+      href: index.md
 - name: Reference
   href: ./reference/index.md
 - name: Resources

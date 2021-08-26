@@ -22,8 +22,8 @@ The following list is taken from the objective domain for the Windows Server 201
 - Determine appropriate Windows Server 2016 editions per workloads.
 - Install Windows Server.
 - Install Windows Server features and roles.
-- Install and- Configure Windows Server Core.
-- Manage Windows Server Core installations using Windows PowerShell, command line, and remote- Management capabilities.
+- Install and configure Windows Server Core.
+- Manage Windows Server Core installations using Windows PowerShell, command line, and remote management capabilities.
 - Implement Windows PowerShell Desired State Configuration (DSC) to install and maintain integrity of installed environments.
 - Perform upgrades and migrations of servers and core workloads from Windows Server 2008 and Windows Server 2012 to Windows Server 2016.
 - Determine the appropriate activation model for server installation, such as Automatic Virtual Machine Activation (AVMA), Key- Management Service (KMS), and Active Directory-based Activation.
