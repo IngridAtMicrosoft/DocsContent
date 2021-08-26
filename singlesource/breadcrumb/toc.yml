@@ -5,13 +5,13 @@ items:
     items:
     - name: Failover and Clustering
       tocHref: /singlesource/failover/
-      topicHref: /singlsource/failover/failover-overview
+      topicHref: /singlsource/failover/
     - name: Identity and Access
       tocHref: /singlesource/identity/
-      topicHref: /singlsource/identity/identity-overview
+      topicHref: /singlsource/identity/
     - name: Management
       tocHref: /singlesource/management/
-      topicHref: /singlsource/mangement/management-overview
+      topicHref: /singlsource/mangement/
     - name: Networking
       tocHref: /singlesource/networking/
-      topicHref: /singlsource/networking/networking-overview
+      topicHref: /singlsource/networking/
