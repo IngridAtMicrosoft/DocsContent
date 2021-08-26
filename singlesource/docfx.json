@@ -43,6 +43,26 @@
       },
       {
         "group": "version-ash",
+        "src" : "how-to",
+        "dest" : "how-to",
+        "version" : ">=windows-server-2008",
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ]
+      },
+      {
+        "group": "version-ash",
         "src" : "reference",
         "dest" : "reference",
         "version" : ">=windows-server-2008",
@@ -90,10 +110,11 @@
           "**/*.yml"
         ],
         "exclude": [
-          "identity/**",
-          "failover/**",
-          "management/**",
-          "networking/**",
+          "concepts/**",
+          "quickstarts/**",
+          "how-to/**",
+          "references/**",
+          "resources/**",
           "**/obj/**",
           "**/includes/**",
           "_themes/**",
