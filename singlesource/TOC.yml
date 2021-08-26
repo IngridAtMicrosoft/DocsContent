@@ -5,6 +5,8 @@
 - name: Concepts
   href: ./concepts/index.md
   items:
+  - name: What's new in Windows Server
+    href: ./concepts/whats-new.md
   - name: Identity and Access
     href: ./concepts/identity/identity-overview.md
   - name: Failover Clustering
