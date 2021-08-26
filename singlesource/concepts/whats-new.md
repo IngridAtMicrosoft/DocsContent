@@ -552,11 +552,11 @@ Three new features are added in Microsoft Windows 10 and Windows Server 2016:
 <!-- end 2016 -->
 <!-- 2012 -->
 :::moniker range="windows-server-2012"
-    Add what's new for 2012 here.
+Add what's new for 2012 here.
 :::moniker-end
 <!-- end 2012 -->
 <!-- 2008 -->
 :::moniker range="windows-server-2008"
-    Add what's new for 2008 here.
+Add what's new for 2008 here.
 :::moniker-end
 <!-- end 2008 -->

@@ -1,5 +1,5 @@
 ---
-title: Welcome to Single Source 
+title: Concepts overview
 description: This is a repository for a single source prototype.
 author: IngridAtMicrosoft
 ms.topic: article
