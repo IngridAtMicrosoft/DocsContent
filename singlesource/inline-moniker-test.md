@@ -8,22 +8,65 @@ ms.date: 08/25/2021
 ms.service: media-services
 ---
 
-# Inline moniker test
+# Moniker test for Windows Server
 
-This is content that is supposed to show up for every version
+This page describes the Azure Stack monikers that are being used to test monikered content until Windows Server monikers are available.
 
-::: moniker range="azs-2108"
 
-## 2108
+| Moniker | Version |
+| ------- | ------- |
+| 2108 | Windows Server 2022 |
+| 2107 | Windows Server 2019 |
+| 2012 | Windows Server 2016 |
+| 2008 | Windows Server 2012 |
+| 2005 | Windows Server 2008 |
 
-Content that only shows up for 2108.
+To test this, select one of the numbers above to see the content that will show up below.
 
-::: moniker-end
+:::moniker range="azs-2108"
 
-::: moniker range="< azs-2005"
+## | 2108 | Windows Server 2022 |
 
-## 2005 or earlier
+When 2108 is selected content for Windows Server 2022 will show up.
 
-This is content that shows up only if the version is 2005 or earlier.
+:::moniker-end
 
-::: moniker-end
+:::moniker range="azs-2107"
+
+## | 2107 | Windows Server 2019 |
+
+When 2107 is selected content for Windows Server 2019 will show up.
+
+:::moniker-end
+
+:::moniker range="azs-2012"
+
+## | 2012 | Windows Server 2016 |
+
+When 2012 is selected content for Windows Server 2016 will show up.
+
+:::moniker-end
+
+:::moniker range="azs-2008"
+
+## | 2008 | Windows Server 2012 |
+
+When 2008 is selected content for Windows Server 2012 will show up.
+
+:::moniker-end
+
+:::moniker range="azs-2005"
+
+## | 2005 | Windows Server 2008 |
+
+When 2008 is selected content for Windows Server 2008 will show up.
+
+:::moniker-end
+
+:::moniker range="< azs-2005"
+
+## | < 2005 | Other content |
+
+This is content that shows up when any other version is selected.
+
+:::moniker-end
