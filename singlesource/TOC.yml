@@ -194,6 +194,655 @@
       href: index.md
     - name: Configure Bandwidth management
       href: index.md
+  - name: Containers
+    items:
+    - name: Determine installation requirements and appropriate scenarios for Windows Containers
+      href: index.md
+    - name: Install and configure Windows Server container host in physical or virtualized environments
+      href: index.md
+    - name: Install and configure Windows Server container host to Windows Server Core in a physical or virtualized environment
+      href: index.md
+    - name: Install Docker Enterprise Edition on Windows Server
+      href: index.md
+    - name: Configure Docker startup options
+      href: index.md
+    - name: Install a base container image
+      href: index.md
+    - name: Tag an image
+      href: index.md
+    - name: Remove a container
+      href: index.md
+    - name: Create Windows Server containers
+      href: index.md
+    - name: Create Hyper-V containers
+      href: index.md
+    - name: Manage Windows containers by using Docker CLI
+      href: index.md
+    - name: Manage container networking
+      href: index.md
+    - name: Manage container data volumes
+      href: index.md
+    - name: Manage Resource Control
+      href: index.md
+    - name: Create new container images using Dockerfile
+      href: index.md
+    - name: Manage container images using DockerHub repository for public and private scenarios
+      href: index.md
+    - name: Manage container images using Microsoft Azure
+      href: index.md
+  - name: High Availability
+    items:
+    - name: Implement Hyper-V Replica
+      href: index.md
+    - name: Implement Live Migration including Shared Nothing Live Migration
+      href: index.md
+    - name: Configure CredSSP or Kerberos authentication protocol for Live Migration
+      href: index.md
+    - name: Implement storage migration
+      href: index.md
+    - name: Implement Workgroup, Single, and Multi Domain clusters
+      href: index.md
+    - name: Configure quorum
+      href: index.md
+    - name: Configure cluster networking
+      href: index.md
+    - name: Restore single node or cluster configuration
+      href: index.md
+    - name: Configure cluster storage
+      href: index.md
+    - name: Implement Cluster- name:Aware Updating
+      href: index.md
+    - name: Implement Cluster Operating System Rolling Upgrade
+      href: index.md
+    - name: Configure and optimize cluster shared volumes (CSVs)
+      href: index.md
+    - name: Configure clusters without network names
+      href: index.md
+    - name: Implement Scale- name:Out File Server (SoFS)
+      href: index.md
+    - name: Determine different scenarios for the use of SoFS vs File Server for general use
+      href: index.md
+    - name: Determine usage scenarios for implementing guest clustering
+      href: index.md
+    - name: Implement a Clustered Storage Spaces solution using Shared SAS storage enclosures
+      href: index.md
+    - name: Implement Storage Replica
+      href: index.md
+    - name: Implement Cloud Witness
+      href: index.md
+    - name: Implement VM resiliency
+      href: index.md
+    - name: Implement shared VHDX as a storage solution for guest clusters
+      href: index.md
+    - name: Determine scenario requirements for Implementing Storage Spaces Direct
+      href: index.md
+    - name: Enable Storage Spaces Direct using Windows PowerShell
+      href: index.md
+    - name: Implement a disaggregated Storage Spaces Direct scenario
+      href: index.md
+    - name: Implement a hyper- name:converged Storage Spaces Direct scenario
+      href: index.md
+    - name: Configure role- name:specific settings, including continuously available shares
+      href: index.md
+    - name: Configure VM monitoring
+      href: index.md
+    - name: Configure failover and preference settings
+      href: index.md
+    - name: Implement stretch and site- name:aware failover clusters
+      href: index.md
+    - name: Enable and configure node fairness
+      href: index.md
+    - name: Install NLB nodes
+      href: index.md
+    - name: Configure NLB prerequisites
+      href: index.md
+    - name: Configure affinity
+      href: index.md
+    - name: Configure port rules
+      href: index.md
+    - name: Configure cluster operation mode
+      href: index.md
+    - name: Upgrade an NLB cluster
+      href: index.md
+  - name: Maintain and Monitor
+    items:
+      - name: Implement Windows Server Update Services (WSUS) solutions
+        href: index.md
+      - name: Configure WSUS groups
+        href: index.md
+      - name: Manage patch Management in mixed environments
+        href: index.md
+      - name: Implement an antimalware solution with Windows Defender
+        href: index.md
+      - name: Integrate Windows Defender with WSUS and Windows Update
+        href: index.md
+      - name: Perform backup and Restore operations using Windows Server Backup
+        href: index.md
+      - name: Determine backup strategies for different Windows Server roles and workloads, including Hyper- name:V Host, Hyper- name:V Guests, Active Directory, File Servers, and Web Servers using Windows Server native tools and solutions
+        href: index.md
+      - name: Monitor workloads using Performance Monitor, Server Manager, Event Viewer
+        href: index.md
+      - name: Configure Data Collector Sets
+        href: index.md
+      - name: Determine appropriate CPU, memory, disk, and networking counters for storage and compute workloads
+        href: index.md
+      - name: Configure alerts
+        href: index.md
+      - name: Monitor workloads using Resource Monitor
+        href: index.md
+      - name: Manage and monitor Windows Server by using Windows Admin Center
+        href: index.md
+  - name: Networking
+    items:
+      - name: Determine DNS installation requirements
+        href: index.md
+      - name: Install DNS
+        href: index.md
+      - name: Configure forwarders
+        href: index.md
+      - name: Configure Root Hints
+        href: index.md
+      - name: Configure delegation
+        href: index.md
+      - name: Implement DNS policies
+        href: index.md
+      - name: Configure DNS Server settings using Windows PowerShell
+        href: index.md
+      - name: Configure Domain Name System Security Extensions (DNSSEC)
+        href: index.md
+      - name: Configure DNS Socket Pool
+        href: index.md
+      - name: Configure cache locking
+        href: index.md
+      - name: Enable Response Rate Limiting
+        href: index.md
+      - name: Configure DNS- name:based Authentication of Named Entities (DANE)
+        href: index.md
+      - name: Configure DNS logging
+        href: index.md
+      - name: Configure delegated administration
+        href: index.md
+      - name: Configure recursion settings
+        href: index.md
+      - name: Implement DNS Performance tuning
+        href: index.md
+      - name: Configure global settings
+        href: index.md
+      - name: Create primary zones
+        href: index.md
+      - name: Configure Active Directory primary zones
+        href: index.md
+      - name: Create and configure secondary zones
+        href: index.md
+      - name: Create and configure stub zones
+        href: index.md
+      - name: Configure a GlobalNames zone
+        href: index.md
+      - name: Analyze zone- name:level statistics
+        href: index.md
+      - name: Create and configure DNS Resource Records (RR), including A, AAAA, PTR, SOA, NS, SRV, CNAME, and MX records
+        href: index.md
+      - name: Configure zone scavenging
+        href: index.md
+      - name: Configure record options, including Time To Live (TTL) and weight
+        href: index.md
+      - name: Configure round robin
+        href: index.md
+      - name: Configure secure dynamic updates
+        href: index.md
+      - name: Configure unknown record support
+        href: index.md
+      - name: Use DNS audit events and analytical (query) events for auditing and troubleshooting
+        href: index.md
+      - name: Configure Zone Scopes
+        href: index.md
+      - name: Configure records in Zone Scopes
+        href: index.md
+      - name: Configure policies for zones
+        href: index.md
+      - name: Install and Configure DHCP servers
+        href: index.md
+      - name: Authorize a DHCP server
+        href: index.md
+      - name: Create and configure scopes
+        href: index.md
+      - name: Create and configure superscopes and multicast scopes
+        href: index.md
+      - name: Configure a DHCP reservation
+        href: index.md
+      - name: Configure DHCP options
+        href: index.md
+      - name: Configure DNS options from within DHCP
+        href: index.md
+      - name: Configure policies
+        href: index.md
+      - name: Configure client and server for PXE boot
+        href: index.md
+      - name: Configure DHCP Relay Agent
+        href: index.md
+      - name: Implement IPv6 addressing using DHCPv6
+        href: index.md
+      - name: Perform export and import of a DHCP server
+        href: index.md
+      - name: Perform DHCP server migration
+        href: index.md
+      - name: Configure a lease period
+        href: index.md
+      - name: Back up and restore the DHCP database
+        href: index.md
+      - name: Configure high availability using DHCP failover
+        href: index.md
+      - name: Configure DHCP name protection
+        href: index.md
+      - name: Troubleshoot DHCP
+        href: index.md
+      - name: Provision IPAM manually or by using Group Policy
+        href: index.md
+      - name: Configure server discovery
+        href: index.md
+      - name: Create and manage IP blocks and ranges
+        href: index.md
+      - name: Monitor utilization of IP address space
+        href: index.md
+      - name: Migrate existing workloads to IPAM
+        href: index.md
+      - name: Configure IPAM database storage using SQL Server
+        href: index.md
+      - name: Determine scenarios for using IPAM with System Center Virtual Machine Manager for physical and virtual IP address space management
+        href: index.md
+      - name: Manage DHCP server properties using IPAM
+        href: index.md
+      - name: Configure DHCP scopes and options
+        href: index.md
+      - name: Configure DHCP policies and failover
+        href: index.md
+      - name: Manage DNS server properties using IPAM
+        href: index.md
+      - name: Manage DNS zones and records
+        href: index.md
+      - name: Manage DNS and DHCP servers in multiple Active Directory forests
+        href: index.md
+      - name: Delegate administration for DNS and DHCP using role- name:based access control (RBAC)
+        href: index.md
+      - name: Audit the changes performed on the DNS and DHCP servers
+        href: index.md
+      - name: Audit the IPAM address usage trail
+        href: index.md
+      - name: Audit DHCP lease events and user logon events
+        href: index.md
+      - name: Implement Network Address Translation (NAT)
+        href: index.md
+      - name: Configure routing
+        href: index.md
+      - name: Implement remote access and site- name:to- name:site (S2S) VPN solutions using remote access gateway
+        href: index.md
+      - name: Configure different VPN protocol options
+        href: index.md
+      - name: Configure authentication options
+        href: index.md
+      - name: Configure VPN reconnect
+        href: index.md
+      - name: Create and configure connection profiles
+        href: index.md
+      - name: Determine when to use remote access VPN and site-to-site VPN and Configure appropriate protocols
+        href: index.md
+      - name: Install and configure DirectAccess
+        href: index.md
+      - name: Implement server requirements
+        href: index.md
+      - name: Implement client configuration
+        href: index.md
+      - name: Troubleshoot DirectAccess
+        href: index.md
+      - name: Configure a RADIUS server including RADIUS proxy
+        href: index.md
+      - name: Configure RADIUS clients
+        href: index.md
+      - name: Configure NPS templates
+        href: index.md
+      - name: Configure RADIUS accounting
+        href: index.md
+      - name: Configure certificates
+        href: index.md
+      - name: Configure Connection Request Policies
+        href: index.md
+      - name: Configure network policies for VPN and wireless and wired clients
+        href: index.md
+      - name: Import and export NPS policies
+        href: index.md
+      - name: Configure IPv4 addresses and options
+        href: index.md
+      - name: Determine and Configure appropriate IPv6 addresses
+        href: index.md
+      - name: Configure IPv4 or IPv6 subnetting
+        href: index.md
+      - name: Implement IPv6 stateless addressing
+        href: index.md
+      - name: Configure interoperability between IPv4 and IPv6 by using ISATAP, 6to4, and Teredo scenarios
+        href: index.md
+      - name: Configure Border Gateway Protocol (BGP)
+        href: index.md
+      - name: Configure IPv4 and IPv6 routing
+        href: index.md
+      - name: Install and Configure DFS namespaces
+        href: index.md
+      - name: Configure DFS replication targets
+        href: index.md
+      - name: Configure replication scheduling
+        href: index.md
+      - name: Configure Remote Differential Compression (RDC) settings
+        href: index.md
+      - name: Configure staging
+        href: index.md
+      - name: Configure fault tolerance
+        href: index.md
+      - name: Clone a Distributed File System Replication (DFSR) database
+        href: index.md
+      - name: Recover DFSR databases
+        href: index.md
+      - name: Optimize DFS Replication
+        href: index.md
+      - name: Install and configure BranchCache
+        href: index.md
+      - name: Implement distributed and hosted cache modes
+        href: index.md
+      - name: Implement BranchCache for web, file, and application servers
+        href: index.md
+      - name: Troubleshoot BranchCache
+        href: index.md
+      - name: Implement NIC Teaming or the Switch Embedded Teaming (SET) solution and identify when to use each
+        href: index.md
+      - name: Enable and configure Receive Side Scaling (RSS)
+        href: index.md
+      - name: Enable and configure network Quality of Service (QoS) with Data Center Bridging (DCB)
+        href: index.md
+      - name: Enable and configure SMB Direct on Remote Direct Memory Access (RDMA) Enabled network adapters
+        href: index.md
+      - name: Configure SMB Multichannel
+        href: index.md
+      - name: Enable and configure virtual Receive Side Scaling (vRSS) on a Virtual Machine Queue (VMQ) capable network adapter
+        href: index.md
+      - name: Enable and configure Virtual Machine Multi- name:Queue (VMMQ)
+        href: index.md
+      - name: Enable and configure Single- name:Root I/O Virtualization (SRIOV) on a supported network adapter
+        href: index.md
+      - name: Determine deployment scenarios and network requirements for deploying SDN
+        href: index.md
+      - name: Determine requirements and scenarios for implementing Hyper- name:V Network Virtualization (HNV) using Network Virtualization Generic Route Encapsulation (NVGRE) encapsulation or Virtual Extensible LAN (VXLAN) encapsulation
+        href: index.md
+      - name: Determine scenarios for implementation of Software Load Balancer (SLB) for North- name:South and East- name:West load balancing
+        href: index.md
+      - name: Determine implementation scenarios for various types of Windows Server Gateways, including L3, GRE, and S2S, and their use
+        href: index.md
+      - name: Determine requirements and scenarios for Datacenter firewall policies and network security groups
+        href: index.md
+  - name: Identity - Active Directory
+    items:
+      - name: Install a new forest
+        href: index.md
+      - name: Add or remove a domain controller from a domain
+        href: index.md
+      - name: Upgrade a domain controller
+        href: index.md
+      - name: Install AD DS on a Server Core installation
+        href: index.md
+      - name: Install a domain controller from Install from Media (IFM)
+        href: index.md
+      - name: Resolve DNS SRV record registration issues
+        href: index.md
+      - name: Configure a global catalog server
+        href: index.md
+      - name: Transfer and seize operations master roles
+        href: index.md
+      - name: Install and Configure a read- name:only domain controller (RODC)
+        href: index.md
+      - name: Configure domain controller cloning
+        href: index.md
+      - name: Automate the creation of Active Directory accounts
+        href: index.md
+      - name: Create, copy, configure, and delete users and computers
+        href: index.md
+      - name: Configure templates
+        href: index.md
+      - name: Perform bulk Active Directory operations
+        href: index.md
+      - name: Configure user rights
+        href: index.md
+      - name: Implement offline domain join
+        href: index.md
+      - name: Manage inactive and disabled accounts
+        href: index.md
+      - name: Automate unlocking of disabled accounts
+        href: index.md
+      - name: Automate password resets
+        href: index.md
+      - name: Configure group nesting
+        href: index.md
+      - name: Convert groups, including security, distribution, universal, domain local, and global
+        href: index.md
+      - name: Manage group membership using Group Policy
+        href: index.md
+      - name: Enumerate group membership
+        href: index.md
+      - name: Automate group membership Management using Windows PowerShell
+        href: index.md
+      - name: Delegate the creation and Management of Active Directory groups and OUs
+        href: index.md
+      - name: Manage default Active Directory containers
+        href: index.md
+      - name: Create, copy, configure, and delete groups and OUs
+        href: index.md
+      - name: Create and configure Service Accounts
+        href: index.md
+      - name: Create and configure Group Managed Service Accounts (gMSAs)
+        href: index.md
+      - name: Configure Kerberos Constrained Delegation (KCD)
+        href: index.md
+      - name: Manage Service Principal Names (SPNs)
+        href: index.md
+      - name: Configure virtual accounts
+        href: index.md
+      - name: Configure domain and local user password policy settings
+        href: index.md
+      - name: Configure and apply Password Settings Objects (PSOs)
+        href: index.md
+      - name: Delegate password settings management
+        href: index.md
+      - name: Configure account lockout policy settings
+        href: index.md
+      - name: Configure Kerberos policy settings within Group Policy
+        href: index.md
+      - name: Configure Authentication Policies and Authentication Policy Silos
+        href: index.md
+      - name: Back up Active Directory and SYSVOL
+        href: index.md
+      - name: Manage Active Directory offline
+        href: index.md
+      - name: Perform offline defragmentation of an Active Directory database
+        href: index.md
+      - name: Clean up metadata
+        href: index.md
+      - name: Configure Active Directory snapshots
+        href: index.md
+      - name: Perform object and container level recovery
+        href: index.md
+      - name: Perform Active Directory Restore
+        href: index.md
+      - name: Configure and restore objects by using the Active Directory Recycle Bin
+        href: index.md
+      - name: Configure replication to Read- name:Only Domain Controllers (RODCs)
+        href: index.md
+      - name: Configure Password Replication Policy (PRP) for RODC
+        href: index.md
+      - name: Monitor and manage replication
+        href: index.md
+      - name: Upgrade SYSVOL replication to Distributed File System Replication (DFSR)
+        href: index.md
+      - name: Configure a multi- name:domain and multi- name:forest Active Directory infrastructure
+        href: index.md
+      - name: Deploy Windows Server domain controllers within a preexisting Active Directory environment
+        href: index.md
+      - name: Upgrade existing domains and forests
+        href: index.md
+      - name: Configure domain and forest functional levels
+        href: index.md
+      - name: Configure multiple user principal name (UPN) suffixes
+        href: index.md
+      - name: Configure external, forest, shortcut, and realm trusts
+        href: index.md
+      - name: Configure trust authentication
+        href: index.md
+      - name: Configure SID filtering
+        href: index.md
+      - name: Configure name suffix routing
+        href: index.md
+      - name: Configure sites and subnets
+        href: index.md
+      - name: Create and configure site links
+        href: index.md
+      - name: Manage site coverage
+        href: index.md
+      - name: Manage registration of SRV records
+        href: index.md
+      - name: Move domain controllers between sites
+        href: index.md
+      - name: Create and manage Group Policy Objects (GPOs)
+        href: index.md
+      - name: Configure a central store
+        href: index.md
+      - name: Manage starter GPOs
+        href: index.md
+      - name: Configure GPO links
+        href: index.md
+      - name: Configure multiple local Group Policies
+        href: index.md
+      - name: Back up, import, copy, restore GPOs
+        href: index.md
+      - name: Create and configure a migration table
+        href: index.md
+      - name: Reset default GPOs
+        href: index.md
+      - name: Delegate Group Policy management
+        href: index.md
+      - name: Detect health issues using the Group Policy Infrastructure Status page
+        href: index.md
+      - name: Configure Group Policy processing
+        href: index.md
+      - name: Configure processing order and precedence
+        href: index.md
+      - name: Configure blocking of inheritance
+        href: index.md
+      - name: Configure enforced policies
+        href: index.md
+      - name: Configure security filtering and Windows Management Instrumentation (WMI) filtering
+        href: index.md
+      - name: Configure loopback processing
+        href: index.md
+      - name: Configure and manage slow- name:link processing and Group Policy caching
+        href: index.md
+      - name: Configure client- name:side extension (CSE) behavior
+        href: index.md
+      - name: Force a Group Policy update
+        href: index.md
+      - name: Configure software installation
+        href: index.md
+      - name: Configure folder redirection
+        href: index.md
+      - name: Configure scripts
+        href: index.md
+      - name: Configure administrative templates
+        href: index.md
+      - name: Import security templates
+        href: index.md
+      - name: Import a custom administrative template file
+        href: index.md
+      - name: Configure filtering for administrative template
+        href: index.md
+      - name: Configure printer preferences
+        href: index.md
+      - name: Define network drive mappings
+        href: index.md
+      - name: Configure power options
+        href: index.md
+      - name: Configure custom registry settings
+        href: index.md
+      - name: Configure Control Panel settings
+        href: index.md
+      - name: Configure Internet Explorer settings
+        href: index.md
+      - name: Configure file and folder deployment
+        href: index.md
+      - name: Configure shortcut deployment
+        href: index.md
+      - name: Configure item level targeting
+        href: index.md
+      - name: Install Active Directory Integrated Enterprise Certificate Authority (CA)
+        href: index.md
+      - name: Install offline root and subordinate CAs
+        href: index.md
+      - name: Install standalone CAs
+        href: index.md
+      - name: Configure Certificate Revocation List (CRL) distribution points
+        href: index.md
+      - name: Install and Configure Online Responder
+        href: index.md
+      - name: Implement administrative role separation
+        href: index.md
+      - name: Configure CA backup and recovery
+        href: index.md
+      - name: Manage certificate templates
+        href: index.md
+      - name: Implement and manage certificate deployment, validation, and revocation
+        href: index.md
+      - name: Manage certificate renewal
+        href: index.md
+      - name: Manage certificate enrolment and renewal for computers and users using Group Policies
+        href: index.md
+      - name: Configure and manage key archival and recovery
+      - name: Upgrade and migrate previous AD FS workloads to Windows Server
+        href: index.md
+      - name: Implement claims-based authentication, including Relying Party Trusts
+        href: index.md
+      - name: Configure authentication policies
+        href: index.md
+      - name: Configure multi-factor authentication
+        href: index.md
+      - name: Implement and configure device registration
+        href: index.md
+      - name: Integrate AD FS with Microsoft Passport
+        href: index.md
+      - name: Configure for use with Microsoft Azure and Office 365
+        href: index.md
+      - name: Configure AD FS to enable authentication of users stored in LDAP directories
+        href: index.md
+      - name: Install and configure WAP
+        href: index.md
+      - name: Implement WAP in pass- name:through mode
+        href: index.md
+      - name: Implement WAP as AD FS proxy
+        href: index.md 
+      - name: Integrate WAP with AD FS
+        href: index.md
+      - name: Configure AD FS requirements
+        href: index.md
+      - name: Publish web apps via WAP
+        href: index.md
+      - name: Publish Remote Desktop Gateway applications
+        href: index.md
+      - name: Configure HTTP to HTTPS redirects
+        href: index.md
+      - name: Configure internal and external Fully Qualified Domain Names (FQDNs)
+        href: index.md
+      - name: Install a licensor certificate AD RMS server
+        href: index.md
+      - name: Manage AD RMS Service Connection Point (SCP)
+        href: index.md
+      - name: Manage AD RMS templates
+        href: index.md
+      - name: Configure Exclusion Policies
+        href: index.md
+      - name: Back up and restore AD RMS
+        href: index.md
 - name: Reference
   href: ./reference/index.md
 - name: Resources
