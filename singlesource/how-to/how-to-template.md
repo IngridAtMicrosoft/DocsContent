@@ -9,6 +9,7 @@ ms.service: media-services
 ---
 
 # How-To template
+
 <!--
 This How-to template has been created to make how-to content SEO compliant.
 
@@ -74,39 +75,38 @@ Use Monikers where appropriate
 
 -->
 
-## Same file different versions 
+## Same file different versions
 
 This How-To template uses monikers.  That way, telling someone how to do something can be in one place for all versions.  If the same method applies to several versions, you designate the section with an operator preding the version such as >, <, >=, <=.
 
-
 :::moniker range="windows-server-2008"
 
 ## How-to for Windows Server 2008
 
-## H2.1 for first part (See the comments in this template.)
+## H2.1.2008 for first part (See the comments in this template.)
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
 1. Select **UI element**.
 
-## H2.2 for the second part
+## H2.2.2008 for the second part
 
 1. Clean up the `CodeObject` array.
 1. Delete the *filename.exe* file.
 
-## H2.3 for the third part
+## H2.3.2008 for the third part
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
 1. Select **UI element**.
 
-### H2.4 for the fourth part
+### H2.4.2008 for the fourth part
 
 1. Clean up the `CodeObject` array.
 1. Delete the *filename.exe* file.
-1. Do this code block. If the code block can be included directly from a related sample or API use that method instead.
+1. Use this code block. If the code block can be included directly from a related sample or API use that method instead.
 
     ```python
     var codeblock
@@ -114,87 +114,7 @@ This is an interstitial paragraph. It gives a short explanation of what you will
 
 1. Save the file
 
-## H2.5 for the fifth part
-
-If you are writing more than 5 parts then consider breaking the instruction into a couple of pages.  Think encapsulation.
-:::moniker-end
-
-:::moniker range="windows-server-2008"
-
-## How-to for Windows Server 2008
-
-## H2.1 for first part (See the comments in this template.)
-
-This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
-
-1. Do this. The **wizard** will open.
-1. Select **UI element**.
-
-## H2.2 for the second part
-
-1. Clean up the `CodeObject` array.
-1. Delete the *filename.exe* file.
-
-## H2.3 for the third part
-
-This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
-
-1. Do this. The **wizard** will open.
-1. Select **UI element**.
-
-### H2.4 for the fourth part
-
-1. Clean up the `CodeObject` array.
-1. Delete the *filename.exe* file.
-1. Do this code block. If the code block can be included directly from a related sample or API use that method instead.
-
-    ```python
-    var codeblock
-    ```
-
-1. Save the file
-
-## H2.5 for the fifth part
-
-If you are writing more than 5 parts then consider breaking the instruction into a couple of pages.  Think encapsulation.
-:::moniker-end
-
-:::moniker range="windows-server-2008"
-
-## How-to for Windows Server 2008
-
-## H2.1 for first part (See the comments in this template.)
-
-This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
-
-1. Do this. The **wizard** will open.
-1. Select **UI element**.
-
-## H2.2 for the second part
-
-1. Clean up the `CodeObject` array.
-1. Delete the *filename.exe* file.
-
-## H2.3 for the third part
-
-This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
-
-1. Do this. The **wizard** will open.
-1. Select **UI element**.
-
-### H2.4 for the fourth part
-
-1. Clean up the `CodeObject` array.
-1. Delete the *filename.exe* file.
-1. Do this code block. If the code block can be included directly from a related sample or API use that method instead.
-
-    ```python
-    var codeblock
-    ```
-
-1. Save the file
-
-## H2.5 for the fifth part
+## H2.5.2008 for the fifth part
 
 If you are writing more than 5 parts then consider breaking the instruction into a couple of pages.  Think encapsulation.
 :::moniker-end
@@ -203,26 +123,26 @@ If you are writing more than 5 parts then consider breaking the instruction into
 
 ## How-to for Windows Server 2012
 
-## H2.1 for first part (See the comments in this template.)
+## H2.1.2012 for first part (See the comments in this template.)
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
 1. Select **UI element**.
 
-## H2.2 for the second part
+## H2.2.2012 for the second part
 
 1. Clean up the `CodeObject` array.
 1. Delete the *filename.exe* file.
 
-## H2.3 for the third part
+## H2.3.2012 for the third part
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
 1. Select **UI element**.
 
-### H2.4 for the fourth part
+### H2.4.2012 for the fourth part
 
 1. Clean up the `CodeObject` array.
 1. Delete the *filename.exe* file.
@@ -234,7 +154,7 @@ This is an interstitial paragraph. It gives a short explanation of what you will
 
 1. Save the file
 
-## H2.5 for the fifth part
+## H2.5.2012 for the fifth part
 
 If you are writing more than 5 parts then consider breaking the instruction into a couple of pages.  Think encapsulation.
 :::moniker-end
@@ -243,26 +163,26 @@ If you are writing more than 5 parts then consider breaking the instruction into
 
 ## How-to for Windows Server 2016
 
-## H2.1 for first part (See the comments in this template.)
+## H2.1.2016 for first part (See the comments in this template.)
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
 1. Select **UI element**.
 
-## H2.2 for the second part
+## H2.2.2016 for the second part
 
 1. Clean up the `CodeObject` array.
 1. Delete the *filename.exe* file.
 
-## H2.3 for the third part
+## H2.3.2016 for the third part
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
 1. Select **UI element**.
 
-### H2.4 for the fourth part
+### H2.4.2016 for the fourth part
 
 1. Clean up the `CodeObject` array.
 1. Delete the *filename.exe* file.
@@ -274,7 +194,7 @@ This is an interstitial paragraph. It gives a short explanation of what you will
 
 1. Save the file
 
-## H2.5 for the fifth part
+## H2.5.2016 for the fifth part
 
 If you are writing more than 5 parts then consider breaking the instruction into a couple of pages.  Think encapsulation.
 :::moniker-end
@@ -283,26 +203,26 @@ If you are writing more than 5 parts then consider breaking the instruction into
 
 ## How-to for Windows Server 2019
 
-## H2.1 for first part (See the comments in this template.)
+## H2.1.2019 for first part (See the comments in this template.)
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
 1. Select **UI element**.
 
-## H2.2 for the second part
+## H2.2.2019 for the second part
 
 1. Clean up the `CodeObject` array.
 1. Delete the *filename.exe* file.
 
-## H2.3 for the third part
+## H2.3.2019 for the third part
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
 1. Select **UI element**.
 
-### H2.4 for the fourth part
+### H2.4.2019 for the fourth part
 
 1. Clean up the `CodeObject` array.
 1. Delete the *filename.exe* file.
@@ -314,15 +234,16 @@ This is an interstitial paragraph. It gives a short explanation of what you will
 
 1. Save the file
 
-## H2.5 for the fifth part
+## H2.5.2019 for the fifth part
 
 If you are writing more than 5 parts then consider breaking the instruction into a couple of pages.  Think encapsulation.
 :::moniker-end
+
 :::moniker range="windows-server-2022"
 
 ## How-to for Windows Server 2022
 
-## H2.1 for first part (See the comments in this template.)
+## H2.1.2022 for first part (See the comments in this template.)
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
@@ -334,14 +255,14 @@ This is an interstitial paragraph. It gives a short explanation of what you will
 1. Clean up the `CodeObject` array.
 1. Delete the *filename.exe* file.
 
-## H2.3 for the third part
+## H2.3.2022 for the third part
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
 1. Select **UI element**.
 
-### H2.4 for the fourth part
+### H2.4.2022 for the fourth part
 
 1. Clean up the `CodeObject` array.
 1. Delete the *filename.exe* file.
@@ -353,7 +274,7 @@ This is an interstitial paragraph. It gives a short explanation of what you will
 
 1. Save the file
 
-## H2.5 for the fifth part
+## H2.5.2022 for the fifth part
 
 If you are writing more than 5 parts then consider breaking the instruction into a couple of pages.  Think encapsulation.
 :::moniker-end
