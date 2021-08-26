@@ -12,7 +12,7 @@ ms.service: media-services
 
 This is the Failover and Clustering overview page.
 
-This is content that is supposed to show up for every version
+This is content that is supposed to show up for every version.
 
 ::: moniker range="windows-server-2022"
 
