@@ -12,18 +12,18 @@ ms.service: media-services
 
 This is content that is supposed to show up for every version
 
-Some shared content that is applicable to all product versions mapped to the folder...
+::: moniker range="azs-2005"
 
-::: moniker range=">= azs-2005"
+## 2005
 
 Some version-specific content that applies only azs-2005 and above....
 
 ::: moniker-end
 
-::: moniker range="< azs-2005"
+::: moniker range="azs-2108"
 
-Some version-specific content that applies only to azs-2005 and before...
+## 2108
+
+Content that only shows up for 2108.
 
 ::: moniker-end
-
-Some more shared content here...
