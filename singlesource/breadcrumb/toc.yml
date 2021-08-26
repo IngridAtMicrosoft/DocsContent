@@ -1,3 +1,9 @@
-- name: Single Source
-  tocHref: /singlesource/
-  topicHref: /singlesource/index
+items:
+  - name: Single Source
+    tocHref: /singlesource/
+    topicHref: /singlesource/index
+    items:
+    - name: Failover and Clustering
+      tocHref: /singlesource/failover/
+      topicHref: /singlsource/failover/failover-overview
+      
