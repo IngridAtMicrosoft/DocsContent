@@ -48,8 +48,6 @@
       href: index.md
     - name: Determine the appropriate activation model for server installation, such as Automatic Virtual Machine Activation (AVMA), Key-Management Service (KMS), and Active Directory- name:based Activation
       href: index.md
-  - name: Create, manage, and maintain images
-    items:
     - name: Assess virtualization workloads using the Microsoft Assessment and Planning (MAP) Toolkit
       href: index.md
     - name: Determine considerations for deploying workloads into virtualized environments
@@ -60,7 +58,7 @@
       href: index.md
     - name: Manage and maintain Windows Server Core, and VHDs using Windows PowerShell
       href: index.md
-  - name: Implement Storage Solutions
+  - name: Storage
     items:
     - name: Configure sector sizes appropriate for various workloads
       href: index.md
@@ -99,6 +97,102 @@
     - name: Determine usage scenarios for Storage Replica
       href: index.md
     - name: Implement Storage Replica for server- name:to- name:server, cluster- name:to- name:cluster, and stretch cluster scenarios
+      href: index.md
+    - name: Implement and configure deduplication
+      href: index.md
+    - name: Determine appropriate usage scenarios for deduplication
+      href: index.md
+    - name: Monitor deduplication
+      href: index.md
+    - name: Implement a backup and Restore solution with deduplication
+      href: index.md
+  - name: Hyper-V
+    items:
+    - name: Determine hardware and compatibility requirements for installing Hyper- name:V
+      href: index.md
+    - name: Install Hyper-V
+      href: index.md
+    - name: Install management tools
+      href: index.md
+    - name: Upgrade from existing versions of Hyper- name:V
+      href: index.md
+    - name: Delegate virtual machine management
+      href: index.md
+    - name: Perform remote management of Hyper-V hosts
+      href: index.md
+    - name: Use Windows PowerShell Direct
+      href: index.md
+    - name: Implement nested virtualization
+      href: index.md
+    - name: Add or remove memory in a running VM
+      href: index.md
+    - name: Configure dynamic memory
+      href: index.md
+    - name: Configure Non- name:Uniform Memory Access (NUMA) support
+      href: index.md
+    - name: Configure smart paging
+      href: index.md
+    - name: Configure Resource Metering
+      href: index.md
+    - name: Manage Integration Services
+      href: index.md
+    - name: Create and configure Generation 1 and 2 VMs and determine appropriate usage scenarios
+      href: index.md
+    - name: Implement enhanced session mode
+      href: index.md
+    - name: Create Linux and FreeBSD VMs
+      href: index.md
+    - name: Install and Configure Linux Integration Services (LIS)
+      href: index.md
+    - name: Install and Configure FreeBSD Integration Services (BIS)
+      href: index.md
+    - name: Implement Secure Boot for Windows and Linux environments
+      href: index.md
+    - name: Move and convert VMs from previous versions of Hyper- name:V to Windows Server 2016 Hyper- name:V
+      href: index.md
+    - name: Export and import VMs
+      href: index.md
+    - name: Implement Discrete Device Assignment (DDA), Troubleshoot VM configuration versions
+      href: index.md
+    - name: Create VHDs and VHDX files using Hyper-V Manager
+      href: index.md
+    - name: Create shared VHDX files
+      href: index.md
+    - name: Configure differencing disks
+      href: index.md
+    - name: Modify virtual hard disks
+      href: index.md
+    - name: Configure pass- name:through disks
+      href: index.md
+    - name: Resize a virtual hard disk
+      href: index.md
+    - name: Manage checkpoints
+      href: index.md
+    - name: Implement production checkpoints
+      href: index.md
+    - name: Implement a virtual Fibre Channel adapter
+      href: index.md
+    - name: Configure storage Quality of Service (QoS)
+      href: index.md
+    - name: Add and remove virtual network interface cards (vNICs)
+      href: index.md
+    - name: Configure Hyper- name:V virtual switches
+      href: index.md
+    - name: Optimize network performance
+      href: index.md
+    - name: Configure MAC addresses
+      href: index.md
+    - name: Configure network isolation
+      href: index.md
+    - name: Configure synthetic and legacy virtual network adapters
+      href: index.md
+    - name: Configure NIC teaming in VMs
+      href: index.md
+    - name: Configure virtual machine queue (VMQ)
+      href: index.md
+    - name: Enable Remote Direct Memory Access (RDMA) on network adapters bound to a Hyper- name:V virtual switch using Switch Embedded Teaming (SET)
+      href: index.md
+    - name: Configure Bandwidth management
       href: index.md
 - name: Reference
   href: ./reference/index.md
