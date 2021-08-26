@@ -6,13 +6,13 @@
   href: ./concepts/index.md
   items:
   - name: Identity and Access
-    href: ./identity/concepts/identity-overview.md
+    href: ./identity/concepts/identity/identity-overview.md
   - name: Failover Clustering
-    href: ./failover/concepts/failover-overview.md
+    href: ./failover/concepts/failover/failover-overview.md
   - name: Management
-    href: ./management/concepts/management-overview.md
+    href: ./management/concepts/management/management-overview.md
   - name: Networking
-    href: ./networking/concepts/networking-overview.md
+    href: ./networking/concepts/networking/networking-overview.md
   - name: Inline Moniker
     href: inline-moniker-test.md
   - name: Reuse in Graphics
