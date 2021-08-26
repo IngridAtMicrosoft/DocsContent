@@ -26,6 +26,8 @@
 - name: How-to Guides
   href: ./how-to/index.md
   items:
+  - name: How-to Template
+    href: ./how-to/how-to-template.md
   - name: Failover and Clustering
     items:
     - name: How to Failover
