@@ -10,7 +10,9 @@ ms.service: media-services
 
 # Windows Server How-To list
 
-This article is a curated list of things you would do with Windows Server. The following list is taken from the objective domain for the Windows Server 2016 MCSA Certification.  08/25/2021: This is a starting point for all how-to articles to be developed for the Windows Server content overhaul. I will be adding items from the newest objective domain for the cert that is currently in development.
+The following list is taken from the objective domain for the Windows Server 2016 MCSA Certification.
+
+08/25/2021: This is a starting point for all how-to articles to be developed for the Windows Server content overhaul. I will be adding items from the newest objective domain for the cert that is currently in development.
 
 ## Install Windows Servers in Host and Compute Environments
 
@@ -26,7 +28,7 @@ This article is a curated list of things you would do with Windows Server. The f
 - Perform upgrades and migrations of servers and core workloads from Windows Server 2008 and Windows Server 2012 to Windows Server 2016.
 - Determine the appropriate activation model for server installation, such as Automatic Virtual Machine Activation (AVMA), Key- Management Service (KMS), and Active Directory-based Activation.
 
-### Create,- Manage, and maintain images for deployment
+### Create, manage, and maintain images for deployment
 
 - Plan for Windows Server virtualization
 - Assess virtualization workloads using the Microsoft Assessment and Planning (MAP) Toolkit
@@ -64,14 +66,14 @@ This article is a curated list of things you would do with Windows Server. The f
 
 ### Implement data deduplication
 
-- Implement and- Configure deduplication.
+- Implement and configure deduplication.
 - Determine appropriate usage scenarios for deduplication.
 - Monitor deduplication.
 - Implement a backup and- Restore solution with deduplication.
 
 ## Implement Hyper-V
 
-### Install and- Configure Hyper-V
+### Install and configure Hyper-V
 
 - Determine hardware and compatibility requirements for installing Hyper-V.
 - Install Hyper-V.
@@ -131,8 +133,8 @@ This article is a curated list of things you would do with Windows Server. The f
 ### Deploy Windows containers
 
 - Determine installation requirements and appropriate scenarios for Windows Containers.
-- Install and- Configure Windows Server container host in physical or virtualized environments.
-- Install and- Configure Windows Server container host to Windows Server Core in a physical or virtualized environment.
+- Install and configure Windows Server container host in physical or virtualized environments.
+- Install and configure Windows Server container host to Windows Server Core in a physical or virtualized environment.
 - Install Docker Enterprise Edition on Windows Server.
 - Configure Docker start-up options.
 - Install a base container image.
@@ -213,7 +215,7 @@ This article is a curated list of things you would do with Windows Server. The f
 - Configure cluster operation mode.
 - Upgrade an NLB cluster
 
-## Maintain and Monitor Server Environments (10-15%)
+## Maintain and Monitor Server Environments
 
 ## Maintain server installations
 
@@ -350,7 +352,7 @@ This article is a curated list of things you would do with Windows Server. The f
 - Configure certificates.
 - Configure Connection Request Policies.
 - Configure network policies for VPN and wireless and wired clients.
-- Import and export NPS policies
+- Import and export NPS policies.
 
 ## Implement Core and Distributed Network Solutions
 
@@ -385,20 +387,20 @@ This article is a curated list of things you would do with Windows Server. The f
 ### Implement high performance network solutions
 
 - Implement NIC Teaming or the Switch Embedded Teaming (SET) solution and identify when to use each.
-- Enable and- Configure Receive Side Scaling (RSS).
-- Enable and- Configure network Quality of Service (QoS) with Data Center Bridging (DCB).
-- Enable and- Configure SMB Direct on Remote Direct Memory Access (RDMA)- Enabled network adapters.
+- Enable and configure Receive Side Scaling (RSS).
+- Enable and configure network Quality of Service (QoS) with Data Center Bridging (DCB).
+- Enable and configure SMB Direct on Remote Direct Memory Access (RDMA)- Enabled network adapters.
 - Configure SMB Multichannel.
-- Enable and- Configure virtual Receive Side Scaling (vRSS) on a Virtual Machine Queue (VMQ) capable network adapter.
-- Enable and- Configure Virtual Machine Multi-Queue (VMMQ).
-- Enable and- Configure Single-Root I/O Virtualization (SRIOV) on a supported network adapter.
+- Enable and configure virtual Receive Side Scaling (vRSS) on a Virtual Machine Queue (VMQ) capable network adapter.
+- Enable and configure Virtual Machine Multi-Queue (VMMQ).
+- Enable and configure Single-Root I/O Virtualization (SRIOV) on a supported network adapter.
 
-### Determine scenarios and requirements for- Implementing Software Defined Networking (SDN)
+### Determine scenarios and requirements for implementing Software Defined Networking (SDN)
 
 - Determine deployment scenarios and network requirements for deploying SDN.
-- Determine requirements and scenarios for- Implementing Hyper-V Network Virtualization (HNV) using Network Virtualization Generic Route Encapsulation (NVGRE) encapsulation or Virtual Extensible LAN (VXLAN) encapsulation.
+- Determine requirements and scenarios for implementing Hyper-V Network Virtualization (HNV) using Network Virtualization Generic Route Encapsulation (NVGRE) encapsulation or Virtual Extensible LAN (VXLAN) encapsulation.
 - Determine scenarios for implementation of Software Load Balancer (SLB) for North-South and East-West load balancing.
-- Determine- Implementation scenarios for various types of Windows Server Gateways, including L3, GRE, and S2S, and their use.
+- Determine implementation scenarios for various types of Windows Server Gateways, including L3, GRE, and S2S, and their use.
 - Determine requirements and scenarios for Datacenter firewall policies and network security groups
 
 ## Install and configure Active Directory Domain Services (AD DS)
@@ -416,10 +418,10 @@ This article is a curated list of things you would do with Windows Server. The f
 - Install and- Configure a read-only domain controller (RODC).
 - Configure domain controller cloning
 
-### Create and- Manage Active Directory users and computers
+### Create and manage Active Directory users and computers
 
 - Automate the creation of Active Directory accounts.
-- Create, copy,- Configure, and delete users and computers.
+- Create, copy, configure, and delete users and computers.
 - Configure templates.
 - Perform bulk Active Directory operations.
 - Configure user rights.
@@ -452,7 +454,8 @@ This article is a curated list of things you would do with Windows Server. The f
 - Configure and apply Password Settings Objects (PSOs).
 - Delegate password settings- Management.
 - Configure account lockout policy settings.
-- Configure Kerberos policy settings within Group Policy,- Configure Authentication Policies and Authentication Policy Silos
+- Configure Kerberos policy settings within Group Policy.
+- Configure Authentication Policies and Authentication Policy Silos.
 
 ### Maintain Active Directory
 
@@ -463,10 +466,10 @@ This article is a curated list of things you would do with Windows Server. The f
 - Configure Active Directory snapshots.
 - Perform object- and container-level recovery.
 - Perform Active Directory Restore.
-- Configure and- Restore objects by using the Active Directory Recycle Bin.
+- Configure and restore objects by using the Active Directory Recycle Bin.
 - Configure replication to Read-Only Domain Controllers (RODCs).
 - Configure Password Replication Policy (PRP) for RODC.
-- Monitor and- Manage replication.
+- Monitor and manage replication.
 - Upgrade SYSVOL replication to Distributed File System Replication (DFSR)
 
 ### Configure Active Directory in a complex enterprise environment
@@ -497,7 +500,7 @@ This article is a curated list of things you would do with Windows Server. The f
 - Back up, import, copy, and- Restore GPOs.
 - Create and configure a migration table.
 - Reset default GPOs.
-- Delegate Group Policy- Management.
+- Delegate Group Policy management.
 - Detect health issues using the Group Policy Infrastructure Status page.
 
 ### Configure Group Policy processing
@@ -507,7 +510,7 @@ This article is a curated list of things you would do with Windows Server. The f
 - Configure enforced policies.
 - Configure security filtering and Windows- Management Instrumentation (WMI) filtering.
 - Configure loopback processing.
-- Configure and- Manage slow-link processing and Group Policy caching.
+- Configure and manage slow-link processing and Group Policy caching.
 - Configure client-side extension (CSE) behavior.
 - Force a Group Policy update.
 
@@ -548,10 +551,10 @@ This article is a curated list of things you would do with Windows Server. The f
 ### Manage certificates
 
 - Manage certificate templates.
-- Implement and- Manage certificate deployment, validation, and revocation.
+- Implement and manage certificate deployment, validation, and revocation.
 - Manage certificate renewal.
 - Manage certificate enrolment and renewal for computers and users using Group Policies.
-- Configure and- Manage key archival and recovery
+- Configure and manage key archival and recovery
 
 ## Implement Identity Federation and Access Solutions
 
@@ -561,10 +564,10 @@ This article is a curated list of things you would do with Windows Server. The f
 - Implement claims-based authentication, including Relying Party Trusts.
 - Configure authentication policies.
 - Configure multi-factor authentication.
-- Implement and- Configure device registration.
+- Implement and configure device registration.
 - Integrate AD FS with Microsoft Passport.
 - Configure for use with Microsoft Azure and Office 365.
-- Configure AD FS to- Enable authentication of users stored in LDAP directories.
+- Configure AD FS to enable authentication of users stored in LDAP directories.
 
 ### Implement Web Application Proxy (WAP)
 
@@ -575,7 +578,7 @@ This article is a curated list of things you would do with Windows Server. The f
 - Publish web apps via WAP.
 - Publish Remote Desktop Gateway applications.
 - Configure HTTP to HTTPS redirects.
-- Configure internal and external Fully Qualified Domain Names (FQDNs)
+- Configure internal and external Fully Qualified Domain Names (FQDNs).
 
 ### Install and- Configure Active Directory Rights- Management Services (AD RMS)
 
