@@ -11,3 +11,21 @@ ms.service: media-services
 # Failover and Clustering overview
 
 This is the Failover and Clustering overview page.
+
+This is content that is supposed to show up for every version
+
+::: moniker range="azs-2108"
+
+## Failover for 2108
+
+Content that only shows up for 2108.
+
+::: moniker-end
+
+::: moniker range="< azs-2005"
+
+## Failover for 2005 or earlier
+
+This is content that shows up only if the version is 2005 or earlier.
+
+::: moniker-end

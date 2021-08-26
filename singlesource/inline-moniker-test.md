@@ -17,7 +17,7 @@ This page describes the Azure Stack monikers that are being used to test moniker
 | ------- | ------- |
 | 2108 | Windows Server 2022 |
 | 2107 | Windows Server 2019 |
-| 2012 | Windows Server 2016 |
+| 2102 | Windows Server 2016 |
 | 2008 | Windows Server 2012 |
 | 2005 | Windows Server 2008 |
 
@@ -39,9 +39,9 @@ When 2107 is selected content for Windows Server 2019 will show up.
 
 :::moniker-end
 
-:::moniker range="azs-2012"
+:::moniker range="azs-2102"
 
-## | 2012 | Windows Server 2016 |
+## | 2102 | Windows Server 2016 |
 
 When 2012 is selected content for Windows Server 2016 will show up.
 
