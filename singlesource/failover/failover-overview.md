@@ -22,7 +22,7 @@ Content that only shows up only for 2108.
 
 ::: moniker-end
 
-::: moniker range="< azs-2107"
+::: moniker range="<= azs-2107"
 
 ## Failover for Windows Server 2019
 
