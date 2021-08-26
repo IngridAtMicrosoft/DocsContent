@@ -1,5 +1,5 @@
 ---
-title: User Overview
+title: Identity Overview
 description: This is a page to test monikers.
 author: IngridAtMicrosoft
 ms.author: inhenkel
@@ -8,6 +8,6 @@ ms.date: 08/25/2021
 ms.service: media-services
 ---
 
-# User overview
+# Identity overview
 
-This is the User overview page.
+This is the Identity overview page.

@@ -1,5 +1,5 @@
 ---
-title: Partner overview
+title: Management overview
 description: This is a page to test monikers 2.0
 author: IngridAtMicrosoft
 ms.author: inhenkel
@@ -8,6 +8,6 @@ ms.date: 08/25/2021
 ms.service: media-services
 ---
 
-# Partner page
+# Management overview
 
-This is the partner page.
+This is the Managment overview page.

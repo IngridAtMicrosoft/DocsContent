@@ -1,5 +1,13 @@
 - name: Single Source
   href: index.md
+- name: Identity and Access
+  href: ./identity/identity-overview.md
+- name: Failover Clustering
+  href: ./failover/failover-overview.md
+- name: Management
+  href: ./management/management-overview.md
+- name: Networking
+  href: ./networking/networking-overview.md
 - name: Concepts
   items:
   - name: Inline Moniker

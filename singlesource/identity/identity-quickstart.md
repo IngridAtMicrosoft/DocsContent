@@ -1,5 +1,5 @@
 ---
-title: ASDK Overview
+title: Identity Quickstart
 description: This is a page to test monikers.
 author: IngridAtMicrosoft
 ms.author: inhenkel
@@ -8,6 +8,6 @@ ms.date: 08/25/2021
 ms.service: media-services
 ---
 
-# ASDK overview
+# Quickstart: Identity
 
-This is the ASKD overview page.
+This is a quick start.

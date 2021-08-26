@@ -3,9 +3,9 @@
     "content": [
       {
         "group": "version-ash",
-        "src" : "asdk",
-        "dest" : "asdk",
-        "version": "azs-1802",
+        "src" : "failover",
+        "dest" : "failover",
+        "version": ">azs-1802",
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -23,9 +23,9 @@
       },
       {
         "group": "version-ash",
-        "src" : "operator",
-        "version" : "azs-2005",
-        "dest" : "operator",
+        "src" : "identity",
+        "version" : ">azs-1802",
+        "dest" : "identity",
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -43,9 +43,9 @@
       },
       {
         "group": "version-ash",
-        "src" : "partner",
-        "version" : "azs-1802",
-        "dest" : "partner",
+        "src" : "management",
+        "version" : ">azs-1802",
+        "dest" : "management",
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -63,9 +63,9 @@
       },
       {
         "group": "version-ash",
-        "src" : "user",
-        "version" : "azs-1802",
-        "dest" : "user",
+        "src" : "networking",
+        "version" : ">azs-1802",
+        "dest" : "networking",
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -90,10 +90,10 @@
           "**/*.yml"
         ],
         "exclude": [
-          "asdk/**",
-          "operator/**",
-          "partner/**",
-          "user/**",
+          "identity/**",
+          "failover/**",
+          "management/**",
+          "networking/**",
           "**/obj/**",
           "**/includes/**",
           "_themes/**",
@@ -133,8 +133,8 @@
           "**/*.svg",
           "**/*.gif"
         ],
-        "src": "asdk",
-        "dest": "asdk",
+        "src": "identity",
+        "dest": "identity",
         "group": "version-ash",
         "exclude": [
           "**/obj/**",
@@ -149,8 +149,8 @@
           "**/*.svg",
           "**/*.gif"
         ],
-        "src": "operator",
-        "dest": "operator",
+        "src": "failover",
+        "dest": "failover",
         "group": "version-ash",
         "exclude": [
           "**/obj/**",
@@ -165,8 +165,8 @@
           "**/*.svg",
           "**/*.gif"
         ],
-        "src": "partner",
-        "dest": "partner",
+        "src": "management",
+        "dest": "management",
         "group": "version-ash",
         "exclude": [
           "**/obj/**",
@@ -181,8 +181,8 @@
           "**/*.svg",
           "**/*.gif"
         ],
-        "src": "user",
-        "dest": "user",
+        "src": "networking",
+        "dest": "networking",
         "group": "version-ash",
         "exclude": [
           "**/obj/**",
@@ -200,10 +200,10 @@
           "**/*.gif"
         ],
         "exclude": [
-          "asdk/**",
-          "operator/**",
-          "partner/**",
-          "user/**",
+          "identity/**",
+          "failover/**",
+          "management/**",
+          "networking/**",
           "**/obj/**",
           "_themes/**",
           "_themes.pdf/**"

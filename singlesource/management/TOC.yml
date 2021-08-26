@@ -1,0 +1,8 @@
+- name: Overview
+  href: management-overview.md
+- name: Quickstarts
+  href: management-quickstart.md
+- name: How-to guides
+  href: management-how-to.md
+- name: Reference
+  href: http://docs.micfosoft.com
