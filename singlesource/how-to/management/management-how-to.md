@@ -10,4 +10,4 @@ ms.service: media-services
 
 # How to Managment
 
-This is a quick start.
+This is a how-to.

@@ -18,7 +18,7 @@
   - name: Reuse in Graphics
     items:
     - name: Azure Sprite Icons
-      href: ./reference/all-sprites.md
+      href: all-sprites.md
     - name: Azure Monitor PRETTY diagram
       href: azure-monitor.md
 - name: How-to Guides

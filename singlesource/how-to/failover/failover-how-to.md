@@ -10,4 +10,4 @@ ms.service: media-services
 
 # How to Failover and clustering
 
-This is a quick start.
+This is a how-to.

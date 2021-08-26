@@ -10,4 +10,4 @@ ms.service: media-services
 
 # How to Identity
 
-This is a quick start.
+This is a how-to.
