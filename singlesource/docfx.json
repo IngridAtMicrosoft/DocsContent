@@ -5,7 +5,7 @@
         "group": "version-ash",
         "src" : "failover",
         "dest" : "failover",
-        "version": ">windows-server-2008",
+        "version": ">=windows-server-2008",
         "files": [
           "**/*.md",
           "**/*.yml"
@@ -24,7 +24,7 @@
       {
         "group": "version-ash",
         "src" : "identity",
-        "version" : ">windows-server-2008",
+        "version" : ">=windows-server-2008",
         "dest" : "identity",
         "files": [
           "**/*.md",
@@ -44,7 +44,7 @@
       {
         "group": "version-ash",
         "src" : "management",
-        "version" : ">windows-server-2008",
+        "version" : ">=windows-server-2008",
         "dest" : "management",
         "files": [
           "**/*.md",
@@ -64,7 +64,7 @@
       {
         "group": "version-ash",
         "src" : "networking",
-        "version" : ">windows-server-2008",
+        "version" : ">=windows-server-2008",
         "dest" : "networking",
         "files": [
           "**/*.md",
@@ -84,7 +84,7 @@
       {
         "src": ".",
         "dest": ".",
-        "version" : ">windows-server-2008",
+        "version" : ">=windows-server-2008",
         "files": [
           "**/*.md",
           "**/*.yml"
