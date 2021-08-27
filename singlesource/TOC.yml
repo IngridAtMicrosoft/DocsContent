@@ -3,7 +3,6 @@
 - name: Quickstarts
   href: ./quickstarts/index.md
 - name: Concepts
-  href: ./concepts/index.md
   items:
   - name: Concept template
     href: ./concepts/concept-template.md
