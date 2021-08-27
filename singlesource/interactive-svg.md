@@ -14,8 +14,8 @@ This is an interactive SVG that illustrates a flow.
 
 ## On-click event
 
-The svg uses an on-click event to show or hide portions of the diagram.
+The svg uses an on-click event to show or hide portions of the diagram.  It also overs tooltips when you hover over it, and links out to other pages.
 
 ## Diagram
 
-<iframe src="media/clickable1.svg" height=800 width=1000 frameborder=no scrolling=no></iframe>
+<iframe src="media/clickable2.svg" height=800 width=1000 frameborder=no scrolling=no></iframe>

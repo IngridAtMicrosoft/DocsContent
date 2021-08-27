@@ -1,12 +1,10 @@
 ---
-title: Bread 
+title: Azure Monitor Pretty Diagram
 description: What is bread?
 author: IngridAtMicrosoft
-ms.topic: concept
-ms.date: 04/23/2021
 ms.author: inhenkel
-ms.reviewer: inhenkel
-ms.lastreviewed: 07/04/2020
+ms.topic: concept
+ms.date: 08/27/2021
 ms.service: media-services
 ---
 
