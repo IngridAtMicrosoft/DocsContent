@@ -26,6 +26,8 @@
     items:
     - name: Basic interactive SVG
       href: interactive-svg.md
+    - name: Animated interactive SVG
+      href: animated-interactive-svg.md
 - name: How-To
   items:
   - name: How To List
