@@ -76,10 +76,10 @@ More details go here.
 
 Links to how-tos that are associated with the thing.
 
-- [How to do decide what to do with the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do install/uninstall the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do configure the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do manage or configure other things with the thing](../how-to/how-to-template-with-tabs.md)
+- [How to decide what to do with the thing](../how-to/how-to-template-with-tabs.md)
+- [How to install/uninstall the thing](../how-to/how-to-template-with-tabs.md)
+- [How to configure the thing](../how-to/how-to-template-with-tabs.md)
+- [How to manage or configure other things with the thing](../how-to/how-to-template-with-tabs.md)
 
 :::moniker-end
 
@@ -105,10 +105,10 @@ More details go here.
 
 Links to how-tos that are associated with the thing.
 
-- [How to do decide what to do with the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do install/uninstall the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do configure the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do manage or configure other things with the thing](../how-to/how-to-template-with-tabs.md)
+- [How to decide what to do with the thing](../how-to/how-to-template-with-tabs.md)
+- [How to install/uninstall the thing](../how-to/how-to-template-with-tabs.md)
+- [How to configure the thing](../how-to/how-to-template-with-tabs.md)
+- [How to manage or configure other things with the thing](../how-to/how-to-template-with-tabs.md)
 
 :::moniker-end
 
@@ -134,10 +134,10 @@ More details go here.
 
 Links to how-tos that are associated with the thing.
 
-- [How to do decide what to do with the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do install/uninstall the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do configure the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do manage or configure other things with the thing](../how-to/how-to-template-with-tabs.md)
+- [How to decide what to do with the thing](../how-to/how-to-template-with-tabs.md)
+- [How to install/uninstall the thing](../how-to/how-to-template-with-tabs.md)
+- [How to configure the thing](../how-to/how-to-template-with-tabs.md)
+- [How to manage or configure other things with the thing](../how-to/how-to-template-with-tabs.md)
 
 :::moniker-end
 
@@ -163,10 +163,10 @@ More details go here.
 
 Links to how-tos that are associated with the thing.
 
-- [How to do decide what to do with the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do install/uninstall the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do configure the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do manage or configure other things with the thing](../how-to/how-to-template-with-tabs.md)
+- [How to decide what to do with the thing](../how-to/how-to-template-with-tabs.md)
+- [How to install/uninstall the thing](../how-to/how-to-template-with-tabs.md)
+- [How to configure the thing](../how-to/how-to-template-with-tabs.md)
+- [How to manage or configure other things with the thing](../how-to/how-to-template-with-tabs.md)
 
 :::moniker-end
 
@@ -192,9 +192,9 @@ More details go here.
 
 Links to how-tos that are associated with the thing.
 
-- [How to do decide what to do with the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do install/uninstall the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do configure the thing](../how-to/how-to-template-with-tabs.md)
-- [How to do manage or configure other things with the thing](../how-to/how-to-template-with-tabs.md)
+- [How to decide what to do with the thing](../how-to/how-to-template-with-tabs.md)
+- [How to install/uninstall the thing](../how-to/how-to-template-with-tabs.md)
+- [How to configure the thing](../how-to/how-to-template-with-tabs.md)
+- [How to manage or configure other things with the thing](../how-to/how-to-template-with-tabs.md)
 
 :::moniker-end
