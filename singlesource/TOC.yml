@@ -5,6 +5,8 @@
 - name: Concepts
   href: ./concepts/index.md
   items:
+  - name: Concept template
+    href: ./concepts/concept-template.md
   - name: What's new in Windows Server
     href: ./concepts/whats-new.md
   - name: Identity and Access
@@ -15,8 +17,6 @@
     href: ./concepts/management/management-overview.md
   - name: Networking
     href: ./concepts/networking/networking-overview.md
-  - name: Inline Moniker
-    href: inline-moniker-test.md
   - name: Reuse in Graphics
     items:
     - name: Azure Sprite Icons
