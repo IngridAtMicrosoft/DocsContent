@@ -8,7 +8,7 @@ ms.author: inhenkel
 ms.service: media-services
 ---
 
-# Interactive SVG
+# Animated interactive SVG
 
 This is an animated interactive SVG that illustrates a flow.
 
