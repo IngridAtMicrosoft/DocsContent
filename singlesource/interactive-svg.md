@@ -20,4 +20,4 @@ The svg uses an on-click event to show or hide portions of the diagram.
 
 ## Diagram
 
-![Clicakble svg](./media/clickable1.svg)
+[!INCLUDE [clickable svg](includes/interactive-svg-include.md)]
