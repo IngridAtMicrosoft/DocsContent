@@ -23,7 +23,7 @@
       href: all-sprites.md
     - name: Azure Monitor PRETTY diagram
       href: azure-monitor.md
-- name: Windows Server How-To List
+- name: How-To
   href: ./how-to/index.md
   items:
   - name: How-to Template
