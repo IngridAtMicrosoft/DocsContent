@@ -23,7 +23,7 @@ ms.service: media-services
 [!INCLUDE [hr-logo-2019](../includes/hr-logo-2019.md)]
 :::moniker-end
 :::moniker range="windows-server-2022"
-[!INCLUDE [hr-logo-2019](../includes/hr-logo-2019.md)]
+[!INCLUDE [hr-logo-2019](../includes/hr-logo-2022.md)]
 :::moniker-end
 <!--
 This How-to template has been created to make how-to content SEO compliant.
