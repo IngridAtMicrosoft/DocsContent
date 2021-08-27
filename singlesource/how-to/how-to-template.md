@@ -10,6 +10,9 @@ ms.service: media-services
 
 # How-To template
 
+:::moniker range="windows-server-2008"
+[!INCLUDE [hr-logo-2008](../includes/hr-logo-2008.md)]
+:::moniker-end:::
 <!--
 This How-to template has been created to make how-to content SEO compliant.
 

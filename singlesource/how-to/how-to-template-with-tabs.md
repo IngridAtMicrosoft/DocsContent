@@ -1,6 +1,6 @@
 ---
-title: How-to template 
-description: This article is a template for creating How-tos.  It contains a list of SEO rules and guidance for writing.
+title: How-to template with tabs
+description: This article is a template for creating How-tos with tabs.  It contains a list of SEO rules and guidance for writing.
 author: IngridAtMicrosoft
 ms.author: inhenkel
 ms.topic: how-to
@@ -8,7 +8,7 @@ ms.date: 08/26/2021
 ms.service: media-services
 ---
 
-# How-To template
+# How-To template with tabs
 
 <!--
 This How-to template has been created to make how-to content SEO compliant.
