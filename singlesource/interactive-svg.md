@@ -1,12 +1,10 @@
 ---
-title: Bread 
-description: What is bread?
+title: Interactive SVG
+description: This is a demo of an interactive SVG.
 author: IngridAtMicrosoft
 ms.topic: concept
-ms.date: 04/23/2021
+ms.date: 08/27/2021
 ms.author: inhenkel
-ms.reviewer: inhenkel
-ms.lastreviewed: 07/04/2020
 ms.service: media-services
 ---
 
@@ -20,4 +18,4 @@ The svg uses an on-click event to show or hide portions of the diagram.
 
 ## Diagram
 
-<iframe src="includes/interactive-svg-include.md" height=1000 frameborder=no scrolling=no></iframe>
+<iframe src="media/clickable1.svg" height=1000 frameborder=no scrolling=no></iframe>
