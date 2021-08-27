@@ -10,7 +10,7 @@
     href: ./concepts/whats-new.md
   - name: Identity and Access
     href: ./concepts/identity/identity-overview.md
-  - name: Failover Clustering
+  - name: Failover and Clustering
     href: ./concepts/failover/failover-overview.md
   - name: Management
     href: ./concepts/management/management-overview.md
