@@ -1,5 +1,5 @@
 - name: Single Source
-  href: ./how-to/index.md
+  href: index.md
 - name: Quickstarts
   href: ./quickstarts/index.md
 - name: Concepts
