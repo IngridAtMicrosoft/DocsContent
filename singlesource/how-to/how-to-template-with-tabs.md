@@ -94,7 +94,7 @@ Use Monikers where appropriate
 
 ## Same file different versions
 
-This How-To template uses monikers.  That way, telling someone how to do something can be in one place for all versions.  If the same method applies to several versions, you designate the section with an operator preceding the version such as >, <, >=, <=.
+This How-To template uses monikers.  That way, telling someone how to do something can be in one place for all versions.  If the same method applies to several versions, you designate the section with an operator preceding the version such as >, <, >=, <=. In other words, it isn't necessary to write the same thing over again and put it within a different moniker set.  Just add the operator to the range value.
 
 :::moniker range="windows-server-2008"
 
