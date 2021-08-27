@@ -20,4 +20,4 @@ The svg uses an on-click event to show or hide portions of the diagram.
 
 ## Diagram
 
-<iframe src="./media/clicable1.svg" height=1000 frameborder=no scrolling=no></iframe>
+<iframe src="includes/interactive-svg-include.md" height=1000 frameborder=no scrolling=no></iframe>
