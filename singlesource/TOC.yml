@@ -22,6 +22,10 @@
       href: all-sprites.md
     - name: Azure Monitor PRETTY diagram
       href: azure-monitor.md
+  - name: Interactive Graphics
+    items:
+    - name: Basic interactive SVG
+      href: interactive-svg.md
 - name: How-To
   items:
   - name: How To List
