@@ -85,15 +85,15 @@ This How-To template uses monikers.  That way, telling someone how to do somethi
 
 ## H2.1.2008 for first part (See the comments in this template.)
 
-## [UI](#tab/ui)
+## [UI2008](#tab/ui)
 
 Doing something with a graphical user interface.
 
-## [CLI](#tab/cli)
+## [CLI2008](#tab/cli)
 
 Doing something with CLI.
 
-## [PowerShell](#tab/powershell)
+## [PowerShell2008](#tab/powershell)
 
 Doing something with PowerShell.
 
@@ -139,6 +139,20 @@ If you are writing more than 5 parts then consider breaking the instruction into
 
 ## H2.1.2012 for first part (See the comments in this template.)
 
+## [UI2012](#tab/ui)
+
+Doing something with a graphical user interface.
+
+## [CLI2012](#tab/cli)
+
+Doing something with CLI.
+
+## [PowerShell2012](#tab/powershell)
+
+Doing something with PowerShell.
+
+---
+
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
@@ -178,6 +192,20 @@ If you are writing more than 5 parts then consider breaking the instruction into
 ## How-to for Windows Server 2016
 
 ## H2.1.2016 for first part (See the comments in this template.)
+
+## [UI2016](#tab/ui)
+
+Doing something with a graphical user interface.
+
+## [CLI2016](#tab/cli)
+
+Doing something with CLI.
+
+## [PowerShell2016](#tab/powershell)
+
+Doing something with PowerShell.
+
+---
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
@@ -219,6 +247,20 @@ If you are writing more than 5 parts then consider breaking the instruction into
 
 ## H2.1.2019 for first part (See the comments in this template.)
 
+## [UI2019](#tab/ui)
+
+Doing something with a graphical user interface.
+
+## [CLI2019](#tab/cli)
+
+Doing something with CLI.
+
+## [PowerShell2019](#tab/powershell)
+
+Doing something with PowerShell.
+
+---
+
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
 1. Do this. The **wizard** will open.
@@ -258,6 +300,20 @@ If you are writing more than 5 parts then consider breaking the instruction into
 ## How-to for Windows Server 2022
 
 ## H2.1.2022 for first part (See the comments in this template.)
+
+## [UI2022](#tab/ui)
+
+Doing something with a graphical user interface.
+
+## [CLI2022](#tab/cli)
+
+Doing something with CLI.
+
+## [PowerShell2022](#tab/powershell)
+
+Doing something with PowerShell.
+
+---
 
 This is an interstitial paragraph. It gives a short explanation of what you will be doing next.  If it isn't necessary, omit it.
 
