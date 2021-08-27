@@ -24,8 +24,9 @@
     - name: Azure Monitor PRETTY diagram
       href: azure-monitor.md
 - name: How-To
-  href: ./how-to/index.md
   items:
+  - name: How To List
+    href: ./how-to/index.md
   - name: How-to Template
     href: ./how-to/how-to-template.md
   - name: Install, upgrade, and migrate
