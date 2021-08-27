@@ -10,6 +10,22 @@ ms.service: media-services
 
 # What's new in Windows Server
 
+:::moniker range="windows-server-2008"
+[!INCLUDE [hr-logo-2008](../includes/hr-logo-2008.md)]
+:::moniker-end
+:::moniker range="windows-server-2012"
+[!INCLUDE [hr-logo-2012](../includes/hr-logo-2012.md)]
+:::moniker-end
+:::moniker range="windows-server-2016"
+[!INCLUDE [hr-logo-2016](../includes/hr-logo-2016.md)]
+:::moniker-end
+:::moniker range="windows-server-2019"
+[!INCLUDE [hr-logo-2019](../includes/hr-logo-2019.md)]
+:::moniker-end
+:::moniker range="windows-server-2022"
+[!INCLUDE [hr-logo-2019](../includes/hr-logo-2022.md)]
+:::moniker-end
+
 :::moniker range="windows-server-2022"
 
 ## Windows Server 2022
