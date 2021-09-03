@@ -6874,7 +6874,7 @@
        x="600">
       <xhtml:div
          style="margin: 5px; color: black;font-family:'Segoe UI', 'Segoe UI_MSFontService'; font: 16px sans-serif; height: 100%;overflow: auto;"
-         id="didactic">Click the numbered circles.
+         id="didactic">Click the numbered circles, starting with 1. The circles must be clicked in numerical order.
 
        </xhtml:div>
     </foreignObject>
