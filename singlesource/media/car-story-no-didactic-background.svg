@@ -26,17 +26,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3072"
-     inkscape:window-height="1634"
+     inkscape:window-width="2256"
+     inkscape:window-height="1410"
      id="namedview2438"
      showgrid="false"
      inkscape:zoom="1.3148438"
      inkscape:cx="640"
      inkscape:cy="380"
-     inkscape:window-x="3061"
-     inkscape:window-y="-11"
+     inkscape:window-x="1597"
+     inkscape:window-y="1717"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6150" />
+     inkscape:current-layer="svg3875" />
   <metadata
      id="metadata3879">
     <rdf:RDF>
@@ -5952,7 +5952,7 @@
        id="text3423"
        transform="translate(1011.9,70)"
        font-size="8"
-       font-weight="400">Azure <tspan
+       font-weight="bold">Azure <tspan
    style="font-size:8px"
    id="tspan3419"
    y="9"
@@ -6868,10 +6868,10 @@
        x="1068" />
     <foreignObject
        style="background-color: #fff; border: 1px solid #000;font-family:'Segoe UI', 'Segoe UI_MSFontService', sans-serif;"
-       height="60"
-       width="1260"
-       y="660"
-       x="10">
+       height="110"
+       width="650"
+       y="610"
+       x="600">
       <xhtml:div
          style="margin: 5px; color: black;font-family:'Segoe UI', 'Segoe UI_MSFontService'; font: 16px sans-serif; height: 100%;overflow: auto;"
          id="didactic">Click the numbered circles.
@@ -7357,11 +7357,12 @@
   </animateMotion>
   <g
      onclick="document.getElementById('didactic').innerHTML='Telematics messages (speed, location, etc.) are sent by an Azure Sphere cellular-enabled device to Azure IoT Hub. In a greenfield scenario, the vehicle manufacturer may include a Sphere module in each vehicle at time of manufacture. In a brownfield scenario, the vehicle is retrofitted with an after-market telematics solution.';"
-     id="one">
+     id="one"
+     transform="translate(-593.98691,76.054661)">
     <circle
        id="onecircle"
        r="20"
-       cx="714.0394900"
+       cx="714.03949"
        cy="620"
        class="dotFill">
       <set
@@ -7378,16 +7379,15 @@
    id="tspan2425"
    x="706.60199"
    y="631"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">1</tspan>
-         <set
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">1</tspan>          <set
    begin="one.click"
    to="disabled"
-   attributeName="class" />
-         </text>
+   attributeName="class" />         </text>
   </g>
   <g
      onclick="document.getElementById('didactic').innerHTML='Azure Stream Analytics picks up the message in real time from Azure IoT Hub, and processes the message based on the business logic.';"
-     id="two">
+     id="two"
+     transform="translate(-593.98691,76.054661)">
     <circle
        id="twocircle"
        r="20"
@@ -7412,16 +7412,15 @@
    id="tspan2425-9"
    x="762.14551"
    y="631"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">2</tspan>
-         <set
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">2</tspan>          <set
    begin="two.click"
    to="disabled"
-   attributeName="class" />
-         </text>
+   attributeName="class" />         </text>
   </g>
   <g
      onclick="document.getElementById('didactic').innerHTML='Azure Stream Analyics sends the processed data to the serving layer for storage. Different databases are used depending on the data. Azure Cosmos DB stores the messages, while Azure SQL DB stores relational and transactional data, and acts as a data source for the presentation and action layer. Azure Synapse contains aggregated data and acts as the data source for Business Intelligence (BI) tools.';"
-     id="three">
+     id="three"
+     transform="translate(-593.98691,76.054661)">
     <circle
        id="threecircle"
        r="20"
@@ -7446,16 +7445,15 @@
    id="tspan2425-9-1"
    x="818.96246"
    y="631"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">3</tspan>
-         <set
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">3</tspan>          <set
    begin="three.click"
    to="disabled"
-   attributeName="class" />
-         </text>
+   attributeName="class" />         </text>
   </g>
   <g
      onclick="document.getElementById('didactic').innerHTML='Web, mobile, BI, and mixed reality applications can be built on the serving layer. For example, you can expose serving layer data using APIs for third-party uses (for example, insurance companies, suppliers, etc.).';"
-     id="four">
+     id="four"
+     transform="translate(-593.98691,76.054661)">
     <circle
        id="fourcircle"
        r="20"
@@ -7480,16 +7478,15 @@
    id="tspan2425-9-1-4"
    x="876.02161"
    y="631"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">4</tspan>
-         <set
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">4</tspan>          <set
    begin="four.click"
    to="disabled"
-   attributeName="class" />
-         </text>
+   attributeName="class" />         </text>
   </g>
   <g
      onclick="document.getElementById('didactic').innerHTML='When a vehicle requires servicing at a dealer service center, an Azure Sphere device is connected to the vehicle’s OBD-II port by a service technician.';"
-     id="five">
+     id="five"
+     transform="translate(-593.98691,76.054661)">
     <circle
        class="dotFill"
        cy="620"
@@ -7514,16 +7511,15 @@
    id="tspan2425-9-1-4-7"
    x="932.08856"
    y="631"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">5</tspan>
-         <set
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">5</tspan>          <set
    begin="five.click"
    to="disabled"
-   attributeName="class" />
-         </text>
+   attributeName="class" />         </text>
   </g>
   <g
      onclick="document.getElementById('didactic').innerHTML='The Azure Sphere application connects to the vehicle’s OBD-II port and streams OBD-II data to Azure IoT Edge over MQTT. The Azure Sphere device is connected over Wi-Fi to the Azure IoT Edge device installed at the service center.';"
-     id="six">
+     id="six"
+     transform="translate(-593.98691,76.054661)">
     <circle
        class="dotFill"
        cy="620"
@@ -7548,16 +7544,15 @@
    id="tspan2425-9-1-4-8"
    x="988.81177"
    y="631"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">6</tspan>
-         <set
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">6</tspan>          <set
    begin="six.click"
    to="disabled"
-   attributeName="class" />
-         </text>
+   attributeName="class" />         </text>
   </g>
   <g
      onclick="document.getElementById('didactic').innerHTML='The OBD-II data is streamed from Azure IoT Edge to Azure IoT Hub and processed in the same message processing pipeline.';"
-     id="seven">
+     id="seven"
+     transform="translate(-593.98691,76.054661)">
     <circle
        class="dotFill"
        cy="620"
@@ -7582,16 +7577,15 @@
    id="tspan2425-9-1-4-4"
    x="1045.8162"
    y="631"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">7</tspan>
-         <set
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">7</tspan>          <set
    begin="seven.click"
    to="disabled"
-   attributeName="class" />
-         </text>
+   attributeName="class" />         </text>
   </g>
   <g
      onclick="document.getElementById('didactic').innerHTML='A service technician, wearing a HoloLens, can subscribe to the MQTT topic and securely view OBD-II data using a HoloLens application containing an MQTT client. The HoloLens MQTT client must be authorized to connect and subscribe to the topic. By connecting the HoloLens directly to the IoT Edge gateway, the service technician can view the vehicle’s data in near real-time, avoiding the latency of sending the data to the cloud and back. The service technician can also interact with the vehicle’s OBD-II port (for example, clear “check engine” light) even when the service center is disconnected from the cloud.';"
-     id="eight">
+     id="eight"
+     transform="translate(-593.98691,76.054661)">
     <circle
        class="dotFill"
        cy="620"
@@ -7616,12 +7610,10 @@
    id="tspan2425-9-1-4-2"
    x="1102.4613"
    y="631"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">8</tspan>
-         <set
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Segoe UI Emoji';-inkscape-font-specification:'Segoe UI Emoji';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">8</tspan>          <set
    begin="eight.click"
    to="disabled"
-   attributeName="class" />
-         </text>
+   attributeName="class" />         </text>
   </g>
   <style
      id="style2437">
