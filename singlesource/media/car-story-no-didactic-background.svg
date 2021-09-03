@@ -7583,7 +7583,7 @@
    attributeName="class" />         </text>
   </g>
   <g
-     onclick="document.getElementById('didactic').innerHTML='A service technician, wearing a HoloLens, can subscribe to the MQTT topic and securely view OBD-II data using a HoloLens application containing an MQTT client. The HoloLens MQTT client must be authorized to connect and subscribe to the topic. By connecting the HoloLens directly to the IoT Edge gateway, the service technician can view the vehicle’s data in near real-time, avoiding the latency of sending the data to the cloud and back. The service technician can also interact with the vehicle’s OBD-II port (for example, clear “check engine” light) even when the service center is disconnected from the cloud.';"
+     onclick="document.getElementById('didactic').innerHTML='A service technician, wearing a HoloLens, can subscribe to the MQTT topic and securely view OBD-II data using a HoloLens application containing an MQTT client. The HoloLens MQTT client must be authorized to connect and subscribe to the topic. By connecting the HoloLens directly to the IoT Edge gateway, the service technician can view the vehicle’s data in near real-time, avoiding the latency of sending the data to the cloud and back. The service technician can also interact with the vehicle’s OBD-II port even when the service center is disconnected from the cloud.';"
      id="eight"
      transform="translate(-593.98691,76.054661)">
     <circle
