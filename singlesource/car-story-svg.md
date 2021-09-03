@@ -18,4 +18,4 @@ The svg uses an on-click event to start the animation of the diagram.
 
 ## Diagram
 
-<iframe src="media/car-story-lines-object-names-animation-names-lines.svg" height=800 width=1000 frameborder=no scrolling=no></iframe>
+<iframe src="media/car-story-lines-object-names-animation-names-lines-plain.svg" height=800 width=1000 frameborder=no scrolling=no></iframe>
