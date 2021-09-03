@@ -7440,7 +7440,7 @@
    attributeName="class" />         </text>
   </g>
   <g
-     onclick="document.getElementById('didactic').innerHTML='Web, mobile, BI, and mixed reality applications can be built on the serving layer. For example, you can expose serving layer data using APIs for third-party uses (for example, insurance companies, suppliers, etc.).';"
+     onclick="document.getElementById('didactic').innerHTML='Web, mobile, BI, and mixed reality applications can be built on the serving layer. For example, you can expose serving layer data using APIs for third-party uses (insurance companies, suppliers, etc.).';"
      id="four"
      transform="translate(-593.98691,76.054661)">
     <circle
