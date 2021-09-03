@@ -31,7 +31,7 @@
      id="namedview2438"
      showgrid="false"
      inkscape:zoom="1.3148438"
-     inkscape:cx="640"
+     inkscape:cx="985.7673"
      inkscape:cy="380"
      inkscape:window-x="1597"
      inkscape:window-y="1717"
@@ -7645,4 +7645,11 @@
   background-color: #ffffff;
   }
   </style>
+  <rect
+     style="fill:#000000;fill-opacity:0;stroke:#d9d9d9;stroke-width:1.01392722;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="background"
+     width="1274.3619"
+     height="757.19275"
+     x="4.4855771"
+     y="2.4243369" />
 </svg>
