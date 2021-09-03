@@ -17,12 +17,8 @@ This is an animated interactive SVG that illustrates a flow.
 The svg uses an on-click event to start the animation of the diagram.
 
 ## Diagram
+
 <!--
 <iframe src="media/car-story-no-didactic-background.svg" height="auto" width="100%" frameborder=yes scrolling=no></iframe>
 -->
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="media/car-story-no-didactic-background.svg" frameborder="0" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
+<iframe src="media/car-story-no-didactic-background.svg" frameborder="0" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
