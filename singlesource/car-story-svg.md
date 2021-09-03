@@ -1,18 +1,18 @@
 ---
-title: Animated basic interactive SVG
+title: Animated interactive architectural diagram SVG
 description: This is a demo of an animated, interactive SVG.
 author: IngridAtMicrosoft
 ms.topic: concept
-ms.date: 08/27/2021
+ms.date: 09/02/2021
 ms.author: inhenkel
 ms.service: media-services
 ---
 
-# Animated interactive SVG
+# Animated interactive architectural diagram SVG
 
 This is an animated interactive SVG that illustrates a flow.
 
-## On-click event
+## Animations, clicks and logic!
 
 The svg uses an on-click event to start the animation of the diagram.
 
