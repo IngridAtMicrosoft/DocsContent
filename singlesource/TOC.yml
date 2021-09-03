@@ -28,6 +28,8 @@
       href: interactive-svg.md
     - name: Animated interactive SVG
       href: animated-interactive-svg.md
+    - name: Kit and Kaboodle
+      href: car-story-svg.md
 - name: How-To
   items:
   - name: How To List
