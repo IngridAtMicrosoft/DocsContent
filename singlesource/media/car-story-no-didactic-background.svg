@@ -31,12 +31,12 @@
      id="namedview2438"
      showgrid="false"
      inkscape:zoom="1.3148438"
-     inkscape:cx="985.7673"
+     inkscape:cx="670.99983"
      inkscape:cy="380"
      inkscape:window-x="1597"
      inkscape:window-y="1717"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3875" />
+     inkscape:current-layer="g6150" />
   <metadata
      id="metadata3879">
     <rdf:RDF>
@@ -5341,24 +5341,6 @@
      id="g6150"
      clip-path="url(#clip1)">
     <g
-       id="cloud1"
-       clip-path="url(#clip2)">
-      <g
-         id="g2074"
-         clip-path="url(#clip3)">
-        <g
-           id="g3187"
-           clip-path="url(#clip4)">
-          <path
-             style="fill:#deebf7;fill-opacity:0.31000001"
-             id="path3185"
-             transform="matrix(-1.40947,0,0,1,1394,-148)"
-             d="m 292.435,179.126 c -1.121,0 -2.617,0 -3.739,0 0,0 0,0 0,0 0,-18.324 -8.975,-35.152 -23.56,-45.623 -14.958,-10.471 -34.03,-13.088 -51.232,-7.105 C 199.694,98.725 168.281,84.5146 138.365,91.6198 108.448,98.725 86.7583,125.65 86.7583,156.689 c 0,0 0,0.373 0,0.747 -20.5677,-3.365 -41.1354,5.236 -53.85,21.69 -12.3406,16.828 -14.5843,38.892 -5.9833,57.59 8.975,18.698 27.6729,31.038 48.2406,32.16 v 0.374 H 292.061 c 24.682,0 44.875,-20.194 44.875,-44.875 0,-24.681 -19.819,-45.249 -44.501,-45.249 z"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
-    <g
        id="cloud2"
        clip-path="url(#clip5)">
       <g
@@ -5395,10 +5377,10 @@
       </g>
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#385723;stroke-width:0.66666698;stroke-miterlimit:8"
+       style="fill:none;fill-rule:evenodd;stroke:#385723;stroke-width:0.65787971;stroke-miterlimit:8"
        id="horizon"
        stroke-miterlimit="8"
-       d="M 0.500053,483.5 H 1278.33"
+       d="M 17.232079,483.5 H 1261.5979"
        inkscape:connector-curvature="0" />
     <path
        style="fill-rule:evenodd"
@@ -7646,10 +7628,10 @@
   }
   </style>
   <rect
-     style="fill:#000000;fill-opacity:0;stroke:#d9d9d9;stroke-width:1.01392722;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:0;stroke:#d9d9d9;stroke-width:1.01088035;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="background"
-     width="1274.3619"
-     height="757.19275"
-     x="4.4855771"
-     y="2.4243369" />
+     width="1272.2821"
+     height="753.87909"
+     x="3.5242133"
+     y="4.9783239" />
 </svg>
