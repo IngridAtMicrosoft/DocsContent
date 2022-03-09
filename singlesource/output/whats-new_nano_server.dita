@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="nano-server">
+            <title>Nano Server</title>
+            <shortdesc>What's New in Nano Servergetting-started-with-nano-server.md. Nano Server now
+                has an updated module for building Nano Server images, including more separation of
+                physical host and guest virtual machine functionality as well as support for
+                different Windows Server editions.</shortdesc>
+            <body>
+                <p>There are also improvements to the Recovery Console, including separation of
+                    inbound and outbound firewall rules as well as the ability to repair the
+                    configuration of WinRM.</p>
+            </body>
+        </topic>

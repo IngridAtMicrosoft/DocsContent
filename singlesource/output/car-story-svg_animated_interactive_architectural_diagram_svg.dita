@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="animated-interactive-architectural-diagram-svg">
+    <title>Animated interactive architectural diagram SVG</title>
+    <shortdesc>This is an animated interactive SVG that illustrates a flow.</shortdesc>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+        <data name="description" value="This is a demo of an animated, interactive SVG."/>
+        <data name="title" value="Animated interactive architectural diagram SVG"/>
+    </prolog>
+    <body/>
+    
+    
+</topic>

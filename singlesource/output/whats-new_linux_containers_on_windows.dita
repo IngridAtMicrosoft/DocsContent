@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="linux-containers-on-windows">
+            <title>Linux containers on Windows</title>
+            <shortdesc>It is now possible to run Windows and Linux-based containers on the same
+                container host, using the same docker daemon. This enables you to have a
+                heterogeneous container host environment while providing flexibility to application
+                developers.</shortdesc>
+            <body/>
+        </topic>

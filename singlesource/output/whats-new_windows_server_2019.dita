@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="windows-server-2019">
+        <title>Windows Server 2019</title>
+        <shortdesc>This article describes some of the new features in Windows Server 2019. Windows
+            Server 2019 is built on the strong foundation of Windows Server 2016 and brings numerous
+            innovations on four key themes: Hybrid Cloud, Security, Application Platform, and
+            Hyper-Converged Infrastructure HCI.</shortdesc>
+        <body/>
+    </topic>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="install-and-configure-dhcp">
+            <title>Install and configure DHCP</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Install and- Configure DHCP servers.</p>
+                    </li>
+                    <li>
+                        <p>Authorize a DHCP server.</p>
+                    </li>
+                    <li>
+                        <p>Create and configure scopes.</p>
+                    </li>
+                    <li>
+                        <p>Create and configure superscopes and multicast scopes.</p>
+                    </li>
+                    <li>
+                        <p>Configure a DHCP reservation.</p>
+                    </li>
+                    <li>
+                        <p>Configure DHCP options.</p>
+                    </li>
+                    <li>
+                        <p>Configure DNS options from within DHCP.</p>
+                    </li>
+                    <li>
+                        <p>Configure policies.</p>
+                    </li>
+                    <li>
+                        <p>Configure client and server for PXE boot.</p>
+                    </li>
+                    <li>
+                        <p>Configure DHCP Relay Agent.</p>
+                    </li>
+                    <li>
+                        <p>Implement IPv6 addressing using DHCPv6.</p>
+                    </li>
+                    <li>
+                        <p>Perform export and import of a DHCP server.</p>
+                    </li>
+                    <li>
+                        <p>Perform DHCP server migration</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

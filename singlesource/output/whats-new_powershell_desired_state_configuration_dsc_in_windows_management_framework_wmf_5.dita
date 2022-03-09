@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="powershell-desired-state-configuration-dsc-in-windows-management-framework-wmf-5">
+            <title>PowerShell Desired State Configuration DSC in Windows Management Framework WMF
+                5</title>
+            <shortdesc>Windows Management Framework 5 includes updates to Windows PowerShell Desired
+                State Configuration DSC, Windows Remote Management WinRM, and Windows Management
+                Instrumentation WMI.</shortdesc>
+            <body>
+                <p>For more info about testing the DSC features of Windows Management Framework 5,
+                    see the series of blog posts discussed in Validate features of PowerShell
+                    DSChttps://devblogs.microsoft.com/powershell/validate-features-of-powershell-dsc/.
+                    To download, see Windows Management Framework
+                    5.1/powershell/scripting/wmf/setup/install-configure.</p>
+            </body>
+        </topic>

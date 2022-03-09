@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Animated interactive SVG</title>
+    <topicref href="animated-interactive-svg_animated_interactive_svg.dita">
+        <topicref href="animated-interactive-svg_on-click_event.dita"/>
+        <topicref href="animated-interactive-svg_diagram.dita"/>
+    </topicref>
+</map>

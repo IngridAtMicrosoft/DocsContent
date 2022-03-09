@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="windows-admin-center">
+            <title>Windows Admin Center</title>
+            <shortdesc>Improvements to Windows Admin Center to manage Windows Server 2022 include
+                capabilities to both report on the current state of the Secured-core features
+                mentioned above, and where applicable, allow customers to enable the features. More
+                information on these and many more improvements to Windows Admin Center can be found
+                at the Windows Admin Center
+                documentation../manage/windows-admin-center/understand/what-is.md.</shortdesc>
+            <body/>
+        </topic>

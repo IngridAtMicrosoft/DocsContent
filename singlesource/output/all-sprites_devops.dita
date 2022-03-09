@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="devops">
+        <title>DevOps</title>
+        <shortdesc>
+            <image href="./media/diagrams/DevOps-svg-sprites.svg">
+                <alt>DevOps</alt>
+            </image>
+        </shortdesc>
+        <body/>
+    </topic>

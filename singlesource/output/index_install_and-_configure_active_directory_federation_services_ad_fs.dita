@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="install-and--configure-active-directory-federation-services-ad-fs">
+            <title>Install and- Configure Active Directory Federation Services (AD FS)</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Upgrade and migrate previous AD FS workloads to Windows Server 2016.</p>
+                    </li>
+                    <li>
+                        <p>Implement claims-based authentication, including Relying Party
+                            Trusts.</p>
+                    </li>
+                    <li>
+                        <p>Configure authentication policies.</p>
+                    </li>
+                    <li>
+                        <p>Configure multi-factor authentication.</p>
+                    </li>
+                    <li>
+                        <p>Implement and configure device registration.</p>
+                    </li>
+                    <li>
+                        <p>Integrate AD FS with Microsoft Passport.</p>
+                    </li>
+                    <li>
+                        <p>Configure for use with Microsoft Azure and Office 365.</p>
+                    </li>
+                    <li>
+                        <p>Configure AD FS to enable authentication of users stored in LDAP
+                            directories.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

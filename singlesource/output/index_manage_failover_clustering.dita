@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="manage-failover-clustering">
+            <title>Manage failover clustering</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Configure role-specific settings, including continuously available
+                            shares.</p>
+                    </li>
+                    <li>
+                        <p>Configure VM monitoring.</p>
+                    </li>
+                    <li>
+                        <p>Configure failover and preference settings.</p>
+                    </li>
+                    <li>
+                        <p>Implement stretch and site-aware failover clusters.</p>
+                    </li>
+                    <li>
+                        <p>Enable and configure node fairness.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

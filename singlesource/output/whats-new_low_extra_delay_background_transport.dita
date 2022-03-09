@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="low-extra-delay-background-transport">
+            <title>Low Extra Delay Background Transport</title>
+            <shortdesc>Low Extra Delay Background Transport LEDBAT is a latency optimized, network
+                congestion control provider designed to automatically yield bandwidth to users and
+                applications, while consuming the entire bandwidth available when the network is not
+                in use. This technology is intended for use in deploying large, critical updates
+                across an IT environment without impacting customer facing services and associated
+                bandwidth.</shortdesc>
+            <body/>
+        </topic>

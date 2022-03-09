@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="implement-ipv4-and-ipv6-addressing">
+            <title>Implement IPv4 and IPv6 addressing</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Configure IPv4 addresses and options.</p>
+                    </li>
+                    <li>
+                        <p>Determine and- Configure appropriate IPv6 addresses.</p>
+                    </li>
+                    <li>
+                        <p>Configure IPv4 or IPv6 subnetting.</p>
+                    </li>
+                    <li>
+                        <p>Implement IPv6 stateless addressing.</p>
+                    </li>
+                    <li>
+                        <p>Configure interoperability between IPv4 and IPv6 by using ISATAP, 6to4,
+                            and Teredo scenarios.</p>
+                    </li>
+                    <li>
+                        <p>Configure Border Gateway Protocol (BGP).</p>
+                    </li>
+                    <li>
+                        <p>Configure IPv4 and IPv6 routing</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

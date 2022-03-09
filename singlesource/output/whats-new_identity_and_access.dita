@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="identity-and-access">
+        <title>Identity and Access</title>
+        <shortdesc>New features in Identity../identity/Identity-and-Access.yml improve the ability
+            for organizations to secure Active Directory environments and help them migrate to
+            cloud-only deployments and hybrid deployments, where some applications and services are
+            hosted in the cloud and others are hosted on premises.</shortdesc>
+        <body/>
+        
+        
+        
+        
+    </topic>

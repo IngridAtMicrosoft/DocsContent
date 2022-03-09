@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="implement-server-storage">
+            <title>Implement server storage</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Configure storage pools.</p>
+                    </li>
+                    <li>
+                        <p>Implement simple, mirror, and parity storage layout options for disks or
+                            enclosures.</p>
+                    </li>
+                    <li>
+                        <p>Expand storage pools.</p>
+                    </li>
+                    <li>
+                        <p>Configure Tiered Storage.</p>
+                    </li>
+                    <li>
+                        <p>Configure iSCSI target and initiator.</p>
+                    </li>
+                    <li>
+                        <p>Configure iSNS.</p>
+                    </li>
+                    <li>
+                        <p>Configure Datacenter Bridging (DCB).</p>
+                    </li>
+                    <li>
+                        <p>Configure Multi-Path IO (MPIO).</p>
+                    </li>
+                    <li>
+                        <p>Determine usage scenarios for Storage Replica.</p>
+                    </li>
+                    <li>
+                        <p>Implement Storage Replica for server-to-server, cluster-to-cluster, and
+                            stretch cluster scenarios.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

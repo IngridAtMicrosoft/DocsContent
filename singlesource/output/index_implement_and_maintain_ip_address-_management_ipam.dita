@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="implement-and-maintain-ip-address--management-ipam">
+            <title>Implement and Maintain IP Address- Management (IPAM)</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Provision IPAM manually or by using Group Policy.</p>
+                    </li>
+                    <li>
+                        <p>Configure server discovery.</p>
+                    </li>
+                    <li>
+                        <p>Create and manage IP blocks and ranges.</p>
+                    </li>
+                    <li>
+                        <p>Monitor utilization of IP address space.</p>
+                    </li>
+                    <li>
+                        <p>Migrate existing workloads to IPAM.</p>
+                    </li>
+                    <li>
+                        <p>Configure IPAM database storage using SQL Server.</p>
+                    </li>
+                    <li>
+                        <p>Determine scenarios for using IPAM with System Center Virtual Machine
+                            Manager for physical and virtual IP address space management.</p>
+                    </li>
+                    <li>
+                        <p>Manage DHCP server properties using IPAM.</p>
+                    </li>
+                    <li>
+                        <p>Configure DHCP scopes and options.</p>
+                    </li>
+                    <li>
+                        <p>Configure DHCP policies and failover.</p>
+                    </li>
+                    <li>
+                        <p>Manage DNS server properties using IPAM.</p>
+                    </li>
+                    <li>
+                        <p>Manage DNS zones and records.</p>
+                    </li>
+                    <li>
+                        <p>Manage DNS and DHCP servers in multiple Active Directory forests.</p>
+                    </li>
+                    <li>
+                        <p>Delegate administration for DNS and DHCP using role-based access control
+                            (RBAC).</p>
+                    </li>
+                    <li>
+                        <p>Audit the changes- Performed on the DNS and DHCP servers.</p>
+                    </li>
+                    <li>
+                        <p>Audit the IPAM address usage trail.</p>
+                    </li>
+                    <li>
+                        <p>Audit DHCP lease events and user logon events.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

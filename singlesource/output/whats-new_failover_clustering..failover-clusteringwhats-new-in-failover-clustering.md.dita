@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="failover-clusteringfailover-clusteringwhats-new-in-failover-clusteringmd">
+        <title>Failover Clustering../failover-clustering/whats-new-in-failover-clustering.md</title>
+        <shortdesc>Windows Server 2016 includes a number of new features and enhancements for
+            multiple servers that are grouped together into a single fault-tolerant cluster using
+            the Failover Clustering feature. Some of the additions are listed below; for a more
+            complete listing, see What's New in Failover Clustering in Windows Server
+            2016../failover-clustering/whats-new-in-failover-clustering.md.</shortdesc>
+        <body/>
+        
+        
+        
+    </topic>

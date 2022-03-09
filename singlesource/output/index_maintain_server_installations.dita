@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="maintain-server-installations">
+        <title>Maintain server installations</title>
+        <body>
+            <ul>
+                <li>
+                    <p>Implement Windows Server Update Services (WSUS) solutions.</p>
+                </li>
+                <li>
+                    <p>Configure WSUS groups.</p>
+                </li>
+                <li>
+                    <p>Manage patch- Management in mixed environments.</p>
+                </li>
+                <li>
+                    <p>Implement an antimalware solution with Windows Defender.</p>
+                </li>
+                <li>
+                    <p>Integrate Windows Defender with WSUS and Windows Update.</p>
+                </li>
+                <li>
+                    <p>Perform backup and- Restore operations using Windows Server Backup.</p>
+                </li>
+                <li>
+                    <p>Determine backup strategies for different Windows Server roles and workloads,
+                        including Hyper-V Host, Hyper-V Guests, Active Directory, File Servers, and
+                        Web Servers using Windows Server native tools and solutions</p>
+                </li>
+            </ul>
+        </body>
+        
+    </topic>

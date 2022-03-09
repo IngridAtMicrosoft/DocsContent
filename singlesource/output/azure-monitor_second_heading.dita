@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="second-heading">
+        <title>Second heading</title>
+        <shortdesc>Stuff for under the second heading.</shortdesc>
+        <body/>
+    </topic>

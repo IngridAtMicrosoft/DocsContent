@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="install-and-configure-ad-cs">
+            <title>Install and configure AD CS</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Install Active Directory Integrated Enterprise Certificate Authority
+                            (CA).</p>
+                    </li>
+                    <li>
+                        <p>Install offline root and subordinate CAs.</p>
+                    </li>
+                    <li>
+                        <p>Install standalone CAs.</p>
+                    </li>
+                    <li>
+                        <p>Configure Certificate Revocation List (CRL) distribution points.</p>
+                    </li>
+                    <li>
+                        <p>Install and- Configure Online Responder.</p>
+                    </li>
+                    <li>
+                        <p>Implement administrative role separation.</p>
+                    </li>
+                    <li>
+                        <p>Configure CA backup and recovery</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

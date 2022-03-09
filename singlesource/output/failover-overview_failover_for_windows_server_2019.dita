@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="failover-for-windows-server-2019">
+        <title>Failover for Windows Server 2019</title>
+        <shortdesc>This is content that shows up only for Windows Server 2019 and
+            earlier</shortdesc>
+        <body>
+            <p>::: moniker-end</p>
+        </body>
+    </topic>

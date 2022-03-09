@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="implement-high-performance-network-solutions">
+            <title>Implement high performance network solutions</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Implement NIC Teaming or the Switch Embedded Teaming (SET) solution and
+                            identify when to use each.</p>
+                    </li>
+                    <li>
+                        <p>Enable and configure Receive Side Scaling (RSS).</p>
+                    </li>
+                    <li>
+                        <p>Enable and configure network Quality of Service (QoS) with Data Center
+                            Bridging (DCB).</p>
+                    </li>
+                    <li>
+                        <p>Enable and configure SMB Direct on Remote Direct Memory Access (RDMA)-
+                            Enabled network adapters.</p>
+                    </li>
+                    <li>
+                        <p>Configure SMB Multichannel.</p>
+                    </li>
+                    <li>
+                        <p>Enable and configure virtual Receive Side Scaling (vRSS) on a Virtual
+                            Machine Queue (VMQ) capable network adapter.</p>
+                    </li>
+                    <li>
+                        <p>Enable and configure Virtual Machine Multi-Queue (VMMQ).</p>
+                    </li>
+                    <li>
+                        <p>Enable and configure Single-Root I/O Virtualization (SRIOV) on a
+                            supported network adapter.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

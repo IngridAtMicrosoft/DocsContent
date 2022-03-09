@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="health-service">
+            <title>Health Service</title>
+            <shortdesc>The Health Service improves the day-to-day monitoring, operations, and
+                maintenance experience of cluster resources on a Storage Spaces Direct
+                cluster.</shortdesc>
+            <body>
+                <p>For more info, see Health
+                    Service../failover-clustering/health-service-overview.md.</p>
+            </body>
+        </topic>

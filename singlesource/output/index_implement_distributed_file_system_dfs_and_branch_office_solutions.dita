@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="implement-distributed-file-system-dfs-and-branch-office-solutions">
+            <title>Implement Distributed File System (DFS) and Branch Office solutions</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Install and- Configure DFS namespaces.</p>
+                    </li>
+                    <li>
+                        <p>Configure DFS replication targets.</p>
+                    </li>
+                    <li>
+                        <p>Configure replication scheduling.</p>
+                    </li>
+                    <li>
+                        <p>Configure Remote Differential Compression (RDC) settings.</p>
+                    </li>
+                    <li>
+                        <p>Configure staging.</p>
+                    </li>
+                    <li>
+                        <p>Configure fault tolerance.</p>
+                    </li>
+                    <li>
+                        <p>Clone a Distributed File System Replication (DFSR) database.</p>
+                    </li>
+                    <li>
+                        <p>Recover DFSR databases.</p>
+                    </li>
+                    <li>
+                        <p>Optimize DFS Replication.</p>
+                    </li>
+                    <li>
+                        <p>Install and configure BranchCache.</p>
+                    </li>
+                    <li>
+                        <p>Implement distributed and hosted cache modes.</p>
+                    </li>
+                    <li>
+                        <p>Implement BranchCache for web, file, and application servers.</p>
+                    </li>
+                    <li>
+                        <p>Troubleshoot BranchCache.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

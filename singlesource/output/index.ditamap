@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Windows Server How-To list</title>
+    <topicref href="index_windows_server_how-to_list.dita">
+        <topicref href="index_install_windows_servers_in_host_and_compute_environments.dita">
+            <topicref href="index_install,_upgrade,_and_migrate_servers_and_workloads.dita"/>
+            <topicref href="index_create,_manage,_and_maintain_images_for_deployment.dita"/>
+        </topicref>
+        <topicref href="index_implement_storage_solutions.dita">
+            <topicref href="index_configure_disks_and_volumes.dita"/>
+            <topicref href="index_implement_server_storage.dita"/>
+            <topicref href="index_implement_data_deduplication.dita"/>
+        </topicref>
+        <topicref href="index_implement_hyper-v.dita">
+            <topicref href="index_install_and_configure_hyper-v.dita"/>
+            <topicref href="index_configure_virtual_machine_vm_settings.dita"/>
+            <topicref href="index_configure_hyper-v_storage.dita"/>
+            <topicref href="index_configure_hyper-v_networking.dita"/>
+        </topicref>
+        <topicref href="index_implement_windows_containers.dita">
+            <topicref href="index_deploy_windows_containers.dita"/>
+            <topicref href="index_manage_windows_containers.dita"/>
+        </topicref>
+        <topicref href="index_implement_high_availability.dita">
+            <topicref href="index_implement_high_availability_and_disaster_recovery_options_in_hyper-v.dita"/>
+            <topicref href="index_implement_failover_clustering.dita"/>
+            <topicref href="index_implement_storage_spaces_direct.dita"/>
+            <topicref href="index_manage_failover_clustering.dita"/>
+            <topicref href="index_manage_vm_movement_in_clustered_nodes.dita"/>
+            <topicref href="index_implement_network_load_balancing_nlb.dita"/>
+        </topicref>
+        <topicref href="index_maintain_and_monitor_server_environments.dita"/>
+        <topicref href="index_maintain_server_installations.dita">
+            <topicref href="index_monitor_server_installations.dita"/>
+        </topicref>
+        <topicref href="index_implement_domain_name_system_dns.dita">
+            <topicref href="index_install_and_configure_dns_servers.dita"/>
+            <topicref href="index_create_and_configure_dns_zones_and_records.dita"/>
+        </topicref>
+        <topicref href="index_implement_dhcp_and_ipam.dita">
+            <topicref href="index_install_and_configure_dhcp.dita"/>
+            <topicref href="index_manage_and_maintain_dhcp.dita"/>
+            <topicref href="index_implement_and_maintain_ip_address-_management_ipam.dita"/>
+        </topicref>
+        <topicref href="index_implement_network_connectivity_and_remote_access_solutions.dita">
+            <topicref href="index_implement_network_connectivity_solutions.dita"/>
+            <topicref href="index_implement_virtual_private_network_vpn_and_directaccess_solutions.dita"/>
+            <topicref href="index_implement_network_policy_server_nps.dita"/>
+        </topicref>
+        <topicref href="index_implement_core_and_distributed_network_solutions.dita">
+            <topicref href="index_implement_ipv4_and_ipv6_addressing.dita"/>
+            <topicref href="index_implement_distributed_file_system_dfs_and_branch_office_solutions.dita"/>
+        </topicref>
+        <topicref href="index_implement_an_advanced_network_infrastructure.dita">
+            <topicref href="index_implement_high_performance_network_solutions.dita"/>
+            <topicref href="index_determine_scenarios_and_requirements_for_implementing_software_defined_networking_sdn.dita"/>
+        </topicref>
+        <topicref href="index_install_and_configure_active_directory_domain_services_ad_ds.dita">
+            <topicref href="index_install_and_configure_domain_controllers.dita"/>
+            <topicref href="index_create_and_manage_active_directory_users_and_computers.dita"/>
+            <topicref href="index_create_and_manage_active_directory_groups_and_organizational_units_ous.dita"/>
+        </topicref>
+        <topicref href="index_manage_and_maintain_ad_ds.dita">
+            <topicref href="index_configure_service_authentication_and_account_policies.dita"/>
+            <topicref href="index_maintain_active_directory.dita"/>
+            <topicref href="index_configure_active_directory_in_a_complex_enterprise_environment.dita"/>
+        </topicref>
+        <topicref href="index_create_and-_manage_group_policy.dita">
+            <topicref href="index_create_and_manage_group_policy_objects_gpos.dita"/>
+            <topicref href="index_configure_group_policy_processing.dita"/>
+            <topicref href="index_configure_group_policy_settings.dita"/>
+            <topicref href="index_configure_group_policy_preferences.dita"/>
+        </topicref>
+        <topicref href="index_implement_active_directory_certificate_services_ad_cs.dita">
+            <topicref href="index_install_and_configure_ad_cs.dita"/>
+            <topicref href="index_manage_certificates.dita"/>
+        </topicref>
+        <topicref href="index_implement_identity_federation_and_access_solutions.dita">
+            <topicref href="index_install_and-_configure_active_directory_federation_services_ad_fs.dita"/>
+            <topicref href="index_implement_web_application_proxy_wap.dita"/>
+            <topicref href="index_install_and-_configure_active_directory_rights-_management_services_ad_rms.dita"/>
+        </topicref>
+    </topicref>
+</map>

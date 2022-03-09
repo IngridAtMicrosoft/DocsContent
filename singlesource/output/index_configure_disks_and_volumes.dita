@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="configure-disks-and-volumes">
+            <title>Configure disks and volumes</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Configure sector sizes appropriate for various workloads.</p>
+                    </li>
+                    <li>
+                        <p>Configure GUID partition table (GPT) disks.</p>
+                    </li>
+                    <li>
+                        <p>Create VHD and VHDX files using Disk- Management or Windows
+                            PowerShell.</p>
+                    </li>
+                    <li>
+                        <p>Mount virtual hard disks.</p>
+                    </li>
+                    <li>
+                        <p>Determine when to use NTFS and ReFS file systems.</p>
+                    </li>
+                    <li>
+                        <p>Configure NFS and SMB shares using Server- Manager.</p>
+                    </li>
+                    <li>
+                        <p>Configure SMB share and session settings using Windows PowerShell.</p>
+                    </li>
+                    <li>
+                        <p>Configure SMB server and SMB client configuration settings using Windows
+                            PowerShell.</p>
+                    </li>
+                    <li>
+                        <p>Configure file and folder permissions.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

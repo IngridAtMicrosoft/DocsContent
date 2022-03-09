@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="h242008-for-the-fourth-part">
+            <title>H2.4.2008 for the fourth part</title>
+            <body>
+                <ol>
+                    <li>
+                        <p>Clean up the <codeph>CodeObject</codeph> array.</p>
+                    </li>
+                    <li>
+                        <p>Delete the <i>filename.exe</i> file.</p>
+                    </li>
+                    <li>
+                        <p>Use this code block. If the code block can be included directly from a
+                            related sample or API use that method instead.</p>
+                        <codeblock xml:space="preserve" outputclass="python">var codeblock</codeblock>
+                    </li>
+                    <li>
+                        <p>Save the file</p>
+                    </li>
+                </ol>
+            </body>
+        </topic>

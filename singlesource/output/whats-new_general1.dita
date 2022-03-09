@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="general-1">
+            <title>General</title>
+            <shortdesc>Physical and virtual machines benefit from greater time accuracy due to
+                improvements in the Win32 Time and Hyper-V Time Synchronization Services. Windows
+                Server can now host services that are compliant with upcoming regulations that
+                require a 1ms accuracy with regard to UTC.</shortdesc>
+            <body/>
+        </topic>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="encrypted-networks">
+            <title>Encrypted Networks</title>
+            <shortdesc>Encrypted Networks../networking/sdn/sdn-whats-new.md - Virtual network
+                encryption allows encryption of virtual network traffic between virtual machines
+                that communicate with each other within subnets marked as <b>Encryption Enabled</b>.
+                It also utilizes Datagram Transport Layer Security DTLS on the virtual subnet to
+                encrypt packets. DTLS protects against eavesdropping, tampering, and forgery by
+                anyone with access to the physical network.</shortdesc>
+            <body/>
+        </topic>

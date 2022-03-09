@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="desktop-experience">
+            <title>Desktop experience</title>
+            <shortdesc>Because Windows Server 2019 is a Long-Term Servicing Channel LTSC release, it
+                includes the <b>Desktop Experience</b>. Semi-Annual Channel \SAC\ releases don't
+                include the Desktop Experience by design; they are strictly Server Core and Nano
+                Server container image releases. As with Windows Server 2016, during setup of the
+                operating system you can choose between Server Core installations or Server with
+                Desktop Experience installations.</shortdesc>
+            <body/>
+        </topic>

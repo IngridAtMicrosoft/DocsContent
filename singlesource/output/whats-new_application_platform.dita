@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="application-platform">
+        <title>Application platform</title>
+        <shortdesc>There are several platform improvements for Windows Containers, including
+            application compatibility and the Windows Container experience with Kubernetes. A major
+            improvement includes reducing the Windows Container image size by up to 40%, which leads
+            to a 30% faster startup time and better performance.</shortdesc>
+        <body>
+            <p>You can now also run applications that depend on Azure Active Directory with group
+                Managed Services Accounts gMSA without domain joining the container
+                host/virtualization/windowscontainers/manage-containers/manage-serviceaccounts, and
+                Windows Containers now support Microsoft Distributed Transaction Control MSDTC and
+                Microsoft Message Queuing MSMQ.</p>
+            <p>There are several other enhancements that simplify the Windows Container experience
+                with Kubernetes. These enhancements include support for host-process containers for
+                node configuration, IPv6, and consistent network policy implementation with
+                Calico.</p>
+            <p>In addition to platform improvements, Windows Admin Center has been updated to make
+                it easy to containerize .NET applications. Once the application is in a container,
+                you can host it on Azure Container Registry to then deploy it to other Azure
+                services, including Azure Kubernetes Service.</p>
+            <p>With support for Intel Ice Lake processors, Windows Server 2022 supports
+                business-critical and large-scale applications, such as SQL Server, that require up
+                to 48 TB of memory and 2,048 logical cores running on 64 physical sockets.
+                Confidential computing with Intel Secured Guard Extension SGX on Intel Ice Lake
+                improves application security by isolating applications from each other with
+                protected memory.</p>
+        </body>
+    </topic>

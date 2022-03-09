@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="system-insights">
+            <title>System Insights</title>
+            <shortdesc>System Insights is a new feature available in Windows Server 2019 that brings
+                local predictive analytics capabilities natively to Windows Server. These predictive
+                capabilities, each backed by a machine-learning model, locally analyze Windows
+                Server system data, such as performance counters and events, providing insight into
+                the functioning of your servers and helping you reduce the operational expenses
+                associated with reactively managing issues in your Windows Server
+                deployments.</shortdesc>
+            <body/>
+        </topic>

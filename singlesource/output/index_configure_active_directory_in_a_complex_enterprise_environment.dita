@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="configure-active-directory-in-a-complex-enterprise-environment">
+            <title>Configure Active Directory in a complex enterprise environment</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Configure a multi-domain and multi-forest Active Directory
+                            infrastructure.</p>
+                    </li>
+                    <li>
+                        <p>Deploy Windows Server domain controllers within a preexisting Active
+                            Directory environment.</p>
+                    </li>
+                    <li>
+                        <p>Upgrade existing domains and forests.</p>
+                    </li>
+                    <li>
+                        <p>Configure domain and forest functional levels.</p>
+                    </li>
+                    <li>
+                        <p>Configure multiple user principal name (UPN) suffixes.</p>
+                    </li>
+                    <li>
+                        <p>Configure external, forest, shortcut, and realm trusts.</p>
+                    </li>
+                    <li>
+                        <p>Configure trust authentication.</p>
+                    </li>
+                    <li>
+                        <p>Configure SID filtering.</p>
+                    </li>
+                    <li>
+                        <p>Configure name suffix routing.</p>
+                    </li>
+                    <li>
+                        <p>Configure sites and subnets.</p>
+                    </li>
+                    <li>
+                        <p>Create and configure site links.</p>
+                    </li>
+                    <li>
+                        <p>Manage site coverage.</p>
+                    </li>
+                    <li>
+                        <p>Manage registration of SRV records.</p>
+                    </li>
+                    <li>
+                        <p>Move domain controllers between sites.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

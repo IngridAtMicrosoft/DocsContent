@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="storage-spaces-direct-1">
+            <title>Storage Spaces Direct</title>
+            <shortdesc>Storage Spaces Direct enables building highly available and scalable storage
+                using servers with local storage. It simplifies the deployment and management of
+                software-defined storage systems and unlocks use of new classes of disk devices,
+                such as SATA SSD and NVMe disk devices, that were previously not possible with
+                clustered Storage Spaces with shared disks.</shortdesc>
+            <body>
+                <p>For more info, see Storage Spaces
+                    Direct../storage/storage-spaces/storage-spaces-direct-overview.md.</p>
+            </body>
+        </topic>

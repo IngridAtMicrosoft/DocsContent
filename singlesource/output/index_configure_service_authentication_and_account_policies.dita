@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="configure-service-authentication-and-account-policies">
+            <title>Configure service authentication and account policies</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Create and configure Service Accounts.</p>
+                    </li>
+                    <li>
+                        <p>Create and configure Group- Managed Service Accounts (gMSAs).</p>
+                    </li>
+                    <li>
+                        <p>Configure Kerberos Constrained Delegation (KCD).</p>
+                    </li>
+                    <li>
+                        <p>Manage Service Principal Names (SPNs).</p>
+                    </li>
+                    <li>
+                        <p>Configure virtual accounts.</p>
+                    </li>
+                    <li>
+                        <p>Configure domain and local user password policy settings.</p>
+                    </li>
+                    <li>
+                        <p>Configure and apply Password Settings Objects (PSOs).</p>
+                    </li>
+                    <li>
+                        <p>Delegate password settings- Management.</p>
+                    </li>
+                    <li>
+                        <p>Configure account lockout policy settings.</p>
+                    </li>
+                    <li>
+                        <p>Configure Kerberos policy settings within Group Policy.</p>
+                    </li>
+                    <li>
+                        <p>Configure Authentication Policies and Authentication Policy Silos.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

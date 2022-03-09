@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="smb-east-west-smb-encryption-controls-for-internal-cluster-communications">
+                <title>SMB: East-West SMB encryption controls for internal cluster
+                    communications</title>
+                <shortdesc>Windows Server failover clusters now support granular control of
+                    encrypting and signing intra-node storage communications for Cluster Shared
+                    Volumes CSV and the storage bus layer SBL. This means that when using Storage
+                    Spaces Direct, you can decide to encrypt or sign east-west communications within
+                    the cluster itself for higher security.</shortdesc>
+                <body/>
+            </topic>

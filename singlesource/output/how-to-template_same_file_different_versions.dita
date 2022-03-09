@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="same-file-different-versions">
+        <title>Same file different versions</title>
+        <shortdesc>This How-To template uses monikers. That way, telling someone how to do something
+            can be in one place for all versions. If the same method applies to several versions,
+            you designate the section with an operator preding the version such as &gt;, &lt;,
+            &gt;=, &lt;=. In other words, it isn't necessary to write the same thing over again and
+            put it within a different moniker set. Just add the operator to the range
+            value.</shortdesc>
+        <body>
+            <p>:::moniker range="windows-server-2008"</p>
+        </body>
+    </topic>

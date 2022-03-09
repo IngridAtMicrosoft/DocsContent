@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="h252022-how-tos">
+        <title>H2.5.2022 How-Tos</title>
+        <shortdesc>Links to how-tos that are associated with the thing.</shortdesc>
+        <body>
+            <ul>
+                <li>
+                    <p>
+                        <xref href="../how-to/how-to-template-with-tabs.md" format="markdown">How to
+                            decide what to do with the thing</xref>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <xref href="../how-to/how-to-template-with-tabs.md" format="markdown">How to
+                            install/uninstall the thing</xref>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <xref href="../how-to/how-to-template-with-tabs.md" format="markdown">How to
+                            configure the thing</xref>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <xref href="../how-to/how-to-template-with-tabs.md" format="markdown">How to
+                            manage or configure other things with the thing</xref>
+                    </p>
+                </li>
+            </ul>
+            <p>:::moniker-end</p>
+        </body>
+    </topic>

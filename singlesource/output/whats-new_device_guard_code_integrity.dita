@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="device-guard-code-integrity">
+            <title>Device Guard Code Integrity</title>
+            <shortdesc>Device Guard provides kernel mode code integrity KMCI and user mode code
+                integrity UMCI by creating policies that specify what code can run on the server.
+                See Introduction to Windows Defender Device Guard: virtualization-based security and
+                code integrity
+                policies/windows/device-security/device-guard/introduction-to-device-guard-virtualization-based-security-and-code-integrity-policies.</shortdesc>
+            <body/>
+        </topic>

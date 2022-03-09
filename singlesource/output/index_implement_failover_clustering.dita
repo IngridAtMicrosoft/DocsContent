@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="implement-failover-clustering">
+            <title>Implement failover clustering</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Implement Workgroup, Single, and Multi Domain clusters.</p>
+                    </li>
+                    <li>
+                        <p>Configure quorum.</p>
+                    </li>
+                    <li>
+                        <p>Configure cluster networking.</p>
+                    </li>
+                    <li>
+                        <p>Restore single node or cluster configuration.</p>
+                    </li>
+                    <li>
+                        <p>Configure cluster storage.</p>
+                    </li>
+                    <li>
+                        <p>Implement Cluster-Aware Updating.</p>
+                    </li>
+                    <li>
+                        <p>Implement Cluster Operating System Rolling Upgrade.</p>
+                    </li>
+                    <li>
+                        <p>Configure and optimize cluster shared volumes (CSVs).</p>
+                    </li>
+                    <li>
+                        <p>Configure clusters without network names.</p>
+                    </li>
+                    <li>
+                        <p>Implement Scale-Out File Server (SoFS).</p>
+                    </li>
+                    <li>
+                        <p>Determine different scenarios for the use of SoFS vs. File Server for
+                            general use.</p>
+                    </li>
+                    <li>
+                        <p>Determine usage scenarios for implementing guest clustering.</p>
+                    </li>
+                    <li>
+                        <p>Implement a Clustered Storage Spaces solution using Shared SAS storage
+                            enclosures.</p>
+                    </li>
+                    <li>
+                        <p>Implement Storage Replica.</p>
+                    </li>
+                    <li>
+                        <p>Implement Cloud Witness.</p>
+                    </li>
+                    <li>
+                        <p>Implement VM resiliency.</p>
+                    </li>
+                    <li>
+                        <p>Implement shared VHDX as a storage solution for guest clusters</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

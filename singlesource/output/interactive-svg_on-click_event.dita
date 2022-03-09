@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="on-click-event">
+        <title>On-click event</title>
+        <shortdesc>The svg uses an on-click event to show or hide portions of the diagram. It also
+            has tooltips when you hover over it, and links out to other pages.</shortdesc>
+        <body/>
+    </topic>

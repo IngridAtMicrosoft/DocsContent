@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="active-directory-federation-services">
+            <title>Active Directory Federation Services</title>
+            <shortdesc>What's New in Active Directory Federation Services. Active Directory
+                Federation Services AD FS in Windows Server 2016 includes new features that enable
+                you to configure AD FS to authenticate users stored in Lightweight Directory Access
+                Protocol LDAP directories. For more information, see What's New in AD FS for Windows
+                Server
+                2016../identity/ad-fs/overview/whats-new-active-directory-federation-services-windows-server.md.</shortdesc>
+            <body/>
+        </topic>

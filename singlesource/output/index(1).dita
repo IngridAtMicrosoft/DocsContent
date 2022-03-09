@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reference-section">
+    <title>Reference section</title>
+    <shortdesc>This is the Reference section. All reference articles go in this folder.</shortdesc>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+        <data name="description" value="This is a repository for a single source prototype."/>
+        <data name="title" value="Reference section overview"/>
+    </prolog>
+    <body/>
+</topic>

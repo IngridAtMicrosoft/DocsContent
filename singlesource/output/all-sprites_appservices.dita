@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="appservices">
+        <title>AppServices</title>
+        <shortdesc>
+            <image href="./media/diagrams/AppServices-svg-sprites.svg">
+                <alt>AppServices</alt>
+            </image>
+        </shortdesc>
+        <body/>
+    </topic>

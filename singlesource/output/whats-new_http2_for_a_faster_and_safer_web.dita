@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="http2-for-a-faster-and-safer-web">
+            <title>HTTP/2 for a faster and safer Web</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Improved coalescing of connections to deliver an uninterrupted and
+                            properly encrypted browsing experience.</p>
+                    </li>
+                    <li>
+                        <p>Upgraded HTTP/2's server-side cipher suite negotiation for automatic
+                            mitigation of connection failures and ease of deployment.</p>
+                    </li>
+                    <li>
+                        <p>Changed our default TCP congestion provider to Cubic to give you more
+                            throughput!</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

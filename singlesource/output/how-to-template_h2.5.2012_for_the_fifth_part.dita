@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="h252012-for-the-fifth-part">
+        <title>H2.5.2012 for the fifth part</title>
+        <shortdesc>If you are writing more than 5 parts then consider breaking the instruction into
+            a couple of pages. Think encapsulation. :::moniker-end</shortdesc>
+        <body>
+            <p>:::moniker range="windows-server-2016"</p>
+        </body>
+    </topic>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="simplified-security">
+                <title>Simplified security</title>
+                <shortdesc>When you buy hardware from an OEM for Secured-core server, you have
+                    assurance that the OEM has provided a set of hardware, firmware, and drivers
+                    that satisfy the Secured-core promise. Windows Server systems will have easy
+                    configuration experiences in the Windows Admin Center to enable the security
+                    features of Secured-core.</shortdesc>
+                <body/>
+            </topic>

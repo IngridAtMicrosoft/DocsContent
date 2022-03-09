@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="determine-scenarios-and-requirements-for-implementing-software-defined-networking-sdn">
+            <title>Determine scenarios and requirements for implementing Software Defined Networking
+                (SDN)</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Determine deployment scenarios and network requirements for deploying
+                            SDN.</p>
+                    </li>
+                    <li>
+                        <p>Determine requirements and scenarios for implementing Hyper-V Network
+                            Virtualization (HNV) using Network Virtualization Generic Route
+                            Encapsulation (NVGRE) encapsulation or Virtual Extensible LAN (VXLAN)
+                            encapsulation.</p>
+                    </li>
+                    <li>
+                        <p>Determine scenarios for implementation of Software Load Balancer (SLB)
+                            for North-South and East-West load balancing.</p>
+                    </li>
+                    <li>
+                        <p>Determine implementation scenarios for various types of Windows Server
+                            Gateways, including L3, GRE, and S2S, and their use.</p>
+                    </li>
+                    <li>
+                        <p>Determine requirements and scenarios for Datacenter firewall policies and
+                            network security groups</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

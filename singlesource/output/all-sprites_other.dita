@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="other">
+        <title>Other</title>
+        <shortdesc>
+            <image href="./media/diagrams/Other-svg-sprites.svg">
+                <alt>Other</alt>
+            </image>
+        </shortdesc>
+        <body/>
+    </topic>

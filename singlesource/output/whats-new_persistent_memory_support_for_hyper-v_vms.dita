@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="persistent-memory-support-for-hyper-v-vms">
+            <title>Persistent Memory support for Hyper-V VMs</title>
+            <shortdesc>To leverage the high throughput and low latency of persistent memory also
+                known as storage class memory in virtual machines, it can now be projected directly
+                into VMs. This can help to drastically reduce database transaction latency or reduce
+                recovery times for low latency in-memory databases on failure.
+                :::moniker-end</shortdesc>
+            <body>
+                <p>:::moniker range="windows-server-2016"</p>
+            </body>
+        </topic>

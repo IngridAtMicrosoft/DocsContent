@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="implement-web-application-proxy-wap">
+            <title>Implement Web Application Proxy (WAP)</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Install and configure WAP.</p>
+                    </li>
+                    <li>
+                        <p>Implement WAP in pass-through mode.</p>
+                    </li>
+                    <li>
+                        <p>Implement WAP as AD FS proxy. integrate WAP with AD FS.</p>
+                    </li>
+                    <li>
+                        <p>Configure AD FS requirements.</p>
+                    </li>
+                    <li>
+                        <p>Publish web apps via WAP.</p>
+                    </li>
+                    <li>
+                        <p>Publish Remote Desktop Gateway applications.</p>
+                    </li>
+                    <li>
+                        <p>Configure HTTP to HTTPS redirects.</p>
+                    </li>
+                    <li>
+                        <p>Configure internal and external Fully Qualified Domain Names (FQDNs).</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="single-source-introduction">
+    <title>Single source introduction</title>
+    <shortdesc>This repo is dedicated to using single source documentation principles with GitHub.
+        The pages here are for modeling and experimenting with content reuse.</shortdesc>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+        <data name="description" value="This is a repository for a single source prototype."/>
+        <data name="title" value="Welcome to Single Source "/>
+    </prolog>
+    <body>
+        <p>Our organization doesn't use a component content management system. GitHub is used not
+            just for publishing but for content development. The general idea is "Docs as Code".
+            That means that documentation is treated the same way code is treated. Howerver,
+            Markdown is not code. It is just markup for text which is then transformed into
+            HTML.</p>
+    </body>
+    
+    
+    
+</topic>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="adjustable-storage-repair-speed">
+                <title>Adjustable storage repair speed</title>
+                <shortdesc>User adjustable storage repair
+                    speed/azure-stack/hci/manage/storage-repair-speed is a new feature in Storage
+                    Spaces Direct that offers more control over the data resync process by
+                    allocating resources to either repair data copies resiliency or run active
+                    workloads performance. This helps improve availability and allows you to service
+                    your clusters more flexibly and efficiently.</shortdesc>
+                <body/>
+            </topic>

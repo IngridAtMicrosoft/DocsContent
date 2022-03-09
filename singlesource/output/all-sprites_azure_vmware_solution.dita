@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="azure-vmware-solution">
+        <title>Azure VMWare Solution</title>
+        <shortdesc>
+            <image href="./media/diagrams/AzureVMWareSolution-svg-sprites.svg">
+                <alt>Azure VMWare Solution</alt>
+            </image>
+        </shortdesc>
+        <body/>
+    </topic>

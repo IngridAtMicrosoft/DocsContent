@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="compute">
+        <title>Compute</title>
+        <shortdesc>
+            <image href="./media/diagrams/Compute-svg-sprites.svg">
+                <alt>Compute</alt>
+            </image>
+        </shortdesc>
+        <body/>
+    </topic>

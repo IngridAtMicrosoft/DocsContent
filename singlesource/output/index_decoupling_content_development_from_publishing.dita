@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="decoupling-content-development-from-publishing">
+        <title>Decoupling content development from publishing</title>
+        <shortdesc>Another possibility would be to separate content development from content
+            publishing. SharePoint has awareness. The biggest problem is round-tripping. More on
+            this later.</shortdesc>
+        <body/>
+    </topic>

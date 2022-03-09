@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="iot">
+        <title>IoT</title>
+        <shortdesc>
+            <image href="./media/diagrams/IoT-svg-sprites.svg">
+                <alt>IoT</alt>
+            </image>
+        </shortdesc>
+        <body/>
+    </topic>

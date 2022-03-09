@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="implement-network-connectivity-solutions">
+            <title>Implement network connectivity solutions</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Implement Network Address Translation (NAT).</p>
+                    </li>
+                    <li>
+                        <p>Configure routing</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

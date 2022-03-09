@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="windows-time-service">
+            <title>Windows Time Service</title>
+            <shortdesc>The Windows Time Service../networking/windows-time-service/insider-preview.md
+                includes true UTC-compliant leap second support, a new time protocol called
+                Precision Time Protocol, and end-to-end traceability.</shortdesc>
+            <body/>
+        </topic>

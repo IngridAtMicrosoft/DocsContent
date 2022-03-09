@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="create-and-manage-group-policy-objects-gpos">
+            <title>Create and manage Group Policy Objects (GPOs)</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Configure a central store.</p>
+                    </li>
+                    <li>
+                        <p>Manage starter GPOs.</p>
+                    </li>
+                    <li>
+                        <p>Configure GPO links.</p>
+                    </li>
+                    <li>
+                        <p>Configure multiple local Group Policies.</p>
+                    </li>
+                    <li>
+                        <p>Back up, import, copy, and- Restore GPOs.</p>
+                    </li>
+                    <li>
+                        <p>Create and configure a migration table.</p>
+                    </li>
+                    <li>
+                        <p>Reset default GPOs.</p>
+                    </li>
+                    <li>
+                        <p>Delegate Group Policy management.</p>
+                    </li>
+                    <li>
+                        <p>Detect health issues using the Group Policy Infrastructure Status
+                            page.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="configure-virtual-machine-vm-settings">
+            <title>Configure virtual machine (VM) settings</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Add or remove memory in a running VM.</p>
+                    </li>
+                    <li>
+                        <p>Configure dynamic memory.</p>
+                    </li>
+                    <li>
+                        <p>Configure Non-Uniform Memory Access (NUMA) support.</p>
+                    </li>
+                    <li>
+                        <p>Configure smart paging.</p>
+                    </li>
+                    <li>
+                        <p>Configure Resource Metering.</p>
+                    </li>
+                    <li>
+                        <p>Manage Integration Services.</p>
+                    </li>
+                    <li>
+                        <p>Create and configure Generation 1 and 2 VMs and- Determine appropriate
+                            usage scenarios.</p>
+                    </li>
+                    <li>
+                        <p>Implement enhanced session mode.</p>
+                    </li>
+                    <li>
+                        <p>Create Linux and FreeBSD VMs.</p>
+                    </li>
+                    <li>
+                        <p>Install and- Configure Linux Integration Services (LIS).</p>
+                    </li>
+                    <li>
+                        <p>Install and- Configure FreeBSD Integration Services (BIS).</p>
+                    </li>
+                    <li>
+                        <p>Implement Secure Boot for Windows and Linux environments.</p>
+                    </li>
+                    <li>
+                        <p>Move and convert VMs from previous versions of Hyper-V to Windows Server
+                            2016 Hyper-V.</p>
+                    </li>
+                    <li>
+                        <p>Export and import VMs.</p>
+                    </li>
+                    <li>
+                        <p>Implement Discrete Device Assignment (DDA), Troubleshoot VM configuration
+                            versions.</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="maintain-active-directory">
+            <title>Maintain Active Directory</title>
+            <body>
+                <ul>
+                    <li>
+                        <p>Back up Active Directory and SYSVOL.</p>
+                    </li>
+                    <li>
+                        <p>Manage Active Directory offline.</p>
+                    </li>
+                    <li>
+                        <p>Perform offline defragmentation of an Active Directory database.</p>
+                    </li>
+                    <li>
+                        <p>Clean up metadata.</p>
+                    </li>
+                    <li>
+                        <p>Configure Active Directory snapshots.</p>
+                    </li>
+                    <li>
+                        <p>Perform object- and container-level recovery.</p>
+                    </li>
+                    <li>
+                        <p>Perform Active Directory Restore.</p>
+                    </li>
+                    <li>
+                        <p>Configure and restore objects by using the Active Directory Recycle
+                            Bin.</p>
+                    </li>
+                    <li>
+                        <p>Configure replication to Read-Only Domain Controllers (RODCs).</p>
+                    </li>
+                    <li>
+                        <p>Configure Password Replication Policy (PRP) for RODC.</p>
+                    </li>
+                    <li>
+                        <p>Monitor and manage replication.</p>
+                    </li>
+                    <li>
+                        <p>Upgrade SYSVOL replication to Distributed File System Replication
+                            (DFSR)</p>
+                    </li>
+                </ul>
+            </body>
+        </topic>

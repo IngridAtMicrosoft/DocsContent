@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="internet-information-services-iis-100">
+            <title>Internet Information Services IIS 10.0</title>
+            <shortdesc>New features provided by the IIS 10.0 web server in Windows Server 2016
+                include:</shortdesc>
+            <body>
+                <ul>
+                    <li>
+                        <p>Support for the HTTP/2 protocol in the Networking stack and integrated
+                            with IIS 10.0, allowing IIS 10.0 websites to automatically serve HTTP/2
+                            requests for supported configurations. This allows numerous enhancements
+                            over HTTP/1.1 such as more efficient reuse of connections and decreased
+                            latency, improving load times for web pages.</p>
+                    </li>
+                    <li>
+                        <p>Ability to run and manage IIS 10.0 in Nano Server. See IIS on Nano
+                            Serveriis-on-nano-server.md.</p>
+                    </li>
+                    <li>
+                        <p>Support for Wildcard Host Headers, enabling administrators to set up a
+                            web server for a domain and then have the web server serve requests for
+                            any subdomain.</p>
+                    </li>
+                    <li>
+                        <p>A new PowerShell module IISAdministration for managing IIS.</p>
+                    </li>
+                </ul>
+                <p>For more details see IIShttps://iis.net/learn.</p>
+            </body>
+        </topic>

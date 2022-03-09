@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="azure-arc-enabled-windows-servers">
+            <title>Azure Arc enabled Windows Servers</title>
+            <shortdesc>Azure Arc enabled servers with Windows Server 2022 brings on-premises and
+                multi-cloud Windows Servers to Azure with Azure Arc. This management experience is
+                designed to be consistent with how you manage native Azure virtual machines. When a
+                hybrid machine is connected to Azure, it becomes a connected machine and is treated
+                as a resource in Azure. More information can be found at the Azure Arc enables
+                servers documentation/azure/azure-arc/servers/overview.</shortdesc>
+            <body/>
+        </topic>

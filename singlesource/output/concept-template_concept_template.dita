@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="concept-template">
+    <title>Concept template</title>
+    <shortdesc>:::moniker range="windows-server-2008" [!INCLUDE <xref href="../includes/hr-logo-2008.md" format="markdown">hr-logo-2008</xref>] :::moniker-end
+        :::moniker range="windows-server-2012" [!INCLUDE <xref href="../includes/hr-logo-2012.md" format="markdown">hr-logo-2012</xref>] :::moniker-end :::moniker
+        range="windows-server-2016" [!INCLUDE <xref href="../includes/hr-logo-2016.md" format="markdown">hr-logo-2016</xref>] :::moniker-end :::moniker
+        range="windows-server-2019" [!INCLUDE <xref href="../includes/hr-logo-2019.md" format="markdown">hr-logo-2019</xref>] :::moniker-end :::moniker
+        range="windows-server-2022" [!INCLUDE <xref href="../includes/hr-logo-2022.md" format="markdown">hr-logo-2019</xref>] :::moniker-end</shortdesc>
+    <prolog>
+        <author>IngridAtMicrosoft</author>
+        <data name="description" value="This article is a template for creating concepts.  It contains a list of SEO rules and guidance for writing."/>
+        <data name="title" value="Concept template"/>
+    </prolog>
+    <body/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</topic>
