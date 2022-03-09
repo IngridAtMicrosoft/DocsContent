@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
-  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="diagram">
-        <title>Diagram</title>
-        <body>
-            <iframe src="media/car-story-no-didactic-background.svg" width="1280" height="760" scrolling="no"/>
-        </body>
-    </topic>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
-  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="windows-server-content">
-        <title>Windows Server content</title>
-        <shortdesc>This repo uses Windows Server content as sample content because the content is
-            badly in need of an overhaul so experiments with it will be happening here.</shortdesc>
-        <body/>
-    </topic>
