@@ -1,19 +1,20 @@
 - name: Single Source
   href: index.md
-  - name: Reuse in Graphics
-    items:
-    - name: Azure Sprite Icons
-      href: all-sprites.md
-    - name: Azure Monitor PRETTY diagram
-      href: azure-monitor.md
+- name: Reuse in Graphics
+  items:
+  - name: Azure Sprite Icons
+    href: all-sprites.md
+  - name: Azure Monitor PRETTY diagram
+    href: azure-monitor.md
   - name: Interactive Graphics
     items:
     - name: Basic interactive SVG
       href: interactive-svg.md
-    - name: Animated interactive SVG
+    - name: Animated interactive SVGgit s
       href: animated-interactive-svg.md
     - name: Kit and Kaboodle
       href: car-story-svg.md
-  items:
-  - name: Instructional Design Training and certification
-    href: https://www.td.org/
+  - name: Instructional Design
+    items:
+    - name: Instructional Design Training and certification
+      href: https://www.td.org/
