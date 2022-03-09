@@ -37,7 +37,7 @@
       "path_to_root": "media-services-v3-python",
       "url": "https://github.com/Azure-Samples/media-services-v3-python",
       "branch": "main",
-      "branch_mapping": {}
+      "branch_mapping": { "master": "main" }
     }
   ],
   "branch_target_mapping": {},
