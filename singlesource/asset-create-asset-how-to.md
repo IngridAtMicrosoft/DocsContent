@@ -27,20 +27,16 @@ Creating assets in the portal is as simple as uploading a file.
 
 ## [CLI](#tab/cli/)
 
-[!INCLUDE [Create an asset with CLI](./includes/task-create-asset-cli.md)]
+[!INCLUDE [Create an asset with CLI](includes/task-create-asset-cli.md)]
 
 ## [REST](#tab/rest/)
 
 ### Using REST
 
-[!INCLUDE [create an asset writh REST](./includes/task-create-asset-rest.md)]
+[!INCLUDE [create an asset writh REST](includes/task-create-asset-rest.md)]
 
 ### Using cURL
 
-[!INCLUDE [create an asset with CURL](./includes/task-create-asset-curl.md)]
-
-## [.NET](#tab/net/)
-
-[!INCLUDE [Create an asset with .NET](./includes/task-create-asset-dotnet.md)]
+[!INCLUDE [create an asset with CURL](includes/task-create-asset-curl.md)]
 
 ---
