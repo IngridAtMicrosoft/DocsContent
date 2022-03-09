@@ -1,0 +1,10 @@
+- name: Azure Media Services
+  href: index.md
+  items:
+    - name: How to
+      items:
+        - name: Assets
+          items:
+            - name: Create an asset
+              href: asset-create-asset-how-to.md
+
