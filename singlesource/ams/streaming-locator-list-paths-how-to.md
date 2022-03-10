@@ -20,10 +20,10 @@ Use the following methods to list the paths of a streaming locator.
 
 ## [CLI](#tab/cli/)
 
-[!INCLUDE [Create an asset with CLI](./includes/task-list-paths-streaming-locator-cli.md)]
+[!INCLUDE [Create an asset with CLI](./includes/task-get-paths-streaming-locator-cli.md)]
 
 ## [REST](#tab/rest/)
 
-[!INCLUDE [Create an asset with CLI](./includes/task-get-paths-streaming-locator-rest.md)]
+[!INCLUDE [Create an asset with CLI](./includes/task-list-paths-streaming-locator-rest.md)]
 
 ---
