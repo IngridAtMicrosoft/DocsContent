@@ -21,6 +21,20 @@
               href: job-update-how-to.md
             - name: Delete a job
               href: job-delete-how-to.md
+        - name: Streaming locators
+          items: 
+            - name: Create a streaming locator
+              href: streaming-locator-create-how-to.md
+            - name: Show the details of a streaming locator
+              href: streaming-locator-show-how-to.md
+            - name: List streaming locators
+              href: streaming-locator-list-how-to.md
+            - name: List streaming locator paths
+              href: streaming-locator-list-paths-how-to.md
+            - name: List streaming locator content keys
+              href: streaming-locator-content-keys-how-to.md
+            - name: Delete a streaming locator
+              href: streaming-locator-delete-how-to.md
         - name: DRM
           items:
             - name: Create a content key policy
