@@ -7,4 +7,21 @@
           items:
             - name: Create an asset
               href: asset-create-asset-how-to.md
+        - name: DRM
+          items:
+            - name: Create a content key policy
+              href: drm-create-content-key-policy-how-to.md
+            - name: List content key policies
+              href: drm-list-content-key-policy-how-to.md
+            - name: Update a content key policy
+              href: drm-update-content-key-policy-how-to.md
+            - name: Delete a content ky policy
+              href: drm-delete-content-key-policy-how-to.md
+            - name: Add an option to a content key policy
+              href: drm-add-option-content-key-policy-how-to.md
+            - name: Update an option in a content key policy
+              href: drm-update-option-content-key-policy-how-to.md
+            - name: Remove and option from a content key policy
+              href: drm-remove-option-content-key-policy-how-to.md
+              
 
