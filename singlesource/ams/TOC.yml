@@ -32,7 +32,7 @@
             - name: List streaming locator paths
               href: streaming-locator-list-paths-how-to.md
             - name: List streaming locator content keys
-              href: streaming-locator-content-keys-how-to.md
+              href: streaming-locator-list-content-keys-how-to.md
             - name: Delete a streaming locator
               href: streaming-locator-delete-how-to.md
         - name: DRM
