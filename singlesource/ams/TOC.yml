@@ -61,6 +61,24 @@
               href: streaming-endpoint-stop-how-to.md
             - name: Update a streaming endpoint
               href: streaming-endpoint-update-how-to.md
+        - name: Live events
+          items:
+            - name: Create a live event
+              href: live-event-create-how-to.md
+            - name: Allocate an event in standby mode
+              href: live-event-standby-how-to.md
+            - name: Delete a live event
+              href: live-event-delete-how-to.md
+            - name: List a live events
+              href: live-event-list-how-to.md
+            - name: Reset a live event
+              href: live-event-reset-how-to.md
+            - name: Show the details of a live event
+              href: live-event-show-how-to.md
+            - name: Stop a live event
+              href: live-event-stop-how-to.md
+            - name: Wait until a condition is met
+              href: live-event-wait-how-to.md
         - name: DRM
           items:
             - name: Create a content key policy
