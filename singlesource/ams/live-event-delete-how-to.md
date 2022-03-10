@@ -10,7 +10,7 @@ ms.date: 03/10/2022
 ms.author: inhenkel
 ---
 
-# Delete a streaming endpoint
+# Delete a live event
 
 [!INCLUDE [media services api v3 logo](./includes/v3-hr.md)]
 
