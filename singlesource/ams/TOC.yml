@@ -45,6 +45,22 @@
               href: streaming-policy-list-how-to.md
             - name: Show or get the details of a streaming policy
               href: streaming-policy-show-how-to.md
+        - name: Streaming endpoints
+          items:
+            - name: Create a streaming endpoint
+              href: streaming-endpoint-create-how-to.md
+            - name: Delete a streaming endpoint
+              href: streaming-endpoint-delete-how-to.md
+            - name: List streaming endpoints
+              href: streaming-endpoint-list-how-to.md
+            - name: Show or get the details of a streaming endpoint
+              href: streaming-endpoint-show-how-to.md
+            - name: Start a streaming endpoint
+              href: streaming-endpoint-start-how-to.md
+            - name: Stop a streaming endpoint
+              href: streaming-endpoint-stop-how-to.md
+            - name: Update a streaming endpoint
+              href: streaming-endpoint-update-how-to.md
         - name: DRM
           items:
             - name: Create a content key policy
