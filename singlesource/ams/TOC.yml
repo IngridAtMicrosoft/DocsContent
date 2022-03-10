@@ -7,6 +7,20 @@
           items:
             - name: Create an asset
               href: asset-create-asset-how-to.md
+        - name: Jobs
+          items:
+            - name: Create or start a job
+              href: job-create-how-to.md
+            - name: List jobs
+              href: job-list-how-to.md
+            - name: Show or get the details of a job
+              href: job-show-how-to.md
+            - name: Show or get the details of a job
+              href: job-show-how-to.md
+            - name: Update a job
+              href: job-update-how-to.md
+            - name: Delete a job
+              href: job-delete-how-to.md
         - name: DRM
           items:
             - name: Create a content key policy
