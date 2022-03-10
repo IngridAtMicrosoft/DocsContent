@@ -10,7 +10,7 @@ ms.date: 03/10/2022
 ms.author: inhenkel
 ---
 
-# List the paths of a streaming locator
+# Show the details of a streaming locator
 
 [!INCLUDE [media services api v3 logo](./includes/v3-hr.md)]
 

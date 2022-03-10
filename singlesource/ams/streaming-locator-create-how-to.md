@@ -20,10 +20,10 @@ Use the following methods to create a streaming locator.
 
 ## [CLI](#tab/cli/)
 
-[!INCLUDE [Create an asset with CLI](includes/task-create-streaming-locator-cli.md)]
+[!INCLUDE [Create an asset with CLI](./includes/task-create-streaming-locator-cli.md)]
 
 ## [REST](#tab/rest/)
 
-[!INCLUDE [Create an asset with CLI](includes/task-create-streaming-locator-rest.md)]
+[!INCLUDE [Create an asset with CLI](./includes/task-create-streaming-locator-rest.md)]
 
 ---

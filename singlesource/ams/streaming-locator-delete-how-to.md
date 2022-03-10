@@ -20,10 +20,10 @@ Use the following methods to delete a streaming locator.
 
 ## [CLI](#tab/cli/)
 
-[!INCLUDE [Create an asset with CLI](includes/task-delete-streaming-locator-cli.md)]
+[!INCLUDE [Create an asset with CLI](./includes/task-delete-streaming-locator-cli.md)]
 
 ## [REST](#tab/rest/)
 
-[!INCLUDE [Create an asset with CLI](includes/task-delete-streaming-locator-rest.md)]
+[!INCLUDE [Create an asset with CLI](./includes/task-delete-streaming-locator-rest.md)]
 
 ---
