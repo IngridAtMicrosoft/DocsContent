@@ -1,6 +1,6 @@
 ---
-title: Upload content to an asset CLI
-description: The Azure CLI script in this topic shows how to create a Media Services Asset to upload content to.
+title: Add an option to a content key policy
+description: This article shows how to add an option to a content key policy.
 services: media-services
 author: IngridAtMicrosoft
 manager: femila 
