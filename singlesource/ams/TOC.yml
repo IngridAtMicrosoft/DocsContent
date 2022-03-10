@@ -35,6 +35,16 @@
               href: streaming-locator-list-content-keys-how-to.md
             - name: Delete a streaming locator
               href: streaming-locator-delete-how-to.md
+        - name: Streaming policies
+          items:
+            - name: Create a streaming policy
+              href: streaming-policy-create-how-to.md
+            - name: Delete a streaming policy
+              href: streaming-policy-delete-how-to.md
+            - name: List streaming policies
+              href: streaming-policy-list-how-to.md
+            - name: Show or get the details of a streaming policy
+              href: streaming-policy-show-how-to.md
         - name: DRM
           items:
             - name: Create a content key policy
