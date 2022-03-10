@@ -79,6 +79,16 @@
               href: live-event-stop-how-to.md
             - name: Wait until a condition is met
               href: live-event-wait-how-to.md
+        - name: Live outputs
+          items:
+            - name: Create a live output
+              href: live-output-create-how-to.md
+            - name: Delete a live output
+              href: live-output-delete-how-to.md
+            - name: List a live outputs
+              href: live-output-list-how-to.md
+            - name: Show or get the details a live output
+              href: live-output-show-how-to.md
         - name: DRM
           items:
             - name: Create a content key policy
