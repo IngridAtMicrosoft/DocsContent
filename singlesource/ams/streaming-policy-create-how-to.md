@@ -1,6 +1,6 @@
 ---
-title: Create a streaming locator
-description: This article shows how to create a streaming locator.
+title: Create a streaming policy
+description: This article shows how to create a streaming policy.
 services: media-services
 author: IngridAtMicrosoft
 manager: femila 
@@ -16,7 +16,7 @@ ms.author: inhenkel
 
 ## Methods
 
-Use the following methods to create a streaming locator.
+Use the following methods to create a streaming policy.
 
 ## [CLI](#tab/cli/)
 
