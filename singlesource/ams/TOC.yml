@@ -15,8 +15,8 @@
               href: job-list-how-to.md
             - name: Show or get the details of a job
               href: job-show-how-to.md
-            - name: Show or get the details of a job
-              href: job-show-how-to.md
+            - name: Cancel a job
+              href: job-cancel-how-to.md
             - name: Update a job
               href: job-update-how-to.md
             - name: Delete a job
