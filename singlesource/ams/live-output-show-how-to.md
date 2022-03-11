@@ -20,10 +20,10 @@ Use the following methods to show or get the details of a live output.
 
 ## [CLI](#tab/cli/)
 
-[!INCLUDE [Create an asset with CLI](./includes/task-create-live-output-cli.md)]
+[!INCLUDE [Create an asset with CLI](./includes/task-show-live-output-cli.md)]
 
 ## [REST](#tab/rest/)
 
-[!INCLUDE [Create an asset with CLI](./includes/task-create-live-output-rest.md)]
+[!INCLUDE [Create an asset with CLI](./includes/task-get-live-output-rest.md)]
 
 ---
