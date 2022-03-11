@@ -8,6 +8,6 @@ ms.author: inhenkel
 
 ## Delete a live output
 
-:::code language="azurecli" source="~/../media-services-v3-python/cli/code-snippets.sh" id="AmsLiveEOutputDelete" interactive="azurecli-interactive":::
+:::code language="azurecli" source="~/../media-services-v3-python/cli/code-snippets.sh" id="AmsLiveOutputDelete" interactive="azurecli-interactive":::
 
 For more information about this command, see the [CLI reference](/cli/azure/ams/live-output?view=azure-cli-latest#az-ams-live-output-delete).
