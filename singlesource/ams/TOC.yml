@@ -111,7 +111,7 @@
             href: account-filter-create-how-to.md
           - name: Delete an account filter
             href: account-filter-delete-how-to.md
-          - name: List an account filters
+          - name: List account filters
             href: account-filter-list-how-to.md
           - name: Show or get the details of an account filter
             href: account-filter-show-how-to.md
