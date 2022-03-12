@@ -12,4 +12,4 @@ ms.service: media-services
 
 # Image in SVG
 
-<iframe src="./media/resized-image.svg" scrolling="no" />
+<iframe src="./media/resized-image.svg" scrolling="no" height="300" />
