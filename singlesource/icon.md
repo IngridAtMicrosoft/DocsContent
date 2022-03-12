@@ -1,6 +1,6 @@
 ---
-title: Welcome to Single Source 
-description: This is a repository for a single source prototype.
+title: Image in SVG
+description: Something.
 author: IngridAtMicrosoft
 ms.topic: article
 ms.date: 09/08/2021
@@ -10,10 +10,6 @@ ms.lastreviewed: 09/08/2021
 ms.service: media-services
 ---
 
-# Manage Inbound Calls
+# Image in SVG
 
-<div style="border: 1px solid #000; max-width: 100px">
-
-![alt text for image.](./media/how-to-associate-sales-program-with-success-engagements.png)
-
-</div>
+![alt text for image.](resized-image.svg)
