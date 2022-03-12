@@ -12,6 +12,5 @@ ms.service: media-services
 
 # Image in SVG
 
-<!--:::image type="content" source="media/resized-image.svg" alt-text="sdf":::-->
 
-<iframe src="media/resized-image.svg" height="400" scrolling=no onload='alert("Hello")' />
+:::image type="content" source="media/how-to-associate-sales-program-with-success-engagements.svg" alt-text="fda":::
