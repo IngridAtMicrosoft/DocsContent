@@ -14,4 +14,4 @@ ms.service: media-services
 
 <!--:::image type="content" source="media/resized-image.svg" alt-text="sdf":::-->
 
-<iframe src="media/resized-image.svg" scrolling=no />
+<iframe src="media/resized-image.svg" height="400" scrolling=no />
