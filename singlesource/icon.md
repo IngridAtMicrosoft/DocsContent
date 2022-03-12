@@ -13,4 +13,4 @@ ms.service: media-services
 # Image in SVG
 
 
-:::image type="content" source="media/how-to-associate-sales-program-with-success-engagements.svg" alt-text="fda":::
+:::image type="content" source="media/tall-skinny.svg" alt-text="fda":::
