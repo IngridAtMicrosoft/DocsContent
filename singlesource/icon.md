@@ -12,4 +12,4 @@ ms.service: media-services
 
 # Image in SVG
 
-![alt text for image.](./media/resized-image.svg)
+:::image type="content" source="media/resized-image.svg" alt-text="something":::
