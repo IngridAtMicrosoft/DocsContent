@@ -12,4 +12,4 @@ ms.service: media-services
 
 # Image in SVG
 
-![alt text for image.](resized-image.svg)
+![alt text for image.](./media/resized-image.svg)
