@@ -7,39 +7,10 @@
    viewBox="0 0 52.916668 185.20834"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="tall-skinny.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#111111"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     inkscape:document-units="pc"
-     showgrid="false"
-     units="px"
-     inkscape:zoom="0.71446409"
-     inkscape:cx="396.80091"
-     inkscape:cy="560.56002"
-     inkscape:window-width="3200"
-     inkscape:window-height="1711"
-     inkscape:window-x="1911"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs2" />
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
     <image
        width="54.342033"
        height="199.34618"
@@ -13098,7 +13069,6 @@ MjAyMi0wMS0xN1QxMzoyMjo0OSswMDowMOL/s3EAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMDEt
 MTdUMTM6MjI6NDkrMDA6MDCTogvNAAAAAElFTkSuQmCC
 "
        id="image832"
-       x="0.23297386"
-       y="-0.79652715" />
-  </g>
+       x="0"
+       y="-0" />
 </svg>
