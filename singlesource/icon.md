@@ -12,4 +12,4 @@ ms.service: media-services
 
 # Image in SVG
 
-:::image type="content" source="media/resized-image.svg" alt-text="something":::
+<iframe src=’media/resized-image.svg’ scrolling=’no’ />
