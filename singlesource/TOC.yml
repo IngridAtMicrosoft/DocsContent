@@ -5,7 +5,7 @@
 - name: AMS Learn
   items:
   - name: AMS Intro Module
-    href: amsintro/index.yml
+    href: amsintro/
 - name: Div test
   href: icon.md
 - name: Reuse in Graphics
