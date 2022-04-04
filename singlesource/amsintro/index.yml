@@ -13,7 +13,7 @@ metadata:
 ###
 ### Do not edit: title must be "Introduction to (product)"
 ###
-title: amsintro
+title: Introduction to Azure Media Services
 ###########################################################################
 ###
 ### Summary
@@ -64,8 +64,8 @@ summary: ""
 ###
 abstract: |
   By the end of this module, you'll be able to:
-    - Evaluate whether (product) is appropriate to (general product use case).
-    - Describe how (features) of (product) work to (solve problem).
+    - Evaluate whether Azure Media Services is appropriate to stream or analyze your media streaming content.
+    - Describe how the main features of Azure Media Services.
 ###########################################################################
 ###
 ### Prerequisites
@@ -88,9 +88,9 @@ abstract: |
 ###   Prerequisite 2: "Basic knowledge of REST services and APIs"
 ###
 prerequisites: |
-  - # prerequisite 1
-  - # prerequisite 2
-  - # prerequisite 3
+  - # A solid foundational understanding of media streaming technology.
+  - # Basic knowledge of REST services and APIs.
+  - # Familiarity with Azure.
 ###########################################################################
 ###
 ### Do not edit: will be replaced by the module icon when available

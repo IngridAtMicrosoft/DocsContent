@@ -2,15 +2,7 @@ Azure Media Services is a cloud-based platform that enables you to build solutio
 
 ## Example scenario
 
-There are several ways Azure Media Services can help you get your streaming media to the right audience, at the right time, and on the device of their choice.  You may want to:
-
-- Deliver videos in various formats so they can be played on a wide variety of browsers and devices. For both on-demand and live streaming delivery to various clients (mobile devices, TV, PC, and so on), the video and audio content needs to be encoded and packaged appropriately.
-- Stream live sporting events to a large online audience, like soccer, baseball, college and high school sports, and more.
-- Broadcast public meetings and events, like town halls, city council meetings, and legislative bodies.
-- Analyze recorded videos or audio content. For example, to achieve higher customer satisfaction, organizations can extract speech-to-text and build search indexes and dashboards. Then, they can extract intelligence around common complaints, sources of complaints, and other relevant data.
-- Create a subscription video service and stream DRM protected content when a customer (for example, a movie studio) needs to restrict the access and use of proprietary copyrighted work.
-- Deliver offline content for playback on airplanes, trains, and automobiles. A customer might need to download content onto their phone or tablet for playback when they anticipate to be disconnected from the network.
-- Enable Azure CDN to achieve large scaling to better handle instantaneous high loads (for example, the start of a product launch event).
+There are several ways Azure Media Services can help you get your streaming media to the right audience, at the right time, and on the device of their choice.  You may want to deliver videos in various formats so they can be played on a wide variety of browsers and devices, stream live sporting events,broadcast public meetings, analyze recorded videos or audio content,create a subscription video service,and/or deliver offline content for playback.
 
 <!-- 3. Prose table-of-contents --------------------------------------------------------------------------
 
@@ -42,6 +34,7 @@ TODO: add your activities
 
  -->
 ## What is the main goal?
+
 By the end of this session, you'll be able to (TODO)
 
 <!-- Do **not** include any other content like learning objectives, prerequisites, unit summary, "next unit" lead-in, or references. -->

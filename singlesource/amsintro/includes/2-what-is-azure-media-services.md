@@ -1,129 +1,45 @@
-<!-- 1. Topic sentence(s) ---------------------------------------------------------------
 
-    Goal: briefly state that this unit will define the product.
+Let's start with some media streaming concepts.
 
-    Heading: none
+## What is a media streaming?
 
-    Example: "Let's start with a few definitions and a quick tour of the core features of Logic Apps. This overview should help you see whether Logic Apps might be a good fit for your work."
--->
-TODO: add your topic sentences(s)
+Media streaming is best understood in comparison of downloading content. When content is downloaded, the entire file is delivered to the end user and the file is saved locally. With streaming, however, chunks of media content are continuously delivered to a client player in data packets. The content is not saved on the user's computer.
 
-<!-- 2. Background-concept definitions (optional) ----------------------------------------
+## What is a video on demand (VOD)?
 
-    Goal:
-        Define any needed underlying concepts or terms the learner must know to understand the product.
-        Repeat this pattern multiple times if multiple concepts are needed.
+Video on demand (VOD) is video that can be watched any time rather than only at a scheduled time.
 
-    Heading:
-        "## What is (concept)?"
+## What is live streaming?
 
-    Pattern:
-        1. H2 heading.
-        2. Lead sentence that gives a definition "(concept) is..." (ensure this is a definition, do not give use cases like "(concept) lets you...").
-        3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph).
-        4. Visual like an image, table, list, code sample, or blockquote (image preferred).
+Live streaming is the delivery of live video and/or audio content to an audience close to the time when the content is being produced.
 
-    Example:
-        (Note: the product "Logic Apps" implements business processes in the cloud; therefore, "business process" is a background concept.)
-        Heading: "What is a business process?
-        Lead sentence: "A business process or _workflow_ is a sequence of tasks that produce a specific outcome. The result might be a decision, some data, or a notification...."
--->
-## What is (concept)?
-TODO: Add your lead sentence
-TODO: Add your additional text
-TODO: Add your visual element
+## What is encoding?
 
-<!-- 3. Define the product -------------------------------------------------------------
+Encoding is the process of converting files containing digital video and/or audio from one standard format to another, with the purpose of:
 
-    Goal:
-        Give a formal and precise definition of the product.
+- reducing the size of the files
+- producing a format that's compatible with a broad range of devices and apps.
 
-    Heading:
-        "## (product) definition"
+## What is packaging and delivery?
 
-    Pattern:
-        1. H2 heading.
-        2. Lead sentence that gives a definition "(product) is..." (ensure this is a definition, do not give use cases like "(product) lets you...").
-        3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph).
-        4. Visual like an image, table, list, code sample, or blockquote (image preferred).
+With Media Services, a streaming endpoint (origin) represents a dynamic (just-in-time) service that can deliver your live and on-demand content directly to a client player. It uses one of the common streaming media protocols HLS, DASH, and Smooth Streaming.
 
-    Example:
-        Heading: "Azure Logic Apps definition"
-        Lead sentence: "Azure Logic Apps is a cloud service that automates the execution of your business processes."
--->
-## (product) definition
-TODO: Add your lead sentence
-TODO: Add your additional text
-TODO: Add your visual element
+## What is content protection or Digital Rights Management (DRM)?
 
-<!-- 4. Solve the scenario -------------------------------------------------------------
+Digital Rights Management (DRM) is a way of protecting content from being played unless certain criteria are met such as allowing playback during a period of time or only by certain devices. DRM technologies include Apple FairPlay, Google Widevine, and Microsoft's PlayReady.
 
-    Goal:
-        At a high level, describe how the (product) solves one of the customer tasks in your (scenario).
-        Avoid teaching how to actually do the work (you're not teaching how-to-use in this module).
+## What is a video analysis?
 
-    Heading:
-        "## How to (solve scenario)"
+Media Services lets you extract insights from your video and audio files using audio and video analyzer presets. The presets include language detection, speech-to-text, and face detection.
 
-    Pattern:
-        1. H2 heading.
-        2. Lead sentence that summarizes how the (product) solved the (scenario).
-        3. Additional text as needed (typically 1-2 paragraphs total, integrate the lead sentence into the first paragraph).
-        4. Visual like an image, table, list, code sample, or blockquote (image preferred).
+## Azure Media Services definition
 
-    Example:
-        Heading: "How to implement a Twitter monitor"
-        Lead sentence: "To implement a Twitter monitor, you map each task to a Logic Apps component and connect them with conditional logic."
--->
-## How to (solve scenario)
-TODO: Add your lead sentence
-TODO: Add your additional text
-TODO: Add your visual element
+Azure Media Services is a cloud-based platform that enables you to build solutions that achieve broadcast-quality video streaming, enhance accessibility and distribution, analyze content, and much more. Whether you're an app developer, a call center, a government agency, or an entertainment company, Media Services helps you create apps that deliver media experiences of outstanding quality to large audiences on today's most popular mobile devices and browsers.
 
-<!-- 5. Additional content (optional, as needed) ------------------------------------------------
-
-    Goal:
-        The section is a catch-all for any information not covered in the sections above.
-        Repeat the pattern here as many times as needed.
-
-    Possible topics:
-        - Key feature(s).
-        - Example use case in addition to the scenario.
-        - High-level of how practitioners use the product (e.g. there's an API and a web UI to support multiple use cases).
-        - Business value (e.g. it lets you do something that would be difficult to achieve without (product)).
-
-    Pattern:
-        Break the content into 'chunks' where each chunk has three things:
-            1. An H2 or H3 heading describing the goal of the chunk.
-            2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph.
-            3. Visual like an image, table, list, code sample, or blockquote (image preferred).
-
-    [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=main)
--->
-
-<!-- Pattern for simple chunks (repeat as needed) -->
-## H2 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-Paragraph (optional)
-
-<!-- Pattern for complex chunks (repeat as needed) -->
-## H2 heading
-Strong lead sentence; remainder of paragraph.
-Visual (image, table, list, code sample, blockquote)
-### H3 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-### H3 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-<!-- Do not add a unit summary or references/links -->
+- Deliver videos in various formats so they can be played on a wide variety of browsers and devices. For both on-demand and live streaming delivery to various clients (mobile devices, TV, PC, and so on), the video and audio content needs to be encoded and packaged appropriately.
+- Stream live sporting events to a large online audience, like soccer, baseball, college and high school sports, and more.
+- Broadcast public meetings and events, like town halls, city council meetings, and legislative bodies.
+- Analyze recorded videos or audio content. For example, to achieve higher customer satisfaction, organizations can extract speech-to-text and build search indexes and dashboards. Then, they can extract intelligence around common complaints, sources of complaints, and other relevant data.
+- Create a subscription video service and stream DRM protected content when a customer (for example, a movie studio) needs to restrict the access and use of proprietary copyrighted work.
+- Deliver offline content for playback on airplanes, trains, and automobiles. A customer might need to download content onto their phone or tablet for playback when they anticipate to be disconnected from the network.
+- Enable Azure CDN to achieve large scaling to better handle instantaneous high loads (for example, the start of a product launch event).

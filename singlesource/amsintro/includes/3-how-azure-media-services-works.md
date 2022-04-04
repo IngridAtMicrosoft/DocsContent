@@ -1,65 +1,54 @@
-<!-- 1. Topic sentence(s) --------------------------------------------------------------------------------
 
-    Goal: state what's in this unit and how it aligns to the 'describe' learning objective.
+Here, we'll discuss how Azure Media Services works behind the scenes. You'll learn about the parts of Azure Media Services and see how they fit together into a video steaming platform app. This knowledge will help you decide whether Azure Media Services will work for you.
 
-    Pattern:
-        One paragraph of 2-3 sentences:
-            Sentence 1: State that this unit addresses ("how it works").
-            Sentence 2: State that this unit targets this learning objective: "Describe how (features) of (product) work to (solve problem)."
-            Sentence 3-4 (optional): Give the rationale ("helps you decide if it will meet your needs").
-        Table-of-contents as a bulleted list (do not simply list every heading you'll have on the page, group them into about 3 high-level areas).
+- Media Services accounts and storage
+- Assets
+- Streaming endpoints
+- Streaming locators
+- Encoding transforms
+- Jobs
+- Content protection and Digital Rights Management(DRM)
+- Live streaming
+- Media Analysis
 
-    Heading: none
+## Media Services accounts and storage
 
-    Example: "Here, we'll discuss how Logic Apps works behind the scenes. You'll learn about all the pieces of Logic apps and see how they fit together into an app. This knowledge will help you decide whether Logic Apps will work for you without any customization. In cases where you do need to create custom components, you'll be able to determine how difficult it will be.
-        * Connectors, triggers, actions
-        * Control actions
-        * Logic Apps Designer"
--->
-TODO: add your topic sentences(s)
-TODO: add your bulleted list of key things covered
-* TODO
-* TODO
-* TODO
+A Media Services account is an Azure resource that allows you to work with the Media Services product. It is associated with an Azure Storage account which is used to store and deliver media.
 
-<!-- 2. Chunked content-------------------------------------------------------------------------------------
+## Assets
 
-    Goal:
-        Cover the components of (product) and how they work.
-        Repeat this pattern multiple times as needed.
+For Media Services, an Asset is a core concept. It is where you input media (for example, through upload or live ingest), output media (from a job output), and publish media (for streaming). An Asset is mapped to a blob container in the Azure Storage account and the files in the Asset are stored as block blobs in that container. Assets contain information about digital files stored in Azure Storage (including video, audio, images, thumbnail collections, text tracks, and closed caption files).
 
-    Pattern:
-        Break the content into 'chunks' where each chunk has three things:
-            1. An H2 or H3 heading describing the goal of the chunk.
-            2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph.
-            3. Visual like an image, table, list, code sample, or blockquote.
+## Streaming endpoints
 
-    [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=main)
--->
+A Streaming Endpoint represents a dynamic (just-in-time) packaging and origin service that can deliver your live and on-demand content directly to a client player application. It uses one of the common streaming media protocols (HLS or DASH). In addition, the Streaming Endpoint provides dynamic (just-in-time) encryption to industry-leading digital rights management systems (DRMs).
 
-<!-- Pattern for simple topic -->
-## H2 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-Paragraph (optional)
+In the media streaming industry, this service is commonly referred to as a Packager or Origin. Other common terms in the industry for this capability include JITP (just-in-time-packager) or JITE (just-in-time-encryption).
 
-<!-- Pattern for complex topic -->
-## H2 heading
-Strong lead sentence; remainder of paragraph.
-Visual (image, table, list, code sample, blockquote)
-### H3 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-### H3 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
+## Streaming locators
 
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+To make videos in an asset available to clients for playback, you have to create a streaming locator and then build streaming URLs. These URLs are used by the media player to locate and stream the content. The process of creating a streaming locator is called *publishing*.
 
-<!-- Do not add a unit summary or references/links -->
+## Encoding preset
+
+An encoding preset is a set of configuration settings for an encoding job or other transformation done on media. Presets are offered by Media Services as a convenience to customers who don't want to define custom presets.
+
+## Encoding transforms
+
+A transform is like a recipe for encoding media from one format to another (or several others). When you create a transform, you specify which encoding presets you want to use.
+
+## Jobs
+
+A Job is the actual request to Media Services to apply the Transform to a given input video or audio content. The Job specifies information like the location of the input video and the location for the output. You can specify the location of your input video using: HTTPS URLs, SAS URLs, or Assets.
+
+## Content protection and Digital Rights Management(DRM)
+
+You can deliver your live and on-demand content encrypted dynamically with Advanced Encryption Standard (AES-128) or/and any of the three major DRM systems: Microsoft PlayReady, Google Widevine, and Apple FairPlay. Media Services also provides a service for delivering AES keys and DRM (PlayReady, Widevine, and Apple FairPlay Streaming) licenses to authorized clients.
+
+## Live events
+
+Live events are responsible for ingesting and processing the live video feeds. When you create a live event, a primary and secondary input endpoint is created that you can use to send a live signal from a remote encoder.
+
+## Media analysis
+
+Media services offers media analyzer presets that are similar to encoding presets.
