@@ -1,6 +1,8 @@
 - name: Azure Media Services
   href: index.md
   items:
+    - name: AMS Learn Intro
+      href: ./amsintro/
     - name: How to
       items:
         - name: Assets
@@ -22,7 +24,7 @@
             - name: Delete a job
               href: job-delete-how-to.md
         - name: Streaming locators
-          items: 
+          items:
             - name: Create a streaming locator
               href: streaming-locator-create-how-to.md
             - name: Show the details of a streaming locator
