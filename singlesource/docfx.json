@@ -2,119 +2,13 @@
   "build": {
     "content": [
       {
-        "group": "version-ash",
-        "src" : "concepts",
-        "dest" : "concepts",
-        "version": ">=windows-server-2008",
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices"
-        ]
-      },
-      {
-        "group": "version-ash",
-        "src" : "quickstarts",
-        "dest" : "quickstarts",
-        "version" : ">=windows-server-2008",
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices"
-        ]
-      },
-      {
-        "group": "version-ash",
-        "src" : "how-to",
-        "dest" : "how-to",
-        "version" : ">=windows-server-2008",
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices"
-        ]
-      },
-      {
-        "group": "version-ash",
-        "src" : "reference",
-        "dest" : "reference",
-        "version" : ">=windows-server-2008",
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices"
-        ]
-      },
-      {
-        "group": "version-ash",
-        "src" : "resources",
-        "dest" : "resources",
-        "version" : ">=windows-server-2008",
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "_themes/**",
-          "_themes.pdf/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE",
-          "ThirdPartyNotices"
-        ]
-      },
-      {
         "src": ".",
         "dest": ".",
-        "version" : ">=windows-server-2008",
         "files": [
           "**/*.md",
           "**/*.yml"
         ],
         "exclude": [
-          "concepts/**",
-          "quickstarts/**",
-          "how-to/**",
-          "references/**",
-          "resources/**",
           "**/obj/**",
           "**/includes/**",
           "_themes/**",
@@ -147,89 +41,6 @@
       }
     ],
     "resource": [
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg",
-          "**/*.svg",
-          "**/*.gif"
-        ],
-        "src": "identity",
-        "dest": "identity",
-        "group": "version-ash",
-        "exclude": [
-          "**/obj/**",
-          "_themes/**",
-          "_themes.pdf/**"
-        ]
-      },
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg",
-          "**/*.svg",
-          "**/*.gif"
-        ],
-        "src": "failover",
-        "dest": "failover",
-        "group": "version-ash",
-        "exclude": [
-          "**/obj/**",
-          "_themes/**",
-          "_themes.pdf/**"
-        ]
-      },
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg",
-          "**/*.svg",
-          "**/*.gif"
-        ],
-        "src": "management",
-        "dest": "management",
-        "group": "version-ash",
-        "exclude": [
-          "**/obj/**",
-          "_themes/**",
-          "_themes.pdf/**"
-        ]
-      },
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg",
-          "**/*.svg",
-          "**/*.gif"
-        ],
-        "src": "networking",
-        "dest": "networking",
-        "group": "version-ash",
-        "exclude": [
-          "**/obj/**",
-          "_themes/**",
-          "_themes.pdf/**"
-        ]
-      },
-      {
-        "src": ".",
-        "dest": ".",
-        "files": [
-          "**/*.png",
-          "**/*.jpg",
-          "**/*.svg",
-          "**/*.gif"
-        ],
-        "exclude": [
-          "identity/**",
-          "failover/**",
-          "management/**",
-          "networking/**",
-          "**/obj/**",
-          "_themes/**",
-          "_themes.pdf/**"
-        ]
-      },
       {
         "files": [
           "**/*.png",

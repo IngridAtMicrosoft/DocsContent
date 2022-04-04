@@ -5,10 +5,6 @@
       "build_source_folder": "singlesource",
       "build_output_subfolder": "singlesource",
       "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [
-        ">=windows-server-2008"
-      ],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
