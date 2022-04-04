@@ -2,6 +2,9 @@
   href: index.md
 - name: Azure Media Services
   href: ./ams/index.md
+  items:
+  - name: AMS Intro Module
+    href: amsintro/index.yml
 - name: Div test
   href: icon.md
 - name: Reuse in Graphics
