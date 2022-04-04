@@ -2,6 +2,7 @@
   href: index.md
 - name: Azure Media Services
   href: ./ams/index.md
+- name: AMS Learn
   items:
   - name: AMS Intro Module
     href: amsintro/index.yml
