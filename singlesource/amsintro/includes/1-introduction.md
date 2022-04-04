@@ -4,7 +4,7 @@ Azure Media Services is a cloud-based platform that enables you to build solutio
 
 There are several ways Azure Media Services can help you get your streaming media to the right audience, at the right time, and on the device of their choice.  You may want to:
 
-- Deliver videos in various formats so they can be played on a wide variety of browsers and devices. For both on-demand and live streaming delivery to various clients (mobile devices, TV, PC, and so on), the video and audio content needs to be encoded and packaged appropriately. To see how to deliver and stream such content, see Quickstart: Encode and stream files.
+- Deliver videos in various formats so they can be played on a wide variety of browsers and devices. For both on-demand and live streaming delivery to various clients (mobile devices, TV, PC, and so on), the video and audio content needs to be encoded and packaged appropriately.
 - Stream live sporting events to a large online audience, like soccer, baseball, college and high school sports, and more.
 - Broadcast public meetings and events, like town halls, city council meetings, and legislative bodies.
 - Analyze recorded videos or audio content. For example, to achieve higher customer satisfaction, organizations can extract speech-to-text and build search indexes and dashboards. Then, they can extract intelligence around common complaints, sources of complaints, and other relevant data.
@@ -25,6 +25,7 @@ There are several ways Azure Media Services can help you get your streaming medi
 
  -->
 ## What will we be doing?
+
 TODO: add your activities
 
 <!-- 4. Terminal learning objective ----------------------------------------------------------------------
