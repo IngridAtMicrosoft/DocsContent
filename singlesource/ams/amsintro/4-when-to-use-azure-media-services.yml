@@ -1,6 +1,6 @@
 ### YamlMime:ModuleUnit
 uid: learn.amsintro.when-to-use-azure-media-services
-title: When to use {product}
+title: When to use Azure Media Services
 metadata:
   unitType: learning-content
   title: when-to-use-azure-media-services
@@ -9,7 +9,7 @@ metadata:
   author: IngridAtMicrosoft
   ms.author: inhenkel
   ms.topic: interactive-tutorial
-  ms.prod: learning-azure # Edit as appropriate for your portfolio area
+  ms.prod: media-services # Edit as appropriate for your portfolio area
 durationInMinutes: 1
 content: |
   [!include[](includes/4-when-to-use-azure-media-services.md)]

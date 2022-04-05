@@ -88,9 +88,9 @@ abstract: |
 ###   Prerequisite 2: "Basic knowledge of REST services and APIs"
 ###
 prerequisites: |
-  - # A solid foundational understanding of media streaming technology.
-  - # Basic knowledge of REST services and APIs.
-  - # Familiarity with Azure.
+  - A solid foundational understanding of media streaming technology.
+  - Basic knowledge of REST services and APIs.
+  - Familiarity with Azure.
 ###########################################################################
 ###
 ### Do not edit: will be replaced by the module icon when available
