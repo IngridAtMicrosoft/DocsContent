@@ -33,7 +33,7 @@
     - name: SKD listing
       href: template.md
     - name: Samples
-      href: samples.md
+      href: template.md
   - name: Try Media Services in the portal
     items:
     - name: Basic Video On Demand (VOD) app
