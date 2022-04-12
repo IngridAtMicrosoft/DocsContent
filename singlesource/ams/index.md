@@ -18,4 +18,4 @@ Resusable content is created and implemented with includes.
 
 ## Code snippets
 
-Code snippets are in language repositories.
+Code snippets are a way of showing how to do one thing at a time with the API.
