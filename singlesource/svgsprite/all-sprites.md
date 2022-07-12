@@ -15,67 +15,67 @@ This is a of list all the SVG sprites that are available for PlantUML diagrams s
 
 ## AI and Machine Learning
 
-![AI and Machine Learning](.../media/diagrams/AIMachineLearning-svg-sprites.svg)
+![AI and Machine Learning](../media/diagrams/AIMachineLearning-svg-sprites.svg)
 
 ## Analytics
 
-![Analytics](.../media/diagrams/Analytics-svg-sprites.svg)
+![Analytics](../media/diagrams/Analytics-svg-sprites.svg)
 
 ## AppServices
 
-![AppServices](.../media/diagrams/AppServices-svg-sprites.svg)
+![AppServices](../media/diagrams/AppServices-svg-sprites.svg)
 
 ## Azure Stack
 
-![Azure Stack](.../media/diagrams/AzureStack-svg-sprites.svg)
+![Azure Stack](../media/diagrams/AzureStack-svg-sprites.svg)
 
 ## Azure VMWare Solution
 
-![Azure VMWare Solution](.../media/diagrams/AzureVMWareSolution-svg-sprites.svg)
+![Azure VMWare Solution](../media/diagrams/AzureVMWareSolution-svg-sprites.svg)
 
 ## Blockchain
 
-![Blockchain](.../media/diagrams/Blockchain-svg-sprites.svg)
+![Blockchain](../media/diagrams/Blockchain-svg-sprites.svg)
 
 ## Compute
 
-![Compute](.../media/diagrams/Compute-svg-sprites.svg)
+![Compute](../media/diagrams/Compute-svg-sprites.svg)
 
 ## Containers
 
-![Containers](.../media/diagrams/Containers-svg-sprites.svg)
+![Containers](../media/diagrams/Containers-svg-sprites.svg)
 
 ## Databases
 
-![Databases](.../media/diagrams/Databases-svg-sprites.svg)
+![Databases](../media/diagrams/Databases-svg-sprites.svg)
 
 ## DevOps
 
-![DevOps](.../media/diagrams/DevOps-svg-sprites.svg)
+![DevOps](../media/diagrams/DevOps-svg-sprites.svg)
 
 ## General
 
-![General](.../media/diagrams/General-svg-sprites.svg)
+![General](../media/diagrams/General-svg-sprites.svg)
 
 ## Identity
 
-![Identity](.../media/diagrams/Identity-svg-sprites.svg)
+![Identity](../media/diagrams/Identity-svg-sprites.svg)
 
 ## Integration
 
-![Integration](.../media/diagrams/Integration-svg-sprites.svg)
+![Integration](../media/diagrams/Integration-svg-sprites.svg)
 
 ## Internet of Things
 
-![Internet of Things](.../media/diagrams/InternetofThings-svg-sprites.svg)
+![Internet of Things](../media/diagrams/InternetofThings-svg-sprites.svg)
 
 ## Intune
 
-![Intune](.../media/diagrams/Intune-svg-sprites.svg)
+![Intune](../media/diagrams/Intune-svg-sprites.svg)
 
 ## IoT
 
-![IoT](.../media/diagrams/IoT-svg-sprites.svg)
+![IoT](../media/diagrams/IoT-svg-sprites.svg)
 
 ## Management and Governance
 
