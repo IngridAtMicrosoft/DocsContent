@@ -12,4 +12,4 @@ metadata:
   ms.prod: azure-media-services
 durationInMinutes: 1
 content: |
-  [!include[](includes/4-when-to-use-{product}.md)]
+  [!include[](includes/4-when-to-use-azure-media-services.md)]
