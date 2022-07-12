@@ -14,7 +14,7 @@ This is a sample SVG made from the available sprites.
 
 ## Diagram
 
-![Azure Monitor](./media/diagrams/Azure-Monitor.svg)
+![Azure Monitor](../media/diagrams/Azure-Monitor.svg)
 
 ## Second heading
 
