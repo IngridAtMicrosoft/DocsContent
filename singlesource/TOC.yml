@@ -14,3 +14,9 @@
       href: ./interactivegraphics/animated-interactive-svg.md
     - name: Kit and Kaboodle
       href: ./interactivegraphics/car-story-svg.md
+  - name: Learn modules
+    items:
+    - name: Azure Media Services
+      items:
+      - name: Introduction to Azure Media Services
+        href: ./learn/ams/intro/index.yml
