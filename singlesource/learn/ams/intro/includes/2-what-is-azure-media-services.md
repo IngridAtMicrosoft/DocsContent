@@ -1,129 +1,40 @@
-<!-- 1. Topic sentence(s) ---------------------------------------------------------------
+Let's start with a few definitions and a quick tour of the core features of Azure Media Services.  This overview should help you determine whether the Azure Media Services platform is a good fit for delivering streaming media.
 
-    Goal: briefly state that this unit will define the product.
+## What is media streaming?
 
-    Heading: none
+Video and audio content can be quite large. Think of how large a file for an entire, full length movie would have to be. It would take forever to download it before the viewer could enjoy it. Streaming is a way of delivering digital media to an end user in small chunks so that it can be played sooner. Additionally, streaming is a way to protect copyrighted content from being distributed without your consent, or distributed *with* your consent.
 
-    Example: "Let's start with a few definitions and a quick tour of the core features of Logic Apps. This overview should help you see whether Logic Apps might be a good fit for your work."
--->
-TODO: add your topic sentences(s)
+Live streaming, such as when a sporting event is being broadcast over the Internet, is another example of streaming.  You may want to create a subscription service where your customers are giving privileged access to extra live content that non-subscribers don't have access to.
 
-<!-- 2. Background-concept definitions (optional) ----------------------------------------
+## What is encoding?
 
-    Goal:
-        Define any needed underlying concepts or terms the learner must know to understand the product.
-        Repeat this pattern multiple times if multiple concepts are needed.
+The term *encoding* in Media Services applies to the process of converting files containing digital video and/or audio from one standard format to another, with the purpose of:
 
-    Heading:
-        "## What is (concept)?"
+- reducing the size of the files, and/or
+- producing a format that's compatible with a broad range of devices and apps.
 
-    Pattern:
-        1. H2 heading.
-        2. Lead sentence that gives a definition "(concept) is..." (ensure this is a definition, do not give use cases like "(concept) lets you...").
-        3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph).
-        4. Visual like an image, table, list, code sample, or blockquote (image preferred).
+This process is also referred to as video compression, or transcoding.
 
-    Example:
-        (Note: the product "Logic Apps" implements business processes in the cloud; therefore, "business process" is a background concept.)
-        Heading: "What is a business process?
-        Lead sentence: "A business process or _workflow_ is a sequence of tasks that produce a specific outcome. The result might be a decision, some data, or a notification...."
--->
-## What is (concept)?
-TODO: Add your lead sentence
-TODO: Add your additional text
-TODO: Add your visual element
+Videos are typically delivered to devices and apps by progressive download or through adaptive bitrate streaming.
 
-<!-- 3. Define the product -------------------------------------------------------------
+## What is video on demand (VOD)?
 
-    Goal:
-        Give a formal and precise definition of the product.
+Video on Demand is when you have a set of videos that you want to deliver to your viewers now and in the future.
 
-    Heading:
-        "## (product) definition"
+## What is live streaming?
 
-    Pattern:
-        1. H2 heading.
-        2. Lead sentence that gives a definition "(product) is..." (ensure this is a definition, do not give use cases like "(product) lets you...").
-        3. Additional text as needed (typically 1-3 paragraphs total, integrate the lead sentence into the first paragraph).
-        4. Visual like an image, table, list, code sample, or blockquote (image preferred).
+Live streaming is when you are using an on-premises encoder, such as OBS Studio or Wirecast to broadcast an event that is happening in real time. With Azure Media Services, you will create a live event and the broadcast or contribution feed to it.
 
-    Example:
-        Heading: "Azure Logic Apps definition"
-        Lead sentence: "Azure Logic Apps is a cloud service that automates the execution of your business processes."
--->
-## (product) definition
-TODO: Add your lead sentence
-TODO: Add your additional text
-TODO: Add your visual element
+You may or may not want to keep that video for your viewers to see after the event is over. In that case, the video would be archived to storage and delivered via VOD.
 
-<!-- 4. Solve the scenario -------------------------------------------------------------
+## What is content protection?
 
-    Goal:
-        At a high level, describe how the (product) solves one of the customer tasks in your (scenario).
-        Avoid teaching how to actually do the work (you're not teaching how-to-use in this module).
+Also known as Digital Rights Management (DRM), is a way of restricting access to your content through encryption, streaming policies, and content keys. A streaming policy specifies encryption options for your stream.  A content key and a content key policy are used to provide secure access to your content. You would set the requirements (restrictions) on the content key policy that must be met in order for keys to be delivered to clients.
 
-    Heading:
-        "## How to (solve scenario)"
+When a stream is requested by a player, the service evaluates the content key policy to decide if the user is authorized to get the key, the service evaluates the content key policy that you specified for the key.
 
-    Pattern:
-        1. H2 heading.
-        2. Lead sentence that summarizes how the (product) solved the (scenario).
-        3. Additional text as needed (typically 1-2 paragraphs total, integrate the lead sentence into the first paragraph).
-        4. Visual like an image, table, list, code sample, or blockquote (image preferred).
+## Azure Media Services definition
 
-    Example:
-        Heading: "How to implement a Twitter monitor"
-        Lead sentence: "To implement a Twitter monitor, you map each task to a Logic Apps component and connect them with conditional logic."
--->
-## How to (solve scenario)
-TODO: Add your lead sentence
-TODO: Add your additional text
-TODO: Add your visual element
+Azure Media Services is a cloud-based platform that enables you to build applications to deliver high-quality video streaming, ensuring secured distribution to large audiences on today's most popular mobile devices and browsers.
 
-<!-- 5. Additional content (optional, as needed) ------------------------------------------------
-
-    Goal:
-        The section is a catch-all for any information not covered in the sections above.
-        Repeat the pattern here as many times as needed.
-
-    Possible topics:
-        - Key feature(s).
-        - Example use case in addition to the scenario.
-        - High-level of how practitioners use the product (e.g. there's an API and a web UI to support multiple use cases).
-        - Business value (e.g. it lets you do something that would be difficult to achieve without (product)).
-
-    Pattern:
-        Break the content into 'chunks' where each chunk has three things:
-            1. An H2 or H3 heading describing the goal of the chunk.
-            2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph.
-            3. Visual like an image, table, list, code sample, or blockquote (image preferred).
-
-    [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=main)
--->
-
-<!-- Pattern for simple chunks (repeat as needed) -->
-## H2 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-Paragraph (optional)
-
-<!-- Pattern for complex chunks (repeat as needed) -->
-## H2 heading
-Strong lead sentence; remainder of paragraph.
-Visual (image, table, list, code sample, blockquote)
-### H3 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-### H3 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-<!-- Do not add a unit summary or references/links -->
+The rest of this module will describe how Azure Media Services works, and when to use it.

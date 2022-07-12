@@ -60,6 +60,36 @@ Paragraph (optional)
 Visual (image, table, list, code sample, blockquote)
 Paragraph (optional)
 
+The below diagram shows the workflow for encoding files with Azure Media Services.
+
+:::image type="content" source="../media/v3-encoding.svg" alt-text="encoding workflow for media services encoding":::
+
+:::image type="content" source="../media/media-services-dynamic-packaging.svg" alt-text="Diagram of media services packaging origin and delivery":::
+
+
+## What is packaging, origin and delivery?
+
+Most browsers and mobile devices on the market today support and understand the HTTP Live Streaming (HLS) or DASH streaming protocols. For example, iOS requires streams to be delivered in HLS format and Android devices support HLS as well as MPEG DASH on certain models or through the use of the application level player, Exoplayer. Azure Media Services provides built-in origin server and packaging capabilities to deliver content in HLS and MPEG DASH streaming protocol formats.
+
+A *streaming endpoint* acts as the "origin" server sending formatted HLS and DASH content to client players that support adaptive bitrate streaming using those popular formats.
+
+Here are some of the advantages of dynamic packaging:
+
+- You can store all your files in standard MP4 file format.
+- You do not need to store multiple copies of static packaged HLS and DASH formats which reduces the amount of video content stored and lowering your overall costs of storage.
+- You can instantly take advantage of new protocol updates and changes to the specifications as they evolve over time without need of re-packaging the static content in your catalog.
+- You can deliver content with or without encryption and DRM using the same MP4 files in storage.
+- You can dynamically filter or alter the manifests with simple asset-level or global filters to remove specific tracks, resolutions, languages, or provide shorter highlight clips from the same MP4 files without re-encoding or re-rendering the content.
+
+Azure Media Services offers two types of streaming video-on-demand (VOD) and live streaming.
+
+## What is live streaming?
+
+You can create a *pass-through* live event where you rely on your on-premises encoder to generate a multiple bitrate video stream and send that as the contribution feed to the live event. The live event then sends the incoming video streams to the dynamic packager (streaming endpoint) without any further transcoding. The pass-through live event is optimized for long-running live events or 24x365 linear live streaming.
+
+You may or may not want to keep that video for your viewers to see after the event is over. In that case, the video would be archived to storage and delivered via VOD.
+
+
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
 <!-- Do not add a unit summary or references/links -->
