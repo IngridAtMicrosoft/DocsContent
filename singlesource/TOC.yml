@@ -1,7 +1,5 @@
 - name: Single Source
   href: index.md
-- name: Azure Media Services
-  href: ./ams/index.md
 - name: Div test
   href: icon.md
 - name: Reuse in Graphics
