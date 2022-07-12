@@ -1,5 +1,5 @@
 ---
-title: Welcome to Single Source 
+title: Welcome to Single Source
 description: This is a repository for a single source prototype.
 author: IngridAtMicrosoft
 ms.topic: article
@@ -12,12 +12,16 @@ ms.service: media-services
 
 # Single source introduction
 
-This repo is dedicated to using single source documentation principles with GitHub. The pages here are for modeling and experimenting with content reuse.
+This is an experimental repo owned by Ingrid Henkel.
 
-## Includes
+## Experiments
 
-Resusable content is created and implemented with includes.
+- PlantUML, and reuse of SVG sprites
+- Integration of GitHub, Sharepoint and DITA
+- Interactive SVGs
+- Developing and testing Learn modules.
+- Developing and test video integration for Azure Media Services.
 
-## Code snippets
+## Contact
 
-Code snippets are in language repositories.
+Contact [inhenkel@microsoft.com](mailto:inhenkel@microsoft.com) if you have questions.
