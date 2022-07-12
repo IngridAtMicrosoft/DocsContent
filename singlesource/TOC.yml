@@ -1,22 +1,16 @@
 - name: Single Source
   href: index.md
-- name: Div test
-  href: icon.md
 - name: Reuse in Graphics
   items:
   - name: Azure Sprite Icons
-    href: all-sprites.md
+    href: ./svgsprite/all-sprites.md
   - name: Azure Monitor PRETTY diagram
-    href: azure-monitor.md
+    href: ./svgsprite/azure-monitor.md
   - name: Interactive Graphics
     items:
     - name: Basic interactive SVG
-      href: interactive-svg.md
-    - name: Animated interactive SVGgit s
-      href: animated-interactive-svg.md
+      href: ./interactivegraphics/interactive-svg.md
+    - name: Animated interactive SVG
+      href: ./interactivegraphics/animated-interactive-svg.md
     - name: Kit and Kaboodle
-      href: car-story-svg.md
-  - name: Instructional Design
-    items:
-    - name: Instructional Design Training and certification
-      href: https://www.td.org/
+      href: ./interactivegraphics/car-story-svg.md
