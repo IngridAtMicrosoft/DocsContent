@@ -4,11 +4,11 @@ metadata:
   moduleType: introduction
   title: Introduction to Azure Media Services
   description: "By the end of this module, you'll be able to evaluate whether Azure Media Services is appropriate to deliver streaming media for your organization and describe how Azure Media Services delivers streaming media."
-  ms.date: 7/12/2022             # Date of commit to GitHub (do not use target publication date, cannot be in the future)
+  ms.date: 7/12/2022
   author: IngridAtMicrosoft
-  ms.author: inhenkel           # Alias     of the Microsoft employee either authoring or project-managing this content
-  ms.topic: interactive-tutorial  # Do not edit: value must be "interactive-tutorial"
-  ms.prod: learning-azure         # Edit as appropriate for your portfolio area
+  ms.author: inhenkel
+  ms.topic: interactive-tutorial
+  ms.prod: azure-media-services
 ###########################################################################
 ###
 ### Do not edit: title must be "Introduction to (product)"
@@ -31,10 +31,7 @@ prerequisites: |
 ### Do not edit: will be replaced by the module icon when available
 ###
 iconUrl: /learn/achievements/generic-badge.svg
-###########################################################################
-###
-### Do not edit: level must be 'beginner'
-###
+
 levels:
   - beginner
 
@@ -60,10 +57,6 @@ products:
 subjects:
   - cloud-computing
 
-###########################################################################
-###
-### Do not edit: the unit names and order are exactly determined by the "Introduction to (product)" module pattern
-###
 units:
 - learn.intro.introduction
 - learn.intro.what-is-azure-media-services

@@ -88,8 +88,3 @@ Azure Media Services offers two types of streaming video-on-demand (VOD) and liv
 You can create a *pass-through* live event where you rely on your on-premises encoder to generate a multiple bitrate video stream and send that as the contribution feed to the live event. The live event then sends the incoming video streams to the dynamic packager (streaming endpoint) without any further transcoding. The pass-through live event is optimized for long-running live events or 24x365 linear live streaming.
 
 You may or may not want to keep that video for your viewers to see after the event is over. In that case, the video would be archived to storage and delivered via VOD.
-
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-<!-- Do not add a unit summary or references/links -->
