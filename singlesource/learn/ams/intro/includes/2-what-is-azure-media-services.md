@@ -6,8 +6,7 @@
 
     Example: "Let's start with a few definitions and a quick tour of the core features of Logic Apps. This overview should help you see whether Logic Apps might be a good fit for your work."
 -->
-
-Let's start with a few definitions and a quick tour of the core features of Azure Media Services.  This overview should help you decide if Azure Media Services is a good fit for your origanization.
+TODO: add your topic sentences(s)
 
 <!-- 2. Background-concept definitions (optional) ----------------------------------------
 
@@ -29,17 +28,7 @@ Let's start with a few definitions and a quick tour of the core features of Azur
         Heading: "What is a business process?
         Lead sentence: "A business process or _workflow_ is a sequence of tasks that produce a specific outcome. The result might be a decision, some data, or a notification...."
 -->
-## What is media streaming?
-TODO: Add your lead sentence
-TODO: Add your additional text
-TODO: Add your visual element
-
-## What is encoding?
-TODO: Add your lead sentence
-TODO: Add your additional text
-TODO: Add your visual element
-
-## What is Digital Rights Management?
+## What is (concept)?
 TODO: Add your lead sentence
 TODO: Add your additional text
 TODO: Add your visual element
@@ -62,7 +51,7 @@ TODO: Add your visual element
         Heading: "Azure Logic Apps definition"
         Lead sentence: "Azure Logic Apps is a cloud service that automates the execution of your business processes."
 -->
-## Azure Media Services definition
+## (product) definition
 TODO: Add your lead sentence
 TODO: Add your additional text
 TODO: Add your visual element

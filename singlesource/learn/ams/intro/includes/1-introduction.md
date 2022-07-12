@@ -10,7 +10,7 @@
 
     [Introduction unit guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=main#rule-use-the-standard-module-introduction-format)
 -->
-Azure Media Services will help you to...
+TODO: add your topic sentences(s)
 TODO: add your visual element
 
 <!-- 2. Scenario -----------------------------------------------------------------------------------------
@@ -26,7 +26,7 @@ TODO: add your visual element
     [Scenario guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-scenarios)
  -->
 ## Example scenario
-Suppose you need to encode videos and have live events...
+TODO: add your scenario
 TODO: add your image
 
 <!-- 3. Prose table-of-contents --------------------------------------------------------------------------
@@ -58,6 +58,6 @@ TODO: add your activities
 
  -->
 ## What is the main goal?
-By the end of this session, you'll be able to determine whether Azure Media Services is the right video streaming platform for your company.
+By the end of this session, you'll be able to (TODO)
 
 <!-- Do **not** include any other content like learning objectives, prerequisites, unit summary, "next unit" lead-in, or references. -->

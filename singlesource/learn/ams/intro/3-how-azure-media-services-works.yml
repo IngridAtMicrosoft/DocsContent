@@ -1,5 +1,5 @@
 ### YamlMime:ModuleUnit
-uid: learn.intro.how-{product}-works
+uid: learn.intro.how-azure-media-services-works
 title: How {product} works
 metadata:
   unitType: learning-content
@@ -9,7 +9,7 @@ metadata:
   author: IngridAtMicrosoft
   ms.author: inhenkel
   ms.topic: interactive-tutorial
-  ms.prod: azure-media-services
+  ms.prod: learning-azure # Edit as appropriate for your portfolio area
 durationInMinutes: 1
 content: |
   [!include[](includes/3-how-azure-media-services-works.md)]
