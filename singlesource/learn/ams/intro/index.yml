@@ -109,6 +109,20 @@ levels:
 ###
 roles:
   - developer
+  - administrator
+  - student
+  - business-owner
+  - devops-engineer
+  - functional-consultant
+  - identity-access-admin
+  - ip-admin
+  - network-engineer
+  - privacy-manager
+  - security-engineer
+  - service-adoption-specialist
+  - solution-architect
+  - technology-manager
+
 ###########################################################################
 ###
 ### Specify the covered products.
@@ -131,7 +145,7 @@ units:
 - learn.intro.introduction
 - learn.intro.what-is-azure-media-services
 - learn.intro.how-azure-media-services-works
-- learn.intro.when-to-use-{product}
+- learn.intro.when-to-use-azure-media-services
 - learn.intro.knowledge-check
 - learn.intro.summary
 badge:
