@@ -1,23 +1,4 @@
-<!-- 1. Topic sentence(s) --------------------------------------------------------------------------------
-
-    Goal: state what's in this unit and how it aligns to the 'describe' learning objective.
-
-    Pattern:
-        One paragraph of 2-3 sentences:
-            Sentence 1: State that this unit addresses ("how it works").
-            Sentence 2: State that this unit targets this learning objective: "Describe how (features) of (product) work to (solve problem)."
-            Sentence 3-4 (optional): Give the rationale ("helps you decide if it will meet your needs").
-        Table-of-contents as a bulleted list (do not simply list every heading you'll have on the page, group them into about 3 high-level areas).
-
-    Heading: none
-
-    Example: "Here, we'll discuss how Logic Apps works behind the scenes. You'll learn about all the pieces of Logic apps and see how they fit together into an app. This knowledge will help you decide whether Logic Apps will work for you without any customization. In cases where you do need to create custom components, you'll be able to determine how difficult it will be.
-        * Connectors, triggers, actions
-        * Control actions
-        * Logic Apps Designer"
--->
-
-Here, we'll discuss how Azure Media Services works behind the scenes. You'll learn about the parts of Azure Media Services and see how they fit together to create a streaming media application. You can use only some of these parts or all of them depending on your needs. This knowledge will help you decide whether Azure Media Services will work for you.
+Here, we'll discuss how Azure Media Services works behind the scenes. You'll learn about the some of the parts of Azure Media Services and see how they work together to create a streaming media application. This knowledge will help you decide whether Azure Media Services will work for you.
 
 * Some definitions
 * Packaging and delivery
@@ -70,7 +51,7 @@ For detailed information about Azure Media Services content protection see [Cont
 
 ## Basic video on demand for encoding and streaming workflow
 
-Before you can begin streaming with Azure Media Services, videos need to be encoded. The steps are:
+Before you can begin streaming with Azure Media Services, videos need to be properly encoded. When using Azure Media Services to encode videos, the steps are:
 
 1. Videos are uploaded and
 1. Housed in an input asset.

@@ -13,47 +13,22 @@
     * Connectors"
 
 -->
-TODO: 1-2 sentences restating the module's "evaluate" goal
-TODO: bulleted list of the decision criteria
+Our goal was to help you evaluate whether Azure Media Services would be a good choice for your business.  We developed some criteria you can use to guide your decision:
 
-<!-- 2. Show how you solved the scenario problem(s)---------------------------------------------------
+**Encoding**
+**Video on demand (VOD)**
+**Live streaming**
+**Protected content**
+**Security**
+**Scale**
+**IT professional resources**
 
-    Goal: Briefly summarize how you applied the decision criteria to the scenario problem(s). Ideally, discuss two scenarios, one where the product was appropriate and one where it wasn't.
+If you used the criteria questions and found that you answered yes to a lot of them, then you are encouraged to explore Azure Media Services further.  If you answered no to many of the questions, especially whether or not you have the IT resources to build and manage a video streaming application, then there are other services available for you to try.
 
-    Heading: none; depending on length, you can put this in a separate paragraph or combine this with the previous section into a single paragraph
+## References
 
-    Example: "We applied these criteria to our fictional shoe company. The analysis helped us see how difficult it would be to use Logic Apps for each process. Both the social-media monitor and the video archive utility used only the built-in connectors. This characteristic made them perfect for Logic Apps. The online sales portal required more work because it had complex conditionals and needed custom connectors."
- -->
-
-TODO: add your discussion of applying the criteria
-
-<!-- 3. Describe the business impact ----------------------------------------------------
-
-    Goal: explain how choosing the right product is important
-
-    Heading: none; depending on length, you can put this in a separate paragraph or combine this with the previous section into a single paragraph
-
-    Example: "The criteria help you evaluate whether your business processes are a good match for Logic Apps. First, they let you assess how well Logic Apps will solve your problem. Second, they give you an idea of the amount of customization effort involved in using them for your task. This process should give you enough information to choose the right product for your work."
- -->
-TODO: describe the business impact
-
-<!-- 4. References (optional) ----------------------------------------------------
-
-    Goal: Provide a few recommendations for further study via a bulleted list of links. This is optional and intended to be used sparingly.
-        - use the target page title as the text for your link
-        - do not include other text such as a description
-        - prefer other first-party sites like Docs reference pages
-        - link to third-party sites only when they are trusted and authoritative
-        - do not link to other Learn content ("next steps" recommendations are generated automatically)
-        - avoid linking to opinion sites such as blog posts
-
-    Heading: "## References"
-
-    Example:
-        "References
-        * [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)
-        * [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
-        * [Manage access to billing information for Azure](https://docs.microsoft.com/azure/billing/billing-manage-access)"
- -->
-
-<!-- Do not include any other content -->
+- [Azure Media Services overview](/azure/media-services/latest/media-services-overview)
+- [Encoding video and audio with Media Services](/azure/media-services/latest/encode-concept)
+- [Live streaming with Azure Media Services v3](/azure/media-services/latest/stream-live-streaming-concept)
+- [Dynamic packaging in Media Services v3](/azure/media-services/latest/encode-dynamic-packaging-concept)
+- [Content protection with dynamic encryption and key delivery](/azure/media-services/latest/drm-content-protection-concept)
