@@ -118,4 +118,4 @@ When you can also use Azure Media Services to encode the live events for you. In
 
 ## Security
 
-Discussing securing the Azure resources in your application architecture is beyond the scope of this introduction. However, security is mentioned here so you can be azzured that there are methods for securing your accounts, keys, and network. For detailed information about securing Azure Media Services resources, see [Azure security baseline for Azure Media Services](/security/benchmark/azure/baselines/media-services-security-baseline).
+Discussing securing the Azure resources in your application architecture is beyond the scope of this introduction. However, security is mentioned here so you can be assured that there are methods for securing your accounts, keys, and network. For detailed information about securing Azure Media Services resources, see [Azure security baseline for Azure Media Services](/security/benchmark/azure/baselines/media-services-security-baseline).
