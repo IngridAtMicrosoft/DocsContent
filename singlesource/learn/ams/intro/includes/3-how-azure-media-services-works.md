@@ -66,7 +66,7 @@ When a stream is requested by a player, Media Services uses the specified key to
 
 :::image type="content" source="../media/content-protection.svg" alt-text="azure media services content protection":::
 
-For detailed information about Azure Media Services content protection see [Content protection with dynamic encryption and key delivery](https://docs.microsoft.com/azure/media-services/latest/drm-content-protection-concept), [Streaming policies](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-policy-concept), and [Content key policies](https://docs.microsoft.com/en-us/azure/media-services/latest/drm-content-key-policy-concept).
+For detailed information about Azure Media Services content protection see [Content protection with dynamic encryption and key delivery](/azure/media-services/latest/drm-content-protection-concept), [Streaming policies](/azure/media-services/latest/stream-streaming-policy-concept), and [Content key policies](/azure/media-services/latest/drm-content-key-policy-concept).
 
 ## Basic video on demand for encoding and streaming workflow
 
@@ -118,4 +118,4 @@ When you can also use Azure Media Services to encode the live events for you. In
 
 ## Security
 
-Discussing securing the Azure resources in your application architecture is beyond the scope of this introduction. However, security is mentioned here so you can be azzured that there are methods for securing your accounts, keys, and network. For detailed information about securing Azure Media Services resources, see [Azure security baseline for Azure Media Services](https://docs.microsoft.com/security/benchmark/azure/baselines/media-services-security-baseline).
+Discussing securing the Azure resources in your application architecture is beyond the scope of this introduction. However, security is mentioned here so you can be azzured that there are methods for securing your accounts, keys, and network. For detailed information about securing Azure Media Services resources, see [Azure security baseline for Azure Media Services](/security/benchmark/azure/baselines/media-services-security-baseline).
