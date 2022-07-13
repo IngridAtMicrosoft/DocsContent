@@ -19,9 +19,13 @@
 
 Here, we'll discuss how you can decide whether Azure Media Services is the right choice for your video streaming needs. We'll list some criteria that indicate whether Azure Media Service will meet your performance and functional goals.
 
-* Enterprise level applications
-* TODO
-* TODO
+**Encoding**
+**Video on demand (VOD)**
+**Live streaming**
+**Protected content**
+**Security**
+**Scale**
+**IT professional resources**
 
 <!-- 2. Decision criteria introduction --------------------------------------------------------------------------------
 
@@ -43,9 +47,8 @@ Here, we'll discuss how you can decide whether Azure Media Services is the right
 
 Azure Media Services helps medium to large enterprise customers deliver streaming media for subscription services, corporate or government Intranets, or customers who anticipate serving a large regional or global audience at scale. Azure Media Services might not be the best option if you are a small business or individual.
 
-| | |
+| **Criteria** | **Analysis** |
 | --- | --- |
-| **Criteria** | **Analysis**|
 | **Encoding** | Will you need to reach viewers on a variety of devices, browsers, and Internet connection speeds? |
 | **Video on demand (VOD_** | Do you need to deliver a library of videos to viewers when they want it?  |
 | **Live streaming** | Will you need to reach an audience in real time? |
