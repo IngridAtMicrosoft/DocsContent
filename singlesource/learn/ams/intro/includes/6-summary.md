@@ -1,18 +1,3 @@
-<!-- 1. Goal and criteria-----------------------------------------------------------------------------
-
-    Goal: Recap that this module's goal is 'evaluate' using the provided decision criteria.
-
-    Format: Short text followed by a bulleted list of the decision criteria developed in the "When to use (product)" unit.
-
-    Heading: none
-
-    Example: "Our goal was to help you evaluate whether Logic Apps would be a good choice for your business process. We developed some criteria you can use to guide your decision:
-    * Integration
-    * Performance
-    * Conditionals
-    * Connectors"
-
--->
 Our goal was to help you evaluate whether Azure Media Services would be a good choice for your business.  We developed some criteria you can use to guide your decision:
 
 **Encoding**
@@ -24,6 +9,8 @@ Our goal was to help you evaluate whether Azure Media Services would be a good c
 **IT professional resources**
 
 If you used the criteria questions and found that you answered yes to a lot of them, then you are encouraged to explore Azure Media Services further.  If you answered no to many of the questions, especially whether or not you have the IT resources to build and manage a video streaming application, then there are other services available for you to try.
+
+That said, if you want dive deeper while evaluating Azure Media Services, you can read the documents listed in the references section below or get your hands dirty with the quickstarts, tutorials and samples in the [Azure Media Services documentation](https://docs.microsoft.com/en-us/azure/media-services/latest/).
 
 ## References
 
