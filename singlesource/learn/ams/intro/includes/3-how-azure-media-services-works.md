@@ -16,58 +16,33 @@
         * Control actions
         * Logic Apps Designer"
 -->
-TODO: add your topic sentences(s)
-TODO: add your bulleted list of key things covered
-* TODO
-* TODO
-* TODO
 
-<!-- 2. Chunked content-------------------------------------------------------------------------------------
+Here, we'll discuss how Azure Media Services works behind the scenes. You'll learn about the parts of Azure Media Services and see how they fit together to create a streaming media application. You can use only some of these parts or all of them depending on your needs. This knowledge will help you decide whether Azure Media Services will work for you.
 
-    Goal:
-        Cover the components of (product) and how they work.
-        Repeat this pattern multiple times as needed.
+* Some definitions
+* Packaging and delivery
+* Content protection
+* Basic video on demand for encoding and streaming workflow
+* Live streaming workflow
+* Security
 
-    Pattern:
-        Break the content into 'chunks' where each chunk has three things:
-            1. An H2 or H3 heading describing the goal of the chunk.
-            2. 1-3 paragraphs of text, with a strong lead sentence in the first paragraph.
-            3. Visual like an image, table, list, code sample, or blockquote.
+## Some definitions
 
-    [Learning-unit structural guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-structure-learning-content?branch=main)
--->
+- **Asset** - an Azure Storage block blob container. It contains all the files related to one piece of media such as MP4 files as well as manifests, captions, and other data. It can be used to store files for video on demand, encoding inputs and outputs, live streaming outputs, etc.
+- **Input asset** - an Azure Storage blob container that holds the original (mezzanine) files that are to be encoded.
+- **Output asset** - an Azure Storage blob container that contains all of the files produced by the encoder as well as files needed for streaming the videos.
+- **Transform** - the "recipe" that applies tells Azure Media Services which encoders to use while encoding the mezzanine file.
+- **Job** - the actual encoding job where the transform is applied to the mezzanine file.
+- **Streaming endpoint** - A streaming endpoint is a dynamic packaging and origin service that delivers live and on-demand content directly to a client player app, using one of the common streaming media protocols (HLS or DASH). It also provides dynamic encryption for digital rights management.
+- **Streaming locator** - an entity in Azure Media Services that builds streaming URLs for assets.
+- **Streaming URL** - a URL that tells the browser what to play and how to play it.
+- **Streaming policy** - defines the streaming protocols and encryption options for streaming locators.
+- **Content key** - provides secure access to an asset.
+- **Content key policy** - used to configure how a content key is delivered to media players.
+- **Digtal Rights Management (DRM)** - a way of protecting content from being played unless certain criteria are met such as allowing playback during a period of time or only by certain devices. DRM technologies include Apple FairPlay, Google Widevine, and Microsoft's PlayReady.
+- **DRM license** - a document that communicates the restrictions placed on the content by digital rights management.
 
-<!-- Pattern for simple topic -->
-## H2 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-Paragraph (optional)
-
-<!-- Pattern for complex topic -->
-## H2 heading
-Strong lead sentence; remainder of paragraph.
-Visual (image, table, list, code sample, blockquote)
-### H3 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-### H3 heading
-Strong lead sentence; remainder of paragraph.
-Paragraph (optional)
-Visual (image, table, list, code sample, blockquote)
-Paragraph (optional)
-
-The below diagram shows the workflow for encoding files with Azure Media Services.
-
-:::image type="content" source="../media/v3-encoding.svg" alt-text="encoding workflow for media services encoding":::
-
-:::image type="content" source="../media/media-services-dynamic-packaging.svg" alt-text="Diagram of media services packaging origin and delivery":::
-
-
-## What is packaging, origin and delivery?
+## Packaging and delivery
 
 Most browsers and mobile devices on the market today support and understand the HTTP Live Streaming (HLS) or DASH streaming protocols. For example, iOS requires streams to be delivered in HLS format and Android devices support HLS as well as MPEG DASH on certain models or through the use of the application level player, Exoplayer. Azure Media Services provides built-in origin server and packaging capabilities to deliver content in HLS and MPEG DASH streaming protocol formats.
 
@@ -81,10 +56,66 @@ Here are some of the advantages of dynamic packaging:
 - You can deliver content with or without encryption and DRM using the same MP4 files in storage.
 - You can dynamically filter or alter the manifests with simple asset-level or global filters to remove specific tracks, resolutions, languages, or provide shorter highlight clips from the same MP4 files without re-encoding or re-rendering the content.
 
-Azure Media Services offers two types of streaming video-on-demand (VOD) and live streaming.
+## Content protection
 
-## What is live streaming?
+You can deliver your live and on-demand content encrypted dynamically with Advanced Encryption Standard (AES-128) or any of the three major digital rights management (DRM) systems: Microsoft PlayReady, Google Widevine, and Apple FairPlay. FairPlay Streaming is an Apple technology that is only available for video transferred over HTTP Live Streaming (HLS) on iOS devices, in Apple TV, and in Safari on macOS.
 
-You can create a *pass-through* live event where you rely on your on-premises encoder to generate a multiple bitrate video stream and send that as the contribution feed to the live event. The live event then sends the incoming video streams to the dynamic packager (streaming endpoint) without any further transcoding. The pass-through live event is optimized for long-running live events or 24x365 linear live streaming.
+Media Services also provides a service for delivering AES keys and DRM (PlayReady, Widevine, and FairPlay) licenses to authorized clients. If content is encrypted with an AES clear key and is sent over HTTPS, it is not in clear until it reaches the client.
 
-You may or may not want to keep that video for your viewers to see after the event is over. In that case, the video would be archived to storage and delivered via VOD.
+When a stream is requested by a player, Media Services uses the specified key to dynamically encrypt your content by using AES clear key or DRM encryption. To decrypt the stream, the player requests the key from Media Services key delivery service or the key delivery service you specified. To decide if the user is authorized to get the key, the service evaluates the content key policy that you specified for the key.
+
+:::image type="content" source="../media/content-protection.svg" alt-text="azure media services content protection":::
+
+For detailed information about Azure Media Services content protection see [Content protection with dynamic encryption and key delivery](https://docs.microsoft.com/azure/media-services/latest/drm-content-protection-concept), [Streaming policies](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-policy-concept), and [Content key policies](https://docs.microsoft.com/en-us/azure/media-services/latest/drm-content-key-policy-concept).
+
+## Basic video on demand for encoding and streaming workflow
+
+Before you can begin streaming with Azure Media Services, videos need to be encoded. The steps are:
+
+1. Videos are uploaded and
+1. Housed in an input asset.
+1. One or more encoding presets are chosen for the transform.
+1. A transform is created.
+1. A job is created and started.
+1. The job creates an output asset that houses the encoded files along with the files needed for streaming.
+1. A streaming policy is selected while creating a streaming locator an asset.
+1. Streaming URLs are created which are then used by the player as the source value.
+
+:::image type="content" source="../media/vod-process.svg" alt-text="azure media services vod application workflow" lightbox="../media/vod-process.svg" :::
+
+## Live streaming workflow
+
+There are two ways to set up live streaming, as pass-through events or a live encoding event.
+
+### Pass-through events
+
+When you create a pass-through event, the on-premises encoder generates a *multiple-bitrate video stream* and sends it as the contribution feed to a live event. The live event sends the incoming video stream to the streaming endpoint.
+
+1. An Azure Media Services Live event is set up to receive a broadcast from an on-premises encoder.
+1. An on-premises encoder is set up to send a broadcast to the live event as a *multiple-bitrate video stream*.
+1. The live event and broadcasting is started.
+    1. If live transcription is used, a transcript of the video is dynamically generated and saved to an output asset.
+1. The live event is streamed with the streaming endpoint using the HLS, DASH or Smooth Streaming protocols.
+    1. If DRM is used, the video is encrypted. When the player requests a video, Azure Media Services key delivery service checks whether the player is allowed to decrypt and play the content.
+
+When the live event is over, you can choose to archive the output files for use with a VOD application.
+
+:::image type="content" source="../media/pass-through.svg" alt-text="Azure Media Services pass-through event" lightbox="../media/pass-through.svg":::
+
+### Live encoding events
+
+When you can also use Azure Media Services to encode the live events for you. In this case, the on-premises encoder would be set up to generate a *single bitrate video stream*.
+
+1. An Azure Media Services Live event is set up to receive a broadcast from an on-premises encoder as a *single bitrate video stream*.
+1. An on-premises encoder is set up to send a broadcast to the live event.
+1. The live event and broadcasting is started.
+    1. The live encoder encodes the incoming single bitrate stream to multiple bitrate streams.
+    1. If live transcription is used, a transcript of the video is dynamically generated and saved to an output asset.
+1. The live event is streamed with the streaming endpoint using the HLS, DASH or Smooth Streaming protocols.
+    1. If DRM is used, the video is encrypted. When the player requests a video, Azure Media Services key delivery service checks whether the player is allowed to decrypt and play the content.
+
+:::image type="content" source="../media/live-encoding.svg" alt-text="azure media services live encoding":::
+
+## Security
+
+Discussing securing the Azure resources in your application architecture is beyond the scope of this introduction. However, security is mentioned here so you can be azzured that there are methods for securing your accounts, keys, and network. For detailed information about securing Azure Media Services resources, see [Azure security baseline for Azure Media Services](https://docs.microsoft.com/security/benchmark/azure/baselines/media-services-security-baseline).
