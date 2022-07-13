@@ -37,58 +37,58 @@ durationInMinutes: 1
 content: |
 quiz:
   questions:
-  - content: ""
+  - content: "If you wanted to use Azure Media Services to encode the video from a live stream, what bitrate would you send from the on-premises encoder?"
     choices:
-    - content: ""
+    - content: "A single bitrate stream"
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "Correct.  A single bitrate stream would be sent to and consumed by the live event."
+    - content: "A multiple bitrate stream"
       isCorrect: false
-      explanation: ""
-    - content: ""
+      explanation: "Incorrect. A single bitrate stream would be sent to and consumed by the live event."
+    - content: "An adaptive bitrate stream"
       isCorrect: false
-      explanation: ""
-  - content: ""
+      explanation: "Incorrect. A single bitrate stream would be sent to and consumed by the live event."
+  - content: "If you wanted to restrict access to a video, which of the choices below could you use?"
     choices:
-    - content: ""
+    - content: "A streaming policy with a content policy and content key."
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "Correct.  If you have created a content policy and key, they can be reused for multiple videos."
+    - content: "A transcription policy with a content policy and content key"
       isCorrect: false
-      explanation: ""
-    - content: ""
+      explanation: "Incorrect. There is no such thing as a transcription policy. You would use a streaming policy with a content policy and content key."
+    - content: "An IP access allow list."
       isCorrect: false
-      explanation: ""
-  - content: ""
+      explanation: "No. An IP access allow list will not restrict access to one particular video. You would use a streaming policy with a content policy and content key."
+  - content: "An individual with an Etsy store wants to create a library of videos that show how to use their product. They usually sell about 20 items a month that are priced at $20 each. How should they use Azure Media Services?"
     choices:
-    - content: ""
+    - content: "They shouldn't."
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "Correct. Azure Media Services is designed for enterprise level customers."
+    - content: "They would create a streaming application including a player, then upload videos, encode them, use the streaming URLs with the player and leave the streaming endpoint running all the time."
       isCorrect: false
-      explanation: ""
-    - content: ""
+      explanation: "No. Azure Media Services is designed for enterprise level customers."
+    - content: "They would stream daily live events, creating a library out of the video stream archive."
       isCorrect: false
-      explanation: ""
-  - content: ""
+      explanation: "No. Azure Media Services is designed for enterprise level customers."
+  - content: "A large corporation with 10,000 global employees wants to create a video library for its SharePoint site. They are already using Azure Active Directory. How would they restrict access to only the employees in Accounting?"
     choices:
-    - content: ""
+    - content: "They would use a content key policy that allowed access only to users in the Accounting department."
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "Correct. A content key policy can be used to establish the values that should presented by the user in order to gain access to video content."
+    - content: "They would edit the IP allow list to restrict access to only those IP addresses that are assigned to Accounting."
       isCorrect: false
-      explanation: ""
-    - content: ""
+      explanation: "No. A content key policy can be used to establish the values that should presented by the user in order to gain access to video content."
+    - content: "They would add a video player to the SharePoint page, then restrict access to the page to Accounting."
       isCorrect: false
-      explanation: ""
-  - content: ""
+      explanation: "No. Anyone with access to the page could view the page source to get the source URL of the video then use it with a different player. A content key policy can be used to establish the values that should presented by the user in order to gain access to video content."
+  - content: "A company that makes wearable IoT devices wants to test live streaming its presence at an industry convention to see if this kind of thing helps with marketing their products. They have about 20,000 customers located in one region. Should they use Azure Media Services?"
     choices:
-    - content: ""
+    - content: "Yes, because they will get a realistic understanding of their audience size and be able to anticipate what they will need for future marketing activities that involve live streaming."
       isCorrect: true
-      explanation: ""
-    - content: ""
+      explanation: "Correct, this is a good way to evaluate whether Azure Media Services is the right fit for the long term."
+    - content: "Yes, because Azure Media Services is the only media streaming services that will meet their needs."
       isCorrect: false
-      explanation: ""
-    - content: ""
+      explanation: "No. There are other services that might be better for their budget and their current IT staffing."
+    - content: "Yes, because the IoT devices the produce are also supported by Azure."
       isCorrect: false
-      explanation: ""
+      explanation: "No...unless the IoT device delivers video..."
