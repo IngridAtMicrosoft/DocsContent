@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-player-analytics"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Apollo migrated file - Azure Media Player analytics"
@@ -17,7 +18,7 @@ ms.service: media-services
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="a9036f12-bfde-7afb-6d76-7a3b7bad3096" />
+  supporttopicids="a9036f12-bfde-7afb-6d76-7a3b7bad3096" /> -->
 # Azure Media Player analytics
 
 ## Understanding the client experience using analytics with Azure Media Player

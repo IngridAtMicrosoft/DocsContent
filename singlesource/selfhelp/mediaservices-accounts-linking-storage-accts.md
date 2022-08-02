@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Azure Media Services linking and managing storage accounts"
 	description="Azure Media Services linking and managing storage accounts"
 	infoBubbleText=""
@@ -22,7 +23,7 @@ ms.service: media-services
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # Azure Media Services linking and managing storage accounts
 

@@ -1,15 +1,12 @@
 ---
 title: ""
----
-title: ""
-description: "Description goes here."
+description: ""
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
-
-<properties
+<!-- <properties
 	pageTitle="Account management error messages"
 	description="Account management error messages"
 	service="microsoft.media"
@@ -25,7 +22,7 @@ ms.service: media-services
 	productPesIds="14885"
 	cloudEnvironments="public, mooncake, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 # Account management error messages
 ## **Recommended Documents**
 

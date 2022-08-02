@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
     pageTitle="Connect to Azure"
     description="Apollo migrated file - Connect to Azure"
     ms.author="t-reutam"
@@ -16,7 +17,7 @@ ms.service: media-services
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="c5e09f82-e517-428b-e12f-7e3cc5b639d4"
     resourcerequired="false"
-/>
+/> -->
 
 # Connect to Azure
 

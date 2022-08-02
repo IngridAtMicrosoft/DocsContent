@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
     pageTitle="What are the capabilities of Media Analytics?"
     description="What are the capabilities of Media Analytics?"
     service="microsoft.media"
@@ -19,7 +20,7 @@ ms.service: media-services
     cloudEnvironments="public, fairfax, usnat, ussec"
  	articleId="bb420f91-7bee-4f28-9ae9-a33b0921598b"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # What are the capabilities of Media Analytics?
 

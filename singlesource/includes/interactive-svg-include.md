@@ -4,6 +4,7 @@ ms.author: inhenkel
 ms.topic: include
 ms.date: 08/26/2021
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
 <Token>
@@ -62,7 +63,7 @@ ms.service: media-services
     src:url(/static/third-party/SegoeUIWeb/1.01.206/SegoeUI-Roman-VF_web.woff2) format("woff2"),
     url(/static/third-party/SegoeUIWeb/1.01.206/SegoeUI-Roman-VF_web.woff) format("woff"),
     url(/static/third-party/SegoeUIWeb/1.01.206/SegoeUI-Roman-VF_web.ttf) format("ttf");font-weight:100 700}
-    
+
     @font-face{
         font-family:SegoeUI;
         src:url(/static/third-party/SegoeUI/5.32/west-european/italic/latest.eot);
@@ -81,11 +82,11 @@ ms.service: media-services
 		.st7 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st8 {fill:#1076a7;font-family:Segoe UI;font-size:0.666664em}
 		.st9 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
-		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3} 
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 }
 
 	]]>
-  
+
 	</style>
 
 	<defs

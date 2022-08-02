@@ -6,6 +6,7 @@ ms.topic: concept
 ms.date: 09/02/2021
 ms.author: inhenkel
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
 # Animated interactive architectural diagram SVG

@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Azure Media Player how to embed the player"
 	description="Azure Media Player how to embed the player"
 	infoBubbleText=""
@@ -22,7 +23,7 @@ ms.service: media-services
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # Azure Media Player how to embed the player
 
@@ -39,7 +40,7 @@ This section shows you the basic steps without going into details. Sections that
 
 ```
 <video id="vid1" class="azuremediaplayer amp-default-skin" autoplay controls width="640" height="400" poster="poster.jpg" data-setup='{"nativeControlsForTouch": false}'>
-    <source src="http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism/manifest" type="application/vnd.ms-sstr+xml" />
+    <source src="http://amssamples.streaming.mediaservices.windows.net/91492735-c523-432b-ba01-faba6c2206a2/AzureMediaServicesPromo.ism/manifest" type="application/vnd.ms-sstr+xml" /> -->
     <p class="amp-no-js">
         To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
     </p>

@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Manage access policies quotas"
 	description="Manage access policies quotas"
 	service="microsoft.media"
@@ -21,7 +22,7 @@ ms.service: media-services
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # Manage access policies quotas
 

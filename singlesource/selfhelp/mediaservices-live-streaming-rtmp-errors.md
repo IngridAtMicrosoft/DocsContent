@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Live streaming and RTMP error"
 	description="Live streaming and RTMP error"
 	infoBubbleText=""
@@ -22,7 +23,7 @@ ms.service: media-services
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # Live streaming and RTMP error
 
@@ -32,7 +33,7 @@ When streaming via RTMP, check firewall and/or proxy settings to confirm that ou
 
 Media Services recommends using one of following live encoders that have RTMP as output. The supported URL schemes are *rtmp://* or *rtmps://*.
 
-**NOTE:** When streaming via RTMP, check firewall and/or proxy settings to confirm that outbound TCP ports 1935 and 1936 are open.<br/>
+**NOTE:** When streaming via RTMP, check firewall and/or proxy settings to confirm that outbound TCP ports 1935 and 1936 are open.<br/> -->
  When streaming via RTMPS, check firewall and/or proxy settings to confirm that outbound TCP ports 2935 and 2936 are open.
 
 - Adobe Flash Media Live Encoder 3.2
@@ -65,7 +66,7 @@ Vanity mode is preferred by large media broadcasters who use hardware broadcast 
 
 Live ingest URL naming rules:
 
-The *random* string below is a 128-bit hex number (which is composed of 32 characters of 0-9 a-f).<br/>
+The *random* string below is a 128-bit hex number (which is composed of 32 characters of 0-9 a-f).<br/> -->
 The *access token* below is what you need to specify for fixed URL. It is also 128 bit hex number.
 
 Non-vanity RTMP URL:

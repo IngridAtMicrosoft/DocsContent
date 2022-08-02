@@ -20,7 +20,7 @@
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /> -->
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,7 +43,7 @@
      inkscape:window-x="1971"
      inkscape:window-y="12"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg4455" />
+     inkscape:current-layer="svg4455" /> -->
   <defs
      id="defs3080">
     <linearGradient
@@ -56,10 +56,10 @@
       <stop
          offset="0"
          stop-color="#fff"
-         id="stop2238" />
+         id="stop2238" /> -->
       <stop
          offset="1"
-         id="stop2240" />
+         id="stop2240" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient"
@@ -70,30 +70,30 @@
       <stop
          offset="0.17"
          stop-color="#fff"
-         id="stop2243" />
+         id="stop2243" /> -->
       <stop
          offset="0.25"
          stop-color="#cdcdcd"
-         id="stop2245" />
+         id="stop2245" /> -->
       <stop
          offset="0.36"
          stop-color="#858585"
-         id="stop2247" />
+         id="stop2247" /> -->
       <stop
          offset="0.47"
          stop-color="#4c4c4c"
-         id="stop2249" />
+         id="stop2249" /> -->
       <stop
          offset="0.56"
          stop-color="#232323"
-         id="stop2251" />
+         id="stop2251" /> -->
       <stop
          offset="0.63"
          stop-color="#090909"
-         id="stop2253" />
+         id="stop2253" /> -->
       <stop
          offset="0.67"
-         id="stop2255" />
+         id="stop2255" /> -->
     </radialGradient>
     <linearGradient
        id="linear-gradient-2"
@@ -105,10 +105,10 @@
       <stop
          offset="0.29"
          stop-color="#fff"
-         id="stop2258" />
+         id="stop2258" /> -->
       <stop
          offset="0.8"
-         id="stop2260" />
+         id="stop2260" /> -->
     </linearGradient>
     <linearGradient
        id="linear-gradient-3"
@@ -120,26 +120,26 @@
       <stop
          offset="0"
          stop-color="#fff"
-         id="stop2263" />
+         id="stop2263" /> -->
       <stop
          offset="0.29"
          stop-color="#a5a5a5"
-         id="stop2265" />
+         id="stop2265" /> -->
       <stop
          offset="0.54"
          stop-color="#5f5f5f"
-         id="stop2267" />
+         id="stop2267" /> -->
       <stop
          offset="0.75"
          stop-color="#2b2b2b"
-         id="stop2269" />
+         id="stop2269" /> -->
       <stop
          offset="0.91"
          stop-color="#0c0c0c"
-         id="stop2271" />
+         id="stop2271" /> -->
       <stop
          offset="1"
-         id="stop2273" />
+         id="stop2273" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient-2"
@@ -150,30 +150,30 @@
       <stop
          offset="0.37"
          stop-color="#fff"
-         id="stop2276" />
+         id="stop2276" /> -->
       <stop
          offset="0.41"
          stop-color="#c6c6c6"
-         id="stop2278" />
+         id="stop2278" /> -->
       <stop
          offset="0.47"
          stop-color="gray"
-         id="stop2280" />
+         id="stop2280" /> -->
       <stop
          offset="0.52"
          stop-color="#494949"
-         id="stop2282" />
+         id="stop2282" /> -->
       <stop
          offset="0.56"
          stop-color="#212121"
-         id="stop2284" />
+         id="stop2284" /> -->
       <stop
          offset="0.6"
          stop-color="#090909"
-         id="stop2286" />
+         id="stop2286" /> -->
       <stop
          offset="0.62"
-         id="stop2288" />
+         id="stop2288" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-3"
@@ -184,10 +184,10 @@
       <stop
          offset="0"
          stop-color="#fff"
-         id="stop2291" />
+         id="stop2291" /> -->
       <stop
          offset="0.45"
-         id="stop2293" />
+         id="stop2293" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-4"
@@ -197,54 +197,54 @@
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.26"
-         id="stop2296" />
+         id="stop2296" /> -->
       <stop
          offset="0.31"
          stop-color="#393939"
-         id="stop2298" />
+         id="stop2298" /> -->
       <stop
          offset="0.37"
          stop-color="#7f7f7f"
-         id="stop2300" />
+         id="stop2300" /> -->
       <stop
          offset="0.42"
          stop-color="#b6b6b6"
-         id="stop2302" />
+         id="stop2302" /> -->
       <stop
          offset="0.47"
          stop-color="#dedede"
-         id="stop2304" />
+         id="stop2304" /> -->
       <stop
          offset="0.5"
          stop-color="#f6f6f6"
-         id="stop2306" />
+         id="stop2306" /> -->
       <stop
          offset="0.53"
          stop-color="#fff"
-         id="stop2308" />
+         id="stop2308" /> -->
       <stop
          offset="0.55"
          stop-color="#f4f4f4"
-         id="stop2310" />
+         id="stop2310" /> -->
       <stop
          offset="0.58"
          stop-color="#d5d5d5"
-         id="stop2312" />
+         id="stop2312" /> -->
       <stop
          offset="0.62"
          stop-color="#a4a4a4"
-         id="stop2314" />
+         id="stop2314" /> -->
       <stop
          offset="0.67"
          stop-color="#606060"
-         id="stop2316" />
+         id="stop2316" /> -->
       <stop
          offset="0.73"
          stop-color="#0a0a0a"
-         id="stop2318" />
+         id="stop2318" /> -->
       <stop
          offset="0.74"
-         id="stop2320" />
+         id="stop2320" /> -->
     </radialGradient>
     <linearGradient
        id="linear-gradient-4"
@@ -256,30 +256,30 @@
       <stop
          offset="0"
          stop-color="#fff"
-         id="stop2323" />
+         id="stop2323" /> -->
       <stop
          offset="0.08"
          stop-color="#dedede"
-         id="stop2325" />
+         id="stop2325" /> -->
       <stop
          offset="0.27"
          stop-color="#909090"
-         id="stop2327" />
+         id="stop2327" /> -->
       <stop
          offset="0.44"
          stop-color="#525252"
-         id="stop2329" />
+         id="stop2329" /> -->
       <stop
          offset="0.58"
          stop-color="#262626"
-         id="stop2331" />
+         id="stop2331" /> -->
       <stop
          offset="0.69"
          stop-color="#0a0a0a"
-         id="stop2333" />
+         id="stop2333" /> -->
       <stop
          offset="0.76"
-         id="stop2335" />
+         id="stop2335" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient-5"
@@ -290,14 +290,14 @@
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.41"
-         id="stop2338" />
+         id="stop2338" /> -->
       <stop
          offset="0.73"
          stop-color="#ccc"
-         id="stop2340" />
+         id="stop2340" /> -->
       <stop
          offset="0.97"
-         id="stop2342" />
+         id="stop2342" /> -->
     </radialGradient>
     <linearGradient
        id="linear-gradient-5"
@@ -309,54 +309,54 @@
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.46"
-         id="stop2345" />
+         id="stop2345" /> -->
       <stop
          offset="0.48"
          stop-color="#030303"
-         id="stop2347" />
+         id="stop2347" /> -->
       <stop
          offset="0.5"
          stop-color="#0b0b0b"
-         id="stop2349" />
+         id="stop2349" /> -->
       <stop
          offset="0.52"
          stop-color="#1a1a1a"
-         id="stop2351" />
+         id="stop2351" /> -->
       <stop
          offset="0.53"
          stop-color="#303030"
-         id="stop2353" />
+         id="stop2353" /> -->
       <stop
          offset="0.54"
          stop-color="#4b4b4b"
-         id="stop2355" />
+         id="stop2355" /> -->
       <stop
          offset="0.55"
          stop-color="#6d6d6d"
-         id="stop2357" />
+         id="stop2357" /> -->
       <stop
          offset="0.57"
          stop-color="#959595"
-         id="stop2359" />
+         id="stop2359" /> -->
       <stop
          offset="0.58"
          stop-color="#c3c3c3"
-         id="stop2361" />
+         id="stop2361" /> -->
       <stop
          offset="0.59"
          stop-color="#f7f7f7"
-         id="stop2363" />
+         id="stop2363" /> -->
       <stop
          offset="0.59"
          stop-color="#fff"
-         id="stop2365" />
+         id="stop2365" /> -->
       <stop
          offset="0.68"
          stop-color="#fff"
-         id="stop2367" />
+         id="stop2367" /> -->
       <stop
          offset="0.98"
-         id="stop2369" />
+         id="stop2369" /> -->
     </linearGradient>
     <linearGradient
        id="linear-gradient-6"
@@ -368,10 +368,10 @@
       <stop
          offset="0.14"
          stop-color="#fff"
-         id="stop2372" />
+         id="stop2372" /> -->
       <stop
          offset="1"
-         id="stop2374" />
+         id="stop2374" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient-6"
@@ -381,27 +381,27 @@
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0.54"
-         id="stop2377" />
+         id="stop2377" /> -->
       <stop
          offset="0.6"
          stop-color="#060606"
-         id="stop2379" />
+         id="stop2379" /> -->
       <stop
          offset="0.69"
          stop-color="#151515"
-         id="stop2381" />
+         id="stop2381" /> -->
       <stop
          offset="0.76"
          stop-color="#2a2a2a"
-         id="stop2383" />
+         id="stop2383" /> -->
       <stop
          offset="0.82"
          stop-color="#adadad"
-         id="stop2385" />
+         id="stop2385" /> -->
       <stop
          offset="0.92"
          stop-color="#fff"
-         id="stop2387" />
+         id="stop2387" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-7"
@@ -412,22 +412,22 @@
       <stop
          offset="0.51"
          stop-color="#fff"
-         id="stop2390" />
+         id="stop2390" /> -->
       <stop
          offset="0.68"
          stop-color="#eae9ea"
-         id="stop2392" />
+         id="stop2392" /> -->
       <stop
          offset="1"
          stop-color="#c5c4c7"
-         id="stop2394" />
+         id="stop2394" /> -->
     </radialGradient>
     <clipPath
        id="clip-path">
       <path
          d="M636.17,151.29a15,15,0,0,0-8.45-2.61h0a15.06,15.06,0,0,0-8.46,2.61,14.59,14.59,0,0,0-2.08,1.73h0a15,15,0,0,0-1.13,20.1,17.3,17.3,0,0,0,1.8,1.87,15,15,0,0,0,19.74,0,15.36,15.36,0,0,0,1.8-1.87,15,15,0,0,0-1.13-20.1A16.24,16.24,0,0,0,636.17,151.29Z"
          fill="none"
-         id="path2397" />
+         id="path2397" /> -->
     </clipPath>
     <radialGradient
        id="radial-gradient-8"
@@ -439,31 +439,31 @@
       <stop
          offset="0.46"
          stop-color="#a7ca3b"
-         id="stop2400" />
+         id="stop2400" /> -->
       <stop
          offset="0.58"
          stop-color="#82c12f"
-         id="stop2402" />
+         id="stop2402" /> -->
       <stop
          offset="0.71"
          stop-color="#54b720"
-         id="stop2404" />
+         id="stop2404" /> -->
       <stop
          offset="0.77"
          stop-color="#4eb41e"
-         id="stop2406" />
+         id="stop2406" /> -->
       <stop
          offset="0.84"
          stop-color="#3eab18"
-         id="stop2408" />
+         id="stop2408" /> -->
       <stop
          offset="0.92"
          stop-color="#239d0d"
-         id="stop2410" />
+         id="stop2410" /> -->
       <stop
          offset="1"
          stop-color="#008a00"
-         id="stop2412" />
+         id="stop2412" /> -->
     </radialGradient>
     <linearGradient
        id="linear-gradient-7"
@@ -477,22 +477,22 @@
          offset="0"
          stop-color="#fff200"
          stop-opacity="0.1"
-         id="stop2415" />
+         id="stop2415" /> -->
       <stop
          offset="0.03"
          stop-color="#fff875"
          stop-opacity="0.05"
-         id="stop2417" />
+         id="stop2417" /> -->
       <stop
          offset="0.08"
          stop-color="#fffddd"
          stop-opacity="0.01"
-         id="stop2419" />
+         id="stop2419" /> -->
       <stop
          offset="0.14"
          stop-color="#fff"
          stop-opacity="0"
-         id="stop2421" />
+         id="stop2421" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient-9"
@@ -500,7 +500,7 @@
        cy="164.45"
        r="13.44"
        gradientTransform="matrix(-0.20415435,-0.97893871,0.89083423,-0.18578046,247.29,-964.8)"
-       xlink:href="#radial-gradient-8" />
+       xlink:href="#radial-gradient-8" /> -->
     <radialGradient
        id="radial-gradient-10"
        cx="-115.26"
@@ -511,35 +511,35 @@
       <stop
          offset="0.77"
          stop-color="#a7ca3b"
-         id="stop2425" />
+         id="stop2425" /> -->
       <stop
          offset="0.86"
          stop-color="#54b720"
-         id="stop2427" />
+         id="stop2427" /> -->
       <stop
          offset="1"
          stop-color="#008a00"
-         id="stop2429" />
+         id="stop2429" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-11"
        cx="639.85"
        cy="175.8"
        r="24.22"
-       xlink:href="#radial-gradient-10" />
+       xlink:href="#radial-gradient-10" /> -->
     <clipPath
        id="clip-path-2">
       <path
          d="M638.25,153s-1.34-1.16-6.46,3.95c3.12,3.7,9.35,12.9,7.59,16.15h0a15,15,0,0,0-1.13-20.1h0m-20.4,22h0a15,15,0,0,0,19.74,0h0c2.36-2.4-5.39-10.89-9.87-14.28-4.48,3.39-12.23,11.88-9.87,14.28m-.65-22h0a15,15,0,0,0-1.13,20.1h0c-1.76-3.25,4.47-12.45,7.59-16.15-5.12-5.11-6.48-3.93-6.46-3.95m10.55-4.34a15,15,0,0,1,8.45,2.61,3.52,3.52,0,0,0-1.9-.42c-2.87.1-6.55,2.25-6.55,2.25h0s-3.68-2.15-6.56-2.25a3.52,3.52,0,0,0-1.9.42,15,15,0,0,1,8.46-2.61h0Z"
          fill="none"
-         id="path2433" />
+         id="path2433" /> -->
     </clipPath>
     <clipPath
        id="clip-path-3">
       <path
          d="M619.34,152.4a4.76,4.76,0,0,0-.93-.33h0a1.63,1.63,0,0,0-.38,0c-.13,0-.27.16-.38.2a15.3,15.3,0,0,0-5.08,11.35,15.55,15.55,0,0,0,3.73,9.88c-.91-1.19.38-4.7,1.27-6.74a23.59,23.59,0,0,1,1.6-2.84,45.89,45.89,0,0,1,5.68-7.11A24.08,24.08,0,0,0,619.34,152.4Zm19.46,21.13a2.11,2.11,0,0,0,0-.26c-.25-2.23-2.66-5.22-5.27-8a60.88,60.88,0,0,0-5.89-5.47h0l0,0a53.43,53.43,0,0,0-5.81,5.4c-2.7,2.92-5.17,6.16-5.26,8.29v.05a1.2,1.2,0,0,0,0,.19.44.44,0,0,0,0,.1c0,.06.07.12.09.14a15.17,15.17,0,0,0,22.19-.13s0-.09,0-.11S638.8,173.59,638.8,173.53Zm4-9.92a15.06,15.06,0,0,0-5.12-11.31l-.27-.05a1.59,1.59,0,0,0-.36,0h-.07l-.08,0a18.89,18.89,0,0,0-5.81,4.45,81.7,81.7,0,0,1,5.13,7c.61.95,1.13,2,1.64,3,1.26,2.47,2.27,5.51,1.29,6.84A15.89,15.89,0,0,0,642.75,163.61Z"
          fill="none"
-         id="path2436" />
+         id="path2436" /> -->
     </clipPath>
     <radialGradient
        id="radial-gradient-12"
@@ -550,43 +550,43 @@
       <stop
          offset="0.12"
          stop-color="#fff"
-         id="stop2439" />
+         id="stop2439" /> -->
       <stop
          offset="0.13"
          stop-color="#fcfbfc"
-         id="stop2441" />
+         id="stop2441" /> -->
       <stop
          offset="0.3"
          stop-color="#c6c5c5"
-         id="stop2443" />
+         id="stop2443" /> -->
       <stop
          offset="0.44"
          stop-color="#9f9d9e"
-         id="stop2445" />
+         id="stop2445" /> -->
       <stop
          offset="0.56"
          stop-color="#878586"
-         id="stop2447" />
+         id="stop2447" /> -->
       <stop
          offset="0.63"
          stop-color="#7e7c7d"
-         id="stop2449" />
+         id="stop2449" /> -->
       <stop
          offset="0.68"
          stop-color="#878586"
-         id="stop2451" />
+         id="stop2451" /> -->
       <stop
          offset="0.76"
          stop-color="#9f9d9e"
-         id="stop2453" />
+         id="stop2453" /> -->
       <stop
          offset="0.86"
          stop-color="#c5c5c5"
-         id="stop2455" />
+         id="stop2455" /> -->
       <stop
          offset="0.96"
          stop-color="#efefef"
-         id="stop2457" />
+         id="stop2457" /> -->
     </radialGradient>
     <mask
        id="mask"
@@ -601,14 +601,14 @@
          width="13.11"
          height="11.82"
          fill="url(#linear-gradient)"
-         id="rect2460" />
+         id="rect2460" /> -->
     </mask>
     <clipPath
        id="clip-path-4">
       <path
          d="M638.8,173.53a2.11,2.11,0,0,0,0-.26c-.28-2.27-2.66-5.22-5.27-8a60.88,60.88,0,0,0-5.89-5.47h0l0,0a53.43,53.43,0,0,0-5.81,5.4c-2.7,2.92-5.17,6.16-5.26,8.29v.05a1.2,1.2,0,0,0,0,.19s0,.09,0,.11a.25.25,0,0,0,.08.12,15.17,15.17,0,0,0,22.2-.12s0-.09,0-.11S638.8,173.59,638.8,173.53Z"
          fill="none"
-         id="path2463" />
+         id="path2463" /> -->
     </clipPath>
     <linearGradient
        id="linear-gradient-8"
@@ -620,15 +620,15 @@
       <stop
          offset="0.42"
          stop-color="#f5f5f5"
-         id="stop2466" />
+         id="stop2466" /> -->
       <stop
          offset="0.78"
          stop-color="#ededed"
-         id="stop2468" />
+         id="stop2468" /> -->
       <stop
          offset="0.82"
          stop-color="#ececec"
-         id="stop2470" />
+         id="stop2470" /> -->
     </linearGradient>
     <mask
        id="mask-2"
@@ -643,14 +643,14 @@
          width="40.02"
          height="37.1"
          fill="url(#radial-gradient)"
-         id="rect2473" />
+         id="rect2473" /> -->
     </mask>
     <clipPath
        id="clip-path-5">
       <path
          d="M619.34,152.4a4.76,4.76,0,0,0-.93-.33h0a1.63,1.63,0,0,0-.38,0c-.13,0-.27.16-.38.2a15.3,15.3,0,0,0-5.08,11.35,15.55,15.55,0,0,0,3.73,9.88c-.91-1.19.42-4.84,1.27-6.74a25,25,0,0,1,1.6-2.84,45.89,45.89,0,0,1,5.68-7.11A24.08,24.08,0,0,0,619.34,152.4Zm19.46,21.13a2.11,2.11,0,0,0,0-.26c-.31-2.31-2.66-5.22-5.27-8a60.88,60.88,0,0,0-5.89-5.47h0l0,0a53.43,53.43,0,0,0-5.81,5.4c-2.7,2.92-5.17,6.16-5.26,8.29v.05a1.2,1.2,0,0,0,0,.19.44.44,0,0,0,0,.1c0,.06.07.12.09.14a15.17,15.17,0,0,0,22.19-.13s0-.09,0-.11S638.8,173.59,638.8,173.53Zm4-9.92a15.06,15.06,0,0,0-5.12-11.31l-.27-.05a1.59,1.59,0,0,0-.36,0h-.07l-.08,0a18.89,18.89,0,0,0-5.81,4.45,81.7,81.7,0,0,1,5.13,7c.61.95,1.13,2,1.64,3,1.26,2.47,2.27,5.51,1.29,6.84A15.89,15.89,0,0,0,642.75,163.61Z"
          fill="none"
-         id="path2476" />
+         id="path2476" /> -->
     </clipPath>
     <radialGradient
        id="radial-gradient-13"
@@ -661,26 +661,26 @@
       <stop
          offset="0.22"
          stop-color="#fff"
-         id="stop2479" />
+         id="stop2479" /> -->
       <stop
          offset="0.45"
          stop-color="#dfdfdf"
-         id="stop2481" />
+         id="stop2481" /> -->
       <stop
          offset="0.68"
          stop-color="#c7c7c7"
-         id="stop2483" />
+         id="stop2483" /> -->
       <stop
          offset="0.82"
          stop-color="#bebebe"
-         id="stop2485" />
+         id="stop2485" /> -->
     </radialGradient>
     <clipPath
        id="clip-path-6">
       <path
          d="M619.34,152.4a4.76,4.76,0,0,0-.93-.33h0a1.63,1.63,0,0,0-.38,0c-.13,0-.27.16-.38.2a15.3,15.3,0,0,0-5.08,11.35,15.55,15.55,0,0,0,3.73,9.88c-.91-1.19.38-4.75,1.27-6.74a25.93,25.93,0,0,1,1.6-2.84,45.89,45.89,0,0,1,5.68-7.11A24.08,24.08,0,0,0,619.34,152.4Z"
          fill="none"
-         id="path2488" />
+         id="path2488" /> -->
     </clipPath>
     <radialGradient
        id="radial-gradient-14"
@@ -691,39 +691,39 @@
       <stop
          offset="0"
          stop-color="#c7c9cb"
-         id="stop2491" />
+         id="stop2491" /> -->
       <stop
          offset="0.16"
          stop-color="#e2e3e4"
-         id="stop2493" />
+         id="stop2493" /> -->
       <stop
          offset="0.32"
          stop-color="#f7f8f8"
-         id="stop2495" />
+         id="stop2495" /> -->
       <stop
          offset="0.43"
          stop-color="#fff"
-         id="stop2497" />
+         id="stop2497" /> -->
       <stop
          offset="0.46"
          stop-color="#fff"
          stop-opacity="0.62"
-         id="stop2499" />
+         id="stop2499" /> -->
       <stop
          offset="0.5"
          stop-color="#fff"
          stop-opacity="0.29"
-         id="stop2501" />
+         id="stop2501" /> -->
       <stop
          offset="0.52"
          stop-color="#fff"
          stop-opacity="0.08"
-         id="stop2503" />
+         id="stop2503" /> -->
       <stop
          offset="0.53"
          stop-color="#fff"
          stop-opacity="0"
-         id="stop2505" />
+         id="stop2505" /> -->
     </radialGradient>
     <mask
        id="mask-3"
@@ -738,14 +738,14 @@
          width="33.86"
          height="33.36"
          fill="url(#linear-gradient-2)"
-         id="rect2508" />
+         id="rect2508" /> -->
     </mask>
     <clipPath
        id="clip-path-7">
       <path
          d="M619.34,152.4a4.76,4.76,0,0,0-.93-.33h0a1.63,1.63,0,0,0-.38,0c-.13,0-.27.16-.38.2a15.3,15.3,0,0,0-5.08,11.35,15.55,15.55,0,0,0,3.73,9.88c-.91-1.19.47-5,1.27-6.74a27.7,27.7,0,0,1,1.6-2.84,45.89,45.89,0,0,1,5.68-7.11A24.08,24.08,0,0,0,619.34,152.4Zm19.46,21.13a2.11,2.11,0,0,0,0-.26c-.26-2.22-2.66-5.22-5.27-8a60.88,60.88,0,0,0-5.89-5.47h0l0,0a53.43,53.43,0,0,0-5.81,5.4c-2.7,2.92-5.17,6.16-5.26,8.29v.05a1.2,1.2,0,0,0,0,.19.44.44,0,0,0,0,.1c0,.06.07.12.09.14a15.17,15.17,0,0,0,22.19-.13s0-.09,0-.11S638.8,173.59,638.8,173.53Zm4-9.92a15.06,15.06,0,0,0-5.12-11.31l-.27-.05a1.59,1.59,0,0,0-.36,0h-.07l-.08,0a18.89,18.89,0,0,0-5.81,4.45,81.7,81.7,0,0,1,5.13,7c.61.95,1.13,2,1.64,3,1.26,2.47,2.27,5.51,1.29,6.84A15.89,15.89,0,0,0,642.75,163.61Z"
          fill="none"
-         id="path2511" />
+         id="path2511" /> -->
     </clipPath>
     <radialGradient
        id="radial-gradient-15"
@@ -756,38 +756,38 @@
       <stop
          offset="0.18"
          stop-color="#fff"
-         id="stop2514" />
+         id="stop2514" /> -->
       <stop
          offset="0.31"
          stop-color="#e6e5e6"
-         id="stop2516" />
+         id="stop2516" /> -->
       <stop
          offset="0.45"
          stop-color="#cecdcf"
-         id="stop2518" />
+         id="stop2518" /> -->
       <stop
          offset="0.54"
          stop-color="#c5c4c7"
-         id="stop2520" />
+         id="stop2520" /> -->
       <stop
          offset="0.67"
          stop-color="#d0cfd2"
-         id="stop2522" />
+         id="stop2522" /> -->
       <stop
          offset="0.89"
          stop-color="#eeedee"
-         id="stop2524" />
+         id="stop2524" /> -->
       <stop
          offset="1"
          stop-color="#fff"
-         id="stop2526" />
+         id="stop2526" /> -->
     </radialGradient>
     <clipPath
        id="clip-path-8">
       <path
          d="M636.67,151.6a8,8,0,0,0-1.25-.41,6.36,6.36,0,0,0-3.5.48,29.6,29.6,0,0,0-4.14,2.1h0a32.41,32.41,0,0,0-4.25-1.89,7.44,7.44,0,0,0-3.62-.58,6,6,0,0,0-1.17.2,16.72,16.72,0,0,1,9-3A14.76,14.76,0,0,1,636.67,151.6Z"
          fill="none"
-         id="path2529" />
+         id="path2529" /> -->
     </clipPath>
     <radialGradient
        id="radial-gradient-16"
@@ -798,31 +798,31 @@
       <stop
          offset="0.09"
          stop-color="#ececec"
-         id="stop2532" />
+         id="stop2532" /> -->
       <stop
          offset="0.24"
          stop-color="#e8e8e8"
-         id="stop2534" />
+         id="stop2534" /> -->
       <stop
          offset="0.41"
          stop-color="#dbdbdc"
-         id="stop2536" />
+         id="stop2536" /> -->
       <stop
          offset="0.58"
          stop-color="#c6c5c7"
-         id="stop2538" />
+         id="stop2538" /> -->
       <stop
          offset="0.75"
          stop-color="#a9a7ab"
-         id="stop2540" />
+         id="stop2540" /> -->
       <stop
          offset="0.93"
          stop-color="#838187"
-         id="stop2542" />
+         id="stop2542" /> -->
       <stop
          offset="0.95"
          stop-color="#7e7c82"
-         id="stop2544" />
+         id="stop2544" /> -->
     </radialGradient>
     <clipPath
        id="clip-path-9">
@@ -830,7 +830,7 @@
          d="M636.67,151.6a9.45,9.45,0,0,0-1.36-.43,6.27,6.27,0,0,0-3.44.51,28.33,28.33,0,0,0-4.14,2.11h0a30.25,30.25,0,0,0-4.18-1.92,7.77,7.77,0,0,0-3.72-.56,6.37,6.37,0,0,0-1.1.17,16.56,16.56,0,0,1,9-2.93A14.93,14.93,0,0,1,636.67,151.6Z"
          opacity="0.5"
          fill="url(#radial-gradient-7)"
-         id="path2547" />
+         id="path2547" /> -->
     </clipPath>
     <radialGradient
        id="radial-gradient-18"
@@ -841,62 +841,62 @@
       <stop
          offset="0"
          stop-color="#fff"
-         id="stop2550" />
+         id="stop2550" /> -->
       <stop
          offset="0.01"
          stop-color="#fff"
          stop-opacity="0.96"
-         id="stop2552" />
+         id="stop2552" /> -->
       <stop
          offset="0.05"
          stop-color="#fff"
          stop-opacity="0.78"
-         id="stop2554" />
+         id="stop2554" /> -->
       <stop
          offset="0.09"
          stop-color="#fff"
          stop-opacity="0.61"
-         id="stop2556" />
+         id="stop2556" /> -->
       <stop
          offset="0.14"
          stop-color="#fff"
          stop-opacity="0.47"
-         id="stop2558" />
+         id="stop2558" /> -->
       <stop
          offset="0.2"
          stop-color="#fff"
          stop-opacity="0.34"
-         id="stop2560" />
+         id="stop2560" /> -->
       <stop
          offset="0.25"
          stop-color="#fff"
          stop-opacity="0.23"
-         id="stop2562" />
+         id="stop2562" /> -->
       <stop
          offset="0.32"
          stop-color="#fff"
          stop-opacity="0.15"
-         id="stop2564" />
+         id="stop2564" /> -->
       <stop
          offset="0.4"
          stop-color="#fff"
          stop-opacity="0.08"
-         id="stop2566" />
+         id="stop2566" /> -->
       <stop
          offset="0.49"
          stop-color="#fff"
          stop-opacity="0.03"
-         id="stop2568" />
+         id="stop2568" /> -->
       <stop
          offset="0.63"
          stop-color="#fff"
          stop-opacity="0.01"
-         id="stop2570" />
+         id="stop2570" /> -->
       <stop
          offset="1"
          stop-color="#fff"
          stop-opacity="0"
-         id="stop2572" />
+         id="stop2572" /> -->
     </radialGradient>
     <mask
        id="mask-4"
@@ -911,7 +911,7 @@
          width="16.31"
          height="24.59"
          fill="url(#linear-gradient-3)"
-         id="rect2575" />
+         id="rect2575" /> -->
     </mask>
     <radialGradient
        id="radial-gradient-19"
@@ -922,19 +922,19 @@
       <stop
          offset="0.16"
          stop-color="#fff"
-         id="stop2578" />
+         id="stop2578" /> -->
       <stop
          offset="0.45"
          stop-color="#e6e5e6"
-         id="stop2580" />
+         id="stop2580" /> -->
       <stop
          offset="0.79"
          stop-color="#cecdcf"
-         id="stop2582" />
+         id="stop2582" /> -->
       <stop
          offset="1"
          stop-color="#c5c4c7"
-         id="stop2584" />
+         id="stop2584" /> -->
     </radialGradient>
     <mask
        id="mask-5"
@@ -949,7 +949,7 @@
          width="17.3"
          height="24.34"
          fill="url(#radial-gradient-2)"
-         id="rect2587" />
+         id="rect2587" /> -->
     </mask>
     <radialGradient
        id="radial-gradient-20"
@@ -960,23 +960,23 @@
       <stop
          offset="0.26"
          stop-color="#fff"
-         id="stop2590" />
+         id="stop2590" /> -->
       <stop
          offset="0.29"
          stop-color="#f2f2f2"
-         id="stop2592" />
+         id="stop2592" /> -->
       <stop
          offset="0.39"
          stop-color="#cbcacd"
-         id="stop2594" />
+         id="stop2594" /> -->
       <stop
          offset="0.47"
          stop-color="#b3b2b6"
-         id="stop2596" />
+         id="stop2596" /> -->
       <stop
          offset="0.52"
          stop-color="#aaa9ad"
-         id="stop2598" />
+         id="stop2598" /> -->
     </radialGradient>
     <mask
        id="mask-6"
@@ -991,7 +991,7 @@
          width="17.26"
          height="27.39"
          fill="url(#radial-gradient-3)"
-         id="rect2601" />
+         id="rect2601" /> -->
     </mask>
     <radialGradient
        id="radial-gradient-21"
@@ -1002,22 +1002,22 @@
       <stop
          offset="0.14"
          stop-color="#dfdfdf"
-         id="stop2604" />
+         id="stop2604" /> -->
       <stop
          offset="0.2"
          stop-color="#ddd"
-         id="stop2606" />
+         id="stop2606" /> -->
       <stop
          offset="1"
          stop-color="#c5c4c7"
-         id="stop2608" />
+         id="stop2608" /> -->
     </radialGradient>
     <clipPath
        id="clip-path-10">
       <path
          d="M638.8,173.53a2.11,2.11,0,0,0,0-.26c-.27-2.23-2.66-5.22-5.27-8a60.88,60.88,0,0,0-5.89-5.47h0l0,0a53.43,53.43,0,0,0-5.81,5.4c-2.7,2.92-5.17,6.16-5.26,8.29v.05a1.2,1.2,0,0,0,0,.19s0,.1,0,.13l.08.1a15.17,15.17,0,0,0,22.2-.12s0-.09,0-.11S638.8,173.59,638.8,173.53Z"
          fill="none"
-         id="path2611" />
+         id="path2611" /> -->
     </clipPath>
     <mask
        id="mask-7"
@@ -1032,11 +1032,11 @@
          width="35.06"
          height="33.55"
          fill="url(#radial-gradient-4)"
-         id="rect2614" />
+         id="rect2614" /> -->
       <path
          d="M638.77,173.52c0-.08,0-.17,0-.25-.25-2.12-2.82-5.1-5.43-7.92a55.69,55.69,0,0,0-5.67-5.25h0a0,0,0,0,0,0,0,47.22,47.22,0,0,0-5.61,5.2c-2.7,2.92-5.36,6-5.45,8.15v.06c0,.06,0,.12,0,.18a.68.68,0,0,0,0,.14,15,15,0,0,0,22.15-.07v-.26Z"
          fill="none"
-         id="path2616" />
+         id="path2616" /> -->
       <rect
          x="610.8"
          y="146.25"
@@ -1044,7 +1044,7 @@
          height="33.55"
          fill="url(#linear-gradient-4)"
          style="mix-blend-mode: multiply"
-         id="rect2618" />
+         id="rect2618" /> -->
     </mask>
     <radialGradient
        id="radial-gradient-22"
@@ -1055,42 +1055,42 @@
       <stop
          offset="0.26"
          stop-color="#fff"
-         id="stop2621" />
+         id="stop2621" /> -->
       <stop
          offset="0.35"
          stop-color="#e6e6e7"
-         id="stop2623" />
+         id="stop2623" /> -->
       <stop
          offset="0.49"
          stop-color="#bfbec1"
-         id="stop2625" />
+         id="stop2625" /> -->
       <stop
          offset="0.61"
          stop-color="#a7a6aa"
-         id="stop2627" />
+         id="stop2627" /> -->
       <stop
          offset="0.68"
          stop-color="#9e9da1"
-         id="stop2629" />
+         id="stop2629" /> -->
       <stop
          offset="0.73"
          stop-color="#a9a8ac"
-         id="stop2631" />
+         id="stop2631" /> -->
       <stop
          offset="0.81"
          stop-color="#c7c6c8"
-         id="stop2633" />
+         id="stop2633" /> -->
       <stop
          offset="0.87"
          stop-color="#dfdfdf"
-         id="stop2635" />
+         id="stop2635" /> -->
     </radialGradient>
     <clipPath
        id="clip-path-11">
       <path
          d="M642.75,163.61a15.06,15.06,0,0,0-5.12-11.31l-.27-.05a1.59,1.59,0,0,0-.36,0h-.07l-.08,0a18.89,18.89,0,0,0-5.81,4.45,76.36,76.36,0,0,1,5.06,6.9c.61,1,1.18,2.09,1.68,3.07,1.27,2.47,2.3,5.55,1.32,6.87A15.78,15.78,0,0,0,642.75,163.61Z"
          fill="none"
-         id="path2638" />
+         id="path2638" /> -->
     </clipPath>
     <mask
        id="mask-8"
@@ -1105,7 +1105,7 @@
          width="23.46"
          height="30.31"
          fill="url(#radial-gradient-5)"
-         id="rect2641" />
+         id="rect2641" /> -->
       <rect
          x="621.65"
          y="147.31"
@@ -1113,7 +1113,7 @@
          height="30.31"
          fill="url(#linear-gradient-5)"
          style="mix-blend-mode: multiply"
-         id="rect2643" />
+         id="rect2643" /> -->
       <rect
          x="621.6"
          y="159.45"
@@ -1121,7 +1121,7 @@
          height="14.19"
          fill="url(#linear-gradient-6)"
          style="mix-blend-mode: multiply"
-         id="rect2645" />
+         id="rect2645" /> -->
     </mask>
     <mask
        id="mask-9"
@@ -1138,14 +1138,14 @@
          stroke="#231f20"
          stroke-width="0.16"
          fill="url(#radial-gradient-6)"
-         id="rect2648" />
+         id="rect2648" /> -->
     </mask>
     <clipPath
        id="clip-path-12">
       <path
          d="M619.31,152.39a3.47,3.47,0,0,0-.8-.3l-.14,0a2.41,2.41,0,0,0-.38,0c-.13,0-.26.15-.37.18a15.36,15.36,0,0,0-5.09,11.37,15.55,15.55,0,0,0,3.73,9.88c-.91-1.19.73-5.64,1.2-6.61s1.1-2,1.69-3a45.35,45.35,0,0,1,5.66-7.08A24.19,24.19,0,0,0,619.31,152.39Zm19.49,21.13a2.85,2.85,0,0,0,0-.29c-.25-2.12-2.55-5.07-5.15-7.9a62.05,62.05,0,0,0-5.9-5.47h-.1s-.1,0-.11,0a49.6,49.6,0,0,0-5.64,5.25c-2.7,2.92-5.24,6.12-5.33,8.26,0,0,0,.13,0,.14a1,1,0,0,0,0,.17.53.53,0,0,0,0,.12.46.46,0,0,0,.07.14,15.17,15.17,0,0,0,22.22-.1s0-.12,0-.14A.86.86,0,0,0,638.8,173.52Z"
          fill="none"
-         id="path2651" />
+         id="path2651" /> -->
     </clipPath>
     <radialGradient
        id="radial-gradient-23"
@@ -1156,51 +1156,51 @@
       <stop
          offset="0"
          stop-color="#f2f2f2"
-         id="stop2654" />
+         id="stop2654" /> -->
       <stop
          offset="0.02"
          stop-color="#ececec"
-         id="stop2656" />
+         id="stop2656" /> -->
       <stop
          offset="0.19"
          stop-color="#bcbcbc"
-         id="stop2658" />
+         id="stop2658" /> -->
       <stop
          offset="0.35"
          stop-color="#9a9a9a"
-         id="stop2660" />
+         id="stop2660" /> -->
       <stop
          offset="0.47"
          stop-color="#858585"
-         id="stop2662" />
+         id="stop2662" /> -->
       <stop
          offset="0.55"
          stop-color="#7d7d7d"
-         id="stop2664" />
+         id="stop2664" /> -->
       <stop
          offset="0.62"
          stop-color="#828282"
-         id="stop2666" />
+         id="stop2666" /> -->
       <stop
          offset="0.71"
          stop-color="#909090"
-         id="stop2668" />
+         id="stop2668" /> -->
       <stop
          offset="0.79"
          stop-color="#a7a7a7"
-         id="stop2670" />
+         id="stop2670" /> -->
       <stop
          offset="0.88"
          stop-color="#c7c7c7"
-         id="stop2672" />
+         id="stop2672" /> -->
       <stop
          offset="0.97"
          stop-color="#efefef"
-         id="stop2674" />
+         id="stop2674" /> -->
       <stop
          offset="1"
          stop-color="#fff"
-         id="stop2676" />
+         id="stop2676" /> -->
     </radialGradient>
     <clipPath
        id="clip-path-13">
@@ -1208,7 +1208,7 @@
          d="M636.67,151.6a8.62,8.62,0,0,0-1.3-.42,7.34,7.34,0,0,0-3.71.62,24.41,24.41,0,0,0-3.92,2l-.14,0a27.41,27.41,0,0,0-4.16-2,8.08,8.08,0,0,0-3.89-.47c-.3.07-.66,0-.84.15a14.84,14.84,0,0,1,8.92-3A14.54,14.54,0,0,1,636.67,151.6Z"
          fill="none"
          opacity="0"
-         id="path2679" />
+         id="path2679" /> -->
     </clipPath>
     <radialGradient
        id="radial-gradient-24"
@@ -1220,15 +1220,15 @@
       <stop
          offset="0.43"
          stop-color="#fff"
-         id="stop2682" />
+         id="stop2682" /> -->
       <stop
          offset="0.72"
          stop-color="#eaeaeb"
-         id="stop2684" />
+         id="stop2684" /> -->
       <stop
          offset="1"
          stop-color="#d2d1d3"
-         id="stop2686" />
+         id="stop2686" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-25"
@@ -1240,51 +1240,51 @@
       <stop
          offset="0.66"
          stop-color="#fff"
-         id="stop2689" />
+         id="stop2689" /> -->
       <stop
          offset="0.8"
          stop-color="#fdfdfd"
-         id="stop2691" />
+         id="stop2691" /> -->
       <stop
          offset="0.85"
          stop-color="#f6f6f7"
-         id="stop2693" />
+         id="stop2693" /> -->
       <stop
          offset="0.88"
          stop-color="#eaeaeb"
-         id="stop2695" />
+         id="stop2695" /> -->
       <stop
          offset="0.92"
          stop-color="#d9d9db"
-         id="stop2697" />
+         id="stop2697" /> -->
       <stop
          offset="0.94"
          stop-color="#c3c2c5"
-         id="stop2699" />
+         id="stop2699" /> -->
       <stop
          offset="0.97"
          stop-color="#a8a7ab"
-         id="stop2701" />
+         id="stop2701" /> -->
       <stop
          offset="0.97"
          stop-color="#9a999e"
-         id="stop2703" />
+         id="stop2703" /> -->
       <stop
          offset="0.98"
          stop-color="#8f8e93"
-         id="stop2705" />
+         id="stop2705" /> -->
       <stop
          offset="0.99"
          stop-color="#727174"
-         id="stop2707" />
+         id="stop2707" /> -->
       <stop
          offset="1"
          stop-color="#434344"
-         id="stop2709" />
+         id="stop2709" /> -->
       <stop
          offset="1"
          stop-color="#323232"
-         id="stop2711" />
+         id="stop2711" /> -->
     </radialGradient>
     <filter
        id="luminosity-invert"
@@ -1292,7 +1292,7 @@
        color-interpolation-filters="sRGB">
       <feColorMatrix
          values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"
-         id="feColorMatrix2714" />
+         id="feColorMatrix2714" /> -->
     </filter>
     <mask
        id="mask-10"
@@ -1309,7 +1309,7 @@
            height="35"
            transform="translate(610.47 146.33)"
            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAACXBIWXMAAAsSAAALEgHS3X78AAAECUlEQVRYR82YT0/qTBSHf5WWilSEBBWQ8CdRjBKgERI/ARsCho0bvp9GTVhoLmHFgpWRhAWBEAOhEBaSdIEE6IJS6Lui3t4icBV877PjzDnwZDozPQMhyzL+JUgAIAjin7HaWpbw05DLEuYRj8fh8XjAMAwoigJBECAIArIsYzqdYjweo9/vo9VqIZvNLvs6FYQsyys/smQyCZZl4ff74XA4FKGtrY+JnkwmkCQJvV4PPM+jUqmgUqkgnU4v+OYPVhJKJBIIhUKIRCLwer2w2+0wmUygaXpuvizLEEURg8EAnU4HjUYDLy8vKJfLyGQyc2tmLH1kqVQK0WgUwWAQLpcLFosFOp1uYQ1BEKBpGjRNw2w2w2azwW634/T0FHt7e7i9vf20dqFQKpXC1dUVwuEwnE4ntre3F6XPhSRJ7O/vg2EYWK1W6PV6SJKEh4eH+flzo/iQuby8hNPpBEkuncyFGAwGuN1ujMdjiKKI0WiEx8dHTd7cbZ9IJBCNRpWZ+a7MDJIk4Xa7wbIsgsHg3Jy5QqFQCMFgcK0yMwwGA1wuF8LhMJLJpGZcI5RMJhGJROByub60ZlbBbDbD4/EgEAhoxjRCLMvC6/XCYrFoktfF1tYWbDYbIpEIrq+v1WO/f4jH4/D7/bDb7Uu39nexWq04Pj7G2dmZKq4S8ng8cDgcMJlM2DQ6nQ6Hh4cIBAKIxWJKXCXEMAwYhvn0BF43JpMJNpsNXq9XiamEKIoCRVGawk1BURQYhoHRaFRiKiGCIFQvyp+AJEnVJGiE/m9UQj/dzsqyDEmSIEmSElMJTadTTCYTTeGmEEURw+EQgiAoMZXQeDyGJEk/NlOCIIDnebTbbSWmEur3++j1ehBFUVO8CbrdLur1Op6enpSYSqjVaoHneQwGA03xuhFFEd1uFzzPq+IqoWw2i0qlgk6no1pom6Db7aLVaqFWq6nimkOnUqmg0Wjg/f39z6G1IQgCOI5DsVjEr1+/VGOaZiedTuPk5AR2ux27u7trb0FGoxGazSZKpRKq1apmfO6xXC6X8fr6ire3t7UeA6IoguM4FAoF5PN5zewAn/TUmUwGZrMZNE1jOp3C4/F8u3McjUbgOA7Pz8/I5XK4v7+fm/fpr9zc3GAymSi30qOjoy8/PkEQ0Gw2USgUkMvlvn4Nuru7g06ngyAIOD8/VzpJvV6/qExhtrU5jkOpVEI+n/90ZmasdHONxWK4uLgAy7Jwu92wWq2wWCzY2dlRvalnN1ZBENDtdpWtXSwWUa1W566ZP1lJaEYikYDP58PBwQF8Pp9yAZy1u5IkYTgcgud51Ot18DyPWq22ksiMvxL6ndk/IEajUVnwkiRBEAS0223V6+Bv+LLQpvjZ9nAF/gNyA5bsNKeJZQAAAABJRU5ErkJggg=="
-           id="image2717" />
+           id="image2717" /> -->
       </g>
     </mask>
     <linearGradient
@@ -1322,11 +1322,11 @@
       <stop
          offset="0"
          stop-color="#86bbe5"
-         id="stop2722" />
+         id="stop2722" /> -->
       <stop
          offset="1"
          stop-color="#116cb3"
-         id="stop2724" />
+         id="stop2724" /> -->
     </linearGradient>
     <linearGradient
        id="linear-gradient-10"
@@ -1339,11 +1339,11 @@
       <stop
          offset="0.25"
          stop-color="#dbdbda"
-         id="stop2727" />
+         id="stop2727" /> -->
       <stop
          offset="1"
          stop-color="#fff"
-         id="stop2729" />
+         id="stop2729" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient-26"
@@ -1355,15 +1355,15 @@
       <stop
          offset="0"
          stop-color="#2abce1"
-         id="stop2732" />
+         id="stop2732" /> -->
       <stop
          offset="0.11"
          stop-color="#2abbe1"
-         id="stop2734" />
+         id="stop2734" /> -->
       <stop
          offset="1"
          stop-color="#3375f8"
-         id="stop2736" />
+         id="stop2736" /> -->
     </radialGradient>
     <linearGradient
        id="linear-gradient-11"
@@ -1376,10 +1376,10 @@
       <stop
          offset="0"
          stop-opacity="0"
-         id="stop2739" />
+         id="stop2739" /> -->
       <stop
          offset="1"
-         id="stop2741" />
+         id="stop2741" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient-27"
@@ -1391,15 +1391,15 @@
       <stop
          offset="0.47"
          stop-opacity="0.8"
-         id="stop2744" />
+         id="stop2744" /> -->
       <stop
          offset="0.51"
          stop-opacity="0.65"
-         id="stop2746" />
+         id="stop2746" /> -->
       <stop
          offset="0.96"
          stop-opacity="0"
-         id="stop2748" />
+         id="stop2748" /> -->
     </radialGradient>
     <linearGradient
        id="linear-gradient-12"
@@ -1412,15 +1412,15 @@
       <stop
          offset="0.01"
          stop-color="#931f20"
-         id="stop2751" />
+         id="stop2751" /> -->
       <stop
          offset="0.47"
          stop-color="#e36226"
-         id="stop2753" />
+         id="stop2753" /> -->
       <stop
          offset="1"
          stop-color="#eeb961"
-         id="stop2755" />
+         id="stop2755" /> -->
     </linearGradient>
     <linearGradient
        id="linear-gradient-13"
@@ -1433,11 +1433,11 @@
       <stop
          offset="0.06"
          stop-color="#da7327"
-         id="stop2758" />
+         id="stop2758" /> -->
       <stop
          offset="1"
          stop-color="#ebba86"
-         id="stop2760" />
+         id="stop2760" /> -->
     </linearGradient>
     <linearGradient
        id="linear-gradient-14"
@@ -1450,11 +1450,11 @@
       <stop
          offset="0.06"
          stop-color="#da7327"
-         id="stop2763" />
+         id="stop2763" /> -->
       <stop
          offset="1"
          stop-color="#ebba6b"
-         id="stop2765" />
+         id="stop2765" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient-28"
@@ -1466,35 +1466,35 @@
       <stop
          offset="0"
          stop-color="#421413"
-         id="stop2768" />
+         id="stop2768" /> -->
       <stop
          offset="0.07"
          stop-color="#521616"
-         id="stop2770" />
+         id="stop2770" /> -->
       <stop
          offset="0.27"
          stop-color="#7c1a1c"
-         id="stop2772" />
+         id="stop2772" /> -->
       <stop
          offset="0.45"
          stop-color="#991d21"
-         id="stop2774" />
+         id="stop2774" /> -->
       <stop
          offset="0.6"
          stop-color="#ac1f24"
-         id="stop2776" />
+         id="stop2776" /> -->
       <stop
          offset="0.71"
          stop-color="#b22025"
-         id="stop2778" />
+         id="stop2778" /> -->
       <stop
          offset="0.98"
          stop-color="#ab1f25"
-         id="stop2780" />
+         id="stop2780" /> -->
       <stop
          offset="1"
          stop-color="#aa1f25"
-         id="stop2782" />
+         id="stop2782" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-29"
@@ -1506,27 +1506,27 @@
       <stop
          offset="0"
          stop-color="#55c2ef"
-         id="stop2785" />
+         id="stop2785" /> -->
       <stop
          offset="0.08"
          stop-color="#47b9ea"
-         id="stop2787" />
+         id="stop2787" /> -->
       <stop
          offset="0.18"
          stop-color="#00a7da"
-         id="stop2789" />
+         id="stop2789" /> -->
       <stop
          offset="0.38"
          stop-color="#1f77b6"
-         id="stop2791" />
+         id="stop2791" /> -->
       <stop
          offset="0.5"
          stop-color="#005493"
-         id="stop2793" />
+         id="stop2793" /> -->
       <stop
          offset="0.75"
          stop-color="#1d214f"
-         id="stop2795" />
+         id="stop2795" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-30"
@@ -1537,27 +1537,27 @@
       <stop
          offset="0.08"
          stop-color="#06a0db"
-         id="stop2798" />
+         id="stop2798" /> -->
       <stop
          offset="0.16"
          stop-color="#0494d2"
-         id="stop2800" />
+         id="stop2800" /> -->
       <stop
          offset="0.33"
          stop-color="#2477b6"
-         id="stop2802" />
+         id="stop2802" /> -->
       <stop
          offset="0.33"
          stop-color="#1f77b6"
-         id="stop2804" />
+         id="stop2804" /> -->
       <stop
          offset="0.5"
          stop-color="#005493"
-         id="stop2806" />
+         id="stop2806" /> -->
       <stop
          offset="0.83"
          stop-color="#14143d"
-         id="stop2808" />
+         id="stop2808" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-31"
@@ -1570,11 +1570,11 @@
          offset="0.62"
          stop-color="#8cd0f2"
          stop-opacity="0"
-         id="stop2811" />
+         id="stop2811" /> -->
       <stop
          offset="0.71"
          stop-color="#7acbf2"
-         id="stop2813" />
+         id="stop2813" /> -->
     </radialGradient>
     <linearGradient
        id="linear-gradient-15"
@@ -1587,18 +1587,18 @@
       <stop
          offset="0"
          stop-color="#1b416f"
-         id="stop2816" />
+         id="stop2816" /> -->
       <stop
          offset="1"
          stop-color="#131728"
-         id="stop2818" />
+         id="stop2818" /> -->
     </linearGradient>
     <clipPath
        id="clip-path-14">
       <path
          d="M670.53,243.22a14.37,14.37,0,1,0-14.36-14.37A14.35,14.35,0,0,0,670.53,243.22Z"
          fill="none"
-         id="path2821" />
+         id="path2821" /> -->
     </clipPath>
     <radialGradient
        id="radial-gradient-32"
@@ -1611,16 +1611,16 @@
          offset="0.79"
          stop-color="#00a6d3"
          stop-opacity="0"
-         id="stop2824" />
+         id="stop2824" /> -->
       <stop
          offset="0.91"
          stop-color="#51b4e6"
          stop-opacity="0.45"
-         id="stop2826" />
+         id="stop2826" /> -->
       <stop
          offset="0.98"
          stop-color="#70c7f0"
-         id="stop2828" />
+         id="stop2828" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-33"
@@ -1632,31 +1632,31 @@
       <stop
          offset="0.13"
          stop-color="#0a9fda"
-         id="stop2831" />
+         id="stop2831" /> -->
       <stop
          offset="0.2"
          stop-color="#0e97d3"
-         id="stop2833" />
+         id="stop2833" /> -->
       <stop
          offset="0.3"
          stop-color="#1981bf"
-         id="stop2835" />
+         id="stop2835" /> -->
       <stop
          offset="0.33"
          stop-color="#1f77b6"
-         id="stop2837" />
+         id="stop2837" /> -->
       <stop
          offset="0.44"
          stop-color="#2369a6"
-         id="stop2839" />
+         id="stop2839" /> -->
       <stop
          offset="0.65"
          stop-color="#1c4377"
-         id="stop2841" />
+         id="stop2841" /> -->
       <stop
          offset="0.86"
          stop-color="#1d214f"
-         id="stop2843" />
+         id="stop2843" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-34"
@@ -1668,47 +1668,47 @@
       <stop
          offset="0.12"
          stop-color="#fff"
-         id="stop2846" />
+         id="stop2846" /> -->
       <stop
          offset="0.12"
          stop-color="#fffff9"
-         id="stop2848" />
+         id="stop2848" /> -->
       <stop
          offset="0.25"
          stop-color="#fde45e"
-         id="stop2850" />
+         id="stop2850" /> -->
       <stop
          offset="0.29"
          stop-color="#fbdf55"
-         id="stop2852" />
+         id="stop2852" /> -->
       <stop
          offset="0.35"
          stop-color="#f5d03b"
-         id="stop2854" />
+         id="stop2854" /> -->
       <stop
          offset="0.41"
          stop-color="#eebd1b"
-         id="stop2856" />
+         id="stop2856" /> -->
       <stop
          offset="0.44"
          stop-color="#ecae1e"
-         id="stop2858" />
+         id="stop2858" /> -->
       <stop
          offset="0.55"
          stop-color="#e67e26"
-         id="stop2860" />
+         id="stop2860" /> -->
       <stop
          offset="0.76"
          stop-color="#db5626"
-         id="stop2862" />
+         id="stop2862" /> -->
       <stop
          offset="0.89"
          stop-color="#c53c27"
-         id="stop2864" />
+         id="stop2864" /> -->
       <stop
          offset="1"
          stop-color="#af2128"
-         id="stop2866" />
+         id="stop2866" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-35"
@@ -1721,51 +1721,51 @@
          offset="0.66"
          stop-color="#af2128"
          stop-opacity="0"
-         id="stop2869" />
+         id="stop2869" /> -->
       <stop
          offset="0.76"
          stop-color="#af2128"
          stop-opacity="0.01"
-         id="stop2871" />
+         id="stop2871" /> -->
       <stop
          offset="0.81"
          stop-color="#af2128"
          stop-opacity="0.05"
-         id="stop2873" />
+         id="stop2873" /> -->
       <stop
          offset="0.85"
          stop-color="#af2128"
          stop-opacity="0.13"
-         id="stop2875" />
+         id="stop2875" /> -->
       <stop
          offset="0.88"
          stop-color="#b02127"
          stop-opacity="0.23"
-         id="stop2877" />
+         id="stop2877" /> -->
       <stop
          offset="0.91"
          stop-color="#b02127"
          stop-opacity="0.36"
-         id="stop2879" />
+         id="stop2879" /> -->
       <stop
          offset="0.93"
          stop-color="#b12026"
          stop-opacity="0.53"
-         id="stop2881" />
+         id="stop2881" /> -->
       <stop
          offset="0.96"
          stop-color="#b12026"
          stop-opacity="0.73"
-         id="stop2883" />
+         id="stop2883" /> -->
       <stop
          offset="0.98"
          stop-color="#b22025"
          stop-opacity="0.95"
-         id="stop2885" />
+         id="stop2885" /> -->
       <stop
          offset="0.98"
          stop-color="#b22025"
-         id="stop2887" />
+         id="stop2887" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-36"
@@ -1778,61 +1778,61 @@
          offset="0.71"
          stop-color="#eb6725"
          stop-opacity="0"
-         id="stop2890" />
+         id="stop2890" /> -->
       <stop
          offset="0.81"
          stop-color="#eb6725"
          stop-opacity="0.01"
-         id="stop2892" />
+         id="stop2892" /> -->
       <stop
          offset="0.84"
          stop-color="#eb6925"
          stop-opacity="0.04"
-         id="stop2894" />
+         id="stop2894" /> -->
       <stop
          offset="0.87"
          stop-color="#ec6b25"
          stop-opacity="0.08"
-         id="stop2896" />
+         id="stop2896" /> -->
       <stop
          offset="0.88"
          stop-color="#ed6e25"
          stop-opacity="0.15"
-         id="stop2898" />
+         id="stop2898" /> -->
       <stop
          offset="0.9"
          stop-color="#ee7225"
          stop-opacity="0.24"
-         id="stop2900" />
+         id="stop2900" /> -->
       <stop
          offset="0.92"
          stop-color="#ef7724"
          stop-opacity="0.35"
-         id="stop2902" />
+         id="stop2902" /> -->
       <stop
          offset="0.93"
          stop-color="#f17d24"
          stop-opacity="0.48"
-         id="stop2904" />
+         id="stop2904" /> -->
       <stop
          offset="0.94"
          stop-color="#f38424"
          stop-opacity="0.63"
-         id="stop2906" />
+         id="stop2906" /> -->
       <stop
          offset="0.95"
          stop-color="#f58c23"
          stop-opacity="0.8"
-         id="stop2908" />
+         id="stop2908" /> -->
       <stop
          offset="0.96"
          stop-color="#f79423"
          stop-opacity="0.99"
-         id="stop2910" />
+         id="stop2910" /> -->
       <stop
          offset="0.97"
          stop-color="#f79523"
-         id="stop2912" />
+         id="stop2912" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-37"
@@ -1845,16 +1845,16 @@
          offset="0"
          stop-color="#de5b26"
          stop-opacity="0.1"
-         id="stop2915" />
+         id="stop2915" /> -->
       <stop
          offset="0.31"
          stop-color="#dd5a26"
          stop-opacity="0.84"
-         id="stop2917" />
+         id="stop2917" /> -->
       <stop
          offset="0.56"
          stop-color="#af2128"
-         id="stop2919" />
+         id="stop2919" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-38"
@@ -1867,16 +1867,16 @@
          offset="0"
          stop-color="#de5b26"
          stop-opacity="0"
-         id="stop2922" />
+         id="stop2922" /> -->
       <stop
          offset="0.45"
          stop-color="#dc5b26"
          stop-opacity="0.8"
-         id="stop2924" />
+         id="stop2924" /> -->
       <stop
          offset="0.72"
          stop-color="#af2128"
-         id="stop2926" />
+         id="stop2926" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-39"
@@ -1888,63 +1888,63 @@
       <stop
          offset="0.09"
          stop-color="#fff"
-         id="stop2929" />
+         id="stop2929" /> -->
       <stop
          offset="0.11"
          stop-color="#fffef9"
-         id="stop2931" />
+         id="stop2931" /> -->
       <stop
          offset="0.13"
          stop-color="#fffce6"
-         id="stop2933" />
+         id="stop2933" /> -->
       <stop
          offset="0.16"
          stop-color="#fff9c8"
-         id="stop2935" />
+         id="stop2935" /> -->
       <stop
          offset="0.19"
          stop-color="#fff49f"
-         id="stop2937" />
+         id="stop2937" /> -->
       <stop
          offset="0.22"
          stop-color="#ffee69"
-         id="stop2939" />
+         id="stop2939" /> -->
       <stop
          offset="0.26"
          stop-color="#ffe729"
-         id="stop2941" />
+         id="stop2941" /> -->
       <stop
          offset="0.28"
          stop-color="#ffe200"
-         id="stop2943" />
+         id="stop2943" /> -->
       <stop
          offset="0.33"
          stop-color="#fbd806"
-         id="stop2945" />
+         id="stop2945" /> -->
       <stop
          offset="0.41"
          stop-color="#f0bf18"
-         id="stop2947" />
+         id="stop2947" /> -->
       <stop
          offset="0.43"
          stop-color="#edb71d"
-         id="stop2949" />
+         id="stop2949" /> -->
       <stop
          offset="0.44"
          stop-color="#ecb21e"
-         id="stop2951" />
+         id="stop2951" /> -->
       <stop
          offset="0.63"
          stop-color="#e47527"
-         id="stop2953" />
+         id="stop2953" /> -->
       <stop
          offset="0.77"
          stop-color="#e06726"
-         id="stop2955" />
+         id="stop2955" /> -->
       <stop
          offset="0.95"
          stop-color="#dc5b26"
-         id="stop2957" />
+         id="stop2957" /> -->
     </radialGradient>
     <linearGradient
        id="linear-gradient-16"
@@ -1957,37 +1957,37 @@
       <stop
          offset="0"
          stop-color="#fcee39"
-         id="stop2960" />
+         id="stop2960" /> -->
       <stop
          offset="0"
          stop-color="#fdeb2f"
-         id="stop2962" />
+         id="stop2962" /> -->
       <stop
          offset="0.09"
          stop-color="#fbc92a"
-         id="stop2964" />
+         id="stop2964" /> -->
       <stop
          offset="0.19"
          stop-color="#f9ad26"
-         id="stop2966" />
+         id="stop2966" /> -->
       <stop
          offset="0.27"
          stop-color="#f79b24"
-         id="stop2968" />
+         id="stop2968" /> -->
       <stop
          offset="0.33"
          stop-color="#f79523"
-         id="stop2970" />
+         id="stop2970" /> -->
       <stop
          offset="0.57"
          stop-color="#ea7924"
          stop-opacity="0.55"
-         id="stop2972" />
+         id="stop2972" /> -->
       <stop
          offset="0.82"
          stop-color="#dc5b26"
          stop-opacity="0.06"
-         id="stop2974" />
+         id="stop2974" /> -->
     </linearGradient>
     <linearGradient
        id="linear-gradient-17"
@@ -2000,27 +2000,27 @@
       <stop
          offset="0.17"
          stop-color="#af2128"
-         id="stop2977" />
+         id="stop2977" /> -->
       <stop
          offset="0.34"
          stop-color="#ba3128"
          stop-opacity="0.77"
-         id="stop2979" />
+         id="stop2979" /> -->
       <stop
          offset="0.52"
          stop-color="#c33e28"
          stop-opacity="0.58"
-         id="stop2981" />
+         id="stop2981" /> -->
       <stop
          offset="0.62"
          stop-color="#c74328"
          stop-opacity="0.51"
-         id="stop2983" />
+         id="stop2983" /> -->
       <stop
          offset="1"
          stop-color="#de5b26"
          stop-opacity="0"
-         id="stop2985" />
+         id="stop2985" /> -->
     </linearGradient>
     <linearGradient
        id="linear-gradient-18"
@@ -2033,19 +2033,19 @@
       <stop
          offset="0.07"
          stop-color="#dc5b26"
-         id="stop2988" />
+         id="stop2988" /> -->
       <stop
          offset="0.3"
          stop-color="#e7976f"
-         id="stop2990" />
+         id="stop2990" /> -->
       <stop
          offset="0.67"
          stop-color="#f3d2ab"
-         id="stop2992" />
+         id="stop2992" /> -->
       <stop
          offset="1"
          stop-color="#f6f5c9"
-         id="stop2994" />
+         id="stop2994" /> -->
     </linearGradient>
     <linearGradient
        id="linear-gradient-19"
@@ -2058,15 +2058,15 @@
       <stop
          offset="0.04"
          stop-color="#dc5b26"
-         id="stop2997" />
+         id="stop2997" /> -->
       <stop
          offset="0.26"
          stop-color="#eca67b"
-         id="stop2999" />
+         id="stop2999" /> -->
       <stop
          offset="1"
          stop-color="#f6f5c9"
-         id="stop3001" />
+         id="stop3001" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient-40"
@@ -2079,36 +2079,36 @@
          offset="0.5"
          stop-color="#de5b26"
          stop-opacity="0"
-         id="stop3004" />
+         id="stop3004" /> -->
       <stop
          offset="0.53"
          stop-color="#de5b26"
          stop-opacity="0.05"
-         id="stop3006" />
+         id="stop3006" /> -->
       <stop
          offset="0.58"
          stop-color="#de5b26"
          stop-opacity="0.17"
-         id="stop3008" />
+         id="stop3008" /> -->
       <stop
          offset="0.64"
          stop-color="#de5b26"
          stop-opacity="0.38"
-         id="stop3010" />
+         id="stop3010" /> -->
       <stop
          offset="0.72"
          stop-color="#dd5a26"
          stop-opacity="0.65"
-         id="stop3012" />
+         id="stop3012" /> -->
       <stop
          offset="0.75"
          stop-color="#dd5a26"
          stop-opacity="0.77"
-         id="stop3014" />
+         id="stop3014" /> -->
       <stop
          offset="0.95"
          stop-color="#af2128"
-         id="stop3016" />
+         id="stop3016" /> -->
     </radialGradient>
     <linearGradient
        id="linear-gradient-20"
@@ -2121,15 +2121,15 @@
       <stop
          offset="0"
          stop-color="#37373a"
-         id="stop3019" />
+         id="stop3019" /> -->
       <stop
          offset="0.65"
          stop-color="#7c3f3d"
-         id="stop3021" />
+         id="stop3021" /> -->
       <stop
          offset="1"
          stop-color="#dc5b26"
-         id="stop3023" />
+         id="stop3023" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient-41"
@@ -2142,15 +2142,15 @@
          offset="0.5"
          stop-color="#de5b26"
          stop-opacity="0"
-         id="stop3026" />
+         id="stop3026" /> -->
       <stop
          offset="0.66"
          stop-color="#dc5b26"
-         id="stop3028" />
+         id="stop3028" /> -->
       <stop
          offset="0.81"
          stop-color="#af2128"
-         id="stop3030" />
+         id="stop3030" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-42"
@@ -2161,11 +2161,11 @@
       <stop
          offset="0"
          stop-color="#eb6725"
-         id="stop3033" />
+         id="stop3033" /> -->
       <stop
          offset="1"
          stop-color="#f79523"
-         id="stop3035" />
+         id="stop3035" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-43"
@@ -2177,47 +2177,47 @@
       <stop
          offset="0"
          stop-color="#fff"
-         id="stop3038" />
+         id="stop3038" /> -->
       <stop
          offset="0.04"
          stop-color="#fffbdf"
          stop-opacity="0.93"
-         id="stop3040" />
+         id="stop3040" /> -->
       <stop
          offset="0.11"
          stop-color="#fff4a2"
          stop-opacity="0.78"
-         id="stop3042" />
+         id="stop3042" /> -->
       <stop
          offset="0.18"
          stop-color="#ffed6f"
          stop-opacity="0.67"
-         id="stop3044" />
+         id="stop3044" /> -->
       <stop
          offset="0.24"
          stop-color="#ffe848"
          stop-opacity="0.57"
-         id="stop3046" />
+         id="stop3046" /> -->
       <stop
          offset="0.3"
          stop-color="#ffe52b"
          stop-opacity="0.51"
-         id="stop3048" />
+         id="stop3048" /> -->
       <stop
          offset="0.35"
          stop-color="#ffe31a"
          stop-opacity="0.47"
-         id="stop3050" />
+         id="stop3050" /> -->
       <stop
          offset="0.39"
          stop-color="#ffe214"
          stop-opacity="0.45"
-         id="stop3052" />
+         id="stop3052" /> -->
       <stop
          offset="0.81"
          stop-color="#ffe200"
          stop-opacity="0"
-         id="stop3054" />
+         id="stop3054" /> -->
     </radialGradient>
     <radialGradient
        id="radial-gradient-44"
@@ -2225,14 +2225,14 @@
        cy="-1608.71"
        r="4.78"
        gradientTransform="matrix(-0.32,0.83,-0.65,-0.24,-921.42,1272.2)"
-       xlink:href="#radial-gradient-43" />
+       xlink:href="#radial-gradient-43" /> -->
     <radialGradient
        id="radial-gradient-45"
        cx="-2060.31"
        cy="-1865.23"
        r="3.59"
        gradientTransform="matrix(-0.23,0.52,-0.54,-0.23,-813.14,873.26)"
-       xlink:href="#radial-gradient-43" />
+       xlink:href="#radial-gradient-43" /> -->
     <linearGradient
        id="linear-gradient-21"
        x1="669.66"
@@ -2243,31 +2243,31 @@
       <stop
          offset="0"
          stop-color="#e67e26"
-         id="stop3059" />
+         id="stop3059" /> -->
       <stop
          offset="0.5"
          stop-color="#db5626"
-         id="stop3061" />
+         id="stop3061" /> -->
       <stop
          offset="0.63"
          stop-color="#c53c27"
-         id="stop3063" />
+         id="stop3063" /> -->
       <stop
          offset="0.75"
          stop-color="#af2128"
-         id="stop3065" />
+         id="stop3065" /> -->
       <stop
          offset="0.84"
          stop-color="#a71f25"
-         id="stop3067" />
+         id="stop3067" /> -->
       <stop
          offset="0.97"
          stop-color="#901a1d"
-         id="stop3069" />
+         id="stop3069" /> -->
       <stop
          offset="1"
          stop-color="#8a191b"
-         id="stop3071" />
+         id="stop3071" /> -->
     </linearGradient>
     <radialGradient
        id="radial-gradient-46"
@@ -2275,7 +2275,7 @@
        cy="-3984.32"
        r="9.5"
        gradientTransform="matrix(0.03,-1,1,0.03,4560.51,3468.06)"
-       xlink:href="#radial-gradient-42" />
+       xlink:href="#radial-gradient-42" /> -->
     <radialGradient
        id="radial-gradient-47"
        cx="662.01"
@@ -2287,11 +2287,11 @@
          offset="0.49"
          stop-color="#e67e26"
          stop-opacity="0"
-         id="stop3075" />
+         id="stop3075" /> -->
       <stop
          offset="0.85"
          stop-color="#eebd1b"
-         id="stop3077" />
+         id="stop3077" /> -->
     </radialGradient>
     <radialGradient
        inkscape:collect="always"
@@ -2301,7 +2301,7 @@
        gradientTransform="matrix(0.2,-0.98,-0.89,-0.19,1337.06,-2541.42)"
        cx="-2795.27"
        cy="164.45"
-       r="13.44" />
+       r="13.44" /> -->
     <radialGradient
        inkscape:collect="always"
        xlink:href="#radial-gradient-10"
@@ -2310,7 +2310,7 @@
        gradientTransform="matrix(-1,0,0,1,500.31,0)"
        cx="-115.26"
        cy="175.8"
-       r="24.17" />
+       r="24.17" /> -->
     <radialGradient
        inkscape:collect="always"
        xlink:href="#radial-gradient-7"
@@ -2318,7 +2318,7 @@
        gradientUnits="userSpaceOnUse"
        cx="623.28"
        cy="155.33"
-       r="14.06" />
+       r="14.06" /> -->
     <radialGradient
        inkscape:collect="always"
        xlink:href="#radial-gradient-42"
@@ -2326,7 +2326,7 @@
        gradientUnits="userSpaceOnUse"
        cx="666.34"
        cy="219.87"
-       r="17.95" />
+       r="17.95" /> -->
     <radialGradient
        inkscape:collect="always"
        xlink:href="#radial-gradient-43"
@@ -2335,7 +2335,7 @@
        gradientTransform="matrix(-0.28,0.95,-0.64,-0.18,-868.96,1432.17)"
        cx="-1584.31"
        cy="-1718.5"
-       r="4.59" />
+       r="4.59" /> -->
     <linearGradient
        id="edb2ea05-4c60-42fb-9b9a-0edf2b99dad4"
        x1="-811.93542"
@@ -2347,11 +2347,11 @@
       <stop
          offset="0"
          stop-color="#114a8b"
-         id="stop6543" />
+         id="stop6543" /> -->
       <stop
          offset="1"
          stop-color="#0669bc"
-         id="stop6545" />
+         id="stop6545" /> -->
     </linearGradient>
     <linearGradient
        id="ac228590-1978-4cad-a0d4-e155e1dae5a8"
@@ -2364,11 +2364,11 @@
       <stop
          offset="0"
          stop-color="#3ccbf4"
-         id="stop6548" />
+         id="stop6548" /> -->
       <stop
          offset="1"
          stop-color="#2892df"
-         id="stop6550" />
+         id="stop6550" /> -->
     </linearGradient>
   </defs>
   <title
@@ -2376,7 +2376,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="gray" />
+     inkscape:label="gray" /> -->
   <g
      id="g7345">
     <rect
@@ -2386,7 +2386,7 @@
        id="rect3084"
        x="0"
        y="0"
-       style="isolation:isolate" />
+       style="isolation:isolate" /> -->
     <g
        id="g3090"
        style="isolation:isolate">
@@ -2396,7 +2396,7 @@
          width="269.92001"
          height="190"
          fill="#ffffff"
-         id="rect3086" />
+         id="rect3086" /> -->
       <rect
          x="102.98"
          y="55"
@@ -2404,7 +2404,7 @@
          height="190"
          fill="#0072c6"
          opacity="0.12"
-         id="rect3088" />
+         id="rect3088" /> -->
     </g>
     <g
        id="g3096"
@@ -2415,7 +2415,7 @@
          width="120"
          height="268.98999"
          fill="#ffffff"
-         id="rect3092" />
+         id="rect3092" /> -->
       <rect
          x="587.90997"
          y="37.200001"
@@ -2423,7 +2423,7 @@
          height="268.98999"
          fill="#3c3c41"
          opacity="0.25"
-         id="rect3094" />
+         id="rect3094" /> -->
     </g>
     <g
        id="g3102"
@@ -2434,7 +2434,7 @@
          width="97.82"
          height="235"
          fill="#ffffff"
-         id="rect3098" />
+         id="rect3098" /> -->
       <rect
          x="598.98999"
          y="46.189999"
@@ -2442,13 +2442,13 @@
          height="235"
          fill="#3c3c41"
          opacity="0.08"
-         id="rect3100" />
+         id="rect3100" /> -->
     </g>
     <path
        id="Microsoft-Edge-logo"
        d="m 662.34,79.14 a 19.8,19.8 0 0 0 -5.61,5.37 c 0,0 0.53,-6.62 5.61,-10.49 a 14,14 0 0 1 15.46,-1 12.72,12.72 0 0 1 4.89,5 11.47,11.47 0 0 1 1.19,3 24.15,24.15 0 0 1 0.55,4.38 v 3.2 h -18.85 c 0,0 -0.46,6.33 8.21,6.33 a 13.48,13.48 0 0 0 5.06,-0.77 12.82,12.82 0 0 0 3,-1.48 V 99 a 18.31,18.31 0 0 1 -8.9,2.18 15.15,15.15 0 0 1 -4.63,-0.62 11.79,11.79 0 0 1 -6,-4.36 13.06,13.06 0 0 1 -1.74,-3.53 12.64,12.64 0 0 1 -0.38,-3.42 11.13,11.13 0 0 1 2.58,-7.25 14,14 0 0 1 4.75,-3.52 9,9 0 0 0 -2.07,4.78 h 10.64 c 0,0 0.62,-6.36 -6,-6.36 a 15.76,15.76 0 0 0 -7.76,2.24 z"
        fill="#3078bb"
-       style="isolation:isolate" />
+       style="isolation:isolate" /> -->
     <g
        clip-path="url(#clip-path)"
        id="g3117"
@@ -2459,28 +2459,28 @@
            d="M 618.58,155.44 617.15,153 a 10,10 0 0 1 2.18,-1.79 3.62,3.62 0 0 1 3,-0.3 17.67,17.67 0 0 1 5.44,2.13 v 13.35 a 22.28,22.28 0 0 1 -9.19,-10.95 z"
            fill="url(#radial-gradient-8)"
            id="path3105"
-           style="fill:url(#radialGradient5123)" />
+           style="fill:url(#radialGradient5123)" /> -->
         <path
            d="m 612.71,163.69 a 15,15 0 0 1 4.44,-10.69 10,10 0 0 1 2.18,-1.79 3.62,3.62 0 0 1 3,-0.3 17.67,17.67 0 0 1 5.44,2.13 v 7.64 c -2.66,1.77 -12.48,11.49 -9.9,14.28 a 15,15 0 0 1 -5.16,-11.27 z"
            opacity="0.75"
            fill="url(#linear-gradient-7)"
            id="path3107"
-           style="fill:url(#linear-gradient-7)" />
+           style="fill:url(#linear-gradient-7)" /> -->
         <path
            d="m 636.85,155.44 1.43,-2.41 a 17,17 0 0 0 -2.18,-1.79 3.62,3.62 0 0 0 -3,-0.3 17.67,17.67 0 0 0 -5.44,2.13 v 13.35 a 22.28,22.28 0 0 0 9.19,-10.98 z"
            fill="url(#radial-gradient-9)"
            id="path3109"
-           style="fill:url(#radial-gradient-9)" />
+           style="fill:url(#radial-gradient-9)" /> -->
         <path
            d="M 627.43,167.29 631.79,157 a 30.06,30.06 0 0 1 4.46,5.34 c 2.18,3.55 4.75,8.76 3.28,10.63 a 16,16 0 0 1 -2,2.09 c 0,0 -10.1,-4.77 -10.1,-7.77 z"
            fill="url(#radial-gradient-10)"
            id="path3111"
-           style="fill:url(#radialGradient5125)" />
+           style="fill:url(#radialGradient5125)" /> -->
         <path
            d="M 628,167.29 623.63,157 a 30.06,30.06 0 0 0 -4.46,5.34 c -2.18,3.55 -4.75,8.76 -3.28,10.63 a 16,16 0 0 0 2,2.09 c 0,0 10.11,-4.77 10.11,-7.77 z"
            fill="url(#radial-gradient-11)"
            id="path3113"
-           style="fill:url(#radial-gradient-11)" />
+           style="fill:url(#radial-gradient-11)" /> -->
       </g>
     </g>
     <g
@@ -2490,7 +2490,7 @@
       <path
          d="M 643.11,163.56 A 15.55,15.55 0 1 1 627.56,148 a 15.55,15.55 0 0 1 15.55,15.56 z"
          fill="#ffffff"
-         id="path3119" />
+         id="path3119" /> -->
       <g
          id="g3223">
         <g
@@ -2505,7 +2505,7 @@
                  d="m 643.6,163.41 a 16,16 0 1 1 -16,-15.94 15.95,15.95 0 0 1 16,15.94 z"
                  fill="url(#radial-gradient-12)"
                  id="path3121"
-                 style="fill:url(#radial-gradient-12)" />
+                 style="fill:url(#radial-gradient-12)" /> -->
             </g>
           </g>
           <g
@@ -2522,7 +2522,7 @@
                    opacity="0.7"
                    fill="url(#linear-gradient-8)"
                    id="path3127"
-                   style="fill:url(#linear-gradient-8)" />
+                   style="fill:url(#linear-gradient-8)" /> -->
               </g>
             </g>
           </g>
@@ -2539,7 +2539,7 @@
                    d="m 643.6,163.41 a 16,16 0 1 1 -16,-15.94 15.95,15.95 0 0 1 16,15.94 z"
                    fill="url(#radial-gradient-13)"
                    id="path3135"
-                   style="fill:url(#radial-gradient-13)" />
+                   style="fill:url(#radial-gradient-13)" /> -->
               </g>
             </g>
           </g>
@@ -2554,7 +2554,7 @@
                  opacity="0.45"
                  fill="url(#radial-gradient-14)"
                  id="path3143"
-                 style="fill:url(#radial-gradient-14)" />
+                 style="fill:url(#radial-gradient-14)" /> -->
             </g>
           </g>
           <g
@@ -2570,7 +2570,7 @@
                    d="m 643.6,163.41 a 16,16 0 1 1 -16,-15.94 15.95,15.95 0 0 1 16,15.94 z"
                    fill="url(#radial-gradient-15)"
                    id="path3149"
-                   style="fill:url(#radial-gradient-15)" />
+                   style="fill:url(#radial-gradient-15)" /> -->
               </g>
             </g>
           </g>
@@ -2581,7 +2581,7 @@
                d="m 643.6,163.41 a 16,16 0 1 1 -16,-15.94 15.95,15.95 0 0 1 16,15.94 z"
                fill="url(#radial-gradient-16)"
                id="path3157"
-               style="fill:url(#radial-gradient-16)" />
+               style="fill:url(#radial-gradient-16)" /> -->
           </g>
           <g
              id="g3167">
@@ -2590,7 +2590,7 @@
                opacity="0.5"
                fill="url(#radial-gradient-7)"
                id="path3161"
-               style="fill:url(#radialGradient5127)" />
+               style="fill:url(#radialGradient5127)" /> -->
             <g
                clip-path="url(#clip-path-9)"
                id="g3165">
@@ -2599,7 +2599,7 @@
                  opacity="0.85"
                  fill="url(#radial-gradient-18)"
                  id="path3163"
-                 style="fill:url(#radial-gradient-18)" />
+                 style="fill:url(#radial-gradient-18)" /> -->
             </g>
           </g>
           <g
@@ -2610,7 +2610,7 @@
                opacity="0.6"
                fill="url(#radial-gradient-19)"
                id="path3169"
-               style="fill:url(#radial-gradient-19)" />
+               style="fill:url(#radial-gradient-19)" /> -->
           </g>
           <g
              mask="url(#mask-5)"
@@ -2620,7 +2620,7 @@
                opacity="0.15"
                fill="url(#radial-gradient-20)"
                id="path3173"
-               style="fill:url(#radial-gradient-20)" />
+               style="fill:url(#radial-gradient-20)" /> -->
           </g>
           <g
              mask="url(#mask-6)"
@@ -2630,7 +2630,7 @@
                opacity="0.3"
                fill="url(#radial-gradient-21)"
                id="path3177"
-               style="fill:url(#radial-gradient-21)" />
+               style="fill:url(#radial-gradient-21)" /> -->
           </g>
           <g
              clip-path="url(#clip-path-10)"
@@ -2643,7 +2643,7 @@
                  opacity="0.54"
                  fill="url(#radial-gradient-22)"
                  id="path3181"
-                 style="fill:url(#radial-gradient-22)" />
+                 style="fill:url(#radial-gradient-22)" /> -->
             </g>
           </g>
           <g
@@ -2662,7 +2662,7 @@
                    height="30.709999"
                    fill="#7d7d7d"
                    opacity="0.65"
-                   id="rect3187" />
+                   id="rect3187" /> -->
               </g>
             </g>
           </g>
@@ -2681,7 +2681,7 @@
                    opacity="0.7"
                    fill="url(#radial-gradient-23)"
                    id="path3195"
-                   style="fill:url(#radial-gradient-23)" />
+                   style="fill:url(#radial-gradient-23)" /> -->
               </g>
             </g>
           </g>
@@ -2698,7 +2698,7 @@
                    d="m 638.55,153.74 c 0,4 -5.39,7.23 -12,7.23 -6.61,0 -12,-3.23 -12,-7.23 0,-4 5.39,-7.24 12,-7.24 6.61,0 12,3.24 12,7.24 z"
                    fill="url(#radial-gradient-24)"
                    id="path3203"
-                   style="fill:url(#radial-gradient-24)" />
+                   style="fill:url(#radial-gradient-24)" /> -->
               </g>
             </g>
           </g>
@@ -2712,7 +2712,7 @@
              fill-rule="evenodd"
              fill="url(#radial-gradient-25)"
              id="path3213"
-             style="fill:url(#radial-gradient-25)" />
+             style="fill:url(#radial-gradient-25)" /> -->
           <g
              mask="url(#mask-10)"
              id="g3219">
@@ -2724,7 +2724,7 @@
                  d="m 612.58,163.66 a 15.14,15.14 0 1 1 15.13,15.14 15.12,15.12 0 0 1 -15.13,-15.14 z"
                  fill="#ffffff"
                  fill-rule="evenodd"
-                 id="path3215" />
+                 id="path3215" /> -->
             </g>
           </g>
         </g>
@@ -2739,23 +2739,23 @@
          width="30"
          height="30"
          fill="#a4c639"
-         id="rect3227" />
+         id="rect3227" /> -->
       <path
          d="m 626.51,127.24 v 2.9 c 0,0.8 -0.4,1.4 -1.2,1.4 v 0 c -0.8,0 -1.2,-0.6 -1.2,-1.4 v -2.9 h -1.5 c -0.6,0 -0.9,-0.7 -0.9,-1.3 V 116 h 12 v 9.9 c 0,0.6 -0.2,1.3 -0.9,1.3 h -1.5 v 2.9 c 0,0.8 -0.4,1.4 -1.2,1.4 v 0 c -0.8,0 -1.2,-0.6 -1.2,-1.4 v -2.9 z"
          fill="#ffffff"
-         id="path3229" />
+         id="path3229" /> -->
       <path
          d="m 619.31,115.74 v 0 a 1.55,1.55 0 0 1 1.6,1.4 v 5.6 a 1.55,1.55 0 0 1 -1.6,1.4 v 0 a 1.55,1.55 0 0 1 -1.6,-1.4 v -5.6 a 1.55,1.55 0 0 1 1.6,-1.4 z"
          fill="#ffffff"
-         id="path3231" />
+         id="path3231" /> -->
       <path
          d="m 636.11,115.74 v 0 a 1.55,1.55 0 0 1 1.6,1.4 v 5.6 a 1.55,1.55 0 0 1 -1.6,1.4 v 0 a 1.55,1.55 0 0 1 -1.6,-1.4 v -5.6 a 1.55,1.55 0 0 1 1.6,-1.4 z"
          fill="#ffffff"
-         id="path3233" />
+         id="path3233" /> -->
       <path
          d="m 630.61,110.74 1.1,-1.5 c 0.1,-0.1 0,-0.2 -0.1,-0.3 -0.1,-0.1 -0.2,0 -0.3,0.1 l -1.1,1.6 a 7,7 0 0 0 -2.5,-0.5 6.55,6.55 0 0 0 -2.5,0.5 l -1.2,-1.7 a 0.37,0.37 0 0 0 -0.3,-0.1 c 0,0.1 -0.1,0.2 0,0.3 l 1.1,1.6 a 4.93,4.93 0 0 0 -3.1,4.1 h 12 a 4.93,4.93 0 0 0 -3.1,-4.1 z m -5.5,2.7 a 0.7,0.7 0 1 1 0.7,-0.7 0.68,0.68 0 0 1 -0.7,0.7 z m 5.2,0 a 0.7,0.7 0 1 1 0.7,-0.7 0.68,0.68 0 0 1 -0.7,0.7 z"
          fill="#ffffff"
-         id="path3235" />
+         id="path3235" /> -->
     </g>
     <g
        id="g3247"
@@ -2766,64 +2766,64 @@
          width="30"
          height="30"
          fill="#8c8c8c"
-         id="rect3239" />
+         id="rect3239" /> -->
       <g
          id="g3245">
         <path
            d="m 636.41,79.89 a 18.34,18.34 0 0 1 -1.3,2.4 c -0.8,1.3 -2,2.9 -3.5,2.9 -1.3,0 -1.7,-0.9 -3.4,-0.8 -1.7,0.1 -2.2,0.9 -3.5,0.9 -1.5,0 -2.6,-1.5 -3.5,-2.8 -2.5,-3.6 -2.7,-7.9 -1.2,-10.1 a 5.17,5.17 0 0 1 4.2,-2.5 c 1.6,0 2.6,0.9 3.9,0.9 1.3,0 2,-0.9 3.8,-0.9 a 5.18,5.18 0 0 1 3.9,2 4.4,4.4 0 0 0 0.6,8 z"
            fill="#ffffff"
-           id="path3241" />
+           id="path3241" /> -->
         <path
            d="m 630.51,68.39 a 4.12,4.12 0 0 0 1,-3.3 5.08,5.08 0 0 0 -3.1,1.7 4,4 0 0 0 -1,3.2 4.13,4.13 0 0 0 3.1,-1.6 z"
            fill="#ffffff"
-           id="path3243" />
+           id="path3243" /> -->
       </g>
     </g>
     <path
        d="m 655.58,171.52 12.26,-1.66 v 11.78 l -12.25,0.07 z M 667.83,183 v 11.8 l -12.25,-1.68 v -10.2 z m 1.49,-13.36 16.26,-2.37 v 14.22 l -16.26,0.13 z m 16.26,13.47 v 14.16 L 669.32,195 v -11.89 z"
        fill="#0078d4"
        id="path3249"
-       style="isolation:isolate" />
+       style="isolation:isolate" /> -->
     <path
        d="m 670.54,119.18 a 15.36,15.36 0 0 1 13.53,8.49 h -14.28 c 0,0 -2.7,-0.09 -5,3.18 a 6.68,6.68 0 0 0 -0.57,5.57 c -1.15,-1.94 -6.11,-10.57 -6.11,-10.57 0,0 3.5,-6.32 12.43,-6.67 z"
        fill="#e53029"
        id="path3251"
-       style="isolation:isolate" />
+       style="isolation:isolate" /> -->
     <path
        d="m 683.61,141.74 a 15.36,15.36 0 0 1 -14.12,7.47 l 7.14,-12.36 c 0,0 1.43,-2.3 -0.25,-5.92 a 6.72,6.72 0 0 0 -4.54,-3.29 c 2.26,0 12.2,0 12.2,0 0,0 3.73,6.19 -0.43,14.1 z"
        fill="#fdd900"
        id="path3253"
-       style="isolation:isolate" />
+       style="isolation:isolate" /> -->
     <path
        d="m 657.53,141.8 a 15.37,15.37 0 0 1 0.59,-16 l 7.14,12.37 c 0,0 1.27,2.38 5.26,2.74 a 6.69,6.69 0 0 0 5.11,-2.29 c -1.11,2 -6.1,10.57 -6.1,10.57 0,0 -7.23,0.17 -12,-7.39 z"
        fill="#66b44b"
        id="path3255"
-       style="isolation:isolate" />
+       style="isolation:isolate" /> -->
     <path
        d="m 669.49,149.29 2,-8.39 a 6.71,6.71 0 0 0 4.06,-2.2 c -1.14,2.02 -6.06,10.59 -6.06,10.59 z"
        fill="#61ab48"
        id="path3257"
-       style="isolation:isolate" />
+       style="isolation:isolate" /> -->
     <path
        d="m 663.81,134.32 a 6.69,6.69 0 1 1 6.69,6.7 6.7,6.7 0 0 1 -6.69,-6.7 z"
        fill="#ffffff"
        id="path3259"
-       style="isolation:isolate" />
+       style="isolation:isolate" /> -->
     <path
        d="m 664.93,134.32 a 5.57,5.57 0 1 1 5.57,5.58 5.58,5.58 0 0 1 -5.57,-5.58 z"
        fill="url(#linear-gradient-9)"
        id="path3261"
-       style="isolation:isolate;fill:url(#linear-gradient-9)" />
+       style="isolation:isolate;fill:url(#linear-gradient-9)" /> -->
     <path
        d="m 684,127.64 -8.27,2.43 a 6.75,6.75 0 0 0 -3.93,-2.43 c 2.36,-0.01 12.2,0 12.2,0 z"
        fill="#f0ce00"
        id="path3263"
-       style="isolation:isolate" />
+       style="isolation:isolate" /> -->
     <path
        d="m 664.06,136.12 -5.95,-10.27 6.13,6.07 a 6,6 0 0 0 -0.39,3.14 z"
        fill="#d92f27"
        id="path3265"
-       style="isolation:isolate" />
+       style="isolation:isolate" /> -->
     <g
        id="g3541"
        style="isolation:isolate">
@@ -2833,144 +2833,144 @@
          r="15"
          fill="url(#linear-gradient-10)"
          id="circle3267"
-         style="fill:url(#linear-gradient-10)" />
+         style="fill:url(#linear-gradient-10)" /> -->
       <circle
          cx="627.71002"
          cy="251.19"
          r="13.87"
          fill="url(#radial-gradient-26)"
          id="circle3269"
-         style="fill:url(#radial-gradient-26)" />
+         style="fill:url(#radial-gradient-26)" /> -->
       <g
          id="g3529">
         <path
            d="m 627.73,240.69 a 0.17,0.17 0 0 1 -0.17,-0.16 v -2.45 a 0.17,0.17 0 0 1 0.17,-0.17 0.17,0.17 0 0 1 0.18,0.17 v 2.45 a 0.18,0.18 0 0 1 -0.18,0.16 z"
            fill="#f3f3f3"
-           id="path3271" />
+           id="path3271" /> -->
         <path
            d="m 627.73,240.7 a 0.18,0.18 0 0 1 -0.18,-0.17 v -2.45 a 0.18,0.18 0 0 1 0.18,-0.18 0.18,0.18 0 0 1 0.19,0.18 v 2.45 a 0.19,0.19 0 0 1 -0.19,0.17 z m 0,-2.78 a 0.16,0.16 0 0 0 -0.16,0.16 v 2.45 a 0.16,0.16 0 0 0 0.16,0.15 0.17,0.17 0 0 0 0.17,-0.15 v -2.45 a 0.17,0.17 0 0 0 -0.17,-0.16 z"
            fill="#ffffff"
-           id="path3273" />
+           id="path3273" /> -->
         <path
            d="m 628.91,239.38 a 0.18,0.18 0 0 1 -0.17,-0.18 l 0.08,-1.09 A 0.18,0.18 0 0 1 629,238 a 0.17,0.17 0 0 1 0.16,0.17 l -0.08,1.09 a 0.17,0.17 0 0 1 -0.18,0.16 z"
            fill="#f3f3f3"
-           id="path3275" />
+           id="path3275" /> -->
         <path
            d="m 628.91,239.39 a 0.19,0.19 0 0 1 -0.18,-0.19 l 0.08,-1.09 a 0.19,0.19 0 0 1 0.2,-0.16 0.19,0.19 0 0 1 0.18,0.18 l -0.09,1.09 a 0.17,0.17 0 0 1 -0.19,0.17 z M 629,238 a 0.15,0.15 0 0 0 -0.16,0.14 l -0.09,1.09 a 0.18,0.18 0 0 0 0.16,0.17 0.16,0.16 0 0 0 0.16,-0.15 l 0.08,-1.09 A 0.17,0.17 0 0 0 629,238 Z"
            fill="#ffffff"
-           id="path3277" />
+           id="path3277" /> -->
         <path
            d="m 629.78,240.9 a 0.18,0.18 0 0 1 -0.14,-0.2 l 0.48,-2.4 a 0.18,0.18 0 0 1 0.2,-0.13 0.17,0.17 0 0 1 0.14,0.2 l -0.48,2.4 a 0.17,0.17 0 0 1 -0.2,0.13 z"
            fill="#f3f3f3"
-           id="path3279" />
+           id="path3279" /> -->
         <path
            d="m 629.78,240.91 a 0.19,0.19 0 0 1 -0.15,-0.21 l 0.48,-2.4 a 0.19,0.19 0 0 1 0.22,-0.14 0.19,0.19 0 0 1 0.16,0.21 l -0.48,2.4 a 0.2,0.2 0 0 1 -0.23,0.14 z m 0.55,-2.73 a 0.16,0.16 0 0 0 -0.18,0.12 l -0.48,2.4 a 0.16,0.16 0 0 0 0.31,0.07 l 0.48,-2.4 a 0.16,0.16 0 0 0 -0.13,-0.19 z"
            fill="#ffffff"
-           id="path3281" />
+           id="path3281" /> -->
         <path
            d="m 631.19,239.85 a 0.19,0.19 0 0 1 -0.13,-0.22 l 0.29,-1 a 0.19,0.19 0 0 1 0.22,-0.12 0.17,0.17 0 0 1 0.12,0.21 l -0.29,1.06 a 0.17,0.17 0 0 1 -0.21,0.12 z"
            fill="#f3f3f3"
-           id="path3283" />
+           id="path3283" /> -->
         <path
            d="m 631.19,239.86 a 0.19,0.19 0 0 1 -0.13,-0.23 l 0.29,-1 a 0.2,0.2 0 0 1 0.23,-0.13 0.18,0.18 0 0 1 0.13,0.22 l -0.3,1.06 a 0.18,0.18 0 0 1 -0.22,0.13 z m 0.39,-1.37 a 0.16,0.16 0 0 0 -0.2,0.1 l -0.3,1.06 a 0.15,0.15 0 0 0 0.12,0.18 0.16,0.16 0 0 0 0.2,-0.1 l 0.29,-1.06 a 0.15,0.15 0 0 0 -0.11,-0.18 z"
            fill="#ffffff"
-           id="path3285" />
+           id="path3285" /> -->
         <path
            d="m 631.76,241.5 a 0.17,0.17 0 0 1 -0.09,-0.22 l 0.94,-2.27 a 0.16,0.16 0 0 1 0.22,-0.08 0.16,0.16 0 0 1 0.09,0.22 l -0.93,2.27 a 0.17,0.17 0 0 1 -0.23,0.08 z"
            fill="#f3f3f3"
-           id="path3287" />
+           id="path3287" /> -->
         <path
            d="m 631.76,241.51 a 0.18,0.18 0 0 1 -0.1,-0.23 l 0.94,-2.27 a 0.18,0.18 0 0 1 0.24,-0.09 0.18,0.18 0 0 1 0.11,0.23 l -0.94,2.27 a 0.19,0.19 0 0 1 -0.25,0.09 z m 1.07,-2.57 a 0.16,0.16 0 0 0 -0.21,0.09 l -0.94,2.26 a 0.16,0.16 0 0 0 0.1,0.2 0.16,0.16 0 0 0 0.21,-0.09 l 0.93,-2.26 a 0.16,0.16 0 0 0 -0.09,-0.2 z"
            fill="#ffffff"
-           id="path3289" />
+           id="path3289" /> -->
         <path
            d="m 633.35,240.75 a 0.18,0.18 0 0 1 -0.09,-0.22 l 0.5,-1 a 0.17,0.17 0 0 1 0.23,-0.07 0.18,0.18 0 0 1 0.08,0.23 l -0.49,1 a 0.17,0.17 0 0 1 -0.23,0.07 z"
            fill="#f3f3f3"
-           id="path3291" />
+           id="path3291" /> -->
         <path
            d="m 633.35,240.76 a 0.19,0.19 0 0 1 -0.09,-0.25 l 0.5,-1 a 0.17,0.17 0 0 1 0.24,-0.08 0.17,0.17 0 0 1 0.08,0.25 l -0.49,1 a 0.17,0.17 0 0 1 -0.24,0.08 z m 0.64,-1.28 a 0.16,0.16 0 0 0 -0.21,0.07 l -0.49,1 a 0.17,0.17 0 0 0 0.07,0.21 0.16,0.16 0 0 0 0.21,-0.07 l 0.49,-1 a 0.17,0.17 0 0 0 -0.07,-0.21 z"
            fill="#ffffff"
-           id="path3293" />
+           id="path3293" /> -->
         <path
            d="m 633.58,242.48 a 0.17,0.17 0 0 1 -0.05,-0.23 l 1.36,-2 a 0.19,0.19 0 0 1 0.24,-0.05 0.17,0.17 0 0 1 0,0.24 l -1.35,2 a 0.16,0.16 0 0 1 -0.24,0 z"
            fill="#f3f3f3"
-           id="path3295" />
+           id="path3295" /> -->
         <path
            d="m 633.58,242.49 a 0.2,0.2 0 0 1 -0.06,-0.25 l 1.36,-2 a 0.19,0.19 0 0 1 0.26,-0.05 0.21,0.21 0 0 1 0.06,0.26 l -1.36,2 a 0.19,0.19 0 0 1 -0.26,0 z m 1.55,-2.3 a 0.16,0.16 0 0 0 -0.22,0 l -1.36,2 a 0.15,0.15 0 0 0 0,0.21 0.17,0.17 0 0 0 0.23,0 l 1.35,-2 a 0.16,0.16 0 0 0 0,-0.22 z"
            fill="#ffffff"
-           id="path3297" />
+           id="path3297" /> -->
         <path
            d="m 635.29,242.05 a 0.17,0.17 0 0 1 0,-0.24 l 0.68,-0.85 a 0.16,0.16 0 0 1 0.23,0 0.17,0.17 0 0 1 0,0.23 l -0.68,0.86 a 0.17,0.17 0 0 1 -0.24,0 z"
            fill="#f3f3f3"
-           id="path3299" />
+           id="path3299" /> -->
         <path
            d="m 635.28,242.06 a 0.19,0.19 0 0 1 0,-0.26 l 0.67,-0.85 a 0.18,0.18 0 0 1 0.26,0 0.19,0.19 0 0 1 0,0.26 l -0.68,0.86 a 0.18,0.18 0 0 1 -0.26,0 z m 0.88,-1.11 a 0.15,0.15 0 0 0 -0.22,0 l -0.68,0.86 a 0.16,0.16 0 0 0 0,0.22 0.15,0.15 0 0 0 0.22,0 l 0.68,-0.86 a 0.16,0.16 0 0 0 0,-0.22 z"
            fill="#ffffff"
-           id="path3301" />
+           id="path3301" /> -->
         <path
            d="m 635.17,243.81 a 0.16,0.16 0 0 1 0,-0.24 l 1.74,-1.72 a 0.16263456,0.16263456 0 0 1 0.23,0.23 l -1.72,1.73 a 0.17,0.17 0 0 1 -0.25,0 z"
            fill="#f3f3f3"
-           id="path3303" />
+           id="path3303" /> -->
         <path
            d="m 635.16,243.82 a 0.19,0.19 0 0 1 0,-0.26 l 1.74,-1.72 a 0.18384776,0.18384776 0 0 1 0.26,0.26 l -1.74,1.72 a 0.19,0.19 0 0 1 -0.26,0 z m 2,-2 a 0.16,0.16 0 0 0 -0.22,0 l -1.73,1.72 a 0.17,0.17 0 0 0 0,0.23 0.18,0.18 0 0 0 0.22,0 l 1.73,-1.73 a 0.16,0.16 0 0 0 0,-0.22 z"
            fill="#ffffff"
-           id="path3305" />
+           id="path3305" /> -->
         <path
            d="m 636.93,243.71 a 0.16,0.16 0 0 1 0,-0.23 l 0.84,-0.7 a 0.17,0.17 0 0 1 0.22,0.25 l -0.83,0.71 a 0.17,0.17 0 0 1 -0.24,0 z"
            fill="#f3f3f3"
-           id="path3307" />
+           id="path3307" /> -->
         <path
            d="m 636.92,243.72 a 0.17,0.17 0 0 1 0,-0.25 l 0.83,-0.71 a 0.18,0.18 0 0 1 0.26,0 0.19,0.19 0 0 1 0,0.26 l -0.83,0.7 a 0.17,0.17 0 0 1 -0.26,0 z M 638,242.8 a 0.16,0.16 0 0 0 -0.22,0 l -0.84,0.7 a 0.17,0.17 0 0 0 0,0.22 0.17,0.17 0 0 0 0.23,0 l 0.83,-0.7 a 0.15,0.15 0 0 0 0,-0.22 z"
            fill="#ffffff"
-           id="path3309" />
+           id="path3309" /> -->
         <path
            d="m 636.46,245.4 a 0.16,0.16 0 0 1 0,-0.23 l 2,-1.36 a 0.17,0.17 0 0 1 0.23,0 0.16,0.16 0 0 1 0,0.24 l -2,1.36 a 0.2,0.2 0 0 1 -0.24,0 z"
            fill="#f3f3f3"
-           id="path3311" />
+           id="path3311" /> -->
         <path
            d="m 636.45,245.4 a 0.19,0.19 0 0 1 0,-0.26 l 2,-1.36 a 0.19,0.19 0 0 1 0.26,0.06 0.2,0.2 0 0 1 0,0.26 l -2,1.36 a 0.19,0.19 0 0 1 -0.26,-0.06 z m 2.32,-1.53 a 0.15,0.15 0 0 0 -0.21,-0.05 l -2,1.36 a 0.15,0.15 0 0 0 0,0.22 0.16,0.16 0 0 0 0.21,0 l 2,-1.36 a 0.16,0.16 0 0 0 0,-0.22 z"
            fill="#ffffff"
-           id="path3313" />
+           id="path3313" /> -->
         <path
            d="m 638.21,245.65 a 0.18,0.18 0 0 1 0.06,-0.24 l 1,-0.54 a 0.18,0.18 0 0 1 0.23,0.07 0.17,0.17 0 0 1 -0.06,0.24 l -0.95,0.54 a 0.18,0.18 0 0 1 -0.23,-0.07 z"
            fill="#f3f3f3"
-           id="path3315" />
+           id="path3315" /> -->
         <path
            d="m 638.2,245.66 a 0.18,0.18 0 0 1 0.06,-0.25 l 1,-0.54 a 0.19,0.19 0 0 1 0.24,0.07 0.18,0.18 0 0 1 -0.06,0.25 l -0.95,0.54 a 0.18,0.18 0 0 1 -0.24,-0.07 z m 1.24,-0.7 a 0.14,0.14 0 0 0 -0.21,-0.06 l -1,0.54 a 0.17,0.17 0 0 0 -0.06,0.21 0.15,0.15 0 0 0 0.21,0.06 l 1,-0.54 a 0.16,0.16 0 0 0 0.06,-0.21 z"
            fill="#ffffff"
-           id="path3317" />
+           id="path3317" /> -->
         <path
            d="m 637.42,247.21 a 0.17,0.17 0 0 1 0.1,-0.23 l 2.26,-0.93 a 0.17,0.17 0 0 1 0.22,0.09 0.16,0.16 0 0 1 -0.09,0.22 l -2.26,0.94 a 0.18,0.18 0 0 1 -0.23,-0.09 z"
            fill="#f3f3f3"
-           id="path3319" />
+           id="path3319" /> -->
         <path
            d="m 637.41,247.22 a 0.2,0.2 0 0 1 0.1,-0.25 l 2.26,-0.94 a 0.19,0.19 0 0 1 0.23,0.11 0.18,0.18 0 0 1 -0.09,0.24 l -2.26,0.94 a 0.18,0.18 0 0 1 -0.24,-0.1 z m 2.57,-1.07 a 0.16,0.16 0 0 0 -0.2,-0.09 l -2.26,0.93 a 0.16,0.16 0 0 0 -0.08,0.22 0.17,0.17 0 0 0 0.2,0.09 l 2.26,-0.94 a 0.16,0.16 0 0 0 0.08,-0.21 z"
            fill="#ffffff"
-           id="path3321" />
+           id="path3321" /> -->
         <path
            d="m 639.08,247.79 a 0.16,0.16 0 0 1 0.1,-0.22 l 1,-0.34 a 0.16,0.16 0 0 1 0.21,0.1 0.17,0.17 0 0 1 -0.1,0.23 l -1,0.34 a 0.17,0.17 0 0 1 -0.21,-0.11 z"
            fill="#f3f3f3"
-           id="path3323" />
+           id="path3323" /> -->
         <path
            d="m 639.07,247.8 a 0.17,0.17 0 0 1 0.11,-0.23 l 1,-0.34 a 0.19,0.19 0 0 1 0.24,0.12 0.18,0.18 0 0 1 -0.12,0.23 l -1,0.34 a 0.19,0.19 0 0 1 -0.23,-0.12 z m 1.35,-0.44 a 0.16,0.16 0 0 0 -0.19,-0.11 l -1,0.34 a 0.16,0.16 0 0 0 -0.09,0.2 0.17,0.17 0 0 0 0.2,0.11 l 1,-0.34 a 0.16,0.16 0 0 0 0.09,-0.2 z"
            fill="#ffffff"
-           id="path3325" />
+           id="path3325" /> -->
         <path
            d="m 638,249.19 a 0.16,0.16 0 0 1 0.13,-0.2 l 2.4,-0.47 a 0.16,0.16 0 0 1 0.2,0.14 0.15,0.15 0 0 1 -0.13,0.2 l -2.4,0.47 a 0.18,0.18 0 0 1 -0.2,-0.14 z"
            fill="#f3f3f3"
-           id="path3327" />
+           id="path3327" /> -->
         <path
            d="m 638,249.19 a 0.2,0.2 0 0 1 0.14,-0.23 l 2.4,-0.47 a 0.18,0.18 0 0 1 0.21,0.16 0.18,0.18 0 0 1 -0.14,0.22 l -2.4,0.47 A 0.19,0.19 0 0 1 638,249.19 Z m 2.73,-0.53 a 0.16,0.16 0 0 0 -0.18,-0.13 l -2.4,0.47 a 0.16,0.16 0 0 0 0.06,0.31 l 2.4,-0.46 a 0.17,0.17 0 0 0 0.12,-0.19 z"
            fill="#ffffff"
-           id="path3329" />
+           id="path3329" /> -->
         <path
            d="m 639.52,250.09 a 0.16,0.16 0 0 1 0.14,-0.19 l 1.08,-0.13 a 0.18,0.18 0 0 1 0.19,0.15 0.16,0.16 0 0 1 -0.14,0.19 l -1.08,0.13 a 0.18,0.18 0 0 1 -0.19,-0.15 z"
            fill="#f3f3f3"
-           id="path3331" />
+           id="path3331" /> -->
         <path
            d="m 639.51,250.09 a 0.18,0.18 0 0 1 0.15,-0.21 l 1.08,-0.13 a 0.19,0.19 0 0 1 0,0.37 l -1.08,0.13 a 0.19,0.19 0 0 1 -0.2,-0.16 z m 1.42,-0.17 a 0.17,0.17 0 0 0 -0.18,-0.14 l -1.08,0.13 a 0.15,0.15 0 0 0 -0.12,0.18 0.16,0.16 0 0 0 0.17,0.14 l 1.08,-0.13 a 0.16,0.16 0 0 0 0.13,-0.18 z"
            fill="#ffffff"
-           id="path3333" />
+           id="path3333" /> -->
         <path
            d="m 638.21,251.22 a 0.17,0.17 0 0 1 0.16,-0.17 h 2.45 a 0.17,0.17 0 0 1 0.17,0.17 0.17,0.17 0 0 1 -0.17,0.18 h -2.45 a 0.17,0.17 0 0 1 -0.16,-0.18 z"
            fill="#f3f3f3"

@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
     pageTitle="How do I configure content protection for my stream?"
     description="How do I configure content protection for my stream"
     service="microsoft.media"
@@ -20,7 +21,7 @@ ms.service: media-services
     cloudEnvironments="MoonCake"
  	articleId="8532932d-b103-4c2e-b249-2eff496bd062"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # How do I configure content protection for my stream?
 

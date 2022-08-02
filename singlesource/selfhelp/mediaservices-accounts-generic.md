@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Account management generic"
 	description="Account management generic"
 	service="microsoft.media"
@@ -21,7 +22,7 @@ ms.service: media-services
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 # Account management generic
 Azure Media Services accounts can be created directly in the portal, using the Azure CLI (cloud shell or local), using the REST API one of the many client libraries.
 

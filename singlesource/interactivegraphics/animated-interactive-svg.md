@@ -6,6 +6,7 @@ ms.topic: concept
 ms.date: 08/27/2021
 ms.author: inhenkel
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
 # Animated interactive SVG

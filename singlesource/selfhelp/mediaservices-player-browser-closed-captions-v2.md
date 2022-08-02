@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-player-closed-captions"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Apollo migrated file - Azure Media Player closed captions and subtitle support"
@@ -17,7 +18,7 @@ ms.service: media-services
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="c9174122-cb68-f0bd-1ca1-fe91f7b6342d" />
+  supporttopicids="c9174122-cb68-f0bd-1ca1-fe91f7b6342d" /> -->
 # Azure Media Player closed captions and subtitles
 
 ## Learn about Azure Media Player closed captions and subtitles

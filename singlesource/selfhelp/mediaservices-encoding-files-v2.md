@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Encode files with Media Services v3"
 	description="Apollo migrated file - Encode files with Media Services v3"
 	ms.author="juliako"
@@ -16,7 +17,7 @@ ms.service: media-services
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="8501aea9-8441-c5d4-f901-8b5f9b4f0a29"
     resourcerequired="false"
-/>
+/> -->
 
 # Encode files with Media Services v3
 

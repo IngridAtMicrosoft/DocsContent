@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
     pageTitle="Access Tokens"
     description="Apollo migrated file - Access Tokens"
     ms.author="t-reutam"
@@ -16,7 +17,7 @@ ms.service: media-services
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="0a09bfd2-ae7f-997d-4f68-fd222183807e"
     resourcerequired="false"
-/>
+/> -->
 
 # Access tokens
 

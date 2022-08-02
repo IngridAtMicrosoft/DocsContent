@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-authentication-access-control"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Apollo migrated file - Authentication or access control"
@@ -17,7 +18,7 @@ ms.service: media-services
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="3962655e-b25d-3a69-1175-b540ce09c9da" />
+  supporttopicids="3962655e-b25d-3a69-1175-b540ce09c9da" /> -->
 # Authentication or access control
 
 ## Resolve issues with authentication or access control in the Azure Media Services API

@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Issues encrypting with AES-128 clear key"
 	description="Apollo migrated file - Issues encrypting with AES-128 clear key"
 	ms.author="juliako"
@@ -16,7 +17,7 @@ ms.service: media-services
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="c5ede9ef-49ba-821d-6805-804357b50aa0"
     resourcerequired="false"
-/>
+/> -->
 
 # Issues encrypting with AES-128 clear key
 

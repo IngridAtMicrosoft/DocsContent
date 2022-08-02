@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-live-streaming-rtmp-errors"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Apollo migrated file - Live streaming and RTMP error"
@@ -17,7 +18,7 @@ ms.service: media-services
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="6b04f8ed-155d-1d1a-7bfe-58acefe85b73" />
+  supporttopicids="6b04f8ed-155d-1d1a-7bfe-58acefe85b73" /> -->
 # Live streaming and RTMP error
 
 ## Learn about live streaming and RTMP errors

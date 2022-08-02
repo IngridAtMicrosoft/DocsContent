@@ -8,6 +8,7 @@ ms.author: inhenkel
 ms.reviewer: inhenkel
 ms.lastreviewed: 09/08/2021
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
 # Single source introduction

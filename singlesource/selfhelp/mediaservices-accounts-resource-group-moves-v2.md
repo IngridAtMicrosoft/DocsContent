@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-accounts-resource-group-moves"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Azure Media Services resource group moves can be requested through support ticket only. Resource group movement is not available through the Azure CLI."
@@ -17,7 +18,7 @@ ms.service: media-services
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="e09663f0-cc2d-21bd-7e8e-bd9d42882213" />
+  supporttopicids="e09663f0-cc2d-21bd-7e8e-bd9d42882213" /> -->
 # Azure Media Services resource group moves
 
 ## Move Azure Media Services resource groups

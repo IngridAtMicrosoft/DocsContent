@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Azure Media Player"
 	description="Apollo migrated file - Azure Media Player"
 	ms.author="johndeu"
@@ -16,7 +17,7 @@ ms.service: media-services
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="0e2283d6-4c34-cb97-9afa-792bc8f10a2a"
     resourcerequired="false"
-/>
+/> -->
 
 # Azure Media Player
 

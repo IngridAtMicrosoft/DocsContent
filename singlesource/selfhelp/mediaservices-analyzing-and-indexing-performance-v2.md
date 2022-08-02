@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Analyzing and indexing performance"
 	description="Apollo migrated file - Analyzing and indexing performance"
 	ms.author="akucer"
@@ -16,7 +17,7 @@ ms.service: media-services
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="fbe66cdd-dd27-fd04-de67-7bc9fd2bbe0b"
     resourcerequired="false"
-/>
+/> -->
 
 # Analyzing and indexing performance
 

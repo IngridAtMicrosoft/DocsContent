@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
     pageTitle="Sign up and sign in to Video Indexer"
     description="Sign up and sign in to Video Indexer"
     infoBubbleText=""
@@ -22,7 +23,7 @@ ms.service: media-services
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/>
+/> -->
 
 # Account sign up and sign in
 

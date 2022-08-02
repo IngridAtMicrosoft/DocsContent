@@ -7,6 +7,7 @@ ms.date: 04/25/2021
 ms.author: inhenkel
 ms.reviewer: inhenkel
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
 # All SVG Sprites

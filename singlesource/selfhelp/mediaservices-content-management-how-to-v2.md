@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-asset-management-issue-how-to"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Apollo migrated file - Asset management issue or how to"
@@ -17,7 +18,7 @@ ms.service: media-services
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="73ba2c29-3345-bfc4-d42e-b7c31b61c4e5" />
+  supporttopicids="73ba2c29-3345-bfc4-d42e-b7c31b61c4e5" /> -->
 # Asset management issue or how to
 
 ## Resolve asset management issues

@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
     pageTitle="Connect to Azure"
     description="Connect to Azure"
     infoBubbleText=""
@@ -22,7 +23,7 @@ ms.service: media-services
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/>
+/> -->
 
 # Connect to Azure
 

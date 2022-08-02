@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
     pageTitle="Account management"
     description="Account management"
     infoBubbleText=""
@@ -22,7 +23,7 @@ ms.service: media-services
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/>
+/> -->
 
 # Manage a Video Indexer account connected to Azure
 

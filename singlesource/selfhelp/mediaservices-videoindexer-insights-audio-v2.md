@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
     pageTitle="Audio and Transcription"
     description="Apollo migrated file - Audio and Transcription"
     ms.author="t-reutam"
@@ -16,7 +17,7 @@ ms.service: media-services
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="f23a93f8-05c2-2069-75fe-c6fe31599d8a"
     resourcerequired="false"
-/>
+/> -->
 
 # Audio and Transcription
 

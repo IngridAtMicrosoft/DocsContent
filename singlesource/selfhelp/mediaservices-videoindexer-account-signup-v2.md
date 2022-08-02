@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
     pageTitle="Sign up and sign in to Video Indexer"
     description="Apollo migrated file - Sign up and sign in to Video Indexer"
     ms.author="t-reutam"
@@ -16,7 +17,7 @@ ms.service: media-services
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="fabfd0cc-e8fd-9fb2-d6e9-5d72761f1d79"
     resourcerequired="false"
-/>
+/> -->
 
 # Account sign up and sign in
 

@@ -3,9 +3,10 @@ title: ""
 description: "Description goes here."
 ms.author: "inhenkel"
 ms.service: media-services
+author: IngridAtMicrosoft
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Troubleshoot account management error messages"
 	description="Troubleshoot account management error messages by using recommended resources."
 	ms.author="akucer"
@@ -16,7 +17,7 @@ ms.service: media-services
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="46bd2a20-f182-90a9-6586-907fe31382e7"
     resourcerequired="false"
-/>
+/> -->
 
 # Account management error messages
 
