@@ -20,3 +20,6 @@
     items:
     - name: Introduction to Azure Media Services
       href: ./learn/ams/intro/index.yml
+- name: AMS SelfHelp
+  items:
+  - name: article name
