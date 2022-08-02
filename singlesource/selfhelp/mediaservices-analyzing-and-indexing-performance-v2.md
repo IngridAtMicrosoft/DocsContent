@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Analyzing and indexing performance"
 	description="Apollo migrated file - Analyzing and indexing performance"
@@ -30,4 +37,3 @@ When using a Video or Audio Analyzer presets, use the Azure portal or the CLI to
 <azureKB>
     <client>Portal</client>
 </azureKB>
-                    

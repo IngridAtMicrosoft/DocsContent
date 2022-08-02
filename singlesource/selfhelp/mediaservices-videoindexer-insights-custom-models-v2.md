@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
     pageTitle="Custom models"
     description="Apollo migrated file - Custom models"

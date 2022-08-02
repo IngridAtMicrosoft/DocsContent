@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   articleid="apollo-mediaservices-live-streaming-configure-channels-live-events"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"

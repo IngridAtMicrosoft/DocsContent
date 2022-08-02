@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   articleid="apollo-mediaservices-accounts-resource-group-moves"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"

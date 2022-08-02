@@ -1,4 +1,11 @@
-<properties 
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
+<properties
     pageTitle="What are the capabilities of Media Analytics?"
     description="What are the capabilities of Media Analytics?"
     service="microsoft.media"

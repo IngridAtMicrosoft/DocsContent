@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Camera connection issue or error"
 	description="Apollo migrated file - Camera connection issue or error"

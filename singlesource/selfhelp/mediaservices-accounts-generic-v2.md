@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   articleid="apollo-mediaservices-account-management-generic"
   cloudenvironments="public,fairfax,usnat,ussec"
@@ -15,7 +22,7 @@
 
 ## Create Azure Media Services accounts
 
-Create Azure Media Services accounts in the portal, using the Azure CLI (cloud shell or local), or by using the REST API and one of the client libraries. Learn to create accounts and start developing with client SDKs using the following guidance. 
+Create Azure Media Services accounts in the portal, using the Azure CLI (cloud shell or local), or by using the REST API and one of the client libraries. Learn to create accounts and start developing with client SDKs using the following guidance.
 
 ### Common tasks
 

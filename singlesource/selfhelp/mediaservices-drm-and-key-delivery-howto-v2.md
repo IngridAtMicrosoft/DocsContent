@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   articleid="apollo-mediaservices-drm-and-key-delivery-howto"
   cloudenvironments="public,fairfax,usnat,ussec"

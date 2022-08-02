@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
     pageTitle="Indexing Videos"
     description="Apollo migrated file - Indexing Videos"
@@ -49,4 +56,3 @@ Learn how to upload and index your videos with these options:
 <azureKB>
     <client>Portal</client>
 </azureKB>
-                    

@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Media Services: Profiles or custom profiles"
 	description="Media Services: Profiles or custom profiles"
@@ -16,7 +23,7 @@
 	ownershipId="StorageMediaEdge_Media"
 />
 
-# Media Services: Profiles or custom profiles 
+# Media Services: Profiles or custom profiles
 
 ## **Recommended Documents**
 

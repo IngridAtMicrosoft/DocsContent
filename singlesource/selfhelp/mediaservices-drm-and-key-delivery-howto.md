@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="How-to encrypt with DRM and use a license delivery service"
 	description="How-to encrypt with DRM and use a license delivery service"

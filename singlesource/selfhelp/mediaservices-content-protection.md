@@ -1,4 +1,11 @@
-<properties 
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
+<properties
     pageTitle="How to configure content protection for your stream?"
     description="How to configure content protection for your stream?"
     service="microsoft.media"

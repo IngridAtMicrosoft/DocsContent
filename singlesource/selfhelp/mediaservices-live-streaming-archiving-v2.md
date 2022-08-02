@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Archiving a live stream"
 	description="Apollo migrated file - Archiving a live stream"

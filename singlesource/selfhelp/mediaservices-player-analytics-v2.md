@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   articleid="apollo-mediaservices-player-analytics"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
@@ -33,7 +40,7 @@ For getting client playback experience and statistics, use the Azure Media Playe
 
 * [Azure Application Insights plugin](https://azure.microsoft.com/blog/player-analytics-azure-media-player-plugin/)<br>
 * [Google Analytics plugin](https://github.com/Azure-Samples/media-services-javascript-azure-media-player-google-analytics-plugin)
-  
+
 ### Resources
 
 * [Player events for Azure Media Player](https://amp.azure.net/libs/amp/latest/docs/index.html#amp.eventname)<br>

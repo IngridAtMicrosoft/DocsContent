@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Azure Media Player analytics"
 	description="Azure Media Player analytics"
@@ -23,7 +30,7 @@
 
 * [Azure Application Insights plugin](https://azure.microsoft.com/blog/player-analytics-azure-media-player-plugin/)<br>
 * [Google Analytics plugin](https://github.com/Azure-Samples/media-services-javascript-azure-media-player-google-analytics-plugin)
-  
+
 ## **Recommended Documents**
 
 * [Player events for Azure Media Player](http://amp.azure.net/libs/amp/latest/docs/index.html#amp.eventname)<br>

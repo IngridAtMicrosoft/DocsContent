@@ -1,4 +1,11 @@
-<properties 
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
+<properties
     pageTitle="What media file formats are supported by the recommended encoder?"
     description="What media file formats are supported by the recommended encoder?"
     service="microsoft.media"

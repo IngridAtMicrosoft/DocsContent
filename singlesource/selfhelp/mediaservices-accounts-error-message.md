@@ -1,3 +1,14 @@
+---
+title: ""
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
+<properties
+
 <properties
 	pageTitle="Account management error messages"
 	description="Account management error messages"

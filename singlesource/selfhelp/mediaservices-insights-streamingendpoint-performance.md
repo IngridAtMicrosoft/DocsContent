@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties pageTitle="Streaming endpoint performance guidance"
     description="Solution to streaming endpoint performance issues (status 503)"
     infoBubbleText="See details on the right"
@@ -38,7 +45,7 @@ Check if CDN is enabled. If not, enable CDN. If enabled already, enable origin s
 
 **Premium Streaming Endpoint**
 
-Check if CDN is enabled. If not, enable CDN. If enabled already, enable origin shield and request consolidation at CDN. If changing the CDN configuration doesn't help, the customer should increase streaming units based on the bandwidth usage data. 
+Check if CDN is enabled. If not, enable CDN. If enabled already, enable origin shield and request consolidation at CDN. If changing the CDN configuration doesn't help, the customer should increase streaming units based on the bandwidth usage data.
 
 It is also possible that the customer is streaming too many assets at the same time on the same streaming endpoint. It will help the playback experience if the customer distributes the assets into different streaming endpoints.
 

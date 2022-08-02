@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
     pageTitle="Using Video Indexer's API"
     description="Apollo migrated file - Using Video Indexer's API"

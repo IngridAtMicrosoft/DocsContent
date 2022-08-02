@@ -1,4 +1,11 @@
-<properties 
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
+<properties
     pageTitle="Explanation of media services pricing"
     description="I have a question regarding media services pricing"
     service="microsoft.media"

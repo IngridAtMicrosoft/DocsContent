@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Media Services Premium Encoder"
 	description="Apollo migrated file - Media Services Premium Encoder"

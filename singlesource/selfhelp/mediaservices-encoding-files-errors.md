@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Diagnose and resolve Encoding errors for Media Services v3/v2"
 	description="Diagnose and resolve Encoding errors for Media Services v3/v2"
@@ -26,7 +33,7 @@
 
 The following error codes could be returned in case an error was encountered during the encoding task:
 
-* ApiErrorCode.BadRequest 
+* ApiErrorCode.BadRequest
 * ApiErrorCode.NotFound
 * ApiErrorCode.InvalidResource
 * ApiErrorCode.QuotaExceeded

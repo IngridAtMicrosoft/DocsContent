@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Packaging, origin or streaming endpoint errors"
 	description="Packaging, origin or streaming endpoint errors"

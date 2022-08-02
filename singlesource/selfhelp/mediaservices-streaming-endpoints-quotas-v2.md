@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   articleid="apollo-mediaservices-streaming-endpoints-quotas"
   cloudenvironments="public,fairfax,usnat,ussec"

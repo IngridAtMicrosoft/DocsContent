@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="How to configure live streaming?"
 	description="How to configure live streaming?"
@@ -22,7 +29,7 @@
 
 **Supported live encoders to use with Media Services**
 
-If you are having an issue with live encoding, please test with one of the recommended encoder configurations for Azure Media Services first before filing a support ticket. 
+If you are having an issue with live encoding, please test with one of the recommended encoder configurations for Azure Media Services first before filing a support ticket.
 
 * [Recommended live encoders to use with Media Services](https://docs.microsoft.com/azure/media-services/latest/recommended-on-premises-live-encoders)
 

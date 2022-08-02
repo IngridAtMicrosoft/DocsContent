@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Issues encrypting with PlayReady"
 	description="Apollo migrated file - Issues encrypting with PlayReady"

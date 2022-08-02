@@ -1,3 +1,10 @@
+---
+title: "Learn to create or delete an Azure Media Services account"
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   articleid="apollo-mediaservices-accounts-create-or-delete"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
@@ -11,11 +18,12 @@
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="45383072-cde0-c5cd-c5f9-330714cc0f49" />
+
 # Azure Media Services account creation and deletion
 
-## Create or delete an Azure Media Services account 
+## Create or delete an Azure Media Services account
 
-Azure Media Services accounts can be created or deleted directly in the portal using the Azure CLI (cloud shell or local), or by using the REST API and one of the many client libraries. 
+Azure Media Services accounts can be created or deleted directly in the portal using the Azure CLI (cloud shell or local), or by using the REST API and one of the many client libraries.
 
 
 ### Create or delete an Azure Media Services account with the CLI and connect to the API
@@ -27,7 +35,7 @@ Azure Media Services accounts can be created or deleted directly in the portal u
 ### Create a Media Services account using the CLI
 
 Open the Cloud Shell or CLI locally and run the following command to see the available options:
-   
+
 ```
 az ams account create -h
 ```
@@ -35,7 +43,7 @@ az ams account create -h
 ### Delete a Media Services account using the CLI
 
 Open the Cloud Shell or CLI locally and run the following command to see the available options:
-   
+
 ```
 az ams account delete -h
 ```

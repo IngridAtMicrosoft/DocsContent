@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   pagetitle="PackagingResolve packaging, origin or streaming endpoint errors"
   description="Apollo migrated file - Packaging, origin or streaming endpoint errors"
@@ -35,4 +42,3 @@ For help resolving common errors, refer to the following links:
 <azureKB>
     <client>Portal</client>
 </azureKB>
-                    

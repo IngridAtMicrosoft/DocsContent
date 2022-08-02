@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Encode files with Media Services v3"
 	description="Apollo migrated file - Encode files with Media Services v3"

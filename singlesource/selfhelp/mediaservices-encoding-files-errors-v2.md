@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   articleid="apollo-mediaservices-encoding-files-errors"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
@@ -24,7 +31,7 @@ Encoding in Media Services is converting files with digital video and/or audio f
 
 The following error codes can appear during encoding:
 
-* ApiErrorCode.BadRequest 
+* ApiErrorCode.BadRequest
 * ApiErrorCode.NotFound
 * ApiErrorCode.InvalidResource
 * ApiErrorCode.QuotaExceeded

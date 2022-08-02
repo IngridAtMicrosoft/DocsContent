@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Media Services: Profiles or custom profiles"
 	description="Apollo migrated file - Media Services: Profiles or custom profiles"
@@ -11,7 +18,7 @@
     resourcerequired="false"
 />
 
-# Media Services: Profiles or custom profiles 
+# Media Services: Profiles or custom profiles
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

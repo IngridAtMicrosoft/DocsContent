@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="DRM encryption and key delivery"
 	description="Apollo migrated file - DRM encryption and key delivery"

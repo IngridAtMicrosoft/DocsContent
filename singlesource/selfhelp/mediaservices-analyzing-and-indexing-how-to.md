@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Analyzing and indexing how to"
 	description="Analyzing and indexing how to"
@@ -23,7 +30,7 @@ Azure Media Services enables you to extract insights from your video and audio f
 ### Recommended steps to analyze your video and audio files in Azure Media Services
 
 
-*  To analyze your content using Media Services v3 presets, you create a Transform and submit a Job that uses one of these presets: VideoAnalyzerPreset or AudioAnalyzerPreset. 
+*  To analyze your content using Media Services v3 presets, you create a Transform and submit a Job that uses one of these presets: VideoAnalyzerPreset or AudioAnalyzerPreset.
 *  The following tutorial demonstrates how to use the [VideoAnalyzerPreset](https://docs.microsoft.com/rest/api/media/transforms/createorupdate#videoanalyzerpreset):
    *  [Tutorial: Analyze videos with Azure Media Services](https://docs.microsoft.com/azure/media-services/latest/analyze-videos-tutorial-with-api)
 

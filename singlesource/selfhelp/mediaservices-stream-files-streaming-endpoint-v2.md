@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   articleid="apollo-mediaservices-stream-files-streaming-endpoints"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
@@ -12,13 +19,13 @@
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="16c919c7-e8da-2796-4e7d-69f69fac0e1a" />
-# Streaming endpoint 
+# Streaming endpoint
 
 ## Learn about Streaming endpoints
 
 A common Media Services scenario is to encode your content and stream files using different streaming formats and content protection formats to a variety of client technologies (for example, iOS and XBOX).
 
-[Streaming Endpoints](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-endpoint-concept) is the dynamic packaging and streaming service in Media Services used to deliver media content to client players or to a Content Delivery Network (CDN) for further distribution. Dynamic Packaging is a feature that comes standard on all streaming endpoints (Standard or Premium). 
+[Streaming Endpoints](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-endpoint-concept) is the dynamic packaging and streaming service in Media Services used to deliver media content to client players or to a Content Delivery Network (CDN) for further distribution. Dynamic Packaging is a feature that comes standard on all streaming endpoints (Standard or Premium).
 
 **Dynamic Packaging**
 
@@ -26,7 +33,7 @@ To take advantage of Dynamic Packaging, you need to have an Asset with a set of 
 
 **Making videos available to clients**
 
-To make videos in the output Asset available to clients for playback, you have to create a Streaming Locator and build streaming URLs. When creating the Streaming Locator, in addition to the Asset's name, you need to specify a Streaming Policy. Streaming Policies enable you to define streaming protocols and encryption options (if any) for your Streaming Locators. 
+To make videos in the output Asset available to clients for playback, you have to create a Streaming Locator and build streaming URLs. When creating the Streaming Locator, in addition to the Asset's name, you need to specify a Streaming Policy. Streaming Policies enable you to define streaming protocols and encryption options (if any) for your Streaming Locators.
 
 Based on the specified format in the streaming client manifest (HLS, DASH, or Smooth), your clients can receive the stream in the chosen protocol.
 
@@ -41,7 +48,7 @@ Based on the specified format in the streaming client manifest (HLS, DASH, or Sm
 |MPEG DASH CMAF|`https://amsv3account-usw22.streaming.media.azure.net/21b17732-0112-4d76-b526-763dcd843449/ignite.ism/manifest(format=mpd-time-cmaf)` |
 |Smooth Streaming| `https://amsv3account-usw22.streaming.media.azure.net/21b17732-0112-4d76-b526-763dcd843449/ignite.ism/manifest`|
 
-### Resources 
+### Resources
 
 * [Troubleshooting Guide](https://docs.microsoft.com/azure/media-services/latest/troubleshooting) <br>
 * [Streaming Endpoints](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-endpoint-concept)<br>

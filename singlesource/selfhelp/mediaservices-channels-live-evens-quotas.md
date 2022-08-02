@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Manage quotas of Channels (v2)/Live Events (v3)"
 	description="Manage quotas of Channels (v2)/Live Events (v3)"

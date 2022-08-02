@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
   articleid="apollo-mediaservices-client-latency"
   cloudenvironments="public,mooncake,fairfax,usnat,ussec"
@@ -13,7 +20,7 @@
   supporttopicids="4706e3b6-8e87-89a7-42cc-174d25a5a531,bb39ff08-5d16-e549-af8e-3b30554e31cc" />
 # Client Latency
 
-## Resolve client latency issues in Azure Media Services 
+## Resolve client latency issues in Azure Media Services
 
 Use the following guidance to resolve client latency issues.
 

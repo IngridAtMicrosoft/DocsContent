@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Azure Media Services resource group movement"
 	description="Azure Media Services resource group movement"
@@ -20,7 +27,7 @@
 # Azure Media Services resource group moves
 
 ### Resource Group Movement
-Azure Media Services resource group moves can be requested through support ticket only. 
+Azure Media Services resource group moves can be requested through support ticket only.
 Resource group movement is not available through the Azure CLI.
 
 

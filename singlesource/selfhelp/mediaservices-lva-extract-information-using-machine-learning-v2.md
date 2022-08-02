@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Extract information using machine learning models"
 	description="Apollo migrated file - Extract information using machine learning models"

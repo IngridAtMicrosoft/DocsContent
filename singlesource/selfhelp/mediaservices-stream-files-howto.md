@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Streaming files how-tos and tutorials"
 	description="Streaming files how-tos and tutorials"

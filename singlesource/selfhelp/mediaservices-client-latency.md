@@ -1,3 +1,10 @@
+---
+title: ""
+description: "Description goes here."
+ms.author: "inhenkel"
+ms.service: media-services
+---
+
 <properties
 	pageTitle="Client Latency"
 	description="Client Latency"
@@ -17,7 +24,7 @@
 />
 # Client Latency
 
-## **Recommended Steps** 
+## **Recommended Steps**
 
 * Ensure you are using Azure Media Services in an Azure region that is geographically closest to the majority of your customers
 * Enable Azure CDN for your streaming endpoint if a large number of clients will be simultaneously accessing content. Azure CDN can be enabled directly using either media services APIs or the Azure Portal.
