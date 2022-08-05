@@ -10,7 +10,7 @@ resource:
     articleid: "mediaservices-videoindexer-account-signup"
     diagnosticScenario=""
     selfhelptype: "generic"
-    supporttopicids: "32606567"
+supporttopicids: "32606567"
     resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"

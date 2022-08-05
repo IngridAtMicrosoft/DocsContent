@@ -3,7 +3,7 @@ title:   "Manage access policies quotas"
 description: "Manage access policies quotas"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-policies-quotas"

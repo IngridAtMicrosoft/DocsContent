@@ -10,7 +10,7 @@ resource:
     articleid: "mediaservices-videoindexer-insights-audio"
     diagnosticScenario=""
     selfhelptype: "generic"
-    supporttopicids: "32740737"
+supporttopicids: "32740737"
     resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"

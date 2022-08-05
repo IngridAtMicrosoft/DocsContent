@@ -3,7 +3,7 @@ title:   "Client Latency"
 description: "Client Latency"
 service: "microsoft.media"
 resource:
-	authors="akucer"
+authors: "akucer"
 ms.author: inhenkel"akucer"
 displayOrder: "1"
 articleid: "mediaservices-client-latency"

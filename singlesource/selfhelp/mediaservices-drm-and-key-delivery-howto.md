@@ -3,7 +3,7 @@ title:   "How-to encrypt with DRM and use a license delivery service"
 description: "How-to encrypt with DRM and use a license delivery service"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-drm-and-key-delivery-howto"

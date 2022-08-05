@@ -3,7 +3,7 @@ title:   "Manage Streaming Endpoints quotas"
 description: "Manage Streaming Endpoints quotas"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-streaming-endpoints-quotas"

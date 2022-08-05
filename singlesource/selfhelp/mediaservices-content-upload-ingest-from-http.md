@@ -3,7 +3,7 @@ title:   "Upload from HTTP"
 description: "Upload from HTTP"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-content-upload-ingest-from-http"

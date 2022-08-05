@@ -7,8 +7,8 @@
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
-    supporttopicids: "c5e09f82-e517-428b-e12f-7e3cc5b639d4"
-    resourcerequired: "false"
+supporttopicids: "c5e09f82-e517-428b-e12f-7e3cc5b639d4"
+resourcerequired: "false"
 author: IngridAtMicrosoft
 ms.service: media-services
 ---

@@ -3,7 +3,7 @@ title:   "Asset management issue or how to"
 description: "Asset management issue or how to"
 service: "microsoft.media"
 resource:
-	authors="akucer"
+authors: "akucer"
 ms.author: inhenkel"akucer"
 displayOrder: "1"
 articleid: "mediaservices-asset-management-issue-how-to"

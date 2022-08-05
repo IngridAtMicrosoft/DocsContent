@@ -10,7 +10,7 @@ resource:
     articleid: "mediaservices-videoindexer-insights-custom-models"
     diagnosticScenario=""
     selfhelptype: "generic"
-    supporttopicids: "32740738"
+supporttopicids: "32740738"
     resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"

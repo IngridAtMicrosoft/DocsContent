@@ -3,7 +3,7 @@ title:   "Account management generic"
 description: "Account management generic"
 service: "microsoft.media"
 resource:
-	authors="akucer"
+authors: "akucer"
 ms.author: inhenkel"akucer"
 displayOrder: "1"
 articleid: "mediaservices-account-management-generic"

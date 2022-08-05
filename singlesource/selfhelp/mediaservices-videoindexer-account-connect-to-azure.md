@@ -10,7 +10,7 @@ resource:
     articleid: "mediaservices-videoindexer-account-connect-to-azure"
     diagnosticScenario=""
     selfhelptype: "generic"
-    supporttopicids: "32606554"
+supporttopicids: "32606554"
     resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"

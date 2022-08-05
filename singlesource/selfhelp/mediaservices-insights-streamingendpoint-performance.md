@@ -9,7 +9,7 @@
     articleid: "mediaservices-insights-streamingendpoint-performance"
     diagnosticScenario=""
     selfhelptype: "diagnostics"
-    supporttopicids: ""
+supporttopicids: ""
     resourcetags:
     productpesids: "14885"
     cloudenvironments: "public, fairfax, usnat, ussec"

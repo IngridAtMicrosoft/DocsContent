@@ -3,7 +3,7 @@ title:   "How to configure live streaming?"
 description: "How to configure live streaming?"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-live-streaming-configure-channels-live-events"

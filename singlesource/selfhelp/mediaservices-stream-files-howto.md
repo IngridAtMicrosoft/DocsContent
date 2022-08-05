@@ -3,7 +3,7 @@ title:   "Streaming files how-tos and tutorials"
 description: "Streaming files how-tos and tutorials"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-stream-files-howto"

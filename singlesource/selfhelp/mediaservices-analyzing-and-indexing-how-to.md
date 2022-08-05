@@ -3,7 +3,7 @@ title:   "Analyzing and indexing how to"
 description: "Analyzing and indexing how to"
 service: "microsoft.media"
 resource:
-	authors="akucer"
+authors: "akucer"
 ms.author: inhenkel"akucer"
 displayOrder: "1"
 articleid: "mediaservices-analyzing-indexing-how-to"

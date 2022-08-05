@@ -7,8 +7,8 @@ selfhelptype: "apollo"
 productpesids: "14885"
 cloudenvironments: "public, fairfax, usnat, ussec"
 ownershipid: "StorageMediaEdge_Media"
-    supporttopicids: "0e2283d6-4c34-cb97-9afa-792bc8f10a2a"
-    resourcerequired: "false"
+supporttopicids: "0e2283d6-4c34-cb97-9afa-792bc8f10a2a"
+resourcerequired: "false"
 author: IngridAtMicrosoft
 ms.service: media-services
 ---

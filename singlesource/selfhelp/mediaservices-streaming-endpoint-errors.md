@@ -3,7 +3,7 @@ title:   "Packaging, origin or streaming endpoint errors"
 description: "Packaging, origin or streaming endpoint errors"
 service: "microsoft.media"
 resource:
-	authors="akucer"
+authors: "akucer"
 ms.author: inhenkel"akucer"
 displayOrder: "1"
 articleid: "mediaservices-streaming-endpoint-errors"

@@ -3,7 +3,7 @@ title:   "Archiving a live stream"
 description: "Archiving a live stream"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-live-streaming-archiving"

@@ -3,7 +3,7 @@ title:   "Authentication or access control"
 description: "Authentication or access control"
 service: "microsoft.media"
 resource:
-	authors="akucer"
+authors: "akucer"
 ms.author: inhenkel"akucer"
 displayOrder: "1"
 articleid: "mediaservices-authentication-access-control"

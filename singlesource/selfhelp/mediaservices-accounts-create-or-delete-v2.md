@@ -14,7 +14,7 @@ supporttopicids: "45383072-cde0-c5cd-c5f9-330714cc0f49"
 author: IngridAtMicrosoft
 ms.service: media-services
 ---
-# Azure Media Services account creation and deletion
+# Azure Media Services v2 account creation and deletion
 
 ## Create or delete an Azure Media Services account
 

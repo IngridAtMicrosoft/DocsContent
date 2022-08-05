@@ -10,7 +10,7 @@ resource:
     articleid: "mediaservices-videoindexer-account-other"
     diagnosticScenario=""
     selfhelptype: "generic"
-    supporttopicids: "32740750,32606558"
+supporttopicids: "32740750,32606558"
     resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"

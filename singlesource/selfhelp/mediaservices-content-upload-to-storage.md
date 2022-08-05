@@ -3,7 +3,7 @@ title:   "Upload to storage"
 description: "Upload to storage"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-content-upload-to-storage"

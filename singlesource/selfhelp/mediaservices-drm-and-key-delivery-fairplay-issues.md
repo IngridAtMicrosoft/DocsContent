@@ -3,7 +3,7 @@ title:   "Issues encrypting with FairPlay"
 description: "Issues encrypting with FairPlay"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-drm-and-key-delivery-fairplay-issues"

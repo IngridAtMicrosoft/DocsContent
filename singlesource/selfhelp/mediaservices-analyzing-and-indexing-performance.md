@@ -3,7 +3,7 @@ title:   "Analyzing and indexing performance"
 description: "Analyzing and indexing performance"
 service: "microsoft.media"
 resource:
-	authors="akucer"
+authors: "akucer"
 ms.author: inhenkel"akucer"
 displayOrder: "1"
 articleid: "mediaservices-analyzing-indexing-performance"

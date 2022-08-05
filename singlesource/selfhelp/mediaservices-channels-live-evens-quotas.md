@@ -3,7 +3,7 @@ title:   "Manage quotas of Channels (v2)/Live Events (v3)"
 description: "Manage quotas of Channels (v2)/Live Events (v3)"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-channels-live-evens-quotas"

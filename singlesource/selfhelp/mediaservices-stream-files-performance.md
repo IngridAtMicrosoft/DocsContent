@@ -3,7 +3,7 @@ title:   "Streaming files performance"
 description: "Streaming files performance"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-stream-files-performance"

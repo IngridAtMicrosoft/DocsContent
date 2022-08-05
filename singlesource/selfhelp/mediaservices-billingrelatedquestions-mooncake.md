@@ -7,7 +7,7 @@
     ms.author: inhenkel"juliako"
     displayOrder="1"
     selfhelptype: "resource"
-    supporttopicids: ""
+supporttopicids: ""
     resourcetags:
     productpesids: ""
     cloudenvironments: "MoonCake"

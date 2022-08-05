@@ -3,7 +3,7 @@ title:   "Diagnose and resolve Encoding errors for Media Services v3/v2"
 description: "Diagnose and resolve Encoding errors for Media Services v3/v2"
 service: "microsoft.media"
 resource:
-	authors="juliako"
+authors: "juliako"
 ms.author: inhenkel"juliako"
 displayOrder: "1"
 articleid: "mediaservices-encoding-files-errors"
