@@ -1,7 +1,7 @@
 ---
-    title: "Video Indexer Widgets"
+    pagetitle: "Video Indexer Widgets"
     description: "Apollo migrated file - Video Indexer Widgets"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-api-widgets"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "86e3ac11-6009-319e-bffa-0445c53dc1ac"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Video Indexer Widgets

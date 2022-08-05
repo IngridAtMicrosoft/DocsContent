@@ -1,7 +1,7 @@
 ---
-	title: "Configuration and management"
+	pagetitle: "Configuration and management"
 	description: "Apollo migrated file - Configuration and management"
-	ms.author: "akucer"
+	ms.author: inhenkel"akucer"
 	articleid: "apollo-mediaservices-lva-configuration-management"
 	selfhelptype: "apollo"
 	productpesids: "14885"
@@ -9,6 +9,8 @@
 	ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "01c8a5a6-0de9-9a25-1a04-2d334881938a"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Configuration and management

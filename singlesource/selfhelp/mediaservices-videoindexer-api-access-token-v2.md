@@ -1,7 +1,7 @@
 ---
-    title: "Access Tokens"
+    pagetitle: "Access Tokens"
     description: "Apollo migrated file - Access Tokens"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-api-access-token"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "0a09bfd2-ae7f-997d-4f68-fd222183807e"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Access tokens

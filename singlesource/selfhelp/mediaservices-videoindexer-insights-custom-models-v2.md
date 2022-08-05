@@ -1,7 +1,7 @@
 ---
-    title: "Custom models"
+    pagetitle: "Custom models"
     description: "Apollo migrated file - Custom models"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-insights-custom-models"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "a8b604b7-336c-eb37-5811-da99ebc882ef"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Custom models in Video Indexer

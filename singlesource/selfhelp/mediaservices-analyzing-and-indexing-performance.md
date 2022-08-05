@@ -1,19 +1,21 @@
 ---
-	title: "Analyzing and indexing performance"
+	pagetitle: "Analyzing and indexing performance"
 	description: "Analyzing and indexing performance"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
-	ms.author: "akucer"
+	ms.author: inhenkel"akucer"
 	displayOrder="1"
 	articleid: "mediaservices-analyzing-indexing-performance"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32729547"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 # Analyzing and indexing performance
 

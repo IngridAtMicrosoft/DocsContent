@@ -1,19 +1,21 @@
 ---
-	title: "Streaming files how-tos and tutorials"
+	pagetitle: "Streaming files how-tos and tutorials"
 	description: "Streaming files how-tos and tutorials"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	displayOrder="1"
 	articleid: "mediaservices-stream-files-howto"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32632098"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Streaming files how-tos and tutorials

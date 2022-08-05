@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-videoindexer-account-other"
   cloudenvironments: "public,fairfax,usnat,ussec"
   description: "Apollo migrated file - Account management"
-  ms.author: "t-reutam,jiayali"
+  ms.author: inhenkel"t-reutam,jiayali"
   ownershipid: "StorageMediaEdge_Media_VI"
-  title: "Account management"
+  pagetitle: "Account management"
   problemids: ""
   productpesids: "16535"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "28f503a1-1dae-fbf9-c9f2-ef0212bcfee1"
+  supporttopicids: "28f503a1-1dae-fbf9-c9f2-ef0212bcfee1"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Manage a Video Indexer account connected to Azure
 
 ## Learn to manage a Video Indexer account

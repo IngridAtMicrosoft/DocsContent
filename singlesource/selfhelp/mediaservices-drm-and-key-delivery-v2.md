@@ -1,7 +1,7 @@
 ---
-	title: "DRM encryption and key delivery"
+	pagetitle: "DRM encryption and key delivery"
 	description: "Apollo migrated file - DRM encryption and key delivery"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	articleid: "apollo-mediaservices-drm-and-key-delivery"
 	selfhelptype: "apollo"
 	productpesids: "14885"
@@ -9,6 +9,8 @@
 	ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "0ac6e9ed-9e0f-0d40-22c5-00b868fc3ed9"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # DRM encryption and key delivery

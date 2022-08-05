@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-live-streaming-live-cloud-encoder"
   cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
   description: "To use live encoding with Media Services, configure your on-premises live encoder to send a single bitrate video as the contribution feed to the Channel (v2)/Live Event (v3) using RTMP or Fragmented-Mp4 protocol. The Channel/Live Event encodes that incoming single bitrate stream to a [multiple bitrate video stream](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming), making it available for delivery to playback devices via protocols like MPEG-DASH, HLS, and Smooth Streaming. "
-  ms.author: "juliako,jiayali"
+  ms.author: inhenkel"juliako,jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Learn about live streaming with a live cloud encoder"
+  pagetitle: "Learn about live streaming with a live cloud encoder"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "596c66d3-32a1-65b4-bf17-d1b11113b0da"
+  supporttopicids: "596c66d3-32a1-65b4-bf17-d1b11113b0da"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Live streaming with a live cloud encoder
 
 ## Learn about live streaming with a live cloud encoder

@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-asset-management-issue-how-to"
   cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
   description: "Apollo migrated file - Asset management issue or how to"
-  ms.author: "akucer,jiayali"
+  ms.author: inhenkel"akucer,jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Asset management issue or how to"
+  pagetitle: "Asset management issue or how to"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "73ba2c29-3345-bfc4-d42e-b7c31b61c4e5"
+  supporttopicids: "73ba2c29-3345-bfc4-d42e-b7c31b61c4e5"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Asset management issue or how to
 
 ## Resolve asset management issues

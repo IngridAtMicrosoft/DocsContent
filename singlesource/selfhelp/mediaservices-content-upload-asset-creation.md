@@ -1,19 +1,21 @@
 ---
-	title: "Create an Asset"
+	pagetitle: "Create an Asset"
 	description: "Create an Asset"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	displayOrder="1"
 	articleid: "mediaservices-content-upload-asset-creation"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32632079"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Create an Asset

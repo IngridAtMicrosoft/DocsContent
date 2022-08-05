@@ -1,7 +1,7 @@
 ---
-    title: "Cognitive insights in Video Indexer"
+    pagetitle: "Cognitive insights in Video Indexer"
     description: "Apollo migrated file - Cognitive insights in Video Indexer"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-insights-other"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "618ce0c1-a2d6-d11d-a1f9-03d0e859ddce,56b770fd-dc9b-a560-c8c9-c926cdd5f009,30cc5807-bc78-6e61-e6d8-92a6333a5cfa"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Cognitive insights in Video Indexer

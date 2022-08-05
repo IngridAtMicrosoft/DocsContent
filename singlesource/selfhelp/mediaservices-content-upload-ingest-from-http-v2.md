@@ -1,7 +1,7 @@
 ---
-	title: "Upload from HTTP"
+	pagetitle: "Upload from HTTP"
 	description: "Apollo migrated file - Upload from HTTP"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	articleid: "apollo-mediaservices-content-upload-ingest-from-http"
 	selfhelptype: "apollo"
 	productpesids: "14885"
@@ -9,6 +9,8 @@
 	ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "73c03300-8f12-3c79-e340-ae42408c61d6"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Upload from HTTP

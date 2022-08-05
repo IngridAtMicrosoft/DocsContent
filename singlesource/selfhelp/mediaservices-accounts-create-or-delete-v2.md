@@ -2,18 +2,18 @@
   articleid: "apollo-mediaservices-accounts-create-or-delete"
   cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
   description: "Azure Media Services accounts can be created or deleted directly in the portal, using the Azure CLI (cloud shell or local), or by using the REST API and one of the many client libraries. Follow the recommended steps."
-  ms.author: "inhenkel"
+  ms.author: inhenkel
   ownershipid: "StorageMediaEdge_Media"
-  title: "Learn to create or delete an Azure Media Services account"
+  pagetitle: "Learn to create or delete an Azure Media Services account"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
   supporttopicids: "45383072-cde0-c5cd-c5f9-330714cc0f49"
-
+author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
 # Azure Media Services account creation and deletion
 
 ## Create or delete an Azure Media Services account

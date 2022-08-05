@@ -1,20 +1,22 @@
 ---
-    title: "Account management"
+    pagetitle: "Account management"
     description: "Account management"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     displayOrder="1"
     articleid: "mediaservices-videoindexer-account-other"
     diagnosticScenario=""
     selfhelptype: "generic"
     supporttopicids: "32740750,32606558"
-    resourcetags: ""
+    resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Manage a Video Indexer account connected to Azure

@@ -1,7 +1,7 @@
 ---
-    title: "Sign up and sign in to Video Indexer"
+    pagetitle: "Sign up and sign in to Video Indexer"
     description: "Apollo migrated file - Sign up and sign in to Video Indexer"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-account-signup"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "fabfd0cc-e8fd-9fb2-d6e9-5d72761f1d79"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Account sign up and sign in

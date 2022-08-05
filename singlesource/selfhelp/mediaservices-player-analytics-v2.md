@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-player-analytics"
   cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
   description: "Apollo migrated file - Azure Media Player analytics"
-  ms.author: "jiayali"
+  ms.author: inhenkel"jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Azure Media Player analytics"
+  pagetitle: "Azure Media Player analytics"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "a9036f12-bfde-7afb-6d76-7a3b7bad3096"
+  supporttopicids: "a9036f12-bfde-7afb-6d76-7a3b7bad3096"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Azure Media Player analytics
 
 ## Understanding the client experience using analytics with Azure Media Player

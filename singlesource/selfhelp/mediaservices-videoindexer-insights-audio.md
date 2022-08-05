@@ -1,20 +1,22 @@
 ---
-    title: "Audio and Transcription"
+    pagetitle: "Audio and Transcription"
     description: "Audio and Transcription"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     displayOrder="1"
     articleid: "mediaservices-videoindexer-insights-audio"
     diagnosticScenario=""
     selfhelptype: "generic"
     supporttopicids: "32740737"
-    resourcetags: ""
+    resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Audio and Transcription

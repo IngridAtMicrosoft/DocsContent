@@ -1,19 +1,21 @@
 ---
-	title: "Diagnose and resolve Encoding errors for Media Services v3/v2"
+	pagetitle: "Diagnose and resolve Encoding errors for Media Services v3/v2"
 	description: "Diagnose and resolve Encoding errors for Media Services v3/v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	displayOrder="1"
 	articleid: "mediaservices-encoding-files-errors"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32632089"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Diagnose and resolve Encoding errors for Media Services v3/v2

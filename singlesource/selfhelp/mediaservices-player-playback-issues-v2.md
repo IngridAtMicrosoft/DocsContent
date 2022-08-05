@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-player-playback-issues"
   cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
   description: "Apollo migrated file - Azure Media Player playback issues"
-  ms.author: "jiayali,inhenkel"
+  ms.author: inhenkel"jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Azure Media Player playback issues"
+  pagetitle: "Azure Media Player playback issues"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "6272b6a0-6c9c-32d1-0849-981b96a666ee"
+  supporttopicids: "6272b6a0-6c9c-32d1-0849-981b96a666ee"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Azure Media Player playback issues
 
 ## Resolve Azure Media Player play-back issues

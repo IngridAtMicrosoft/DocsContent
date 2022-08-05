@@ -1,7 +1,7 @@
 ---
-	title: "Manage Assets quotas"
+	pagetitle: "Manage Assets quotas"
 	description: "Apollo migrated file - Manage Assets quotas"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	articleid: "apollo-mediaservices-assets-quotas"
 	selfhelptype: "apollo"
 	productpesids: "14885"
@@ -9,6 +9,8 @@
 	ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "6c6f629b-8fb4-b35c-0d70-0b994d1d23fc"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Manage Assets quotas

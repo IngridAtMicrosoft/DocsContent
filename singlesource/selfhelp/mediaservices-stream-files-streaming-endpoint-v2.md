@@ -3,18 +3,17 @@
   cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
   description: "Apollo migrated file - Streaming endpoints"
   isofficial="True"
-  ms.author: "juliako,inhenkel,jiayali"
+  ms.author: inhenkel"juliako,inhenkel,jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Streaming endpoints"
+  pagetitle: "Streaming endpoints"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "16c919c7-e8da-2796-4e7d-69f69fac0e1a"
+  supporttopicids: "16c919c7-e8da-2796-4e7d-69f69fac0e1a"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Streaming endpoint
 
 ## Learn about Streaming endpoints

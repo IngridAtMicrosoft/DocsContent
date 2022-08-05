@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-content-upload-to-storage"
   cloudenvironments: "public,fairfax,usnat,ussec"
   description: "Apollo migrated file - Upload to storage"
-  ms.author: "juliako,jiayali"
+  ms.author: inhenkel"juliako,jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Upload to storage"
+  pagetitle: "Upload to storage"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "5893fb6c-980f-e9a3-d487-be538ff15710"
+  supporttopicids: "5893fb6c-980f-e9a3-d487-be538ff15710"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Upload to storage
 
 ## Upload to storage in Media Services

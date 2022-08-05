@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-drm-and-key-delivery-howto"
   cloudenvironments: "public,fairfax,usnat,ussec"
   description: "Apollo migrated file - How-to encrypt with DRM and use a license delivery service"
-  ms.author: "inhenkel"
+  ms.author: inhenkel
   ownershipid: "StorageMediaEdge_Media"
-  title: "How-to encrypt with DRM and use a license delivery service"
+  pagetitle: "How-to encrypt with DRM and use a license delivery service"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "3fef00a2-f544-488f-597a-a7a498b1da70"
+  supporttopicids: "3fef00a2-f544-488f-597a-a7a498b1da70"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # How-to encrypt with DRM and use a license delivery service
 
 ## Implement DRM encryption and use a license delivery service

@@ -1,19 +1,21 @@
 ---
-	title: "Manage Assets quotas"
+	pagetitle: "Manage Assets quotas"
 	description: "Manage Assets quotas"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	displayOrder="1"
 	articleid: "mediaservices-assets-quotas"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32632080"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Manage Assets quotas

@@ -1,20 +1,22 @@
 ---
-	title: "Live streaming with a live cloud encoder"
+	pagetitle: "Live streaming with a live cloud encoder"
 	description: "Live streaming with a live cloud encoder"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource="liveevent"
 	authors="juliako"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	displayOrder="1"
 	articleid: "mediaservices-live-streaming-live-cloud-encoder"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32632105"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Live streaming with a live cloud encoder

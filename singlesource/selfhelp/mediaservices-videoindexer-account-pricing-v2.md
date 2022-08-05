@@ -1,7 +1,7 @@
 ---
-    title: "Video Indexer Pricing"
+    pagetitle: "Video Indexer Pricing"
     description: "Apollo migrated file - Video Indexer Pricing"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-account-pricing"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "622c9497-03f4-86c3-237a-87f6367d0a7d"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Video Indexers pricing

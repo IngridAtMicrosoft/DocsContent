@@ -1,19 +1,21 @@
 ---
-	title: "Client Latency"
+	pagetitle: "Client Latency"
 	description: "Client Latency"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
-	ms.author: "akucer"
+	ms.author: inhenkel"akucer"
 	displayOrder="1"
 	articleid: "mediaservices-client-latency"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32729550,32632085"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, mooncake, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 # Client Latency
 

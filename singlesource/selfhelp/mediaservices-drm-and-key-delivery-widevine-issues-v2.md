@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-drm-and-key-delivery-widevine-issues"
   cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
   description: "Apollo migrated file - Issues encrypting with Widevine"
-  ms.author: "jiayali"
+  ms.author: inhenkel"jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Issues encrypting with Widevine"
+  pagetitle: "Issues encrypting with Widevine"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "020b987b-bb9e-b5a1-4284-e2ff977c3318"
+  supporttopicids: "020b987b-bb9e-b5a1-4284-e2ff977c3318"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Issues encrypting with Widevine
 
 ## Resolve issues encrypting with Widevine

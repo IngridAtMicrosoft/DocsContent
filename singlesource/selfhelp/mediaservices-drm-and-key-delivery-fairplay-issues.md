@@ -1,19 +1,21 @@
 ---
-	title: "Issues encrypting with FairPlay"
+	pagetitle: "Issues encrypting with FairPlay"
 	description: "Issues encrypting with FairPlay"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	displayOrder="1"
 	articleid: "mediaservices-drm-and-key-delivery-fairplay-issues"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32632095"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Issues encrypting with FairPlay

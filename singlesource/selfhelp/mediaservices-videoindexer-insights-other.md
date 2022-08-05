@@ -1,20 +1,22 @@
 ---
-    title: "Cognitive insights in Video Indexer"
+    pagetitle: "Cognitive insights in Video Indexer"
     description: "Cognitive insights in Video Indexer"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     displayOrder="1"
     articleid: "mediaservices-videoindexer-insights-other"
     diagnosticScenario=""
     selfhelptype: "generic"
     supporttopicids: "32740739,32740745,32740740"
-    resourcetags: ""
+    resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Cognitive insights in Video Indexer

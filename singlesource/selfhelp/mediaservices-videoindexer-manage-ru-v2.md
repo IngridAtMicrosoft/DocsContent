@@ -1,7 +1,7 @@
 ---
-    title: "Need to scale Media Reserved Units"
+    pagetitle: "Need to scale Media Reserved Units"
     description: "Apollo migrated file - Need to scale Media Reserved Units"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-manage-ru"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "8da2e643-6a98-3563-feec-7e0fa7d82172,9b275d30-aa3f-c24a-5c7c-1272344196c4"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Need to scale Media Reserved Units

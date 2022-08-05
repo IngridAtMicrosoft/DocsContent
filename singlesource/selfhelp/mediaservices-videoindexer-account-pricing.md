@@ -1,20 +1,22 @@
 ---
-    title: "Video Indexer Pricing"
+    pagetitle: "Video Indexer Pricing"
     description: "Video Indexer Pricing"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     displayOrder="1"
     articleid: "mediaservices-videoindexer-account-pricing"
     diagnosticScenario=""
     selfhelptype: "generic"
     supporttopicids: "32606562"
-    resourcetags: ""
+    resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Video Indexer’s pricing

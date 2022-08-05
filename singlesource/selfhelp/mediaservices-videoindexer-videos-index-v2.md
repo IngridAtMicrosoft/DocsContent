@@ -1,7 +1,7 @@
 ---
-    title: "Indexing Videos"
+    pagetitle: "Indexing Videos"
     description: "Apollo migrated file - Indexing Videos"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-videos-index"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "72ab1fe2-34f8-6fe1-73f3-c784b39a7cf6,bcacd635-4b22-46f9-2ed1-906748653e93"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Indexing Videos

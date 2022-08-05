@@ -1,7 +1,7 @@
 ---
-	title: "Encode files with Media Services v3"
+	pagetitle: "Encode files with Media Services v3"
 	description: "Apollo migrated file - Encode files with Media Services v3"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	articleid: "apollo-mediaservices-encoding-files"
 	selfhelptype: "apollo"
 	productpesids: "14885"
@@ -9,6 +9,8 @@
 	ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "8501aea9-8441-c5d4-f901-8b5f9b4f0a29"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Encode files with Media Services v3

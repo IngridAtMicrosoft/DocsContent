@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-authentication-access-control"
   cloudenvironments: "public,fairfax,usnat,ussec"
   description: "Apollo migrated file - Authentication or access control"
-  ms.author: "akucer,jiayali,inhenkel"
+  ms.author: inhenkel"akucer,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Authentication or access control"
+  pagetitle: "Authentication or access control"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "3962655e-b25d-3a69-1175-b540ce09c9da"
+  supporttopicids: "3962655e-b25d-3a69-1175-b540ce09c9da"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Authentication or access control
 
 ## Resolve issues with authentication or access control in the Azure Media Services API

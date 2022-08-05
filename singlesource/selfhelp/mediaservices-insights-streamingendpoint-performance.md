@@ -1,19 +1,21 @@
---- title: "Streaming endpoint performance guidance"
+--- pagetitle: "Streaming endpoint performance guidance"
     description: "Solution to streaming endpoint performance issues (status 503)"
     infoBubbleText="See details on the right"
     service="microsoft.media"
     resource="mediaservices"
     authors="Juliako"
-    ms.author: "juliako"
+    ms.author: inhenkel"juliako"
     displayOrder="1"
     articleid: "mediaservices-insights-streamingendpoint-performance"
     diagnosticScenario=""
     selfhelptype: "diagnostics"
     supporttopicids: ""
-    resourcetags: ""
+    resourcetags:
     productpesids: "14885"
     cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Streaming endpoint performance guidance

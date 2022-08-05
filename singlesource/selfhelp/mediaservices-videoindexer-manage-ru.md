@@ -1,20 +1,22 @@
 ---
-    title: "Need to scale Media Reserved Units"
+    pagetitle: "Need to scale Media Reserved Units"
     description: "Need to scale Media Reserved Units"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     displayOrder="1"
     articleid: "mediaservices-videoindexer-manage-ru"
     diagnosticScenario=""
     selfhelptype: "generic"
     supporttopicids: "32740746,32740748"
-    resourcetags: ""
+    resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Need to scale Media Reserved Units

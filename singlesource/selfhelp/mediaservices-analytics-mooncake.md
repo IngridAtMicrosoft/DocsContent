@@ -1,18 +1,20 @@
 ---
-    title: "What are the capabilities of Media Analytics?"
+    pagetitle: "What are the capabilities of Media Analytics?"
     description: "What are the capabilities of Media Analytics?"
     service="microsoft.media"
     resource="mediaservices"
     authors="juliako"
-    ms.author: "juliako"
+    ms.author: inhenkel"juliako"
     displayOrder="5"
     selfhelptype: "resource"
     supporttopicids: ""
-    resourcetags: ""
+    resourcetags:
     productpesids: ""
     cloudenvironments: "MoonCake"
  	articleid: "0cb3e6b1-620e-4070-8791-8eed7ddedd0b"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # What are the capabilities of Media Analytics?

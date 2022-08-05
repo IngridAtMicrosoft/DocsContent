@@ -1,7 +1,7 @@
 ---
-	title: "Media Services: Profiles or custom profiles"
+	pagetitle: "Media Services: Profiles or custom profiles"
 	description: "Apollo migrated file - Media Services: Profiles or custom profiles"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	articleid: "apollo-mediaservices-encoding-files-profiles"
 	selfhelptype: "apollo"
 	productpesids: "14885"
@@ -9,6 +9,8 @@
 	ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "86821d54-477e-9c74-fefa-9045782f6695"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Media Services: Profiles or custom profiles

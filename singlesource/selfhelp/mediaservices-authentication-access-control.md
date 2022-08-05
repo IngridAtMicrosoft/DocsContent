@@ -1,19 +1,21 @@
 ---
-	title: "Authentication or access control"
+	pagetitle: "Authentication or access control"
 	description: "Authentication or access control"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
-	ms.author: "akucer"
+	ms.author: inhenkel"akucer"
 	displayOrder="1"
 	articleid: "mediaservices-authentication-access-control"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32729543"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 # Authentication or access control
 ## Accessing the Azure Media Services API

@@ -1,19 +1,21 @@
 ---
-	title: "Asset management issue or how to"
+	pagetitle: "Asset management issue or how to"
 	description: "Asset management issue or how to"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
-	ms.author: "akucer"
+	ms.author: inhenkel"akucer"
 	displayOrder="1"
 	articleid: "mediaservices-asset-management-issue-how-to"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32729551"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 # Asset management issue or how to
 **NOTE:** This topic references Media Services v3 API documentation. v3 is the latest Media Services version.

@@ -1,20 +1,22 @@
 ---
-	title: "Azure Media Services account create or delete"
+	pagetitle: "Azure Media Services account create or delete"
 	description: "Azure Media Services account create or delete"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="johndeu"
-	ms.author: "johndeu"
+	ms.author: inhenkel"johndeu"
 	displayOrder="1"
 	articleid: "mediaservices-accounts-create-or-delete"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32632088"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Azure Media Services account creation and deletion

@@ -1,19 +1,21 @@
 ---
-	title: "Media Services: Profiles or custom profiles"
+	pagetitle: "Media Services: Profiles or custom profiles"
 	description: "Media Services: Profiles or custom profiles"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	displayOrder="1"
 	articleid: "mediaservices-encoding-files-profiles"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32632115"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Media Services: Profiles or custom profiles

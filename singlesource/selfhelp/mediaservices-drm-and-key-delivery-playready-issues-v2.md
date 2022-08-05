@@ -1,7 +1,7 @@
 ---
-	title: "Issues encrypting with PlayReady"
+	pagetitle: "Issues encrypting with PlayReady"
 	description: "Apollo migrated file - Issues encrypting with PlayReady"
-	ms.author: "juliako"
+	ms.author: inhenkel"juliako"
 	articleid: "apollo-mediaservices-drm-and-key-delivery-playready-issues"
 	selfhelptype: "apollo"
 	productpesids: "14885"
@@ -9,6 +9,8 @@
 	ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "b5aa7c16-f1c1-3092-0bb3-feaf27e6e4ee"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Issues encrypting with PlayReady

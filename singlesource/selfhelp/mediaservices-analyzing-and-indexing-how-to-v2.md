@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-analyzing-indexing-how-to"
   cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
   description: "Azure Media Services enables you to extract insights from your video and audio files with Video Indexer through Media Services v3 presets. Learn to do this by using recommended steps. For detailed insights, use the Video Indexer APIs directly."
-  ms.author: "akucer,jiayali,inhenkel"
+  ms.author: inhenkel"akucer,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Analyze and index audio and video files in Azure Media Services"
+  pagetitle: "Analyze and index audio and video files in Azure Media Services"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "50572256-2e9f-4da9-2849-35cab985386e"
+  supporttopicids: "50572256-2e9f-4da9-2849-35cab985386e"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Analyzing and indexing how to
 
 ## Learn to analyze and index audio and video files in Azure Media Services

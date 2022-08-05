@@ -1,20 +1,22 @@
 ---
-	title: "Azure Media Player playback issues"
+	pagetitle: "Azure Media Player playback issues"
 	description: "Azure Media Player playback issues"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource=""
 	authors="johndeu"
-	ms.author: "johndeu"
+	ms.author: inhenkel"johndeu"
 	displayOrder="1"
 	articleid: "mediaservices-player-playback-issues"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32632111"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Azure Media Player playback issues

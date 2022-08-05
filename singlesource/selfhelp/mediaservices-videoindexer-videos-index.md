@@ -1,20 +1,22 @@
 ---
-    title: "Indexing Videos"
+    pagetitle: "Indexing Videos"
     description: "Indexing Videos"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     displayOrder="1"
     articleid: "mediaservices-videoindexer-videos-index"
     diagnosticScenario=""
     selfhelptype: "generic"
     supporttopicids: "32740743,32740744"
-    resourcetags: ""
+    resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Indexing Videos

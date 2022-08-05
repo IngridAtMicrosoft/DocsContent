@@ -1,7 +1,7 @@
 ---
-	title: "Troubleshoot account management error messages"
+	pagetitle: "Troubleshoot account management error messages"
 	description: "Troubleshoot account management error messages by using recommended resources."
-	ms.author: "akucer"
+	ms.author: inhenkel"akucer"
 	articleid: "apollo-mediaservices-error-message"
 	selfhelptype: "apollo"
 	productpesids: "14885"
@@ -9,6 +9,8 @@
 	ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "46bd2a20-f182-90a9-6586-907fe31382e7"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Account management error messages

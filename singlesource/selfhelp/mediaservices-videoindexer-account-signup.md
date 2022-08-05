@@ -1,20 +1,22 @@
 ---
-    title: "Sign up and sign in to Video Indexer"
+    pagetitle: "Sign up and sign in to Video Indexer"
     description: "Sign up and sign in to Video Indexer"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     displayOrder="1"
     articleid: "mediaservices-videoindexer-account-signup"
     diagnosticScenario=""
     selfhelptype: "generic"
     supporttopicids: "32606567"
-    resourcetags: ""
+    resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Account sign up and sign in

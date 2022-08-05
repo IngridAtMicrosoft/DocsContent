@@ -1,20 +1,22 @@
 ---
-    title: "Connect to Azure"
+    pagetitle: "Connect to Azure"
     description: "Connect to Azure"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     displayOrder="1"
     articleid: "mediaservices-videoindexer-account-connect-to-azure"
     diagnosticScenario=""
     selfhelptype: "generic"
     supporttopicids: "32606554"
-    resourcetags: ""
+    resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Connect to Azure

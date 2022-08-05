@@ -1,19 +1,21 @@
 ---
-	title: "Account management generic"
+	pagetitle: "Account management generic"
 	description: "Account management generic"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
-	ms.author: "akucer"
+	ms.author: inhenkel"akucer"
 	displayOrder="1"
 	articleid: "mediaservices-account-management-generic"
 	diagnosticScenario=""
 	selfhelptype: "generic"
 	supporttopicids: "32729545"
-	resourcetags: ""
+	resourcetags:
 	productpesids: "14885"
 	cloudenvironments: "public, fairfax, usnat, ussec"
 	ownershipid: "StorageMediaEdge_Media"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 # Account management generic
 Azure Media Services accounts can be created directly in the portal, using the Azure CLI (cloud shell or local), using the REST API one of the many client libraries.

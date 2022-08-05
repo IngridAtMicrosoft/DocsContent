@@ -1,7 +1,7 @@
 ---
-    title: "Using Video Indexer's API"
+    pagetitle: "Using Video Indexer's API"
     description: "Apollo migrated file - Using Video Indexer's API"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-api-how-to"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "965285bd-9da7-f6da-ebbb-c399285bcd84,3f68b8b4-d6cf-b099-b80a-7829b4e9fd6c"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Using Video Indexer's API

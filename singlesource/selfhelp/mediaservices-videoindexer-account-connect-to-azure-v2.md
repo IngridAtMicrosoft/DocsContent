@@ -1,7 +1,7 @@
 ---
-    title: "Connect to Azure"
+    pagetitle: "Connect to Azure"
     description: "Apollo migrated file - Connect to Azure"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-account-connect-to-azure"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "c5e09f82-e517-428b-e12f-7e3cc5b639d4"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Connect to Azure

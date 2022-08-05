@@ -1,7 +1,7 @@
 ---
-    title: "Audio and Transcription"
+    pagetitle: "Audio and Transcription"
     description: "Apollo migrated file - Audio and Transcription"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-insights-audio"
     selfhelptype: "apollo"
     productpesids: "16535"
@@ -9,6 +9,8 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "f23a93f8-05c2-2069-75fe-c6fe31599d8a"
     resourcerequired: "false"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Audio and Transcription

@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-live-streaming-rtmp-errors"
   cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
   description: "Apollo migrated file - Live streaming and RTMP error"
-  ms.author: "juliako,jiayali,inhenkel"
+  ms.author: inhenkel"juliako,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Live streaming and RTMP error"
+  pagetitle: "Live streaming and RTMP error"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "6b04f8ed-155d-1d1a-7bfe-58acefe85b73"
+  supporttopicids: "6b04f8ed-155d-1d1a-7bfe-58acefe85b73"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Live streaming and RTMP error
 
 ## Learn about live streaming and RTMP errors

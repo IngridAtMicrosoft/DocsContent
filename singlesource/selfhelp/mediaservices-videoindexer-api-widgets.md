@@ -1,20 +1,22 @@
 ---
-    title: "Video Indexer Widgets"
+    pagetitle: "Video Indexer Widgets"
     description: "Video Indexer Widgets"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author: "t-reutam"
+    ms.author: inhenkel"t-reutam"
     displayOrder="1"
     articleid: "mediaservices-videoindexer-api-widgets"
     diagnosticScenario=""
     selfhelptype: "generic"
     supporttopicids: "32740749"
-    resourcetags: ""
+    resourcetags:
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
+  author: IngridAtMicrosoft
+ms.service: media-services
 ---
 
 # Video Indexer Widgets

@@ -2,18 +2,17 @@
   articleid: "apollo-mediaservices-stream-files-performance"
   cloudenvironments: "public,fairfax,usnat,ussec,mooncake,blackforest"
   description: "Use our guidance to learn about streaming endpoint types, and working with Azure Content Delivery Network (CDN)."
-  ms.author: "juliako,jiayali,inhenkel"
+  ms.author: inhenkel"juliako,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  title: "Learn about streaming files performance"
+  pagetitle: "Learn about streaming files performance"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"
-  resourcetags: ""
+  resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "8fbb1ca9-ab3b-598c-4dae-a1dd9bd13cde"
+  supporttopicids: "8fbb1ca9-ab3b-598c-4dae-a1dd9bd13cde"   author: IngridAtMicrosoft
+ms.service: media-services
 ---
-
-
 # Streaming files performance
 
 ## Learn about streaming files performance
