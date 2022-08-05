@@ -4,7 +4,7 @@
   description: "Azure Media Services resource group moves can be requested through support ticket only. Resource group movement is not available through the Azure CLI."
   ms.author: inhenkel"johndeu,jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Move Azure Media Services resource groups"
+ title:  "Move Azure Media Services resource groups"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

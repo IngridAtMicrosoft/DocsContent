@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Access Tokens"
+   title:  "Access Tokens"
     description: "Access Tokens"
     infoBubbleText=""
 	service="microsoft.media"

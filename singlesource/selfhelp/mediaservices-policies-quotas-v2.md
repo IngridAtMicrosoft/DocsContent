@@ -4,7 +4,7 @@
   description: "Apollo migrated file - Manage access policies quotas"
   ms.author: inhenkel"jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Manage access policies quotas"
+ title:  "Manage access policies quotas"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

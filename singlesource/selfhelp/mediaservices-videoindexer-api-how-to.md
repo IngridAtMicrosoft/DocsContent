@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Using Video Indexer's API"
+   title:  "Using Video Indexer's API"
     description: "Using Video Indexer's API"
     infoBubbleText=""
 	service="microsoft.media"

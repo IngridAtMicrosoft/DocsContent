@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Using Video Indexer's API"
+   title:  "Using Video Indexer's API"
     description: "Apollo migrated file - Using Video Indexer's API"
     ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-api-how-to"

@@ -4,7 +4,7 @@
   description: "Azure Media Services accounts can be created directly in the portal, using the Azure CLI (cloud shell or local), or by using the REST API and one of the many client libraries. Learn to create accounts and start developing with client SDKs by following recommended steps."
   ms.author: inhenkel"akucer,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Learn to create Azure Media Services accounts"
+ title:  "Learn to create Azure Media Services accounts"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Need to scale Media Reserved Units"
+   title:  "Need to scale Media Reserved Units"
     description: "Need to scale Media Reserved Units"
     infoBubbleText=""
 	service="microsoft.media"

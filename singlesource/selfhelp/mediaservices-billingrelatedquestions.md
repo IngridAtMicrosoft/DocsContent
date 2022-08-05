@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Explanation of media services pricing"
+   title:  "Explanation of media services pricing"
     description: "I have a question regarding media services pricing"
     service="microsoft.media"
     resource="mediaservices"

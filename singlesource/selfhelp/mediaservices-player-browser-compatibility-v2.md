@@ -4,7 +4,7 @@
   description: "Apollo migrated file - Azure Media Player browser and OS compatibility"
   ms.author: inhenkel"jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Azure Media Player browser and OS compatibility"
+ title:  "Azure Media Player browser and OS compatibility"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

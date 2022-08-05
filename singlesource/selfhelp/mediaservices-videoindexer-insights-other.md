@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Cognitive insights in Video Indexer"
+   title:  "Cognitive insights in Video Indexer"
     description: "Cognitive insights in Video Indexer"
     infoBubbleText=""
 	service="microsoft.media"

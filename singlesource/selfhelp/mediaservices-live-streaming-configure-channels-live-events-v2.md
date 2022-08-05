@@ -4,7 +4,7 @@
   description: "Use our guidance to learn how to configure live streaming, including supported live encoders, using live events in the v3 API, and more."
   ms.author: inhenkel"juliako,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Configure live streaming"
+ title:  "Configure live streaming"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

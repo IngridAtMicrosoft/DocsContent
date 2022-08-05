@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Cognitive insights in Video Indexer"
+   title:  "Cognitive insights in Video Indexer"
     description: "Apollo migrated file - Cognitive insights in Video Indexer"
     ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-insights-other"

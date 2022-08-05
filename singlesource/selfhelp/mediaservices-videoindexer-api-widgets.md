@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Video Indexer Widgets"
+   title:  "Video Indexer Widgets"
     description: "Video Indexer Widgets"
     infoBubbleText=""
 	service="microsoft.media"

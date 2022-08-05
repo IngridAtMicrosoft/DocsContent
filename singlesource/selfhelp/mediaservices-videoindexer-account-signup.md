@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Sign up and sign in to Video Indexer"
+   title:  "Sign up and sign in to Video Indexer"
     description: "Sign up and sign in to Video Indexer"
     infoBubbleText=""
 	service="microsoft.media"

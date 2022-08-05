@@ -4,7 +4,7 @@
   description: "Apollo migrated file - Azure Media Player closed captions and subtitle support"
   ms.author: inhenkel"jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Azure Media Player closed captions and subtitle support"
+ title:  "Azure Media Player closed captions and subtitle support"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

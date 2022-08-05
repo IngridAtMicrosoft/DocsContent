@@ -4,7 +4,7 @@
   description: "Apollo migrated file - Azure Media Player playback issues"
   ms.author: inhenkel"jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Azure Media Player playback issues"
+ title:  "Azure Media Player playback issues"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

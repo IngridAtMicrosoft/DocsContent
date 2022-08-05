@@ -5,7 +5,7 @@
   isofficial="True"
   ms.author: inhenkel"juliako,inhenkel,jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Streaming endpoints"
+ title:  "Streaming endpoints"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

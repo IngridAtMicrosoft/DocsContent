@@ -4,7 +4,7 @@
   description: "Azure Media Services accounts can be created or deleted directly in the portal, using the Azure CLI (cloud shell or local), or by using the REST API and one of the many client libraries. Follow the recommended steps."
   ms.author: inhenkel
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Learn to create or delete an Azure Media Services account"
+ title:  "Learn to create or delete an Azure Media Services account"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

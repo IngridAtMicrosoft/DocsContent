@@ -1,5 +1,5 @@
 ---
-    pagetitle: "How to configure content protection for your stream?"
+   title:  "How to configure content protection for your stream?"
     description: "How to configure content protection for your stream?"
     service="microsoft.media"
     resource="mediaservices"

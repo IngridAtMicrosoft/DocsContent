@@ -1,5 +1,5 @@
 ---
-    pagetitle: "How do I configure live streaming?"
+   title:  "How do I configure live streaming?"
     description: "How do I configure live streaming?"
     service="microsoft.media"
     resource="mediaservices"

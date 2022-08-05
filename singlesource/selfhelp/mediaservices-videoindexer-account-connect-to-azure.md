@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Connect to Azure"
+   title:  "Connect to Azure"
     description: "Connect to Azure"
     infoBubbleText=""
 	service="microsoft.media"

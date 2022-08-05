@@ -1,4 +1,4 @@
---- pagetitle: "Streaming endpoint performance guidance"
+---title:  "Streaming endpoint performance guidance"
     description: "Solution to streaming endpoint performance issues (status 503)"
     infoBubbleText="See details on the right"
     service="microsoft.media"

@@ -4,7 +4,7 @@
   description: "Apollo migrated file - How-to encrypt with DRM and use a license delivery service"
   ms.author: inhenkel
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "How-to encrypt with DRM and use a license delivery service"
+ title:  "How-to encrypt with DRM and use a license delivery service"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

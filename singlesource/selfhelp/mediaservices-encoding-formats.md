@@ -1,5 +1,5 @@
 ---
-    pagetitle: "What media file formats are supported by the recommended encoder?"
+   title:  "What media file formats are supported by the recommended encoder?"
     description: "What media file formats are supported by the recommended encoder?"
     service="microsoft.media"
     resource="mediaservices"

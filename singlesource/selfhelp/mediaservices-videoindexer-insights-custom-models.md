@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Custom models"
+   title:  "Custom models"
     description: "Custom models"
     infoBubbleText=""
 	service="microsoft.media"

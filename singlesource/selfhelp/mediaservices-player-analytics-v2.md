@@ -4,7 +4,7 @@
   description: "Apollo migrated file - Azure Media Player analytics"
   ms.author: inhenkel"jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Azure Media Player analytics"
+ title:  "Azure Media Player analytics"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

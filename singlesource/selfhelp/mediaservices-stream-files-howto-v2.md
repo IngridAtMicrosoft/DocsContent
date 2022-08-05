@@ -4,7 +4,7 @@
   description: "Apollo migrated file - Streaming files how-tos and tutorials"
   ms.author: inhenkel
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Streaming media how-tos and tutorials"
+ title:  "Streaming media how-tos and tutorials"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

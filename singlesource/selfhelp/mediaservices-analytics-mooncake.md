@@ -1,5 +1,5 @@
 ---
-    pagetitle: "What are the capabilities of Media Analytics?"
+   title:  "What are the capabilities of Media Analytics?"
     description: "What are the capabilities of Media Analytics?"
     service="microsoft.media"
     resource="mediaservices"

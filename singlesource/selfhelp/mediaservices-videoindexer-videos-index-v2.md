@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Indexing Videos"
+   title:  "Indexing Videos"
     description: "Apollo migrated file - Indexing Videos"
     ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-videos-index"

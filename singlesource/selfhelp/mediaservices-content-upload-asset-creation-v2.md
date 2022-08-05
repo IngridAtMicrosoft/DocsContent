@@ -4,7 +4,7 @@
   description: "You need to create an Asset if you want to encode or analyze your on-demand content, or if you have a Live Output that is associated with an Asset. A Live Output uses an Asset to store recorded videos."
   ms.author: inhenkel"juliako,jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Create an Asset"
+ title:  "Create an Asset"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

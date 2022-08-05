@@ -4,7 +4,7 @@
   description: "Apollo migrated file - Client Latency"
   ms.author: inhenkel"akucer,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Client Latency"
+ title:  "Client Latency"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

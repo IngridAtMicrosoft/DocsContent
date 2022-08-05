@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Account management"
+   title:  "Account management"
     description: "Account management"
     infoBubbleText=""
 	service="microsoft.media"

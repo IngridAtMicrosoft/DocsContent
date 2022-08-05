@@ -4,7 +4,7 @@
   description: "To use live encoding with Media Services, configure your on-premises live encoder to send a single bitrate video as the contribution feed to the Channel (v2)/Live Event (v3) using RTMP or Fragmented-Mp4 protocol. The Channel/Live Event encodes that incoming single bitrate stream to a [multiple bitrate video stream](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming), making it available for delivery to playback devices via protocols like MPEG-DASH, HLS, and Smooth Streaming. "
   ms.author: inhenkel"juliako,jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Learn about live streaming with a live cloud encoder"
+ title:  "Learn about live streaming with a live cloud encoder"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Video Indexer Pricing"
+   title:  "Video Indexer Pricing"
     description: "Apollo migrated file - Video Indexer Pricing"
     ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-account-pricing"

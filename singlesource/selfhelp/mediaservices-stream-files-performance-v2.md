@@ -4,7 +4,7 @@
   description: "Use our guidance to learn about streaming endpoint types, and working with Azure Content Delivery Network (CDN)."
   ms.author: inhenkel"juliako,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Learn about streaming files performance"
+ title:  "Learn about streaming files performance"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Video Indexer Pricing"
+   title:  "Video Indexer Pricing"
     description: "Video Indexer Pricing"
     infoBubbleText=""
 	service="microsoft.media"

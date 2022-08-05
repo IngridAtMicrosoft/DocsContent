@@ -1,5 +1,5 @@
 ---
-  pagetitle: "PackagingResolve packaging, origin or streaming endpoint errors"
+ title:  "PackagingResolve packaging, origin or streaming endpoint errors"
   description: "Apollo migrated file - Packaging, origin or streaming endpoint errors"
   ms.author: inhenkel"jiayali"
   selfhelptype: "apollo"

@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Connect to Azure"
+   title:  "Connect to Azure"
     description: "Apollo migrated file - Connect to Azure"
     ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-account-connect-to-azure"

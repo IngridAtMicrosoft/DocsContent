@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Video Indexer Widgets"
+   title:  "Video Indexer Widgets"
     description: "Apollo migrated file - Video Indexer Widgets"
     ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-api-widgets"

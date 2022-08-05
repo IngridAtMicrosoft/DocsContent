@@ -4,7 +4,7 @@
   description: "Apollo migrated file - Authentication or access control"
   ms.author: inhenkel"akucer,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Authentication or access control"
+ title:  "Authentication or access control"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

@@ -4,7 +4,7 @@
   description: "Use our guidance to learn how to resolve specific errors."
   ms.author: inhenkel"juliako,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Diagnose and resolve Encoding errors for Media Services v3/v2"
+ title:  "Diagnose and resolve Encoding errors for Media Services v3/v2"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

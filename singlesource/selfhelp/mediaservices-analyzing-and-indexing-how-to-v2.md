@@ -4,7 +4,7 @@
   description: "Azure Media Services enables you to extract insights from your video and audio files with Video Indexer through Media Services v3 presets. Learn to do this by using recommended steps. For detailed insights, use the Video Indexer APIs directly."
   ms.author: inhenkel"akucer,jiayali,inhenkel"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Analyze and index audio and video files in Azure Media Services"
+ title:  "Analyze and index audio and video files in Azure Media Services"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Indexing Videos"
+   title:  "Indexing Videos"
     description: "Indexing Videos"
     infoBubbleText=""
 	service="microsoft.media"

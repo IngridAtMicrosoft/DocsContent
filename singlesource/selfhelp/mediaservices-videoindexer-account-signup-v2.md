@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Sign up and sign in to Video Indexer"
+   title:  "Sign up and sign in to Video Indexer"
     description: "Apollo migrated file - Sign up and sign in to Video Indexer"
     ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-account-signup"

@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Need to scale Media Reserved Units"
+   title:  "Need to scale Media Reserved Units"
     description: "Apollo migrated file - Need to scale Media Reserved Units"
     ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-manage-ru"

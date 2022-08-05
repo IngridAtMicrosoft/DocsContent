@@ -4,7 +4,7 @@
   description: "Apollo migrated file - Manage Streaming Endpoints quotas"
   ms.author: inhenkel"inhenkel,jiayali"
   ownershipid: "StorageMediaEdge_Media"
-  pagetitle: "Manage Streaming Endpoints quotas"
+ title:  "Manage Streaming Endpoints quotas"
   problemids: ""
   productpesids: "14885"
   resourcerequired: "False"

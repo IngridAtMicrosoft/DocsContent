@@ -1,5 +1,5 @@
 ---
-    pagetitle: "Custom models"
+   title:  "Custom models"
     description: "Apollo migrated file - Custom models"
     ms.author: inhenkel"t-reutam"
     articleid: "apollo-mediaservices-videoindexer-insights-custom-models"
