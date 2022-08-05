@@ -1,15 +1,15 @@
 ---
-   title:  "How to configure content protection for your stream?"
-    description: "How to configure content protection for your stream?"
+  title:  "How to configure content protection for your stream?"
+  description: "How to configure content protection for your stream?"
     service="microsoft.media"
     resource="mediaservices"
     authors="juliako"
     displayOrder="4"
-    selfhelptype: "resource"
+  selfhelptype: "resource"
 supporttopicids: ""
-    resourcetags:
-    productpesids: ""
-    cloudenvironments: "public, fairfax, usnat, ussec"
+  resourcetags:
+  productpesids: ""
+  cloudenvironments: "public, fairfax, usnat, ussec"
  articleid: "1d657557-6afd-479c-a8f1-56d03a6d70db"
 ownershipid: "StorageMediaEdge_Media"
 author: IngridAtMicrosoft

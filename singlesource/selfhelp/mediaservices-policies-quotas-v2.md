@@ -1,16 +1,16 @@
 ---
-  articleid: "apollo-mediaservices-policies-quotas"
-  cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
-  description: "Apollo migrated file - Manage access policies quotas"
-  ms.author: inhenkel"jiayali"
-  ownershipid: "StorageMediaEdge_Media"
- title:  "Manage access policies quotas"
-  problemids: ""
-  productpesids: "14885"
-  resourcerequired: "False"
-  resourcetags:
-  selfhelptype: "apollo"
-  supporttopicids: "5d0175e0-fdc9-ecdd-07a2-9962b8c06ec1" author: IngridAtMicrosoft
+articleid: "apollo-mediaservices-policies-quotas"
+cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
+description: "Apollo migrated file - Manage access policies quotas"
+ms.author: inhenkel"jiayali"
+ownershipid: "StorageMediaEdge_Media"
+title:  "Manage access policies quotas"
+problemids: ""
+productpesids: "14885"
+resourcerequired: "False"
+resourcetags:
+selfhelptype: "apollo"
+supporttopicids: "5d0175e0-fdc9-ecdd-07a2-9962b8c06ec1" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Manage access policies quotas

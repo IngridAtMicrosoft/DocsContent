@@ -1,16 +1,16 @@
 ---
-  articleid: "apollo-mediaservices-live-streaming-configure-channels-live-events"
-  cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
-  description: "Use our guidance to learn how to configure live streaming, including supported live encoders, using live events in the v3 API, and more."
-  ms.author: inhenkel"juliako,jiayali,inhenkel"
-  ownershipid: "StorageMediaEdge_Media"
- title:  "Configure live streaming"
-  problemids: ""
-  productpesids: "14885"
-  resourcerequired: "False"
-  resourcetags:
-  selfhelptype: "apollo"
-  supporttopicids: "35ba9292-e626-9c0b-fb2c-be68ffcf4e97" author: IngridAtMicrosoft
+articleid: "apollo-mediaservices-live-streaming-configure-channels-live-events"
+cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
+description: "Use our guidance to learn how to configure live streaming, including supported live encoders, using live events in the v3 API, and more."
+ms.author: inhenkel"juliako,jiayali,inhenkel"
+ownershipid: "StorageMediaEdge_Media"
+title:  "Configure live streaming"
+problemids: ""
+productpesids: "14885"
+resourcerequired: "False"
+resourcetags:
+selfhelptype: "apollo"
+supporttopicids: "35ba9292-e626-9c0b-fb2c-be68ffcf4e97" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # How to configure live streaming?

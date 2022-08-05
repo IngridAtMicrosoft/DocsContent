@@ -1,20 +1,20 @@
 ---
-   title:  "Custom models"
-    description: "Custom models"
+  title:  "Custom models"
+  description: "Custom models"
     infoBubbleText=""
 service: "microsoft.media"
 resource:
     authors="ReutAmior"
-    ms.author: inhenkel"t-reutam"
+  ms.author: inhenkel"t-reutam"
     displayOrder="1"
-    articleid: "mediaservices-videoindexer-insights-custom-models"
+  articleid: "mediaservices-videoindexer-insights-custom-models"
     diagnosticScenario=""
-    selfhelptype: "generic"
+  selfhelptype: "generic"
 supporttopicids: "32740738"
-    resourcetags:
-    productpesids: "16535"
-    cloudenvironments: "public, fairfax, usnat, ussec"
-    ownershipid: "StorageMediaEdge_Media_VI"
+  resourcetags:
+  productpesids: "16535"
+  cloudenvironments: "public, fairfax, usnat, ussec"
+  ownershipid: "StorageMediaEdge_Media_VI"
 author: IngridAtMicrosoft
 ms.service: media-services
 ---

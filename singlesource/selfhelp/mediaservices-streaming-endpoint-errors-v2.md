@@ -1,15 +1,15 @@
 ---
- title:  "PackagingResolve packaging, origin or streaming endpoint errors"
-  description: "Apollo migrated file - Packaging, origin or streaming endpoint errors"
-  ms.author: inhenkel"jiayali"
-  selfhelptype: "apollo"
-  supporttopicids: "07a399ba-7dbc-57f6-4eb9-b88c36f85333"
-  resourcetags:
-  productpesids: "14885"
-  cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
-  articleid: "apollo-mediaservices-streaming-endpoint-errors"
-  ownershipid: "StorageMediaEdge_Media"
-  resourcerequired: "False" author: IngridAtMicrosoft
+title:  "PackagingResolve packaging, origin or streaming endpoint errors"
+description: "Apollo migrated file - Packaging, origin or streaming endpoint errors"
+ms.author: inhenkel"jiayali"
+selfhelptype: "apollo"
+supporttopicids: "07a399ba-7dbc-57f6-4eb9-b88c36f85333"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
+articleid: "apollo-mediaservices-streaming-endpoint-errors"
+ownershipid: "StorageMediaEdge_Media"
+resourcerequired: "False" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Packaging, origin or streaming endpoint errors

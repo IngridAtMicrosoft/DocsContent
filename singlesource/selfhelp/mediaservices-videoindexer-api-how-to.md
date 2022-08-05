@@ -1,20 +1,20 @@
 ---
-   title:  "Using Video Indexer's API"
-    description: "Using Video Indexer's API"
+  title:  "Using Video Indexer's API"
+  description: "Using Video Indexer's API"
     infoBubbleText=""
 service: "microsoft.media"
 resource:
     authors="ReutAmior"
-    ms.author: inhenkel"t-reutam"
+  ms.author: inhenkel"t-reutam"
     displayOrder="1"
-    articleid: "mediaservices-videoindexer-api-how-to"
+  articleid: "mediaservices-videoindexer-api-how-to"
     diagnosticScenario=""
-    selfhelptype: "generic"
+  selfhelptype: "generic"
 supporttopicids: "32740741,32740747"
-    resourcetags:
-    productpesids: "16535"
-    cloudenvironments: "public, fairfax, usnat, ussec"
-    ownershipid: "StorageMediaEdge_Media_VI"
+  resourcetags:
+  productpesids: "16535"
+  cloudenvironments: "public, fairfax, usnat, ussec"
+  ownershipid: "StorageMediaEdge_Media_VI"
 author: IngridAtMicrosoft
 ms.service: media-services
 ---
