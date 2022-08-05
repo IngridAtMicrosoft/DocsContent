@@ -1,15 +1,15 @@
 ---
-	pageTitle="Issues encrypting with PlayReady"
-	description="Apollo migrated file - Issues encrypting with PlayReady"
-	ms.author="juliako"
-	articleId="apollo-mediaservices-drm-and-key-delivery-playready-issues"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="b5aa7c16-f1c1-3092-0bb3-feaf27e6e4ee"
-    resourcerequired="false"
-/>
+	title: "Issues encrypting with PlayReady"
+	description: "Apollo migrated file - Issues encrypting with PlayReady"
+	ms.author: "juliako"
+	articleid: "apollo-mediaservices-drm-and-key-delivery-playready-issues"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "b5aa7c16-f1c1-3092-0bb3-feaf27e6e4ee"
+    resourcerequired: "false"
+---
 
 # Issues encrypting with PlayReady
 

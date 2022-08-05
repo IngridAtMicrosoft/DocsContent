@@ -1,19 +1,19 @@
 ---
-    pageTitle="How do I configure content protection for my stream?"
-    description="How do I configure content protection for my stream"
+    title: "How do I configure content protection for my stream?"
+    description: "How do I configure content protection for my stream"
     service="microsoft.media"
     resource="mediaservices"
     authors="juliako"
-    ms.author="juliako"
+    ms.author: "juliako"
     displayOrder="4"
-    selfHelpType="resource"
-    supportTopicIds=""
-    resourceTags=""
-    productPesIds=""
-    cloudEnvironments="MoonCake"
- 	articleId="8532932d-b103-4c2e-b249-2eff496bd062"
-	ownershipId="StorageMediaEdge_Media"
-/>
+    selfhelptype: "resource"
+    supporttopicids: ""
+    resourcetags: ""
+    productpesids: ""
+    cloudenvironments: "MoonCake"
+ 	articleid: "8532932d-b103-4c2e-b249-2eff496bd062"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # How do I configure content protection for my stream?
 

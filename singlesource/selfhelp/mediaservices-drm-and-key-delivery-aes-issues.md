@@ -1,20 +1,20 @@
 ---
-	pageTitle="Issues encrypting with AES-128 clear key"
-	description="Issues encrypting with AES-128 clear key"
+	title: "Issues encrypting with AES-128 clear key"
+	description: "Issues encrypting with AES-128 clear key"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author="juliako"
+	ms.author: "juliako"
 	displayOrder="1"
-	articleId="mediaservices-drm-and-key-delivery-aes-issues"
+	articleid: "mediaservices-drm-and-key-delivery-aes-issues"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32632076"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32632076"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # Issues encrypting with AES-128 clear key
 

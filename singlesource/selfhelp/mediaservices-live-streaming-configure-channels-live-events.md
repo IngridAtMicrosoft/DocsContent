@@ -1,20 +1,20 @@
 ---
-	pageTitle="How to configure live streaming?"
-	description="How to configure live streaming?"
+	title: "How to configure live streaming?"
+	description: "How to configure live streaming?"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author="juliako"
+	ms.author: "juliako"
 	displayOrder="1"
-	articleId="mediaservices-live-streaming-configure-channels-live-events"
+	articleid: "mediaservices-live-streaming-configure-channels-live-events"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32632083"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32632083"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # How to configure live streaming?
 

@@ -1,16 +1,16 @@
 ---
-  articleid="apollo-mediaservices-content-upload-to-storage"
-  cloudenvironments="public,fairfax,usnat,ussec"
-  description="Apollo migrated file - Upload to storage"
-  ms.author="juliako,jiayali"
-  ownershipid="StorageMediaEdge_Media"
-  pagetitle="Upload to storage"
-  problemids=""
-  productpesids="14885"
-  resourcerequired="False"
-  resourcetags=""
-  selfhelptype="apollo"
-  supporttopicids="5893fb6c-980f-e9a3-d487-be538ff15710"
+  articleid: "apollo-mediaservices-content-upload-to-storage"
+  cloudenvironments: "public,fairfax,usnat,ussec"
+  description: "Apollo migrated file - Upload to storage"
+  ms.author: "juliako,jiayali"
+  ownershipid: "StorageMediaEdge_Media"
+  title: "Upload to storage"
+  problemids: ""
+  productpesids: "14885"
+  resourcerequired: "False"
+  resourcetags: ""
+  selfhelptype: "apollo"
+  supporttopicids: "5893fb6c-980f-e9a3-d487-be538ff15710"
 ---
 
 

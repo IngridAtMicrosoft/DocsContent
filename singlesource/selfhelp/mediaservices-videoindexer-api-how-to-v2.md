@@ -1,15 +1,15 @@
 ---
-    pageTitle="Using Video Indexer's API"
-    description="Apollo migrated file - Using Video Indexer's API"
-    ms.author="t-reutam"
-    articleId="apollo-mediaservices-videoindexer-api-how-to"
-    selfHelpType="apollo"
-    productPesIds="16535"
-    cloudEnvironments="public, fairfax, usnat, ussec"
-    ownershipId="StorageMediaEdge_Media_VI"
-    supportTopicIds="965285bd-9da7-f6da-ebbb-c399285bcd84,3f68b8b4-d6cf-b099-b80a-7829b4e9fd6c"
-    resourcerequired="false"
-/>
+    title: "Using Video Indexer's API"
+    description: "Apollo migrated file - Using Video Indexer's API"
+    ms.author: "t-reutam"
+    articleid: "apollo-mediaservices-videoindexer-api-how-to"
+    selfhelptype: "apollo"
+    productpesids: "16535"
+    cloudenvironments: "public, fairfax, usnat, ussec"
+    ownershipid: "StorageMediaEdge_Media_VI"
+    supporttopicids: "965285bd-9da7-f6da-ebbb-c399285bcd84,3f68b8b4-d6cf-b099-b80a-7829b4e9fd6c"
+    resourcerequired: "false"
+---
 
 # Using Video Indexer's API
 

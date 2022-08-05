@@ -1,15 +1,15 @@
 ---
-	pageTitle="Encode files with Media Services v3"
-	description="Apollo migrated file - Encode files with Media Services v3"
-	ms.author="juliako"
-	articleId="apollo-mediaservices-encoding-files"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="8501aea9-8441-c5d4-f901-8b5f9b4f0a29"
-    resourcerequired="false"
-/>
+	title: "Encode files with Media Services v3"
+	description: "Apollo migrated file - Encode files with Media Services v3"
+	ms.author: "juliako"
+	articleid: "apollo-mediaservices-encoding-files"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "8501aea9-8441-c5d4-f901-8b5f9b4f0a29"
+    resourcerequired: "false"
+---
 
 # Encode files with Media Services v3
 

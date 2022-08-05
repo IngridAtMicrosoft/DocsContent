@@ -1,15 +1,15 @@
 ---
-	pageTitle="Extract information using machine learning models"
-	description="Apollo migrated file - Extract information using machine learning models"
-	ms.author="akucer"
-	articleId="apollo-mediaservices-lva-extract-information-using-machine-learning"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="0a279559-4acd-417e-afd0-07dbc2daaf38"
-    resourcerequired="false"
-/>
+	title: "Extract information using machine learning models"
+	description: "Apollo migrated file - Extract information using machine learning models"
+	ms.author: "akucer"
+	articleid: "apollo-mediaservices-lva-extract-information-using-machine-learning"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "0a279559-4acd-417e-afd0-07dbc2daaf38"
+    resourcerequired: "false"
+---
 
 # Extract information using machine learning models
 

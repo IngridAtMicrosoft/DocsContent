@@ -1,21 +1,21 @@
 ---
-    pageTitle="Video Indexer Pricing"
-    description="Video Indexer Pricing"
+    title: "Video Indexer Pricing"
+    description: "Video Indexer Pricing"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author="t-reutam"
+    ms.author: "t-reutam"
     displayOrder="1"
-    articleId="mediaservices-videoindexer-account-pricing"
+    articleid: "mediaservices-videoindexer-account-pricing"
     diagnosticScenario=""
-    selfHelpType="generic"
-    supportTopicIds="32606562"
-    resourceTags=""
-    productPesIds="16535"
-    cloudEnvironments="public, fairfax, usnat, ussec"
-    ownershipId="StorageMediaEdge_Media_VI"
-/>
+    selfhelptype: "generic"
+    supporttopicids: "32606562"
+    resourcetags: ""
+    productpesids: "16535"
+    cloudenvironments: "public, fairfax, usnat, ussec"
+    ownershipid: "StorageMediaEdge_Media_VI"
+---
 
 # Video Indexer’s pricing
 

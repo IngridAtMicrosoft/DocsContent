@@ -1,16 +1,16 @@
 ---
-  articleid="apollo-mediaservices-authentication-access-control"
-  cloudenvironments="public,fairfax,usnat,ussec"
-  description="Apollo migrated file - Authentication or access control"
-  ms.author="akucer,jiayali,inhenkel"
-  ownershipid="StorageMediaEdge_Media"
-  pagetitle="Authentication or access control"
-  problemids=""
-  productpesids="14885"
-  resourcerequired="False"
-  resourcetags=""
-  selfhelptype="apollo"
-  supporttopicids="3962655e-b25d-3a69-1175-b540ce09c9da"
+  articleid: "apollo-mediaservices-authentication-access-control"
+  cloudenvironments: "public,fairfax,usnat,ussec"
+  description: "Apollo migrated file - Authentication or access control"
+  ms.author: "akucer,jiayali,inhenkel"
+  ownershipid: "StorageMediaEdge_Media"
+  title: "Authentication or access control"
+  problemids: ""
+  productpesids: "14885"
+  resourcerequired: "False"
+  resourcetags: ""
+  selfhelptype: "apollo"
+  supporttopicids: "3962655e-b25d-3a69-1175-b540ce09c9da"
 ---
 
 

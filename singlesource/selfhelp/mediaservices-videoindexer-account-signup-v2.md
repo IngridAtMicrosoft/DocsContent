@@ -1,15 +1,15 @@
 ---
-    pageTitle="Sign up and sign in to Video Indexer"
-    description="Apollo migrated file - Sign up and sign in to Video Indexer"
-    ms.author="t-reutam"
-    articleId="apollo-mediaservices-videoindexer-account-signup"
-    selfHelpType="apollo"
-    productPesIds="16535"
-    cloudEnvironments="public, fairfax, usnat, ussec"
-    ownershipId="StorageMediaEdge_Media_VI"
-    supportTopicIds="fabfd0cc-e8fd-9fb2-d6e9-5d72761f1d79"
-    resourcerequired="false"
-/>
+    title: "Sign up and sign in to Video Indexer"
+    description: "Apollo migrated file - Sign up and sign in to Video Indexer"
+    ms.author: "t-reutam"
+    articleid: "apollo-mediaservices-videoindexer-account-signup"
+    selfhelptype: "apollo"
+    productpesids: "16535"
+    cloudenvironments: "public, fairfax, usnat, ussec"
+    ownershipid: "StorageMediaEdge_Media_VI"
+    supporttopicids: "fabfd0cc-e8fd-9fb2-d6e9-5d72761f1d79"
+    resourcerequired: "false"
+---
 
 # Account sign up and sign in
 

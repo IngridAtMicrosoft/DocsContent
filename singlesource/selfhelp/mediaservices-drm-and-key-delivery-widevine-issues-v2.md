@@ -1,16 +1,16 @@
 ---
-  articleid="apollo-mediaservices-drm-and-key-delivery-widevine-issues"
-  cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
-  description="Apollo migrated file - Issues encrypting with Widevine"
-  ms.author="jiayali"
-  ownershipid="StorageMediaEdge_Media"
-  pagetitle="Issues encrypting with Widevine"
-  problemids=""
-  productpesids="14885"
-  resourcerequired="False"
-  resourcetags=""
-  selfhelptype="apollo"
-  supporttopicids="020b987b-bb9e-b5a1-4284-e2ff977c3318"
+  articleid: "apollo-mediaservices-drm-and-key-delivery-widevine-issues"
+  cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
+  description: "Apollo migrated file - Issues encrypting with Widevine"
+  ms.author: "jiayali"
+  ownershipid: "StorageMediaEdge_Media"
+  title: "Issues encrypting with Widevine"
+  problemids: ""
+  productpesids: "14885"
+  resourcerequired: "False"
+  resourcetags: ""
+  selfhelptype: "apollo"
+  supporttopicids: "020b987b-bb9e-b5a1-4284-e2ff977c3318"
 ---
 
 

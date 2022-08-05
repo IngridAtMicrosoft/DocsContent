@@ -1,15 +1,15 @@
 ---
-    pageTitle="Need to scale Media Reserved Units"
-    description="Apollo migrated file - Need to scale Media Reserved Units"
-    ms.author="t-reutam"
-    articleId="apollo-mediaservices-videoindexer-manage-ru"
-    selfHelpType="apollo"
-    productPesIds="16535"
-    cloudEnvironments="public, fairfax, usnat, ussec"
-    ownershipId="StorageMediaEdge_Media_VI"
-    supportTopicIds="8da2e643-6a98-3563-feec-7e0fa7d82172,9b275d30-aa3f-c24a-5c7c-1272344196c4"
-    resourcerequired="false"
-/>
+    title: "Need to scale Media Reserved Units"
+    description: "Apollo migrated file - Need to scale Media Reserved Units"
+    ms.author: "t-reutam"
+    articleid: "apollo-mediaservices-videoindexer-manage-ru"
+    selfhelptype: "apollo"
+    productpesids: "16535"
+    cloudenvironments: "public, fairfax, usnat, ussec"
+    ownershipid: "StorageMediaEdge_Media_VI"
+    supporttopicids: "8da2e643-6a98-3563-feec-7e0fa7d82172,9b275d30-aa3f-c24a-5c7c-1272344196c4"
+    resourcerequired: "false"
+---
 
 # Need to scale Media Reserved Units
 

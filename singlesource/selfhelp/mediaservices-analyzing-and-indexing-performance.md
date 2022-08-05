@@ -1,20 +1,20 @@
 ---
-	pageTitle="Analyzing and indexing performance"
-	description="Analyzing and indexing performance"
+	title: "Analyzing and indexing performance"
+	description: "Analyzing and indexing performance"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
-	ms.author="akucer"
+	ms.author: "akucer"
 	displayOrder="1"
-	articleId="mediaservices-analyzing-indexing-performance"
+	articleid: "mediaservices-analyzing-indexing-performance"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32729547"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32729547"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 # Analyzing and indexing performance
 
 ### Troubleshoot slow audio and video indexing

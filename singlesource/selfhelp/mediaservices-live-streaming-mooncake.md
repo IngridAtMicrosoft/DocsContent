@@ -1,19 +1,19 @@
 ---
-    pageTitle="How do I configure live streaming?"
-    description="How do I configure live streaming?"
+    title: "How do I configure live streaming?"
+    description: "How do I configure live streaming?"
     service="microsoft.media"
     resource="mediaservices"
     authors="juliako"
-    ms.author="juliako"
+    ms.author: "juliako"
     displayOrder="3"
-    selfHelpType="resource"
-    supportTopicIds=""
-    resourceTags=""
-    productPesIds=""
-    cloudEnvironments="MoonCake"
- 	articleId="e2f8d39b-83bb-4c7f-b72e-6ed00c47d8c5"
-	ownershipId="StorageMediaEdge_Media"
-/>
+    selfhelptype: "resource"
+    supporttopicids: ""
+    resourcetags: ""
+    productpesids: ""
+    cloudenvironments: "MoonCake"
+ 	articleid: "e2f8d39b-83bb-4c7f-b72e-6ed00c47d8c5"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # How do I configure live streaming?
 

@@ -1,15 +1,15 @@
 ---
-	pageTitle="Troubleshoot account management error messages"
-	description="Troubleshoot account management error messages by using recommended resources."
-	ms.author="akucer"
-	articleId="apollo-mediaservices-error-message"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, mooncake, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="46bd2a20-f182-90a9-6586-907fe31382e7"
-    resourcerequired="false"
-/>
+	title: "Troubleshoot account management error messages"
+	description: "Troubleshoot account management error messages by using recommended resources."
+	ms.author: "akucer"
+	articleid: "apollo-mediaservices-error-message"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, mooncake, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "46bd2a20-f182-90a9-6586-907fe31382e7"
+    resourcerequired: "false"
+---
 
 # Account management error messages
 

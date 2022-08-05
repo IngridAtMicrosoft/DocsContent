@@ -1,15 +1,15 @@
 ---
-	pageTitle="Analyzing and indexing performance"
-	description="Apollo migrated file - Analyzing and indexing performance"
-	ms.author="akucer"
-	articleId="apollo-mediaservices-analyzing-indexing-performance"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="fbe66cdd-dd27-fd04-de67-7bc9fd2bbe0b"
-    resourcerequired="false"
-/>
+	title: "Analyzing and indexing performance"
+	description: "Apollo migrated file - Analyzing and indexing performance"
+	ms.author: "akucer"
+	articleid: "apollo-mediaservices-analyzing-indexing-performance"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "fbe66cdd-dd27-fd04-de67-7bc9fd2bbe0b"
+    resourcerequired: "false"
+---
 
 # Analyzing and indexing performance
 

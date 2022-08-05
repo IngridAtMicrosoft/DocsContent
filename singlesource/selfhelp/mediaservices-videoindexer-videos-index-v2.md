@@ -1,15 +1,15 @@
 ---
-    pageTitle="Indexing Videos"
-    description="Apollo migrated file - Indexing Videos"
-    ms.author="t-reutam"
-    articleId="apollo-mediaservices-videoindexer-videos-index"
-    selfHelpType="apollo"
-    productPesIds="16535"
-    cloudEnvironments="public, fairfax, usnat, ussec"
-    ownershipId="StorageMediaEdge_Media_VI"
-    supportTopicIds="72ab1fe2-34f8-6fe1-73f3-c784b39a7cf6,bcacd635-4b22-46f9-2ed1-906748653e93"
-    resourcerequired="false"
-/>
+    title: "Indexing Videos"
+    description: "Apollo migrated file - Indexing Videos"
+    ms.author: "t-reutam"
+    articleid: "apollo-mediaservices-videoindexer-videos-index"
+    selfhelptype: "apollo"
+    productpesids: "16535"
+    cloudenvironments: "public, fairfax, usnat, ussec"
+    ownershipid: "StorageMediaEdge_Media_VI"
+    supporttopicids: "72ab1fe2-34f8-6fe1-73f3-c784b39a7cf6,bcacd635-4b22-46f9-2ed1-906748653e93"
+    resourcerequired: "false"
+---
 
 # Indexing Videos
 

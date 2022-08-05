@@ -1,20 +1,20 @@
 ---
-	pageTitle="Need to scale Media Reserved Units"
-	description="Need to scale Media Reserved Units"
+	title: "Need to scale Media Reserved Units"
+	description: "Need to scale Media Reserved Units"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author="juliako"
+	ms.author: "juliako"
 	displayOrder="1"
-	articleId="mediaservices-scale-media-reserved-units"
+	articleid: "mediaservices-scale-media-reserved-units"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32632090"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32632090"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # Need to scale Media Reserved Units
 

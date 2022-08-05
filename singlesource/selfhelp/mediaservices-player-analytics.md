@@ -1,21 +1,21 @@
 ---
-	pageTitle="Azure Media Player analytics"
-	description="Azure Media Player analytics"
+	title: "Azure Media Player analytics"
+	description: "Azure Media Player analytics"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource=""
 	authors="johndeu"
-	ms.author="johndeu"
+	ms.author: "johndeu"
 	displayOrder="1"
-	articleId="mediaservices-player-analytics"
+	articleid: "mediaservices-player-analytics"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32632077"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32632077"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # Azure Media Player analytics
 

@@ -1,21 +1,21 @@
 ---
-    pageTitle="Account management"
-    description="Account management"
+    title: "Account management"
+    description: "Account management"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author="t-reutam"
+    ms.author: "t-reutam"
     displayOrder="1"
-    articleId="mediaservices-videoindexer-account-other"
+    articleid: "mediaservices-videoindexer-account-other"
     diagnosticScenario=""
-    selfHelpType="generic"
-    supportTopicIds="32740750,32606558"
-    resourceTags=""
-    productPesIds="16535"
-    cloudEnvironments="public, fairfax, usnat, ussec"
-    ownershipId="StorageMediaEdge_Media_VI"
-/>
+    selfhelptype: "generic"
+    supporttopicids: "32740750,32606558"
+    resourcetags: ""
+    productpesids: "16535"
+    cloudenvironments: "public, fairfax, usnat, ussec"
+    ownershipid: "StorageMediaEdge_Media_VI"
+---
 
 # Manage a Video Indexer account connected to Azure
 

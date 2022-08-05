@@ -1,21 +1,21 @@
 ---
-    pageTitle="Access Tokens"
-    description="Access Tokens"
+    title: "Access Tokens"
+    description: "Access Tokens"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author="t-reutam"
+    ms.author: "t-reutam"
     displayOrder="1"
-    articleId="mediaservices-videoindexer-api-access-token"
+    articleid: "mediaservices-videoindexer-api-access-token"
     diagnosticScenario=""
-    selfHelpType="generic"
-    supportTopicIds="32740735"
-    resourceTags=""
-    productPesIds="16535"
-    cloudEnvironments="public, fairfax, usnat, ussec"
-    ownershipId="StorageMediaEdge_Media_VI"
-/>
+    selfhelptype: "generic"
+    supporttopicids: "32740735"
+    resourcetags: ""
+    productpesids: "16535"
+    cloudenvironments: "public, fairfax, usnat, ussec"
+    ownershipid: "StorageMediaEdge_Media_VI"
+---
 
 # Access tokens
 

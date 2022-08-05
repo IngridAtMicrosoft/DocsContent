@@ -1,20 +1,20 @@
 ---
-	pageTitle="Streaming files how-tos and tutorials"
-	description="Streaming files how-tos and tutorials"
+	title: "Streaming files how-tos and tutorials"
+	description: "Streaming files how-tos and tutorials"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author="juliako"
+	ms.author: "juliako"
 	displayOrder="1"
-	articleId="mediaservices-stream-files-howto"
+	articleid: "mediaservices-stream-files-howto"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32632098"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32632098"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # Streaming files how-tos and tutorials
 

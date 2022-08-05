@@ -1,15 +1,15 @@
 ---
-    pageTitle="Connect to Azure"
-    description="Apollo migrated file - Connect to Azure"
-    ms.author="t-reutam"
-    articleId="apollo-mediaservices-videoindexer-account-connect-to-azure"
-    selfHelpType="apollo"
-    productPesIds="16535"
-    cloudEnvironments="public, fairfax, usnat, ussec"
-    ownershipId="StorageMediaEdge_Media_VI"
-    supportTopicIds="c5e09f82-e517-428b-e12f-7e3cc5b639d4"
-    resourcerequired="false"
-/>
+    title: "Connect to Azure"
+    description: "Apollo migrated file - Connect to Azure"
+    ms.author: "t-reutam"
+    articleid: "apollo-mediaservices-videoindexer-account-connect-to-azure"
+    selfhelptype: "apollo"
+    productpesids: "16535"
+    cloudenvironments: "public, fairfax, usnat, ussec"
+    ownershipid: "StorageMediaEdge_Media_VI"
+    supporttopicids: "c5e09f82-e517-428b-e12f-7e3cc5b639d4"
+    resourcerequired: "false"
+---
 
 # Connect to Azure
 

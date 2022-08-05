@@ -1,20 +1,20 @@
 ---
-	pageTitle="Upload to storage"
-	description="Upload to storage"
+	title: "Upload to storage"
+	description: "Upload to storage"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author="juliako"
+	ms.author: "juliako"
 	displayOrder="1"
-	articleId="mediaservices-content-upload-to-storage"
+	articleid: "mediaservices-content-upload-to-storage"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32632127"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32632127"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # Upload to storage
 

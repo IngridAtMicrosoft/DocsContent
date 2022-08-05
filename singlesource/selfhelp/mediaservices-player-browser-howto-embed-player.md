@@ -1,21 +1,21 @@
 ---
-	pageTitle="Azure Media Player how to embed the player"
-	description="Azure Media Player how to embed the player"
+	title: "Azure Media Player how to embed the player"
+	description: "Azure Media Player how to embed the player"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource=""
 	authors="johndeu"
-	ms.author="johndeu"
+	ms.author: "johndeu"
 	displayOrder="1"
-	articleId="mediaservices-player-howto-embed-player"
+	articleid: "mediaservices-player-howto-embed-player"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32632099"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32632099"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # Azure Media Player how to embed the player
 

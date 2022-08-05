@@ -1,15 +1,15 @@
 ---
-	pageTitle="Camera connection issue or error"
-	description="Apollo migrated file - Camera connection issue or error"
-	ms.author="akucer"
-	articleId="apollo-mediaservices-lva-camera-connection-issue-error"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="1ea9b4f6-314f-e241-9a23-f40977d5ce95"
-    resourcerequired="false"
-/>
+	title: "Camera connection issue or error"
+	description: "Apollo migrated file - Camera connection issue or error"
+	ms.author: "akucer"
+	articleid: "apollo-mediaservices-lva-camera-connection-issue-error"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "1ea9b4f6-314f-e241-9a23-f40977d5ce95"
+    resourcerequired: "false"
+---
 
 # Camera connection issue or error
 

@@ -1,16 +1,16 @@
 ---
-  articleid="apollo-mediaservices-content-upload-asset-creation"
-  cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
-  description="You need to create an Asset if you want to encode or analyze your on-demand content, or if you have a Live Output that is associated with an Asset. A Live Output uses an Asset to store recorded videos."
-  ms.author="juliako,jiayali"
-  ownershipid="StorageMediaEdge_Media"
-  pagetitle="Create an Asset"
-  problemids=""
-  productpesids="14885"
-  resourcerequired="False"
-  resourcetags=""
-  selfhelptype="apollo"
-  supporttopicids="4fd1b35e-df2d-4bd0-01a4-c03527ad5c1e"
+  articleid: "apollo-mediaservices-content-upload-asset-creation"
+  cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
+  description: "You need to create an Asset if you want to encode or analyze your on-demand content, or if you have a Live Output that is associated with an Asset. A Live Output uses an Asset to store recorded videos."
+  ms.author: "juliako,jiayali"
+  ownershipid: "StorageMediaEdge_Media"
+  title: "Create an Asset"
+  problemids: ""
+  productpesids: "14885"
+  resourcerequired: "False"
+  resourcetags: ""
+  selfhelptype: "apollo"
+  supporttopicids: "4fd1b35e-df2d-4bd0-01a4-c03527ad5c1e"
 ---
 
 

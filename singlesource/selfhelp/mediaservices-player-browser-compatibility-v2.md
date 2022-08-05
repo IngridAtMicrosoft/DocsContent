@@ -1,16 +1,16 @@
 ---
-  articleid="apollo-mediaservices-player-browser-compatibility"
-  cloudenvironments="public,fairfax,usnat,ussec"
-  description="Apollo migrated file - Azure Media Player browser and OS compatibility"
-  ms.author="jiayali"
-  ownershipid="StorageMediaEdge_Media"
-  pagetitle="Azure Media Player browser and OS compatibility"
-  problemids=""
-  productpesids="14885"
-  resourcerequired="False"
-  resourcetags=""
-  selfhelptype="apollo"
-  supporttopicids="69c4a3ae-6a8f-55d3-c106-e9043c48a14c"
+  articleid: "apollo-mediaservices-player-browser-compatibility"
+  cloudenvironments: "public,fairfax,usnat,ussec"
+  description: "Apollo migrated file - Azure Media Player browser and OS compatibility"
+  ms.author: "jiayali"
+  ownershipid: "StorageMediaEdge_Media"
+  title: "Azure Media Player browser and OS compatibility"
+  problemids: ""
+  productpesids: "14885"
+  resourcerequired: "False"
+  resourcetags: ""
+  selfhelptype: "apollo"
+  supporttopicids: "69c4a3ae-6a8f-55d3-c106-e9043c48a14c"
 ---
 
 

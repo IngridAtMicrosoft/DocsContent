@@ -1,20 +1,20 @@
 ---
-	pageTitle="Client Latency"
-	description="Client Latency"
+	title: "Client Latency"
+	description: "Client Latency"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
-	ms.author="akucer"
+	ms.author: "akucer"
 	displayOrder="1"
-	articleId="mediaservices-client-latency"
+	articleid: "mediaservices-client-latency"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32729550,32632085"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, mooncake, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32729550,32632085"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, mooncake, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 # Client Latency
 
 ## **Recommended Steps**

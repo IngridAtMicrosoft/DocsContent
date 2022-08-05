@@ -1,15 +1,15 @@
 ---
-	pageTitle="Media Services Premium Encoder"
-	description="Apollo migrated file - Media Services Premium Encoder"
-	ms.author="juliako"
-	articleId="apollo-mediaservices-encoding-files-premium-encoder"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="85a0a6ff-353c-a962-1e07-3cfb01731666"
-    resourcerequired="false"
-/>
+	title: "Media Services Premium Encoder"
+	description: "Apollo migrated file - Media Services Premium Encoder"
+	ms.author: "juliako"
+	articleid: "apollo-mediaservices-encoding-files-premium-encoder"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "85a0a6ff-353c-a962-1e07-3cfb01731666"
+    resourcerequired: "false"
+---
 
 # Media Services Premium Encoder
 

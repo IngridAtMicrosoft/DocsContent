@@ -1,16 +1,16 @@
 ---
-  articleid="apollo-mediaservices-encoding-files-errors"
-  cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
-  description="Use our guidance to learn how to resolve specific errors."
-  ms.author="juliako,jiayali,inhenkel"
-  ownershipid="StorageMediaEdge_Media"
-  pagetitle="Diagnose and resolve Encoding errors for Media Services v3/v2"
-  problemids=""
-  productpesids="14885"
-  resourcerequired="False"
-  resourcetags=""
-  selfhelptype="apollo"
-  supporttopicids="4850e98f-4532-3e70-79b4-4dde5eafaab1"
+  articleid: "apollo-mediaservices-encoding-files-errors"
+  cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
+  description: "Use our guidance to learn how to resolve specific errors."
+  ms.author: "juliako,jiayali,inhenkel"
+  ownershipid: "StorageMediaEdge_Media"
+  title: "Diagnose and resolve Encoding errors for Media Services v3/v2"
+  problemids: ""
+  productpesids: "14885"
+  resourcerequired: "False"
+  resourcetags: ""
+  selfhelptype: "apollo"
+  supporttopicids: "4850e98f-4532-3e70-79b4-4dde5eafaab1"
 ---
 
 

@@ -1,15 +1,15 @@
 ---
-	pageTitle="Upload from HTTP"
-	description="Apollo migrated file - Upload from HTTP"
-	ms.author="juliako"
-	articleId="apollo-mediaservices-content-upload-ingest-from-http"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="73c03300-8f12-3c79-e340-ae42408c61d6"
-    resourcerequired="false"
-/>
+	title: "Upload from HTTP"
+	description: "Apollo migrated file - Upload from HTTP"
+	ms.author: "juliako"
+	articleid: "apollo-mediaservices-content-upload-ingest-from-http"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "73c03300-8f12-3c79-e340-ae42408c61d6"
+    resourcerequired: "false"
+---
 
 # Upload from HTTP
 

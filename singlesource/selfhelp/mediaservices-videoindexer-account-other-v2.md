@@ -1,16 +1,16 @@
 ---
-  articleid="apollo-mediaservices-videoindexer-account-other"
-  cloudenvironments="public,fairfax,usnat,ussec"
-  description="Apollo migrated file - Account management"
-  ms.author="t-reutam,jiayali"
-  ownershipid="StorageMediaEdge_Media_VI"
-  pagetitle="Account management"
-  problemids=""
-  productpesids="16535"
-  resourcerequired="False"
-  resourcetags=""
-  selfhelptype="apollo"
-  supporttopicids="28f503a1-1dae-fbf9-c9f2-ef0212bcfee1"
+  articleid: "apollo-mediaservices-videoindexer-account-other"
+  cloudenvironments: "public,fairfax,usnat,ussec"
+  description: "Apollo migrated file - Account management"
+  ms.author: "t-reutam,jiayali"
+  ownershipid: "StorageMediaEdge_Media_VI"
+  title: "Account management"
+  problemids: ""
+  productpesids: "16535"
+  resourcerequired: "False"
+  resourcetags: ""
+  selfhelptype: "apollo"
+  supporttopicids: "28f503a1-1dae-fbf9-c9f2-ef0212bcfee1"
 ---
 
 

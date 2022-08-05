@@ -1,21 +1,21 @@
 ---
-	pageTitle="Azure Media Services linking and managing storage accounts"
-	description="Azure Media Services linking and managing storage accounts"
+	title: "Azure Media Services linking and managing storage accounts"
+	description: "Azure Media Services linking and managing storage accounts"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="johndeu"
-	ms.author="johndeu"
+	ms.author: "johndeu"
 	displayOrder="1"
-	articleId="mediaservices-accounts-linking-storage-accts"
+	articleid: "mediaservices-accounts-linking-storage-accts"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32632104"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32632104"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # Azure Media Services linking and managing storage accounts
 

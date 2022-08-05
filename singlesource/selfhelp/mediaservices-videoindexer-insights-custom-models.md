@@ -1,21 +1,21 @@
 ---
-    pageTitle="Custom models"
-    description="Custom models"
+    title: "Custom models"
+    description: "Custom models"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author="t-reutam"
+    ms.author: "t-reutam"
     displayOrder="1"
-    articleId="mediaservices-videoindexer-insights-custom-models"
+    articleid: "mediaservices-videoindexer-insights-custom-models"
     diagnosticScenario=""
-    selfHelpType="generic"
-    supportTopicIds="32740738"
-    resourceTags=""
-    productPesIds="16535"
-    cloudEnvironments="public, fairfax, usnat, ussec"
-    ownershipId="StorageMediaEdge_Media_VI"
-/>
+    selfhelptype: "generic"
+    supporttopicids: "32740738"
+    resourcetags: ""
+    productpesids: "16535"
+    cloudenvironments: "public, fairfax, usnat, ussec"
+    ownershipid: "StorageMediaEdge_Media_VI"
+---
 
 # Custom models in Video Indexer
 

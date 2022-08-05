@@ -1,20 +1,20 @@
 ---
-	pageTitle="Streaming endpoints"
-	description="Streaming endpoints"
+	title: "Streaming endpoints"
+	description: "Streaming endpoints"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
-	ms.author="juliako"
+	ms.author: "juliako"
 	displayOrder="1"
-	articleId="mediaservices-stream-files-streaming-endpoints"
+	articleid: "mediaservices-stream-files-streaming-endpoints"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32632122"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32632122"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # Streaming endpoint
 

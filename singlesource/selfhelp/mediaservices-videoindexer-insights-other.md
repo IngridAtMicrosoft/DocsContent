@@ -1,21 +1,21 @@
 ---
-    pageTitle="Cognitive insights in Video Indexer"
-    description="Cognitive insights in Video Indexer"
+    title: "Cognitive insights in Video Indexer"
+    description: "Cognitive insights in Video Indexer"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
     authors="ReutAmior"
-    ms.author="t-reutam"
+    ms.author: "t-reutam"
     displayOrder="1"
-    articleId="mediaservices-videoindexer-insights-other"
+    articleid: "mediaservices-videoindexer-insights-other"
     diagnosticScenario=""
-    selfHelpType="generic"
-    supportTopicIds="32740739,32740745,32740740"
-    resourceTags=""
-    productPesIds="16535"
-    cloudEnvironments="public, fairfax, usnat, ussec"
-    ownershipId="StorageMediaEdge_Media_VI"
-/>
+    selfhelptype: "generic"
+    supporttopicids: "32740739,32740745,32740740"
+    resourcetags: ""
+    productpesids: "16535"
+    cloudenvironments: "public, fairfax, usnat, ussec"
+    ownershipid: "StorageMediaEdge_Media_VI"
+---
 
 # Cognitive insights in Video Indexer
 

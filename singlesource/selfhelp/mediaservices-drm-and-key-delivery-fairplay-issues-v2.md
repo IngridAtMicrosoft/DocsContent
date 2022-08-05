@@ -1,15 +1,15 @@
 ---
-	pageTitle="Issues encrypting with FairPlay"
-	description="Apollo migrated file - Issues encrypting with FairPlay"
-	ms.author="juliako"
-	articleId="apollo-mediaservices-drm-and-key-delivery-fairplay-issues"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="9b148bb5-6e11-9174-e293-c60e83aaedb3"
-    resourcerequired="false"
-/>
+	title: "Issues encrypting with FairPlay"
+	description: "Apollo migrated file - Issues encrypting with FairPlay"
+	ms.author: "juliako"
+	articleid: "apollo-mediaservices-drm-and-key-delivery-fairplay-issues"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "9b148bb5-6e11-9174-e293-c60e83aaedb3"
+    resourcerequired: "false"
+---
 
 # Issues encrypting with FairPlay
 

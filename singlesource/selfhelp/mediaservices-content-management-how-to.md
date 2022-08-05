@@ -1,20 +1,20 @@
 ---
-	pageTitle="Asset management issue or how to"
-	description="Asset management issue or how to"
+	title: "Asset management issue or how to"
+	description: "Asset management issue or how to"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
-	ms.author="akucer"
+	ms.author: "akucer"
 	displayOrder="1"
-	articleId="mediaservices-asset-management-issue-how-to"
+	articleid: "mediaservices-asset-management-issue-how-to"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32729551"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32729551"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 # Asset management issue or how to
 **NOTE:** This topic references Media Services v3 API documentation. v3 is the latest Media Services version.
 

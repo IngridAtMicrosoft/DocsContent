@@ -1,21 +1,21 @@
 ---
-	pageTitle="Azure Media Player closed captions and subtitle support"
-	description="Azure Media Player closed captions and subtitle support"
+	title: "Azure Media Player closed captions and subtitle support"
+	description: "Azure Media Player closed captions and subtitle support"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource=""
 	authors="johndeu"
-	ms.author="johndeu"
+	ms.author: "johndeu"
 	displayOrder="1"
-	articleId="mediaservices-player-closed-captions"
+	articleid: "mediaservices-player-closed-captions"
 	diagnosticScenario=""
-	selfHelpType="generic"
-	supportTopicIds="32632086"
-	resourceTags=""
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-/>
+	selfhelptype: "generic"
+	supporttopicids: "32632086"
+	resourcetags: ""
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+---
 
 # Azure Media Player closed captions and subtitles
 

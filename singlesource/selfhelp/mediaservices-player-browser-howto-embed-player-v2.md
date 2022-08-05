@@ -1,15 +1,15 @@
 ---
-	pageTitle="Azure Media Player how to embed the player"
-	description="Apollo migrated file - Azure Media Player how to embed the player"
-	ms.author="johndeu"
-	articleId="apollo-mediaservices-player-howto-embed-player"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="c87fa25a-2547-2ac1-be3d-6409369a7578"
-    resourcerequired="false"
-/>
+	title: "Azure Media Player how to embed the player"
+	description: "Apollo migrated file - Azure Media Player how to embed the player"
+	ms.author: "johndeu"
+	articleid: "apollo-mediaservices-player-howto-embed-player"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "c87fa25a-2547-2ac1-be3d-6409369a7578"
+    resourcerequired: "false"
+---
 
 # Azure Media Player how to embed the player
 

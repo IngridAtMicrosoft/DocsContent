@@ -1,15 +1,15 @@
 ---
-	pageTitle="Manage quotas of Channels (v2)/Live Events (v3)"
-	description="Apollo migrated file - Manage quotas of Channels (v2)/Live Events (v3)"
-	ms.author="juliako"
-	articleId="apollo-mediaservices-channels-live-evens-quotas"
-	selfHelpType="apollo"
-	productPesIds="14885"
-	cloudEnvironments="public, fairfax, usnat, ussec"
-	ownershipId="StorageMediaEdge_Media"
-    supportTopicIds="80c2815b-610f-963c-8d0d-3ad455edf7d7"
-    resourcerequired="false"
-/>
+	title: "Manage quotas of Channels (v2)/Live Events (v3)"
+	description: "Apollo migrated file - Manage quotas of Channels (v2)/Live Events (v3)"
+	ms.author: "juliako"
+	articleid: "apollo-mediaservices-channels-live-evens-quotas"
+	selfhelptype: "apollo"
+	productpesids: "14885"
+	cloudenvironments: "public, fairfax, usnat, ussec"
+	ownershipid: "StorageMediaEdge_Media"
+    supporttopicids: "80c2815b-610f-963c-8d0d-3ad455edf7d7"
+    resourcerequired: "false"
+---
 
 # Manage quotas of Channels (v2)/Live Events (v3)
 
