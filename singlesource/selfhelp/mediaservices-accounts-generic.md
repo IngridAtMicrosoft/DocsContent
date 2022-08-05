@@ -1,19 +1,19 @@
 ---
-title:   "Account management generic"
-description: "Account management generic"
-service: "microsoft.media"
+title:   Account management generic
+description: Account management generic
+service: microsoft.media
 resource:
-authors: "akucer"
-ms.author: inhenkel"akucer"
-displayOrder: "1"
-articleid: "mediaservices-account-management-generic"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32729545"
+authors: akucer
+ms.author: inhenkel
+displayOrder: 1
+articleid: mediaservices-account-management-generic"
+diagnosticScenario:
+selfhelptype: generic
+supporttopicids: 32729545
 resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+productpesids: 14885
+cloudenvironments: public, fairfax, usnat, ussec
+ownershipid: StorageMediaEdge_Media
 author: IngridAtMicrosoft
 ms.service: media-services
 ---

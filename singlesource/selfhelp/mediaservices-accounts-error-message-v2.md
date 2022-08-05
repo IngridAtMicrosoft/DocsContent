@@ -13,7 +13,7 @@ author: IngridAtMicrosoft
 ms.service: media-services
 ---
 
-# Account management error messages
+# v2 Account management error messages
 
 ## Troubleshoot account management error messages
 
