@@ -3,12 +3,11 @@ title: Welcome to Single Source
 description: This is a repository for a single source prototype.
 author: IngridAtMicrosoft
 ms.topic: article
-ms.date: 09/08/2021
+ms.date: 08/05/2022
 ms.author: inhenkel
 ms.reviewer: inhenkel
-ms.lastreviewed: 09/08/2021
+ms.lastreviewed: 08/05/2022
 ms.service: media-services
-author: IngridAtMicrosoft
 ---
 
 # Single source introduction
