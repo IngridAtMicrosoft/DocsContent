@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "5d0175e0-fdc9-ecdd-07a2-9962b8c06ec1"   author: IngridAtMicrosoft
+  supporttopicids: "5d0175e0-fdc9-ecdd-07a2-9962b8c06ec1" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Manage access policies quotas

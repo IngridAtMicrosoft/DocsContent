@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "8fbb1ca9-ab3b-598c-4dae-a1dd9bd13cde"   author: IngridAtMicrosoft
+  supporttopicids: "8fbb1ca9-ab3b-598c-4dae-a1dd9bd13cde" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Streaming files performance

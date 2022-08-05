@@ -1,20 +1,20 @@
 ---
-	pagetitle: "Issues encrypting with PlayReady"
-	description: "Issues encrypting with PlayReady"
-	service="microsoft.media"
-	resource="mediaservices"
+title:   "Issues encrypting with PlayReady"
+description: "Issues encrypting with PlayReady"
+service: "microsoft.media"
+resource:
 	authors="juliako"
-	ms.author: inhenkel"juliako"
-	displayOrder="1"
-	articleid: "mediaservices-drm-and-key-delivery-playready-issues"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32632112"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ms.author: inhenkel"juliako"
+displayOrder: "1"
+articleid: "mediaservices-drm-and-key-delivery-playready-issues"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32632112"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

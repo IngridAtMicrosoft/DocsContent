@@ -11,7 +11,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "16c919c7-e8da-2796-4e7d-69f69fac0e1a"   author: IngridAtMicrosoft
+  supporttopicids: "16c919c7-e8da-2796-4e7d-69f69fac0e1a" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Streaming endpoint

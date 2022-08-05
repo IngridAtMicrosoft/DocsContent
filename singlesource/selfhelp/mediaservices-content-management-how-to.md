@@ -1,20 +1,20 @@
 ---
-	pagetitle: "Asset management issue or how to"
-	description: "Asset management issue or how to"
-	service="microsoft.media"
-	resource="mediaservices"
+title:   "Asset management issue or how to"
+description: "Asset management issue or how to"
+service: "microsoft.media"
+resource:
 	authors="akucer"
-	ms.author: inhenkel"akucer"
-	displayOrder="1"
-	articleid: "mediaservices-asset-management-issue-how-to"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32729551"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ms.author: inhenkel"akucer"
+displayOrder: "1"
+articleid: "mediaservices-asset-management-issue-how-to"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32729551"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Asset management issue or how to

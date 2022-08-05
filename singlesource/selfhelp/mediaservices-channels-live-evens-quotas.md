@@ -1,20 +1,20 @@
 ---
-	pagetitle: "Manage quotas of Channels (v2)/Live Events (v3)"
-	description: "Manage quotas of Channels (v2)/Live Events (v3)"
-	service="microsoft.media"
-	resource="mediaservices"
+title:   "Manage quotas of Channels (v2)/Live Events (v3)"
+description: "Manage quotas of Channels (v2)/Live Events (v3)"
+service: "microsoft.media"
+resource:
 	authors="juliako"
-	ms.author: inhenkel"juliako"
-	displayOrder="1"
-	articleid: "mediaservices-channels-live-evens-quotas"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32632084"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ms.author: inhenkel"juliako"
+displayOrder: "1"
+articleid: "mediaservices-channels-live-evens-quotas"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32632084"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

@@ -1,15 +1,15 @@
 ---
-	pagetitle: "Analyzing and indexing performance"
-	description: "Apollo migrated file - Analyzing and indexing performance"
-	ms.author: inhenkel"akucer"
-	articleid: "apollo-mediaservices-analyzing-indexing-performance"
-	selfhelptype: "apollo"
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
+title:   "Analyzing and indexing performance"
+description: "Apollo migrated file - Analyzing and indexing performance"
+ms.author: inhenkel"akucer"
+articleid: "apollo-mediaservices-analyzing-indexing-performance"
+selfhelptype: "apollo"
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "fbe66cdd-dd27-fd04-de67-7bc9fd2bbe0b"
     resourcerequired: "false"
-  author: IngridAtMicrosoft
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

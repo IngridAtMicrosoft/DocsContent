@@ -9,7 +9,7 @@
   cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
   articleid: "apollo-mediaservices-streaming-endpoint-errors"
   ownershipid: "StorageMediaEdge_Media"
-  resourcerequired: "False"   author: IngridAtMicrosoft
+  resourcerequired: "False" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Packaging, origin or streaming endpoint errors

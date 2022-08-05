@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "50572256-2e9f-4da9-2849-35cab985386e"   author: IngridAtMicrosoft
+  supporttopicids: "50572256-2e9f-4da9-2849-35cab985386e" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Analyzing and indexing how to

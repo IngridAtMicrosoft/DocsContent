@@ -1,15 +1,15 @@
 ---
-	pagetitle: "Need to scale Media Reserved Units"
-	description: "Apollo migrated file - Need to scale Media Reserved Units"
-	ms.author: inhenkel"juliako"
-	articleid: "apollo-mediaservices-scale-media-reserved-units"
-	selfhelptype: "apollo"
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
+title:   "Need to scale Media Reserved Units"
+description: "Apollo migrated file - Need to scale Media Reserved Units"
+ms.author: inhenkel"juliako"
+articleid: "apollo-mediaservices-scale-media-reserved-units"
+selfhelptype: "apollo"
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "59b593df-9e6f-d4de-6346-fdfeb5b9deb2"
     resourcerequired: "false"
-  author: IngridAtMicrosoft
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

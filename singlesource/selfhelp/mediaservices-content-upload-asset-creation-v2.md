@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "4fd1b35e-df2d-4bd0-01a4-c03527ad5c1e"   author: IngridAtMicrosoft
+  supporttopicids: "4fd1b35e-df2d-4bd0-01a4-c03527ad5c1e" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Create an Asset

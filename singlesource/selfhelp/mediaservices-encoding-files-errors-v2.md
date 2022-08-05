@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "4850e98f-4532-3e70-79b4-4dde5eafaab1"   author: IngridAtMicrosoft
+  supporttopicids: "4850e98f-4532-3e70-79b4-4dde5eafaab1" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Diagnose and resolve Encoding errors for Media Services v3/v2

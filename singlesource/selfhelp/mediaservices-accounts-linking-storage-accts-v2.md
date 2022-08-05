@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "1b279143-929c-86e1-4c6c-18bc6a7fe2c5"   author: IngridAtMicrosoft
+  supporttopicids: "1b279143-929c-86e1-4c6c-18bc6a7fe2c5" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Azure Media Services linking and managing storage accounts

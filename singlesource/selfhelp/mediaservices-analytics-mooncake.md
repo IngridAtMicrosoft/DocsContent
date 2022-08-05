@@ -11,9 +11,9 @@
     resourcetags:
     productpesids: ""
     cloudenvironments: "MoonCake"
- 	articleid: "0cb3e6b1-620e-4070-8791-8eed7ddedd0b"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ articleid: "0cb3e6b1-620e-4070-8791-8eed7ddedd0b"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

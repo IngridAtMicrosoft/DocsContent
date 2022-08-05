@@ -1,20 +1,20 @@
 ---
-	pagetitle: "Analyzing and indexing how to"
-	description: "Analyzing and indexing how to"
-	service="microsoft.media"
-	resource="mediaservices"
+title:   "Analyzing and indexing how to"
+description: "Analyzing and indexing how to"
+service: "microsoft.media"
+resource:
 	authors="akucer"
-	ms.author: inhenkel"akucer"
-	displayOrder="1"
-	articleid: "mediaservices-analyzing-indexing-how-to"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32729549"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ms.author: inhenkel"akucer"
+displayOrder: "1"
+articleid: "mediaservices-analyzing-indexing-how-to"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32729549"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Analyzing and indexing how to

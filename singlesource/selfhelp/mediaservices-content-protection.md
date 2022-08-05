@@ -10,9 +10,9 @@
     resourcetags:
     productpesids: ""
     cloudenvironments: "public, fairfax, usnat, ussec"
- 	articleid: "1d657557-6afd-479c-a8f1-56d03a6d70db"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ articleid: "1d657557-6afd-479c-a8f1-56d03a6d70db"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

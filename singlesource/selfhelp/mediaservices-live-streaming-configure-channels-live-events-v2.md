@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "35ba9292-e626-9c0b-fb2c-be68ffcf4e97"   author: IngridAtMicrosoft
+  supporttopicids: "35ba9292-e626-9c0b-fb2c-be68ffcf4e97" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # How to configure live streaming?

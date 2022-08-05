@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "73ba2c29-3345-bfc4-d42e-b7c31b61c4e5"   author: IngridAtMicrosoft
+  supporttopicids: "73ba2c29-3345-bfc4-d42e-b7c31b61c4e5" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Asset management issue or how to

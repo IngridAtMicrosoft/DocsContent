@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "020b987b-bb9e-b5a1-4284-e2ff977c3318"   author: IngridAtMicrosoft
+  supporttopicids: "020b987b-bb9e-b5a1-4284-e2ff977c3318" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Issues encrypting with Widevine

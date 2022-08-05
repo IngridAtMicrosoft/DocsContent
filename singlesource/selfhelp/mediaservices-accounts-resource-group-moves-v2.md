@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "e09663f0-cc2d-21bd-7e8e-bd9d42882213"   author: IngridAtMicrosoft
+  supporttopicids: "e09663f0-cc2d-21bd-7e8e-bd9d42882213" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Azure Media Services resource group moves

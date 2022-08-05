@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "d3afbd52-5a62-a7c6-033c-2a1eccd1f6e8"   author: IngridAtMicrosoft
+  supporttopicids: "d3afbd52-5a62-a7c6-033c-2a1eccd1f6e8" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Account management generic

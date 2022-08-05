@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "596c66d3-32a1-65b4-bf17-d1b11113b0da"   author: IngridAtMicrosoft
+  supporttopicids: "596c66d3-32a1-65b4-bf17-d1b11113b0da" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Live streaming with a live cloud encoder

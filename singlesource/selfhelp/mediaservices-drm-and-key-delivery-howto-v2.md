@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "3fef00a2-f544-488f-597a-a7a498b1da70"   author: IngridAtMicrosoft
+  supporttopicids: "3fef00a2-f544-488f-597a-a7a498b1da70" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # How-to encrypt with DRM and use a license delivery service

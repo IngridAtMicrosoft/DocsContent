@@ -2,8 +2,8 @@
    title:  "Need to scale Media Reserved Units"
     description: "Need to scale Media Reserved Units"
     infoBubbleText=""
-	service="microsoft.media"
-	resource="mediaservices"
+service: "microsoft.media"
+resource:
     authors="ReutAmior"
     ms.author: inhenkel"t-reutam"
     displayOrder="1"
@@ -15,7 +15,7 @@
     productpesids: "16535"
     cloudenvironments: "public, fairfax, usnat, ussec"
     ownershipid: "StorageMediaEdge_Media_VI"
-  author: IngridAtMicrosoft
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

@@ -1,20 +1,20 @@
 ---
-	pagetitle: "Manage Streaming Endpoints quotas"
-	description: "Manage Streaming Endpoints quotas"
-	service="microsoft.media"
-	resource="mediaservices"
+title:   "Manage Streaming Endpoints quotas"
+description: "Manage Streaming Endpoints quotas"
+service: "microsoft.media"
+resource:
 	authors="juliako"
-	ms.author: inhenkel"juliako"
-	displayOrder="1"
-	articleid: "mediaservices-streaming-endpoints-quotas"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32632123"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ms.author: inhenkel"juliako"
+displayOrder: "1"
+articleid: "mediaservices-streaming-endpoints-quotas"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32632123"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

@@ -9,7 +9,7 @@
     ownershipid: "StorageMediaEdge_Media_VI"
     supporttopicids: "0a09bfd2-ae7f-997d-4f68-fd222183807e"
     resourcerequired: "false"
-  author: IngridAtMicrosoft
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

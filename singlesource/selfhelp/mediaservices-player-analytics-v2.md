@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "a9036f12-bfde-7afb-6d76-7a3b7bad3096"   author: IngridAtMicrosoft
+  supporttopicids: "a9036f12-bfde-7afb-6d76-7a3b7bad3096" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Azure Media Player analytics

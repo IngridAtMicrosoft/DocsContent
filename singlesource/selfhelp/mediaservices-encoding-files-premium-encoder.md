@@ -1,20 +1,20 @@
 ---
-	pagetitle: "Media Services Premium Encoder"
-	description: "Media Services Premium Encoder"
-	service="microsoft.media"
-	resource="mediaservices"
+title:   "Media Services Premium Encoder"
+description: "Media Services Premium Encoder"
+service: "microsoft.media"
+resource:
 	authors="juliako"
-	ms.author: inhenkel"juliako"
-	displayOrder="1"
-	articleid: "mediaservices-encoding-files-premium-encoder"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32632113"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ms.author: inhenkel"juliako"
+displayOrder: "1"
+articleid: "mediaservices-encoding-files-premium-encoder"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32632113"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

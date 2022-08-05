@@ -1,15 +1,15 @@
 ---
-	pagetitle: "Issues encrypting with AES-128 clear key"
-	description: "Apollo migrated file - Issues encrypting with AES-128 clear key"
-	ms.author: inhenkel"juliako"
-	articleid: "apollo-mediaservices-drm-and-key-delivery-aes-issues"
-	selfhelptype: "apollo"
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
+title:   "Issues encrypting with AES-128 clear key"
+description: "Apollo migrated file - Issues encrypting with AES-128 clear key"
+ms.author: inhenkel"juliako"
+articleid: "apollo-mediaservices-drm-and-key-delivery-aes-issues"
+selfhelptype: "apollo"
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "c5ede9ef-49ba-821d-6805-804357b50aa0"
     resourcerequired: "false"
-  author: IngridAtMicrosoft
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

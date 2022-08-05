@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "f4ffb732-4cd6-59e9-6063-5ec1fbe2bef1"   author: IngridAtMicrosoft
+  supporttopicids: "f4ffb732-4cd6-59e9-6063-5ec1fbe2bef1" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Streaming media how-tos and tutorials

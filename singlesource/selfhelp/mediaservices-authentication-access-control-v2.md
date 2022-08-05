@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "3962655e-b25d-3a69-1175-b540ce09c9da"   author: IngridAtMicrosoft
+  supporttopicids: "3962655e-b25d-3a69-1175-b540ce09c9da" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Authentication or access control

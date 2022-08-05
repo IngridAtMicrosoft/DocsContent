@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "6b04f8ed-155d-1d1a-7bfe-58acefe85b73"   author: IngridAtMicrosoft
+  supporttopicids: "6b04f8ed-155d-1d1a-7bfe-58acefe85b73" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Live streaming and RTMP error

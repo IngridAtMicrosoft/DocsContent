@@ -1,20 +1,20 @@
 ---
-	pagetitle: "Upload from HTTP"
-	description: "Upload from HTTP"
-	service="microsoft.media"
-	resource="mediaservices"
+title:   "Upload from HTTP"
+description: "Upload from HTTP"
+service: "microsoft.media"
+resource:
 	authors="juliako"
-	ms.author: inhenkel"juliako"
-	displayOrder="1"
-	articleid: "mediaservices-content-upload-ingest-from-http"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32632101"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ms.author: inhenkel"juliako"
+displayOrder: "1"
+articleid: "mediaservices-content-upload-ingest-from-http"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32632101"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

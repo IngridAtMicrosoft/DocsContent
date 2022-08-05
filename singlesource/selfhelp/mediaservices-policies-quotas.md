@@ -1,20 +1,20 @@
 ---
-	pagetitle: "Manage access policies quotas"
-	description: "Manage access policies quotas"
-	service="microsoft.media"
-	resource="mediaservices"
+title:   "Manage access policies quotas"
+description: "Manage access policies quotas"
+service: "microsoft.media"
+resource:
 	authors="juliako"
-	ms.author: inhenkel"juliako"
-	displayOrder="1"
-	articleid: "mediaservices-policies-quotas"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32632075"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ms.author: inhenkel"juliako"
+displayOrder: "1"
+articleid: "mediaservices-policies-quotas"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32632075"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

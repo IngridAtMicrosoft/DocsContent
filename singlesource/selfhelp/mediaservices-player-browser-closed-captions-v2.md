@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "c9174122-cb68-f0bd-1ca1-fe91f7b6342d"   author: IngridAtMicrosoft
+  supporttopicids: "c9174122-cb68-f0bd-1ca1-fe91f7b6342d" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Azure Media Player closed captions and subtitles

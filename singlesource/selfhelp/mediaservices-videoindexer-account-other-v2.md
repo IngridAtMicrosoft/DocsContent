@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "28f503a1-1dae-fbf9-c9f2-ef0212bcfee1"   author: IngridAtMicrosoft
+  supporttopicids: "28f503a1-1dae-fbf9-c9f2-ef0212bcfee1" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Manage a Video Indexer account connected to Azure

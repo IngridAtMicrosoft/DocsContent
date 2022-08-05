@@ -1,21 +1,21 @@
 ---
-	pagetitle: "Azure Media Player browser and OS compatibility"
-	description: "Azure Media Player browser and OS compatibility"
-	infoBubbleText=""
-	service="microsoft.media"
+title:   "Azure Media Player browser and OS compatibility"
+description: "Azure Media Player browser and OS compatibility"
+infoBubbleText: =""
+service: "microsoft.media"
 	resource=""
-	authors="johndeu"
-	ms.author: inhenkel"johndeu"
-	displayOrder="1"
-	articleid: "mediaservices-player-browser-compatibility"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32632081"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+authors:
+ms.author: inhenkel"johndeu"
+displayOrder: "1"
+articleid: "mediaservices-player-browser-compatibility"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32632081"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 

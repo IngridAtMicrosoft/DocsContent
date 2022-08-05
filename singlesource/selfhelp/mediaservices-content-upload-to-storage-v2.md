@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "5893fb6c-980f-e9a3-d487-be538ff15710"   author: IngridAtMicrosoft
+  supporttopicids: "5893fb6c-980f-e9a3-d487-be538ff15710" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Upload to storage

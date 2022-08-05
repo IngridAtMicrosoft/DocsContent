@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "52af5698-1a28-ded8-0a0c-d1038b1e4498"   author: IngridAtMicrosoft
+  supporttopicids: "52af5698-1a28-ded8-0a0c-d1038b1e4498" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Manage Streaming Endpoints quotas

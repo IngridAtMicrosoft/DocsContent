@@ -1,20 +1,20 @@
 ---
-	pagetitle: "Account management error messages"
-	description: "Account management error messages"
-	service="microsoft.media"
-	resource="mediaservices"
+title:   "Account management error messages"
+description: "Account management error messages"
+service: "microsoft.media"
+resource:
 	authors="akucer"
-	ms.author: inhenkel"akucer"
-	displayOrder="1"
-	articleid: "mediaservices-error-message"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32729544"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, mooncake, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ms.author: inhenkel"akucer"
+displayOrder: "1"
+articleid: "mediaservices-error-message"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32729544"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, mooncake, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Account management error messages

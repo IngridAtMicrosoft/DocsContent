@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "69c4a3ae-6a8f-55d3-c106-e9043c48a14c"   author: IngridAtMicrosoft
+  supporttopicids: "69c4a3ae-6a8f-55d3-c106-e9043c48a14c" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Azure Media Player browser and OS compatibility

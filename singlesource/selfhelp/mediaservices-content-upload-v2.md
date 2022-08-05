@@ -10,7 +10,7 @@
   resourcerequired: "False"
   resourcetags:
   selfhelptype: "apollo"
-  supporttopicids: "4fd1b35e-df2d-4bd0-01a4-c03527ad5c1e,73ba2c29-3345-bfc4-d42e-b7c31b61c4e5,73c03300-8f12-3c79-e340-ae42408c61d6,5893fb6c-980f-e9a3-d487-be538ff15710"   author: IngridAtMicrosoft
+  supporttopicids: "4fd1b35e-df2d-4bd0-01a4-c03527ad5c1e,73ba2c29-3345-bfc4-d42e-b7c31b61c4e5,73c03300-8f12-3c79-e340-ae42408c61d6,5893fb6c-980f-e9a3-d487-be538ff15710" author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Upload content

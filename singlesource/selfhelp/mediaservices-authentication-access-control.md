@@ -1,20 +1,20 @@
 ---
-	pagetitle: "Authentication or access control"
-	description: "Authentication or access control"
-	service="microsoft.media"
-	resource="mediaservices"
+title:   "Authentication or access control"
+description: "Authentication or access control"
+service: "microsoft.media"
+resource:
 	authors="akucer"
-	ms.author: inhenkel"akucer"
-	displayOrder="1"
-	articleid: "mediaservices-authentication-access-control"
-	diagnosticScenario=""
-	selfhelptype: "generic"
-	supporttopicids: "32729543"
-	resourcetags:
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
-  author: IngridAtMicrosoft
+ms.author: inhenkel"akucer"
+displayOrder: "1"
+articleid: "mediaservices-authentication-access-control"
+diagnosticScenario: ""
+selfhelptype: "generic"
+supporttopicids: "32729543"
+resourcetags:
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 # Authentication or access control

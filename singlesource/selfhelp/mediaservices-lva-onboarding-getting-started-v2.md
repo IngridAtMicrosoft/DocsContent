@@ -1,16 +1,16 @@
 ---
-	pagetitle: "Onboarding and getting started"
-	description: "Apollo migrated file - Onboarding and getting started"
+title:   "Onboarding and getting started"
+description: "Apollo migrated file - Onboarding and getting started"
     infoBubbleTest="Onboarding and getting started"
-	ms.author: inhenkel"akucer"
-	articleid: "apollo-mediaservices-lva-onboarding-getting-started"
-	selfhelptype: "apollo"
-	productpesids: "14885"
-	cloudenvironments: "public, fairfax, usnat, ussec"
-	ownershipid: "StorageMediaEdge_Media"
+ms.author: inhenkel"akucer"
+articleid: "apollo-mediaservices-lva-onboarding-getting-started"
+selfhelptype: "apollo"
+productpesids: "14885"
+cloudenvironments: "public, fairfax, usnat, ussec"
+ownershipid: "StorageMediaEdge_Media"
     supporttopicids: "2a872b0b-2597-f8ed-7e22-7acc35de391b"
     resourcerequired: "false"
-  author: IngridAtMicrosoft
+author: IngridAtMicrosoft
 ms.service: media-services
 ---
 
