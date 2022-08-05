@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-account-management-generic"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Azure Media Services accounts can be created directly in the portal, using the Azure CLI (cloud shell or local), or by using the REST API and one of the many client libraries. Learn to create accounts and start developing with client SDKs by following recommended steps."
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="d3afbd52-5a62-a7c6-033c-2a1eccd1f6e8" /> -->
+  supporttopicids="d3afbd52-5a62-a7c6-033c-2a1eccd1f6e8"
+---
+
+
 # Account management generic
 
 ## Create Azure Media Services accounts

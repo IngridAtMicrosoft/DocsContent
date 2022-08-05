@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Streaming endpoints"
 	description="Streaming endpoints"
 	service="microsoft.media"
@@ -22,7 +14,7 @@ author: IngridAtMicrosoft
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # Streaming endpoint
 

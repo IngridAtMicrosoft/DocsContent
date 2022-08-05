@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Azure Media Player analytics"
 	description="Azure Media Player analytics"
 	infoBubbleText=""
@@ -23,7 +15,7 @@ author: IngridAtMicrosoft
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # Azure Media Player analytics
 

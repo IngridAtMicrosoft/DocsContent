@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-player-playback-issues"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Apollo migrated file - Azure Media Player playback issues"
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="6272b6a0-6c9c-32d1-0849-981b96a666ee" /> -->
+  supporttopicids="6272b6a0-6c9c-32d1-0849-981b96a666ee"
+---
+
+
 # Azure Media Player playback issues
 
 ## Resolve Azure Media Player play-back issues

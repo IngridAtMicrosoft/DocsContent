@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
     pageTitle="Video Indexer Widgets"
     description="Apollo migrated file - Video Indexer Widgets"
     ms.author="t-reutam"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="86e3ac11-6009-319e-bffa-0445c53dc1ac"
     resourcerequired="false"
-/> -->
+/>
 
 # Video Indexer Widgets
 

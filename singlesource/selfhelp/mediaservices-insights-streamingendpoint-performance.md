@@ -1,12 +1,4 @@
----
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties pageTitle="Streaming endpoint performance guidance"
+--- pageTitle="Streaming endpoint performance guidance"
     description="Solution to streaming endpoint performance issues (status 503)"
     infoBubbleText="See details on the right"
     service="microsoft.media"
@@ -22,7 +14,7 @@ author: IngridAtMicrosoft
     productPesIds="14885"
     cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # Streaming endpoint performance guidance
 <!--issueDescription-->

@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Manage Assets quotas"
 	description="Manage Assets quotas"
 	service="microsoft.media"
@@ -22,7 +14,7 @@ author: IngridAtMicrosoft
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # Manage Assets quotas
 

@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
     pageTitle="Need to scale Media Reserved Units"
     description="Need to scale Media Reserved Units"
     infoBubbleText=""
@@ -23,7 +15,7 @@ author: IngridAtMicrosoft
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/> -->
+/>
 
 # Need to scale Media Reserved Units
 

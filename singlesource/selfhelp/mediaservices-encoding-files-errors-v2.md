@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-encoding-files-errors"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Use our guidance to learn how to resolve specific errors."
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="4850e98f-4532-3e70-79b4-4dde5eafaab1" /> -->
+  supporttopicids="4850e98f-4532-3e70-79b4-4dde5eafaab1"
+---
+
+
 # Diagnose and resolve Encoding errors for Media Services v3/v2
 
 ## Diagnose and resolve encoding errors for Media Services v3/v2

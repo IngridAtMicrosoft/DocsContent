@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="How to configure live streaming?"
 	description="How to configure live streaming?"
 	service="microsoft.media"
@@ -22,7 +14,7 @@ author: IngridAtMicrosoft
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # How to configure live streaming?
 

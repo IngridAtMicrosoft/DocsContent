@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
     pageTitle="Using Video Indexer's API"
     description="Using Video Indexer's API"
     infoBubbleText=""
@@ -23,7 +15,7 @@ author: IngridAtMicrosoft
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/> -->
+/>
 
 # Using Video Indexer's API
 

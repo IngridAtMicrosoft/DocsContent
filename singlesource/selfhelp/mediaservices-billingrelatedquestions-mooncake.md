@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
     pageTitle="Explanation of media services pricing"
     description="I have a question regarding media services pricing"
     service="microsoft.media"
@@ -21,7 +13,7 @@ author: IngridAtMicrosoft
     cloudEnvironments="MoonCake"
  	articleId="e178fdef-1d3e-4e3f-8550-93831d1fe06a"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # Media Services Pricing
 

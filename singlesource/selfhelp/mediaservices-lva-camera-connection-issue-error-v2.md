@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Camera connection issue or error"
 	description="Apollo migrated file - Camera connection issue or error"
 	ms.author="akucer"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="1ea9b4f6-314f-e241-9a23-f40977d5ce95"
     resourcerequired="false"
-/> -->
+/>
 
 # Camera connection issue or error
 

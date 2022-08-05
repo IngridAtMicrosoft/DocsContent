@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Asset management issue or how to"
 	description="Asset management issue or how to"
 	service="microsoft.media"
@@ -22,7 +14,7 @@ author: IngridAtMicrosoft
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 # Asset management issue or how to
 **NOTE:** This topic references Media Services v3 API documentation. v3 is the latest Media Services version.
 

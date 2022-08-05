@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
     pageTitle="Sign up and sign in to Video Indexer"
     description="Sign up and sign in to Video Indexer"
     infoBubbleText=""
@@ -23,7 +15,7 @@ author: IngridAtMicrosoft
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/> -->
+/>
 
 # Account sign up and sign in
 

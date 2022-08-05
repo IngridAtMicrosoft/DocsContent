@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Issues encrypting with FairPlay"
 	description="Apollo migrated file - Issues encrypting with FairPlay"
 	ms.author="juliako"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="9b148bb5-6e11-9174-e293-c60e83aaedb3"
     resourcerequired="false"
-/> -->
+/>
 
 # Issues encrypting with FairPlay
 

@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-stream-files-performance"
   cloudenvironments="public,fairfax,usnat,ussec,mooncake,blackforest"
   description="Use our guidance to learn about streaming endpoint types, and working with Azure Content Delivery Network (CDN)."
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="8fbb1ca9-ab3b-598c-4dae-a1dd9bd13cde" /> -->
+  supporttopicids="8fbb1ca9-ab3b-598c-4dae-a1dd9bd13cde"
+---
+
+
 # Streaming files performance
 
 ## Learn about streaming files performance

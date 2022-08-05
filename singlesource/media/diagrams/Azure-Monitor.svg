@@ -1,7 +1,73 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1145.6634px" preserveAspectRatio="none" style="width:1034px;height:1145px;" version="1.1" viewBox="0 0 1034 1145" width="1034.1386px" zoomAndPan="magnify"><defs/> --><g><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="59.2719" x="482.3641" y="10.099">Azure Monitor</text><!--MD5=[82f0574ca935a4409687812a512a178b]
 cluster sources--><rect fill="#FFFFFF" height="1086.0015" style="stroke:#3C7FC0;stroke-width:2.33968012185834;" width="182.495" x="5.4593" y="17.9071"/> --><text fill="#000000" font-family="Segoe UI" font-size="9.3587" font-weight="bold" lengthAdjust="spacing" textLength="34.3153" x="79.5491" y="29.5659">Sources</text><!--MD5=[65fa3f9578c3d8ad51e8c750b3fabe27]
 cluster leftbracket--><rect fill="#FFFFFF" height="1022.0503" style="stroke:#CCCCCC;stroke-width:2.33968012185834;" width="132.5819" x="30.4158" y="56.9018"/> --><text fill="#000000" font-family="Segoe UI" font-size="9.3587" font-weight="bold" lengthAdjust="spacing" textLength="0" x="97.8766" y="68.5605"/> --><!--MD5=[6bc0a52673ca1ac2503f94cec801699b]
-cluster Monitor--><rect fill="#FFFFFF" height="969.0175" style="stroke:#3C7FC0;stroke-width:2.33968012185834;" width="822.7875" x="206.6717" y="172.326"/> --><svg x="597.0084" y="173.8858"><g transform="scale(2.3397,2.3397)" ><defs><radialGradient id="ac8b32da-30ca-4b92-8d0f-8d2d5ef278a0" cx="5.72" cy="7.45" r="8.42" gradientTransform="translate(3.23 1.51) scale(1.01 1.01)" gradientUnits="userSpaceOnUse"><stop offset="0.18" stop-color="#5ea0ef" /> --><stop offset="0.56" stop-color="#5c9fee" /> --><stop offset="0.69" stop-color="#559ced" /> --><stop offset="0.78" stop-color="#4a97e9" /> --><stop offset="0.86" stop-color="#3990e4" /> --><stop offset="0.93" stop-color="#2387de" /> --><stop offset="0.99" stop-color="#087bd6" /> --><stop offset="1" stop-color="#0078d4" /> --></radialGradient><radialGradient id="a9954820-cb38-4943-9842-f0a568d2b015" cx="28.18" cy="202.29" r="2.7" gradientTransform="translate(-17.77 -185.01) scale(0.95)" gradientUnits="userSpaceOnUse"><stop offset="0.19" stop-color="#8c8e90" /> --><stop offset="0.35" stop-color="#848688" /> --><stop offset="0.6" stop-color="#6e7071" /> --><stop offset="0.91" stop-color="#4a4b4c" /> --><stop offset="1" stop-color="#3e3f3f" /> --></radialGradient></defs><title>Icon-manage-317</title><ellipse cx="9" cy="9" rx="8.5" ry="8.47" fill="url(#ac8b32da-30ca-4b92-8d0f-8d2d5ef278a0)" /> --><ellipse cx="9" cy="9" rx="7.4" ry="7.37" fill="#fff" /> --><path d="M2.72,9.44a6.24,6.24,0,0,0,1.82,4l2-2a3.53,3.53,0,0,1-1-2Z" fill="#9cebff" /> --><path d="M13.13,4.27A6.25,6.25,0,0,0,9.44,2.74V5.53a3.41,3.41,0,0,1,1.71.7Z" fill="#32bedd" /> --><path d="M4.87,4.27l2,2a3.41,3.41,0,0,1,1.71-.7V2.74A6.25,6.25,0,0,0,4.87,4.27Z" fill="#32bedd" /> --><path d="M11.78,6.85a3.6,3.6,0,0,1,.71,1.71h2.79a6.16,6.16,0,0,0-1.53-3.67Z" fill="#32bedd" /> --><path d="M6.22,6.85l-2-2A6.16,6.16,0,0,0,2.72,8.56H5.51A3.6,3.6,0,0,1,6.22,6.85Z" fill="#50e6ff" /> --><path d="M14.14,7a.45.45,0,0,0-.57-.25L9.45,8.41l.32.81,4.12-1.63A.44.44,0,0,0,14.14,7Z" fill="#f04049" /> --><ellipse cx="9" cy="9" rx="1.2" ry="1.2" fill="url(#a9954820-cb38-4943-9842-f0a568d2b015)" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" font-weight="bold" lengthAdjust="spacing" textLength="63.1714" x="586.4798" y="226.099">Azure Monitor</text><!--MD5=[3c7d38136b37b2ef72bf46105c17c0ab]
+cluster Monitor--><rect fill="#FFFFFF" height="969.0175" style="stroke:#3C7FC0;stroke-width:2.33968012185834;" width="822.7875" x="206.6717" y="172.326"/> --><svg x="597.0084" y="173.8858"><g transform="scale(2.3397,2.3397)" ><defs><radialGradient id="ac8b32da-30ca-4b92-8d0f-8d2d5ef278a0" cx="5.72" cy="7.45" r="8.42" gradientTransform="translate(3.23 1.51) scale(1.01 1.01)" gradientUnits="userSpaceOnUse"><stop offset="0.18" stop-color="#5ea0ef"
+---
+
+ --><stop offset="0.56" stop-color="#5c9fee"
+---
+
+ --><stop offset="0.69" stop-color="#559ced"
+---
+
+ --><stop offset="0.78" stop-color="#4a97e9"
+---
+
+ --><stop offset="0.86" stop-color="#3990e4"
+---
+
+ --><stop offset="0.93" stop-color="#2387de"
+---
+
+ --><stop offset="0.99" stop-color="#087bd6"
+---
+
+ --><stop offset="1" stop-color="#0078d4"
+---
+
+ --></radialGradient><radialGradient id="a9954820-cb38-4943-9842-f0a568d2b015" cx="28.18" cy="202.29" r="2.7" gradientTransform="translate(-17.77 -185.01) scale(0.95)" gradientUnits="userSpaceOnUse"><stop offset="0.19" stop-color="#8c8e90"
+---
+
+ --><stop offset="0.35" stop-color="#848688"
+---
+
+ --><stop offset="0.6" stop-color="#6e7071"
+---
+
+ --><stop offset="0.91" stop-color="#4a4b4c"
+---
+
+ --><stop offset="1" stop-color="#3e3f3f"
+---
+
+ --></radialGradient></defs><title>Icon-manage-317</title><ellipse cx="9" cy="9" rx="8.5" ry="8.47" fill="url(#ac8b32da-30ca-4b92-8d0f-8d2d5ef278a0)"
+---
+
+ --><ellipse cx="9" cy="9" rx="7.4" ry="7.37" fill="#fff"
+---
+
+ --><path d="M2.72,9.44a6.24,6.24,0,0,0,1.82,4l2-2a3.53,3.53,0,0,1-1-2Z" fill="#9cebff"
+---
+
+ --><path d="M13.13,4.27A6.25,6.25,0,0,0,9.44,2.74V5.53a3.41,3.41,0,0,1,1.71.7Z" fill="#32bedd"
+---
+
+ --><path d="M4.87,4.27l2,2a3.41,3.41,0,0,1,1.71-.7V2.74A6.25,6.25,0,0,0,4.87,4.27Z" fill="#32bedd"
+---
+
+ --><path d="M11.78,6.85a3.6,3.6,0,0,1,.71,1.71h2.79a6.16,6.16,0,0,0-1.53-3.67Z" fill="#32bedd"
+---
+
+ --><path d="M6.22,6.85l-2-2A6.16,6.16,0,0,0,2.72,8.56H5.51A3.6,3.6,0,0,1,6.22,6.85Z" fill="#50e6ff"
+---
+
+ --><path d="M14.14,7a.45.45,0,0,0-.57-.25L9.45,8.41l.32.81,4.12-1.63A.44.44,0,0,0,14.14,7Z" fill="#f04049"
+---
+
+ --><ellipse cx="9" cy="9" rx="1.2" ry="1.2" fill="url(#a9954820-cb38-4943-9842-f0a568d2b015)"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" font-weight="bold" lengthAdjust="spacing" textLength="63.1714" x="586.4798" y="226.099">Azure Monitor</text><!--MD5=[3c7d38136b37b2ef72bf46105c17c0ab]
 cluster rightbracket--><rect fill="#FFFFFF" height="862.952" rx="7.7989" ry="7.7989" style="stroke:#CCCCCC;stroke-width:2.33968012185834;" width="501.4714" x="503.0312" y="253.4349"/> --><text fill="#000000" font-family="Segoe UI" font-size="9.3587" font-weight="bold" lengthAdjust="spacing" textLength="0" x="754.9368" y="265.0937"/> --><!--MD5=[395c279d818d732572e19f6202b1bf54]
 cluster insights--><rect fill="#FFFFFF" height="134.1417" rx="7.7989" ry="7.7989" style="stroke:#3C7FC0;stroke-width:2.33968012185834;" width="432.8408" x="540.4661" y="298.6687"/> --><text fill="#000000" font-family="Segoe UI" font-size="9.3587" font-weight="bold" lengthAdjust="spacing" textLength="33.5354" x="740.1188" y="310.3275">Insights</text><!--MD5=[9fbeca85ca40a85d35aeaed2c141b3d9]
 cluster visualize--><rect fill="#FFFFFF" height="121.6634" rx="7.7989" ry="7.7989" style="stroke:#3C7FC0;stroke-width:2.33968012185834;" width="386.8271" x="540.4661" y="479.9939"/> --><text fill="#000000" font-family="Segoe UI" font-size="9.3587" font-weight="bold" lengthAdjust="spacing" textLength="37.4349" x="715.1622" y="491.6527">Visualize</text><!--MD5=[71db9983d6a355848c52a1cb0f922e7f]
@@ -9,28 +75,718 @@ cluster analyze--><rect fill="#FFFFFF" height="134.1417" rx="7.7989" ry="7.7989"
 cluster respond--><rect fill="#FFFFFF" height="121.6634" rx="7.7989" ry="7.7989" style="stroke:#3C7FC0;stroke-width:2.33968012185834;" width="209.0114" x="540.4661" y="798.1904"/> --><text fill="#000000" font-family="Segoe UI" font-size="9.3587" font-weight="bold" lengthAdjust="spacing" textLength="37.4349" x="626.2544" y="809.8492">Respond</text><!--MD5=[c8b25f09bbd648e11a31e8a43be776c1]
 cluster integrate--><rect fill="#FFFFFF" height="134.1417" rx="7.7989" ry="7.7989" style="stroke:#3C7FC0;stroke-width:2.33968012185834;" width="231.6283" x="540.4661" y="951.0495"/> --><text fill="#000000" font-family="Segoe UI" font-size="9.3587" font-weight="bold" lengthAdjust="spacing" textLength="41.3343" x="635.6131" y="962.7083">Integrate</text><!--MD5=[e8f3788ad7b97e8de68b4194558bc2a1]
 cluster db--><rect fill="#CCCCCC" height="128.6824" rx="7.7989" ry="7.7989" style="stroke:#CCCCCC;stroke-width:2.33968012185834;" width="202.7723" x="250.3458" y="301.3983"/> --><text fill="#000000" font-family="Segoe UI" font-size="9.3587" font-weight="bold" lengthAdjust="spacing" textLength="0" x="352.9018" y="313.0571"/> --><!--MD5=[98300ef90b4e2065051b9d8ee5e7c19b]
-entity StaticApps--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="61.6116" x="62.7814" y="89.6573"/> --><svg x="72.5301" y="97.4562"><defs><linearGradient id="e6ad4df9-0ab7-4b49-9706-620b42380f0b" x1="9" y1="16.236" x2="9" y2="5.599" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#005ba1" /> --><stop offset="0.775" stop-color="#0078d4" /> --></linearGradient></defs><g transform="scale(2.3397,2.3397)"  id="e7885b9c-9714-4276-bd41-591cb7e086a5"><path d="M0,5.6H18a0,0,0,0,1,0,0V15.635a.6.6,0,0,1-.6.6H.6a.6.6,0,0,1-.6-.6V5.6A0,0,0,0,1,0,5.6Z" fill="url(#e6ad4df9-0ab7-4b49-9706-620b42380f0b)" /> --><rect x="1.309" y="6.657" width="15.527" height="8.514" rx="0.6" fill="#5ea0ef" opacity="0.6" /> --><path d="M.6,1.764H17.4a.6.6,0,0,1,.6.6V5.6a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2.365A.6.6,0,0,1,.6,1.764Z" fill="#005ba1" /> --><path d="M7.109,13.217l-.321.32a.144.144,0,0,1-.205,0L4.258,11.205a.29.29,0,0,1,0-.41l.321-.32L7.11,13.012A.145.145,0,0,1,7.109,13.217Zm3.653,0,.321.32a.144.144,0,0,0,.205,0l2.325-2.332a.29.29,0,0,0,0-.41l-.322-.32-2.53,2.537A.145.145,0,0,0,10.762,13.217Z" fill="#fff" opacity="0.8" /> --><path d="M6.831,8.433l.32.321a.144.144,0,0,1,0,.205L4.576,11.527l-.32-.322a.289.289,0,0,1,0-.41l2.37-2.363A.145.145,0,0,1,6.831,8.433Zm4.207,0-.32.321a.144.144,0,0,0,0,.205l2.575,2.568.32-.321a.292.292,0,0,0,0-.411l-2.37-2.362A.144.144,0,0,0,11.038,8.434Z" fill="#fff" /> --><path d="M8.159,14.363,7.646,14.2a.105.105,0,0,1-.067-.131L9.669,7.54a.1.1,0,0,1,.13-.067l.513.164a.1.1,0,0,1,.067.13L8.289,14.3A.1.1,0,0,1,8.159,14.363Z" fill="#fff" /> --><path d="M3.166,3.847a.76.76,0,1,1-.76-.76A.76.76,0,0,1,3.166,3.847ZM4.8,3.087a.76.76,0,1,0,.76.76A.76.76,0,0,0,4.8,3.087Zm2.393,0a.76.76,0,1,0,.76.76A.76.76,0,0,0,7.191,3.087Z" fill="#fff" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="46.0137" x="70.5804" y="149.6695">Static Apps</text><!--MD5=[7fce01de09ea1271ba039dd3e5e28383]
+entity StaticApps--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="61.6116" x="62.7814" y="89.6573"/> --><svg x="72.5301" y="97.4562"><defs><linearGradient id="e6ad4df9-0ab7-4b49-9706-620b42380f0b" x1="9" y1="16.236" x2="9" y2="5.599" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#005ba1"
+---
+
+ --><stop offset="0.775" stop-color="#0078d4"
+---
+
+ --></linearGradient></defs><g transform="scale(2.3397,2.3397)"  id="e7885b9c-9714-4276-bd41-591cb7e086a5"><path d="M0,5.6H18a0,0,0,0,1,0,0V15.635a.6.6,0,0,1-.6.6H.6a.6.6,0,0,1-.6-.6V5.6A0,0,0,0,1,0,5.6Z" fill="url(#e6ad4df9-0ab7-4b49-9706-620b42380f0b)"
+---
+
+ --><rect x="1.309" y="6.657" width="15.527" height="8.514" rx="0.6" fill="#5ea0ef" opacity="0.6"
+---
+
+ --><path d="M.6,1.764H17.4a.6.6,0,0,1,.6.6V5.6a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2.365A.6.6,0,0,1,.6,1.764Z" fill="#005ba1"
+---
+
+ --><path d="M7.109,13.217l-.321.32a.144.144,0,0,1-.205,0L4.258,11.205a.29.29,0,0,1,0-.41l.321-.32L7.11,13.012A.145.145,0,0,1,7.109,13.217Zm3.653,0,.321.32a.144.144,0,0,0,.205,0l2.325-2.332a.29.29,0,0,0,0-.41l-.322-.32-2.53,2.537A.145.145,0,0,0,10.762,13.217Z" fill="#fff" opacity="0.8"
+---
+
+ --><path d="M6.831,8.433l.32.321a.144.144,0,0,1,0,.205L4.576,11.527l-.32-.322a.289.289,0,0,1,0-.41l2.37-2.363A.145.145,0,0,1,6.831,8.433Zm4.207,0-.32.321a.144.144,0,0,0,0,.205l2.575,2.568.32-.321a.292.292,0,0,0,0-.411l-2.37-2.362A.144.144,0,0,0,11.038,8.434Z" fill="#fff"
+---
+
+ --><path d="M8.159,14.363,7.646,14.2a.105.105,0,0,1-.067-.131L9.669,7.54a.1.1,0,0,1,.13-.067l.513.164a.1.1,0,0,1,.067.13L8.289,14.3A.1.1,0,0,1,8.159,14.363Z" fill="#fff"
+---
+
+ --><path d="M3.166,3.847a.76.76,0,1,1-.76-.76A.76.76,0,0,1,3.166,3.847ZM4.8,3.087a.76.76,0,1,0,.76.76A.76.76,0,0,0,4.8,3.087Zm2.393,0a.76.76,0,1,0,.76.76A.76.76,0,0,0,7.191,3.087Z" fill="#fff"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="46.0137" x="70.5804" y="149.6695">Static Apps</text><!--MD5=[7fce01de09ea1271ba039dd3e5e28383]
 entity OperatingSystem--><rect fill="#FFFFFF" height="28.0457" style="stroke:#3C7FC0;stroke-width:2.33968012185834;" width="88.9078" x="49.1333" y="358.7205"/> --><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="73.31" x="56.9322" y="376.6184">Operating System</text><!--MD5=[3b349e2f30c3d2f0b5bf92127bdcd378]
-entity Subscriptions--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="70.9703" x="58.1021" y="671.8477"/> --><svg x="72.5301" y="679.6466"><g transform="scale(2.3397,2.3397)" ><defs><radialGradient id="a445c717-9d75-44c7-ba6b-0d8f2383e560" cx="-36.63" cy="17.12" r="11.18" gradientTransform="translate(41.88 -7.4) scale(0.94 0.94)" gradientUnits="userSpaceOnUse"><stop offset="0.27" stop-color="#ffd70f" /> --><stop offset="0.49" stop-color="#ffcb12" /> --><stop offset="0.88" stop-color="#feac19" /> --><stop offset="1" stop-color="#fea11b" /> --></radialGradient></defs><title>Icon-general-2</title><path id="e3d1e58c-f78e-4fb5-9857-0c9331da9979" d="M13.56,7.19a2.07,2.07,0,0,0,0-2.93h0L10,.69a2.06,2.06,0,0,0-2.92,0h0L3.52,4.26a2.09,2.09,0,0,0,0,2.93l3,3a.61.61,0,0,1,.17.41v5.52a.7.7,0,0,0,.2.5l1.35,1.35a.45.45,0,0,0,.66,0l1.31-1.31h0l.77-.77a.26.26,0,0,0,0-.38l-.55-.56a.29.29,0,0,1,0-.42l.55-.56a.26.26,0,0,0,0-.38L10.4,13a.28.28,0,0,1,0-.41L11,12a.26.26,0,0,0,0-.38l-.77-.78v-.28Zm-5-5.64A1.18,1.18,0,1,1,7.37,2.73,1.17,1.17,0,0,1,8.54,1.55Z" fill="url(#a445c717-9d75-44c7-ba6b-0d8f2383e560)" /> --><path id="a21a8f7a-61cc-4035-8449-e5c8fe4d4d5e" d="M7.62,16.21h0A.25.25,0,0,0,8,16V11.55a.27.27,0,0,0-.11-.22h0a.25.25,0,0,0-.39.22V16A.27.27,0,0,0,7.62,16.21Z" fill="#ff9300" opacity="0.75" /> --><rect id="ecd3189c-fb1e-4a0e-a2b6-ba2f11dda484" x="5.69" y="5.45" width="5.86" height="0.69" rx="0.32" fill="#ff9300" opacity="0.75" /> --><rect id="a1949a3c-4818-4bd1-b236-0d970b92fc62" x="5.69" y="6.57" width="5.86" height="0.69" rx="0.32" fill="#ff9300" opacity="0.75" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="55.3724" x="65.901" y="731.8599">Subscriptions</text><!--MD5=[c2f1a89366393ba9d1417b32d43751eb]
+entity Subscriptions--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="70.9703" x="58.1021" y="671.8477"/> --><svg x="72.5301" y="679.6466"><g transform="scale(2.3397,2.3397)" ><defs><radialGradient id="a445c717-9d75-44c7-ba6b-0d8f2383e560" cx="-36.63" cy="17.12" r="11.18" gradientTransform="translate(41.88 -7.4) scale(0.94 0.94)" gradientUnits="userSpaceOnUse"><stop offset="0.27" stop-color="#ffd70f"
+---
+
+ --><stop offset="0.49" stop-color="#ffcb12"
+---
+
+ --><stop offset="0.88" stop-color="#feac19"
+---
+
+ --><stop offset="1" stop-color="#fea11b"
+---
+
+ --></radialGradient></defs><title>Icon-general-2</title><path id="e3d1e58c-f78e-4fb5-9857-0c9331da9979" d="M13.56,7.19a2.07,2.07,0,0,0,0-2.93h0L10,.69a2.06,2.06,0,0,0-2.92,0h0L3.52,4.26a2.09,2.09,0,0,0,0,2.93l3,3a.61.61,0,0,1,.17.41v5.52a.7.7,0,0,0,.2.5l1.35,1.35a.45.45,0,0,0,.66,0l1.31-1.31h0l.77-.77a.26.26,0,0,0,0-.38l-.55-.56a.29.29,0,0,1,0-.42l.55-.56a.26.26,0,0,0,0-.38L10.4,13a.28.28,0,0,1,0-.41L11,12a.26.26,0,0,0,0-.38l-.77-.78v-.28Zm-5-5.64A1.18,1.18,0,1,1,7.37,2.73,1.17,1.17,0,0,1,8.54,1.55Z" fill="url(#a445c717-9d75-44c7-ba6b-0d8f2383e560)"
+---
+
+ --><path id="a21a8f7a-61cc-4035-8449-e5c8fe4d4d5e" d="M7.62,16.21h0A.25.25,0,0,0,8,16V11.55a.27.27,0,0,0-.11-.22h0a.25.25,0,0,0-.39.22V16A.27.27,0,0,0,7.62,16.21Z" fill="#ff9300" opacity="0.75"
+---
+
+ --><rect id="ecd3189c-fb1e-4a0e-a2b6-ba2f11dda484" x="5.69" y="5.45" width="5.86" height="0.69" rx="0.32" fill="#ff9300" opacity="0.75"
+---
+
+ --><rect id="a1949a3c-4818-4bd1-b236-0d970b92fc62" x="5.69" y="6.57" width="5.86" height="0.69" rx="0.32" fill="#ff9300" opacity="0.75"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="55.3724" x="65.901" y="731.8599">Subscriptions</text><!--MD5=[c2f1a89366393ba9d1417b32d43751eb]
 entity Tenant--><rect fill="#FFFFFF" height="28.0457" style="stroke:#3C7FC0;stroke-width:2.33968012185834;" width="43.674" x="71.7502" y="852.003"/> --><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="28.0762" x="79.5491" y="869.901">Tenant</text><!--MD5=[7a5f352f403caaaeab85cb2d9d149205]
-entity ResourceGroups--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="85.0084" x="51.083" y="512.7494"/> --><svg x="72.5301" y="520.5484"><title>Icon-general-7</title><g transform="scale(2.3397,2.3397)" ><g><path d="M.5,15.08a.16.16,0,0,0,.08.14l1.16.65L3.7,17a.17.17,0,0,0,.23-.06l.66-1.12a.16.16,0,0,0-.06-.21l-2.3-1.3a.17.17,0,0,1-.08-.14V3.85a.16.16,0,0,1,.08-.14l2.3-1.3a.16.16,0,0,0,.06-.21L3.93,1.08A.17.17,0,0,0,3.7,1L1.78,2.11l-1.2.67a.16.16,0,0,0-.08.14V15.08Z" fill="#949494" /> --><path d="M2.14,3.77l.06-.06,2.3-1.3a.14.14,0,0,0,.06-.21L3.9,1.08A.15.15,0,0,0,3.68,1L1.75,2.11.56,2.78s-.05,0-.06.06l.9.51Z" fill="#a3a3a3" /> --><path d="M4.5,15.59l-2.3-1.3a.22.22,0,0,1-.07-.09l-1.62,1,.05,0,1.15.65,2,1.11a.15.15,0,0,0,.22-.06l.66-1.12A.14.14,0,0,0,4.5,15.59Z" fill="#a3a3a3" /> --></g><path d="M17.5,15.08a.16.16,0,0,1-.08.14l-1.16.65L14.3,17a.17.17,0,0,1-.23-.06l-.66-1.12a.16.16,0,0,1,.06-.21l2.3-1.3a.17.17,0,0,0,.08-.14V3.85a.16.16,0,0,0-.08-.14l-2.3-1.3a.16.16,0,0,1-.06-.21l.66-1.12A.17.17,0,0,1,14.3,1l1.92,1.09,1.2.67a.16.16,0,0,1,.08.14V15.08Z" fill="#949494" /> --><path d="M15.86,3.77l-.06-.06-2.3-1.3a.14.14,0,0,1-.06-.21l.66-1.12A.15.15,0,0,1,14.32,1l1.93,1.09,1.19.67s0,0,.06.06l-.9.51Z" fill="#a3a3a3" /> --><path d="M13.5,15.59l2.3-1.3a.22.22,0,0,0,.07-.09l1.62,1,0,0-1.15.65-2,1.11a.15.15,0,0,1-.22-.06l-.66-1.12A.14.14,0,0,1,13.5,15.59Z" fill="#a3a3a3" /> --><polygon points="14.31 5.93 14.31 12.07 8.99 15.16 8.99 9.01 14.31 5.93" fill="#32bedd" /> --><polygon points="14.31 5.93 9 9.02 3.68 5.93 9 2.84 14.31 5.93" fill="#9cebff" /> --><polygon points="8.99 9.02 8.99 15.16 3.68 12.07 3.68 5.93 8.99 9.02" fill="#50e6ff" /> --><polygon points="3.68 12.07 8.99 9.01 8.99 15.16 3.68 12.07" fill="#9cebff" /> --><polygon points="14.31 12.07 8.99 9.01 8.99 15.16 14.31 12.07" fill="#50e6ff" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="69.4105" x="58.8819" y="572.7616">Resource Groups</text><!--MD5=[24d3a3453626228cb51ae15eed5c13d6]
-entity MyCustomers--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="75.6497" x="55.7624" y="990.0442"/> --><svg x="72.5301" y="997.8431"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="f97360fa-fd13-420b-9b43-74b8dde83a11" x1="6.7" y1="7.26" x2="6.7" y2="18.36" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5" /> --><stop offset="1" stop-color="#198ab3" /> --></linearGradient><linearGradient id="b2ab4071-529d-4450-9443-e6dc0939cc4e" x1="6.42" y1="1.32" x2="7.23" y2="11.39" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5" /> --><stop offset="1" stop-color="#198ab3" /> --></linearGradient></defs><title>Icon-identity-223</title><path d="M17.22,13.92a.79.79,0,0,0,.8-.79A.28.28,0,0,0,18,13c-.31-2.5-1.74-4.54-4.46-4.54S9.35,10.22,9.07,13a.81.81,0,0,0,.72.88h7.43Z" fill="#0078d4" /> --><path d="M13.55,9.09a2.44,2.44,0,0,1-1.36-.4l1.35,3.52,1.33-3.49A2.54,2.54,0,0,1,13.55,9.09Z" fill="#fff" opacity="0.8" /> --><circle cx="13.55" cy="6.58" r="2.51" fill="#0078d4" /> --><path d="M12.19,16.36a1.19,1.19,0,0,0,1.19-1.19.66.66,0,0,0,0-.14c-.47-3.74-2.6-6.78-6.66-6.78S.44,10.83,0,15a1.2,1.2,0,0,0,1.07,1.31h11.1Z" fill="url(#f97360fa-fd13-420b-9b43-74b8dde83a11)" /> --><path d="M6.77,9.14a3.72,3.72,0,0,1-2-.6l2,5.25,2-5.21A3.81,3.81,0,0,1,6.77,9.14Z" fill="#fff" opacity="0.8" /> --><circle cx="6.74" cy="5.39" r="3.75" fill="url(#b2ab4071-529d-4450-9443-e6dc0939cc4e)" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="60.0518" x="63.5613" y="1050.0564">My Customers</text><!--MD5=[909249635cb913ac42f02201de036c92]
-entity ApplicationInsights--><rect fill="#FFFFFF" height="82.6078" style="stroke:#3C7FC0;stroke-width:0.0;" width="65.511" x="574.0015" y="331.4242"/> --><svg x="585.6999" y="339.2232"><g transform="scale(2.3397,2.3397)" ><defs><radialGradient id="a7a1c431-6c6d-4a8f-9a69-8da437e5b0c5" cx="9" cy="7.35" r="6.42" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b77af4" /> --><stop offset="0.21" stop-color="#b378f2" /> --><stop offset="0.43" stop-color="#a672ed" /> --><stop offset="0.65" stop-color="#9267e4" /> --><stop offset="0.88" stop-color="#7559d8" /> --><stop offset="1" stop-color="#624fd0" /> --></radialGradient><linearGradient id="ec0c4f0d-5c8e-4882-96a1-89d61808eb49" x1="9.02" y1="3.91" x2="9.08" y2="11.49" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f2f2f2" /> --><stop offset="0.23" stop-color="#f1f1f2" stop-opacity="0.99" /> --><stop offset="0.37" stop-color="#ededf1" stop-opacity="0.95" /> --><stop offset="0.48" stop-color="#e7e5f0" stop-opacity="0.89" /> --><stop offset="0.58" stop-color="#dedbee" stop-opacity="0.81" /> --><stop offset="0.67" stop-color="#d3ceeb" stop-opacity="0.7" /> --><stop offset="0.76" stop-color="#c4bee8" stop-opacity="0.57" /> --><stop offset="0.84" stop-color="#b4abe5" stop-opacity="0.41" /> --><stop offset="0.92" stop-color="#a095e1" stop-opacity="0.22" /> --><stop offset="0.99" stop-color="#8b7ddc" stop-opacity="0.02" /> --><stop offset="1" stop-color="#897bdc" stop-opacity="0" /> --></linearGradient></defs><title>Icon-manage-310</title><path d="M10.23,17.39l.81-.87V14.2H7v2.32l.81.87A.32.32,0,0,0,8,17.5h2A.32.32,0,0,0,10.23,17.39Z" fill="#cecece" /> --><path d="M9,.5A5.89,5.89,0,0,0,3.09,7.07c.27,2.47,2.62,3.62,3.29,6.75a.49.49,0,0,0,.47.38h4.3a.49.49,0,0,0,.47-.38c.67-3.13,3-4.28,3.29-6.75A5.89,5.89,0,0,0,9,.5ZM7,14.2" fill="url(#a7a1c431-6c6d-4a8f-9a69-8da437e5b0c5)" /> --><path d="M11.46,3.79a1.4,1.4,0,0,0-1.35,1.44V6H8V5.23A1.41,1.41,0,0,0,6.59,3.79,1.4,1.4,0,0,0,5.24,5.23,1.41,1.41,0,0,0,6.59,6.68h.64v6a.36.36,0,0,0,.72,0v-6h2.16v6a.36.36,0,1,0,.72,0v-6h.63a1.4,1.4,0,0,0,1.35-1.45A1.4,1.4,0,0,0,11.46,3.79ZM7.23,6H6.55a.74.74,0,0,1-.68-.77.74.74,0,0,1,.68-.77.74.74,0,0,1,.68.77Zm4.28,0h-.68V5.19a.68.68,0,1,1,1.35,0A.73.73,0,0,1,11.51,6Z" fill="url(#ec0c4f0d-5c8e-4882-96a1-89d61808eb49)" /> --><polygon points="6.96 15.8 11.04 15.01 11.04 14.56 6.96 15.36 6.96 15.8" fill="#999" /> --><polygon points="11.04 16.11 11.04 15.67 6.96 16.48 6.96 16.52 7.27 16.86 11.04 16.11" fill="#999" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="47.5735" x="581.8005" y="391.4364">Application</text><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="31.9756" x="590.7692" y="403.8842">Insights</text><!--MD5=[dec0f8f83491cc1de6303658cc9d2eb8]
-entity ContainerInstances--><rect fill="#FFFFFF" height="82.6078" style="stroke:#3C7FC0;stroke-width:0.0;" width="58.492" x="667.1988" y="331.4242"/> --><svg x="675.3877" y="339.2232"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="f7543904-4a89-435e-96cd-11521c829faa" x1="9" y1="11.95" x2="9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4" /> --><stop offset="0.16" stop-color="#1380da" /> --><stop offset="0.53" stop-color="#3c91e5" /> --><stop offset="0.82" stop-color="#559cec" /> --><stop offset="1" stop-color="#5ea0ef" /> --></linearGradient></defs><title>Icon-containers-104</title><path d="M17.43,8.21a3.78,3.78,0,0,0-3.29-3.64A4.77,4.77,0,0,0,9.22,0,4.91,4.91,0,0,0,4.54,3.19a4.52,4.52,0,0,0-4,4.35A4.6,4.6,0,0,0,5.32,12l.42,0h7.68l.21,0A3.84,3.84,0,0,0,17.43,8.21Z" fill="url(#f7543904-4a89-435e-96cd-11521c829faa)" /> --><path d="M6.36,6.46,9,3.87a.3.3,0,0,1,.43,0L12,6.46a.13.13,0,0,1-.1.23H10.28a.15.15,0,0,0-.14.14v3.24a.11.11,0,0,1-.11.11H8.29a.11.11,0,0,1-.11-.11V6.83a.14.14,0,0,0-.13-.14H6.45A.13.13,0,0,1,6.36,6.46Z" fill="#f2f2f2" /> --><path d="M14,11.37a.13.13,0,0,0-.09-.13L9.16,9.65H9V18h.13l4.71-1.88A.13.13,0,0,0,14,16Z" fill="#a67af4" /> --><path d="M9,9.68l-4.51.83a.14.14,0,0,0-.12.13v6.23a.15.15,0,0,0,.11.14L9,18a.13.13,0,0,0,.16-.13v-8A.14.14,0,0,0,9,9.68Z" fill="#552f99" /> --><polygon points="6.92 10.92 6.92 16.73 8.49 16.98 8.49 10.65 6.92 10.92" fill="#b77af4" opacity="0.75" /> --><polygon points="4.98 11.24 4.98 16.32 6.35 16.6 6.35 11.01 4.98 11.24" fill="#b77af4" opacity="0.75" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="40.5545" x="674.9977" y="391.4364">Container</text><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="38.2148" x="677.3374" y="403.8842">Instances</text><!--MD5=[220ee8742bed45e4d6ead8b1dae0646c]
-entity VirtualMachine--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="80.329" x="752.9871" y="337.6634"/> --><svg x="772.0944" y="345.4623"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="f34d9569-2bd0-4002-8f16-3d01d8106cb5" x1="8.88" y1="12.21" x2="8.88" y2="0.21" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4" /> --><stop offset="0.82" stop-color="#5ea0ef" /> --></linearGradient><linearGradient id="bdb45a0b-eb58-4970-a60a-fb2ce314f866" x1="8.88" y1="16.84" x2="8.88" y2="12.21" gradientUnits="userSpaceOnUse"><stop offset="0.15" stop-color="#ccc" /> --><stop offset="1" stop-color="#707070" /> --></linearGradient></defs><title>Icon-compute-21</title><rect x="-0.12" y="0.21" width="18" height="12" rx="0.6" fill="url(#f34d9569-2bd0-4002-8f16-3d01d8106cb5)" /> --><polygon points="11.88 4.46 11.88 7.95 8.88 9.71 8.88 6.21 11.88 4.46" fill="#50e6ff" /> --><polygon points="11.88 4.46 8.88 6.22 5.88 4.46 8.88 2.71 11.88 4.46" fill="#c3f1ff" /> --><polygon points="8.88 6.22 8.88 9.71 5.88 7.95 5.88 4.46 8.88 6.22" fill="#9cebff" /> --><polygon points="5.88 7.95 8.88 6.21 8.88 9.71 5.88 7.95" fill="#c3f1ff" /> --><polygon points="11.88 7.95 8.88 6.21 8.88 9.71 11.88 7.95" fill="#9cebff" /> --><path d="M12.49,15.84c-1.78-.28-1.85-1.56-1.85-3.63H7.11c0,2.07-.06,3.35-1.84,3.63a1,1,0,0,0-.89,1h9A1,1,0,0,0,12.49,15.84Z" fill="url(#bdb45a0b-eb58-4970-a60a-fb2ce314f866)" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="64.7312" x="760.786" y="397.6756">Virtual Machine</text><!--MD5=[d20134ed74e3d8ec1eacbc2e892e22c2]
-entity SAPAzureMonitor--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="93.5872" x="861.0023" y="337.6634"/> --><svg x="886.7388" y="345.4623"><defs><linearGradient id="aeb3bebf-e891-43d3-b045-06c026f5040e" x1="9" y1="14.633" x2="9" y2="1.875" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4" /> --><stop offset="1" stop-color="#5ea0ef" /> --></linearGradient><linearGradient id="a1a3bad5-bba7-4b2b-aeca-10273cb8629a" x1="11.443" y1="9.184" x2="11.443" y2="15.325" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" /> --><stop offset="1" stop-color="#f2f2f2" /> --></linearGradient></defs><g transform="scale(2.3397,2.3397)"  id="bbaf661a-4927-421b-af2a-366eca680343"><path d="M18,10.637A4.044,4.044,0,0,0,14.49,6.75,5.1,5.1,0,0,0,9.24,1.875a5.229,5.229,0,0,0-5,3.408A4.826,4.826,0,0,0,0,9.927a4.9,4.9,0,0,0,5.068,4.706c.151,0,.3-.007.447-.019h8.207a.819.819,0,0,0,.217-.033A4.092,4.092,0,0,0,18,10.637Z" fill="url(#aeb3bebf-e891-43d3-b045-06c026f5040e)" /> --><path d="M11.442,8.286c3.862,0,6.221,2.874,6.41,6.8a.994.994,0,0,1-.992,1.043H6.026a1,1,0,0,1-.992-1.044C5.227,11.16,7.587,8.286,11.442,8.286Z" fill="#50e6ff" /> --><path d="M6.026,15.463a.324.324,0,0,1-.239-.1.329.329,0,0,1-.092-.246c.185-3.752,2.768-6.166,5.747-6.166s5.569,2.414,5.749,6.166a.329.329,0,0,1-.092.246.324.324,0,0,1-.239.1Z" fill="url(#a1a3bad5-bba7-4b2b-aeca-10273cb8629a)" /> --><path d="M14.55,11.02a4.648,4.648,0,0,0-2.777-1.185V12a2.6,2.6,0,0,1,1.291.551Z" fill="#9cebff" /> --><path d="M8.335,11.02l1.486,1.528A2.6,2.6,0,0,1,11.112,12V9.835A4.648,4.648,0,0,0,8.335,11.02Z" fill="#50e6ff" /> --><path d="M13.532,13.029a2.753,2.753,0,0,1,.535,1.327h2.1A4.926,4.926,0,0,0,15.018,11.5Z" fill="#9cebff" /> --><path d="M9.354,13.029,7.867,11.5a4.933,4.933,0,0,0-1.153,2.855h2.1A2.745,2.745,0,0,1,9.354,13.029Z" fill="#32bedd" /> --><path d="M15.31,12.555a.331.331,0,0,0-.428-.188l-3.1,1.236.241.616,3.1-1.235A.332.332,0,0,0,15.31,12.555Z" fill="#32bedd" /> --><circle cx="11.442" cy="14.049" r="0.904" fill="#767676" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="77.9893" x="868.8012" y="397.6756">SAP Azure Monitor</text><!--MD5=[63cd45bfe8ce5232e0cf4e791771f97b]
-entity Dashboard--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="60.0518" x="574.3915" y="512.7494"/> --><svg x="583.3602" y="520.5484"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="a09b0f0f-3d24-4aad-8fda-73f9dc8561f7" x1="9" y1="790.787" x2="9" y2="774.125" gradientTransform="matrix(1, 0, 0, -1, 0, 791.516)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#6cc6b9" /> --><stop offset="0.46" stop-color="#6ac4b7" /> --><stop offset="0.64" stop-color="#62bdb0" /> --><stop offset="0.77" stop-color="#56b1a4" /> --><stop offset="1" stop-color="#258277" /> --></linearGradient></defs><path d="M.549,2.636H17.461A.518.518,0,0,1,18,3.125v11.75a.518.518,0,0,1-.539.489H.549A.528.528,0,0,1,0,14.875V3.145a.529.529,0,0,1,.548-.509Z" fill="url(#a09b0f0f-3d24-4aad-8fda-73f9dc8561f7)" /> --><rect x="12.459" y="4.206" width="1.532" height="9.349" rx="0.147" fill="#fff" opacity="0.9" /> --><rect x="1.628" y="11.629" width="8.572" height="1.937" rx="0.159" fill="#fff" opacity="0.6" /> --><rect x="14.808" y="8.031" width="1.532" height="5.524" rx="0.113" fill="#fff" opacity="0.9" /> --><polygon points="9.117 4.772 6.987 8.562 4.734 6.267 2.412 9.278 2.956 9.705 4.798 7.329 7.136 9.715 9.72 5.119 9.117 4.772" fill="#fff" /> --><ellipse cx="4.761" cy="6.795" rx="0.876" ry="0.881" fill="#fff" /> --><ellipse cx="7.136" cy="8.979" rx="0.876" ry="0.881" fill="#fff" /> --><ellipse cx="9.341" cy="5.055" rx="0.876" ry="0.881" fill="#fff" /> --><ellipse cx="2.775" cy="9.363" rx="0.876" ry="0.881" fill="#fff" /> -->​</g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="44.4539" x="582.1904" y="572.7616">Dashboard</text><!--MD5=[196d6eeb2242891742fda3f334b4ab6e]
-entity Mobile--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="57.7121" x="662.1295" y="512.7494"/> --><svg x="669.9284" y="520.5484"><defs><linearGradient id="b861ecb1-69d3-40ff-b38a-443a49a377b1" x1="9" y1="22.81" x2="9" y2="-2.491" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4" /> --><stop offset="0.165" stop-color="#1c84dc" /> --><stop offset="0.378" stop-color="#3990e4" /> --><stop offset="0.59" stop-color="#4d99ea" /> --><stop offset="0.799" stop-color="#5a9eee" /> --><stop offset="1" stop-color="#5ea0ef" /> --></linearGradient><linearGradient id="b829f877-fb68-49d0-8cb6-c12a07b10184" x1="9" y1="15.982" x2="9" y2="1.522" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#d2ebff" /> --><stop offset="0.997" stop-color="#f0fffd" /> --></linearGradient></defs><title>MsPortalFx.base.images-62</title><g transform="scale(2.3397,2.3397)"  id="abf8a417-4093-4c62-8738-0493c164e5d3"><g><rect x="3.612" width="10.777" height="18" rx="0.419" fill="url(#b861ecb1-69d3-40ff-b38a-443a49a377b1)" /> --><rect x="7.758" y="0.604" width="2.483" height="0.333" rx="0.154" fill="#f2f2f2" /> --><rect x="4.623" y="1.522" width="8.754" height="14.461" rx="0.201" opacity="0.9" fill="url(#b829f877-fb68-49d0-8cb6-c12a07b10184)" /> --><rect x="8.398" y="16.58" width="1.204" height="1.028" rx="0.286" fill="#f2f2f2" /> --><polygon points="11.882 7.378 11.882 10.624 9.077 12.255 9.077 9.004 11.882 7.378" fill="#005ba1" /> --><polygon points="11.882 7.378 9.078 9.009 6.272 7.378 9.078 5.747 11.882 7.378" fill="#5ea0ef" /> --><polygon points="9.077 9.009 9.077 12.255 6.272 10.624 6.272 7.378 9.077 9.009" fill="#0078d4" /> --></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="28.8561" x="676.5575" y="572.7616">Mobile</text><!--MD5=[2dfefee6a38302e72bd784a5dfa9766e]
+entity ResourceGroups--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="85.0084" x="51.083" y="512.7494"/> --><svg x="72.5301" y="520.5484"><title>Icon-general-7</title><g transform="scale(2.3397,2.3397)" ><g><path d="M.5,15.08a.16.16,0,0,0,.08.14l1.16.65L3.7,17a.17.17,0,0,0,.23-.06l.66-1.12a.16.16,0,0,0-.06-.21l-2.3-1.3a.17.17,0,0,1-.08-.14V3.85a.16.16,0,0,1,.08-.14l2.3-1.3a.16.16,0,0,0,.06-.21L3.93,1.08A.17.17,0,0,0,3.7,1L1.78,2.11l-1.2.67a.16.16,0,0,0-.08.14V15.08Z" fill="#949494"
+---
+
+ --><path d="M2.14,3.77l.06-.06,2.3-1.3a.14.14,0,0,0,.06-.21L3.9,1.08A.15.15,0,0,0,3.68,1L1.75,2.11.56,2.78s-.05,0-.06.06l.9.51Z" fill="#a3a3a3"
+---
+
+ --><path d="M4.5,15.59l-2.3-1.3a.22.22,0,0,1-.07-.09l-1.62,1,.05,0,1.15.65,2,1.11a.15.15,0,0,0,.22-.06l.66-1.12A.14.14,0,0,0,4.5,15.59Z" fill="#a3a3a3"
+---
+
+ --></g><path d="M17.5,15.08a.16.16,0,0,1-.08.14l-1.16.65L14.3,17a.17.17,0,0,1-.23-.06l-.66-1.12a.16.16,0,0,1,.06-.21l2.3-1.3a.17.17,0,0,0,.08-.14V3.85a.16.16,0,0,0-.08-.14l-2.3-1.3a.16.16,0,0,1-.06-.21l.66-1.12A.17.17,0,0,1,14.3,1l1.92,1.09,1.2.67a.16.16,0,0,1,.08.14V15.08Z" fill="#949494"
+---
+
+ --><path d="M15.86,3.77l-.06-.06-2.3-1.3a.14.14,0,0,1-.06-.21l.66-1.12A.15.15,0,0,1,14.32,1l1.93,1.09,1.19.67s0,0,.06.06l-.9.51Z" fill="#a3a3a3"
+---
+
+ --><path d="M13.5,15.59l2.3-1.3a.22.22,0,0,0,.07-.09l1.62,1,0,0-1.15.65-2,1.11a.15.15,0,0,1-.22-.06l-.66-1.12A.14.14,0,0,1,13.5,15.59Z" fill="#a3a3a3"
+---
+
+ --><polygon points="14.31 5.93 14.31 12.07 8.99 15.16 8.99 9.01 14.31 5.93" fill="#32bedd"
+---
+
+ --><polygon points="14.31 5.93 9 9.02 3.68 5.93 9 2.84 14.31 5.93" fill="#9cebff"
+---
+
+ --><polygon points="8.99 9.02 8.99 15.16 3.68 12.07 3.68 5.93 8.99 9.02" fill="#50e6ff"
+---
+
+ --><polygon points="3.68 12.07 8.99 9.01 8.99 15.16 3.68 12.07" fill="#9cebff"
+---
+
+ --><polygon points="14.31 12.07 8.99 9.01 8.99 15.16 14.31 12.07" fill="#50e6ff"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="69.4105" x="58.8819" y="572.7616">Resource Groups</text><!--MD5=[24d3a3453626228cb51ae15eed5c13d6]
+entity MyCustomers--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="75.6497" x="55.7624" y="990.0442"/> --><svg x="72.5301" y="997.8431"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="f97360fa-fd13-420b-9b43-74b8dde83a11" x1="6.7" y1="7.26" x2="6.7" y2="18.36" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+---
+
+ --><stop offset="1" stop-color="#198ab3"
+---
+
+ --></linearGradient><linearGradient id="b2ab4071-529d-4450-9443-e6dc0939cc4e" x1="6.42" y1="1.32" x2="7.23" y2="11.39" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+---
+
+ --><stop offset="1" stop-color="#198ab3"
+---
+
+ --></linearGradient></defs><title>Icon-identity-223</title><path d="M17.22,13.92a.79.79,0,0,0,.8-.79A.28.28,0,0,0,18,13c-.31-2.5-1.74-4.54-4.46-4.54S9.35,10.22,9.07,13a.81.81,0,0,0,.72.88h7.43Z" fill="#0078d4"
+---
+
+ --><path d="M13.55,9.09a2.44,2.44,0,0,1-1.36-.4l1.35,3.52,1.33-3.49A2.54,2.54,0,0,1,13.55,9.09Z" fill="#fff" opacity="0.8"
+---
+
+ --><circle cx="13.55" cy="6.58" r="2.51" fill="#0078d4"
+---
+
+ --><path d="M12.19,16.36a1.19,1.19,0,0,0,1.19-1.19.66.66,0,0,0,0-.14c-.47-3.74-2.6-6.78-6.66-6.78S.44,10.83,0,15a1.2,1.2,0,0,0,1.07,1.31h11.1Z" fill="url(#f97360fa-fd13-420b-9b43-74b8dde83a11)"
+---
+
+ --><path d="M6.77,9.14a3.72,3.72,0,0,1-2-.6l2,5.25,2-5.21A3.81,3.81,0,0,1,6.77,9.14Z" fill="#fff" opacity="0.8"
+---
+
+ --><circle cx="6.74" cy="5.39" r="3.75" fill="url(#b2ab4071-529d-4450-9443-e6dc0939cc4e)"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="60.0518" x="63.5613" y="1050.0564">My Customers</text><!--MD5=[909249635cb913ac42f02201de036c92]
+entity ApplicationInsights--><rect fill="#FFFFFF" height="82.6078" style="stroke:#3C7FC0;stroke-width:0.0;" width="65.511" x="574.0015" y="331.4242"/> --><svg x="585.6999" y="339.2232"><g transform="scale(2.3397,2.3397)" ><defs><radialGradient id="a7a1c431-6c6d-4a8f-9a69-8da437e5b0c5" cx="9" cy="7.35" r="6.42" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b77af4"
+---
+
+ --><stop offset="0.21" stop-color="#b378f2"
+---
+
+ --><stop offset="0.43" stop-color="#a672ed"
+---
+
+ --><stop offset="0.65" stop-color="#9267e4"
+---
+
+ --><stop offset="0.88" stop-color="#7559d8"
+---
+
+ --><stop offset="1" stop-color="#624fd0"
+---
+
+ --></radialGradient><linearGradient id="ec0c4f0d-5c8e-4882-96a1-89d61808eb49" x1="9.02" y1="3.91" x2="9.08" y2="11.49" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f2f2f2"
+---
+
+ --><stop offset="0.23" stop-color="#f1f1f2" stop-opacity="0.99"
+---
+
+ --><stop offset="0.37" stop-color="#ededf1" stop-opacity="0.95"
+---
+
+ --><stop offset="0.48" stop-color="#e7e5f0" stop-opacity="0.89"
+---
+
+ --><stop offset="0.58" stop-color="#dedbee" stop-opacity="0.81"
+---
+
+ --><stop offset="0.67" stop-color="#d3ceeb" stop-opacity="0.7"
+---
+
+ --><stop offset="0.76" stop-color="#c4bee8" stop-opacity="0.57"
+---
+
+ --><stop offset="0.84" stop-color="#b4abe5" stop-opacity="0.41"
+---
+
+ --><stop offset="0.92" stop-color="#a095e1" stop-opacity="0.22"
+---
+
+ --><stop offset="0.99" stop-color="#8b7ddc" stop-opacity="0.02"
+---
+
+ --><stop offset="1" stop-color="#897bdc" stop-opacity="0"
+---
+
+ --></linearGradient></defs><title>Icon-manage-310</title><path d="M10.23,17.39l.81-.87V14.2H7v2.32l.81.87A.32.32,0,0,0,8,17.5h2A.32.32,0,0,0,10.23,17.39Z" fill="#cecece"
+---
+
+ --><path d="M9,.5A5.89,5.89,0,0,0,3.09,7.07c.27,2.47,2.62,3.62,3.29,6.75a.49.49,0,0,0,.47.38h4.3a.49.49,0,0,0,.47-.38c.67-3.13,3-4.28,3.29-6.75A5.89,5.89,0,0,0,9,.5ZM7,14.2" fill="url(#a7a1c431-6c6d-4a8f-9a69-8da437e5b0c5)"
+---
+
+ --><path d="M11.46,3.79a1.4,1.4,0,0,0-1.35,1.44V6H8V5.23A1.41,1.41,0,0,0,6.59,3.79,1.4,1.4,0,0,0,5.24,5.23,1.41,1.41,0,0,0,6.59,6.68h.64v6a.36.36,0,0,0,.72,0v-6h2.16v6a.36.36,0,1,0,.72,0v-6h.63a1.4,1.4,0,0,0,1.35-1.45A1.4,1.4,0,0,0,11.46,3.79ZM7.23,6H6.55a.74.74,0,0,1-.68-.77.74.74,0,0,1,.68-.77.74.74,0,0,1,.68.77Zm4.28,0h-.68V5.19a.68.68,0,1,1,1.35,0A.73.73,0,0,1,11.51,6Z" fill="url(#ec0c4f0d-5c8e-4882-96a1-89d61808eb49)"
+---
+
+ --><polygon points="6.96 15.8 11.04 15.01 11.04 14.56 6.96 15.36 6.96 15.8" fill="#999"
+---
+
+ --><polygon points="11.04 16.11 11.04 15.67 6.96 16.48 6.96 16.52 7.27 16.86 11.04 16.11" fill="#999"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="47.5735" x="581.8005" y="391.4364">Application</text><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="31.9756" x="590.7692" y="403.8842">Insights</text><!--MD5=[dec0f8f83491cc1de6303658cc9d2eb8]
+entity ContainerInstances--><rect fill="#FFFFFF" height="82.6078" style="stroke:#3C7FC0;stroke-width:0.0;" width="58.492" x="667.1988" y="331.4242"/> --><svg x="675.3877" y="339.2232"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="f7543904-4a89-435e-96cd-11521c829faa" x1="9" y1="11.95" x2="9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+---
+
+ --><stop offset="0.16" stop-color="#1380da"
+---
+
+ --><stop offset="0.53" stop-color="#3c91e5"
+---
+
+ --><stop offset="0.82" stop-color="#559cec"
+---
+
+ --><stop offset="1" stop-color="#5ea0ef"
+---
+
+ --></linearGradient></defs><title>Icon-containers-104</title><path d="M17.43,8.21a3.78,3.78,0,0,0-3.29-3.64A4.77,4.77,0,0,0,9.22,0,4.91,4.91,0,0,0,4.54,3.19a4.52,4.52,0,0,0-4,4.35A4.6,4.6,0,0,0,5.32,12l.42,0h7.68l.21,0A3.84,3.84,0,0,0,17.43,8.21Z" fill="url(#f7543904-4a89-435e-96cd-11521c829faa)"
+---
+
+ --><path d="M6.36,6.46,9,3.87a.3.3,0,0,1,.43,0L12,6.46a.13.13,0,0,1-.1.23H10.28a.15.15,0,0,0-.14.14v3.24a.11.11,0,0,1-.11.11H8.29a.11.11,0,0,1-.11-.11V6.83a.14.14,0,0,0-.13-.14H6.45A.13.13,0,0,1,6.36,6.46Z" fill="#f2f2f2"
+---
+
+ --><path d="M14,11.37a.13.13,0,0,0-.09-.13L9.16,9.65H9V18h.13l4.71-1.88A.13.13,0,0,0,14,16Z" fill="#a67af4"
+---
+
+ --><path d="M9,9.68l-4.51.83a.14.14,0,0,0-.12.13v6.23a.15.15,0,0,0,.11.14L9,18a.13.13,0,0,0,.16-.13v-8A.14.14,0,0,0,9,9.68Z" fill="#552f99"
+---
+
+ --><polygon points="6.92 10.92 6.92 16.73 8.49 16.98 8.49 10.65 6.92 10.92" fill="#b77af4" opacity="0.75"
+---
+
+ --><polygon points="4.98 11.24 4.98 16.32 6.35 16.6 6.35 11.01 4.98 11.24" fill="#b77af4" opacity="0.75"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="40.5545" x="674.9977" y="391.4364">Container</text><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="38.2148" x="677.3374" y="403.8842">Instances</text><!--MD5=[220ee8742bed45e4d6ead8b1dae0646c]
+entity VirtualMachine--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="80.329" x="752.9871" y="337.6634"/> --><svg x="772.0944" y="345.4623"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="f34d9569-2bd0-4002-8f16-3d01d8106cb5" x1="8.88" y1="12.21" x2="8.88" y2="0.21" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+---
+
+ --><stop offset="0.82" stop-color="#5ea0ef"
+---
+
+ --></linearGradient><linearGradient id="bdb45a0b-eb58-4970-a60a-fb2ce314f866" x1="8.88" y1="16.84" x2="8.88" y2="12.21" gradientUnits="userSpaceOnUse"><stop offset="0.15" stop-color="#ccc"
+---
+
+ --><stop offset="1" stop-color="#707070"
+---
+
+ --></linearGradient></defs><title>Icon-compute-21</title><rect x="-0.12" y="0.21" width="18" height="12" rx="0.6" fill="url(#f34d9569-2bd0-4002-8f16-3d01d8106cb5)"
+---
+
+ --><polygon points="11.88 4.46 11.88 7.95 8.88 9.71 8.88 6.21 11.88 4.46" fill="#50e6ff"
+---
+
+ --><polygon points="11.88 4.46 8.88 6.22 5.88 4.46 8.88 2.71 11.88 4.46" fill="#c3f1ff"
+---
+
+ --><polygon points="8.88 6.22 8.88 9.71 5.88 7.95 5.88 4.46 8.88 6.22" fill="#9cebff"
+---
+
+ --><polygon points="5.88 7.95 8.88 6.21 8.88 9.71 5.88 7.95" fill="#c3f1ff"
+---
+
+ --><polygon points="11.88 7.95 8.88 6.21 8.88 9.71 11.88 7.95" fill="#9cebff"
+---
+
+ --><path d="M12.49,15.84c-1.78-.28-1.85-1.56-1.85-3.63H7.11c0,2.07-.06,3.35-1.84,3.63a1,1,0,0,0-.89,1h9A1,1,0,0,0,12.49,15.84Z" fill="url(#bdb45a0b-eb58-4970-a60a-fb2ce314f866)"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="64.7312" x="760.786" y="397.6756">Virtual Machine</text><!--MD5=[d20134ed74e3d8ec1eacbc2e892e22c2]
+entity SAPAzureMonitor--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="93.5872" x="861.0023" y="337.6634"/> --><svg x="886.7388" y="345.4623"><defs><linearGradient id="aeb3bebf-e891-43d3-b045-06c026f5040e" x1="9" y1="14.633" x2="9" y2="1.875" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+---
+
+ --><stop offset="1" stop-color="#5ea0ef"
+---
+
+ --></linearGradient><linearGradient id="a1a3bad5-bba7-4b2b-aeca-10273cb8629a" x1="11.443" y1="9.184" x2="11.443" y2="15.325" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"
+---
+
+ --><stop offset="1" stop-color="#f2f2f2"
+---
+
+ --></linearGradient></defs><g transform="scale(2.3397,2.3397)"  id="bbaf661a-4927-421b-af2a-366eca680343"><path d="M18,10.637A4.044,4.044,0,0,0,14.49,6.75,5.1,5.1,0,0,0,9.24,1.875a5.229,5.229,0,0,0-5,3.408A4.826,4.826,0,0,0,0,9.927a4.9,4.9,0,0,0,5.068,4.706c.151,0,.3-.007.447-.019h8.207a.819.819,0,0,0,.217-.033A4.092,4.092,0,0,0,18,10.637Z" fill="url(#aeb3bebf-e891-43d3-b045-06c026f5040e)"
+---
+
+ --><path d="M11.442,8.286c3.862,0,6.221,2.874,6.41,6.8a.994.994,0,0,1-.992,1.043H6.026a1,1,0,0,1-.992-1.044C5.227,11.16,7.587,8.286,11.442,8.286Z" fill="#50e6ff"
+---
+
+ --><path d="M6.026,15.463a.324.324,0,0,1-.239-.1.329.329,0,0,1-.092-.246c.185-3.752,2.768-6.166,5.747-6.166s5.569,2.414,5.749,6.166a.329.329,0,0,1-.092.246.324.324,0,0,1-.239.1Z" fill="url(#a1a3bad5-bba7-4b2b-aeca-10273cb8629a)"
+---
+
+ --><path d="M14.55,11.02a4.648,4.648,0,0,0-2.777-1.185V12a2.6,2.6,0,0,1,1.291.551Z" fill="#9cebff"
+---
+
+ --><path d="M8.335,11.02l1.486,1.528A2.6,2.6,0,0,1,11.112,12V9.835A4.648,4.648,0,0,0,8.335,11.02Z" fill="#50e6ff"
+---
+
+ --><path d="M13.532,13.029a2.753,2.753,0,0,1,.535,1.327h2.1A4.926,4.926,0,0,0,15.018,11.5Z" fill="#9cebff"
+---
+
+ --><path d="M9.354,13.029,7.867,11.5a4.933,4.933,0,0,0-1.153,2.855h2.1A2.745,2.745,0,0,1,9.354,13.029Z" fill="#32bedd"
+---
+
+ --><path d="M15.31,12.555a.331.331,0,0,0-.428-.188l-3.1,1.236.241.616,3.1-1.235A.332.332,0,0,0,15.31,12.555Z" fill="#32bedd"
+---
+
+ --><circle cx="11.442" cy="14.049" r="0.904" fill="#767676"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="77.9893" x="868.8012" y="397.6756">SAP Azure Monitor</text><!--MD5=[63cd45bfe8ce5232e0cf4e791771f97b]
+entity Dashboard--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="60.0518" x="574.3915" y="512.7494"/> --><svg x="583.3602" y="520.5484"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="a09b0f0f-3d24-4aad-8fda-73f9dc8561f7" x1="9" y1="790.787" x2="9" y2="774.125" gradientTransform="matrix(1, 0, 0, -1, 0, 791.516)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#6cc6b9"
+---
+
+ --><stop offset="0.46" stop-color="#6ac4b7"
+---
+
+ --><stop offset="0.64" stop-color="#62bdb0"
+---
+
+ --><stop offset="0.77" stop-color="#56b1a4"
+---
+
+ --><stop offset="1" stop-color="#258277"
+---
+
+ --></linearGradient></defs><path d="M.549,2.636H17.461A.518.518,0,0,1,18,3.125v11.75a.518.518,0,0,1-.539.489H.549A.528.528,0,0,1,0,14.875V3.145a.529.529,0,0,1,.548-.509Z" fill="url(#a09b0f0f-3d24-4aad-8fda-73f9dc8561f7)"
+---
+
+ --><rect x="12.459" y="4.206" width="1.532" height="9.349" rx="0.147" fill="#fff" opacity="0.9"
+---
+
+ --><rect x="1.628" y="11.629" width="8.572" height="1.937" rx="0.159" fill="#fff" opacity="0.6"
+---
+
+ --><rect x="14.808" y="8.031" width="1.532" height="5.524" rx="0.113" fill="#fff" opacity="0.9"
+---
+
+ --><polygon points="9.117 4.772 6.987 8.562 4.734 6.267 2.412 9.278 2.956 9.705 4.798 7.329 7.136 9.715 9.72 5.119 9.117 4.772" fill="#fff"
+---
+
+ --><ellipse cx="4.761" cy="6.795" rx="0.876" ry="0.881" fill="#fff"
+---
+
+ --><ellipse cx="7.136" cy="8.979" rx="0.876" ry="0.881" fill="#fff"
+---
+
+ --><ellipse cx="9.341" cy="5.055" rx="0.876" ry="0.881" fill="#fff"
+---
+
+ --><ellipse cx="2.775" cy="9.363" rx="0.876" ry="0.881" fill="#fff"
+---
+
+ -->​</g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="44.4539" x="582.1904" y="572.7616">Dashboard</text><!--MD5=[196d6eeb2242891742fda3f334b4ab6e]
+entity Mobile--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="57.7121" x="662.1295" y="512.7494"/> --><svg x="669.9284" y="520.5484"><defs><linearGradient id="b861ecb1-69d3-40ff-b38a-443a49a377b1" x1="9" y1="22.81" x2="9" y2="-2.491" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+---
+
+ --><stop offset="0.165" stop-color="#1c84dc"
+---
+
+ --><stop offset="0.378" stop-color="#3990e4"
+---
+
+ --><stop offset="0.59" stop-color="#4d99ea"
+---
+
+ --><stop offset="0.799" stop-color="#5a9eee"
+---
+
+ --><stop offset="1" stop-color="#5ea0ef"
+---
+
+ --></linearGradient><linearGradient id="b829f877-fb68-49d0-8cb6-c12a07b10184" x1="9" y1="15.982" x2="9" y2="1.522" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#d2ebff"
+---
+
+ --><stop offset="0.997" stop-color="#f0fffd"
+---
+
+ --></linearGradient></defs><title>MsPortalFx.base.images-62</title><g transform="scale(2.3397,2.3397)"  id="abf8a417-4093-4c62-8738-0493c164e5d3"><g><rect x="3.612" width="10.777" height="18" rx="0.419" fill="url(#b861ecb1-69d3-40ff-b38a-443a49a377b1)"
+---
+
+ --><rect x="7.758" y="0.604" width="2.483" height="0.333" rx="0.154" fill="#f2f2f2"
+---
+
+ --><rect x="4.623" y="1.522" width="8.754" height="14.461" rx="0.201" opacity="0.9" fill="url(#b829f877-fb68-49d0-8cb6-c12a07b10184)"
+---
+
+ --><rect x="8.398" y="16.58" width="1.204" height="1.028" rx="0.286" fill="#f2f2f2"
+---
+
+ --><polygon points="11.882 7.378 11.882 10.624 9.077 12.255 9.077 9.004 11.882 7.378" fill="#005ba1"
+---
+
+ --><polygon points="11.882 7.378 9.078 9.009 6.272 7.378 9.078 5.747 11.882 7.378" fill="#5ea0ef"
+---
+
+ --><polygon points="9.077 9.009 9.077 12.255 6.272 10.624 6.272 7.378 9.077 9.009" fill="#0078d4"
+---
+
+ --></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="28.8561" x="676.5575" y="572.7616">Mobile</text><!--MD5=[2dfefee6a38302e72bd784a5dfa9766e]
 entity PowerBI--><rect fill="#FFFFFF" height="65.4806" style="stroke:#3C7FC0;stroke-width:0.0;" width="71.7502" x="747.1379" y="515.0891"/> --><svg x="754.9368" y="522.888"><defs><style>.cls-1{fill:#f2c811;fill-rule:evenodd;}.cls-2{fill:none;}</style></defs><g transform="scale(2.3397,2.3397)"  id="group1031-1"><g id="group1032-2"><g id="shape1033-3"><path class="cls-1" d="M20.78,15.72V14.59h.54a1.75,1.75,0,0,0,1.73-1.87V2.86a1.64,1.64,0,0,0-1.53-1.74H2.85A1.65,1.65,0,0,0,1.13,2.67V12.72a1.75,1.75,0,0,0,1.72,1.87H3.4v1.13H2.85a3,3,0,0,1-2.85-3V2.86A2.87,2.87,0,0,1,2.85,0H21.32a2.88,2.88,0,0,1,2.86,2.86v9.86a3,3,0,0,1-2.86,3Z"/> --></g><g id="shape1034-5"><path class="cls-1" d="M6,16a1.36,1.36,0,0,1-1.32-1.39h0V11.4A1.36,1.36,0,0,1,6,10,1.36,1.36,0,0,1,7.34,11.4v3.21A1.36,1.36,0,0,1,6,16Zm4.16-.12a1.34,1.34,0,0,1-1.33-1.33V6.72a1.33,1.33,0,0,1,1.31-1.33,1.32,1.32,0,0,1,1.34,1.29v7.87a1.32,1.32,0,0,1-1.31,1.33Zm8.32,0a1.32,1.32,0,0,1-1.33-1.32V3.4a1.32,1.32,0,0,1,2.64,0V14.57a1.33,1.33,0,0,1-1.3,1.34Zm-4.16,0A1.34,1.34,0,0,1,13,14.6h0V8.68a1.33,1.33,0,0,1,2.65,0v5.95a1.34,1.34,0,0,1-1.32,1.35Z"/> --><path class="cls-2" d="M6,16a1.36,1.36,0,0,1-1.32-1.39h0V11.4A1.36,1.36,0,0,1,6,10,1.36,1.36,0,0,1,7.34,11.4v3.21A1.36,1.36,0,0,1,6,16H6m4.16-.12a1.34,1.34,0,0,1-1.33-1.33V6.72a1.33,1.33,0,0,1,1.31-1.33,1.32,1.32,0,0,1,1.34,1.29v7.87a1.32,1.32,0,0,1-1.31,1.33h0m8.32,0a1.32,1.32,0,0,1-1.33-1.32V3.4a1.32,1.32,0,0,1,2.64,0V14.57a1.33,1.33,0,0,1-1.3,1.34h0m-4.16,0A1.34,1.34,0,0,1,13,14.6h0V8.68a1.33,1.33,0,0,1,2.65,0v5.95a1.34,1.34,0,0,1-1.32,1.35"/> --></g></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="35.8751" x="765.0754" y="570.4219">Power BI</text><!--MD5=[6757d7b4f71705ae910dd07c422ad23a]
-entity Workbooks--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="62.3915" x="846.1843" y="512.7494"/> --><svg x="856.3229" y="520.5484"><defs><linearGradient id="bf27f400-3b83-4dfa-9afd-dbfe78240842" x1="8.881" y1="17.5" x2="8.881" y2="2.093" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4" /> --><stop offset="0.817" stop-color="#5ea0ef" /> --></linearGradient></defs><title>MsPortalFx.base.images-45</title><g transform="scale(2.3397,2.3397)"  id="ec8922f1-4baf-49ec-b516-cec52695ceb5"><g><path d="M2.659,2.109,3.87.7A.591.591,0,0,1,4.314.5H15.927a.813.813,0,0,1,.888.831v14.5a.59.59,0,0,1-.192.435l-1.308,1.191H3.444l-.8-.337Z" fill="#005ba1" /> --><path d="M3.633,2.1l.742-.846a.521.521,0,0,1,.393-.179H15.614a.522.522,0,0,1,.522.522V15.383a.521.521,0,0,1-.171.386l-1.158,1.055Z" fill="#fff" /> --><path d="M14.736,2.093H2.7a.056.056,0,0,0-.056.056V17.115a.385.385,0,0,0,.385.385h11.71a.385.385,0,0,0,.385-.385V2.478A.386.386,0,0,0,14.736,2.093Z" fill="url(#bf27f400-3b83-4dfa-9afd-dbfe78240842)" /> --><rect x="6.028" y="6.2" width="6.005" height="2.382" rx="0.27" fill="#fff" /> --><rect x="1.185" y="3.608" width="2.448" height="1.441" rx="0.59" fill="#005ba1" /> --><rect x="1.185" y="6.346" width="2.448" height="1.441" rx="0.59" fill="#005ba1" /> --><rect x="1.185" y="9.084" width="2.448" height="1.441" rx="0.59" fill="#005ba1" /> --><rect x="1.185" y="11.821" width="2.448" height="1.441" rx="0.59" fill="#005ba1" /> --><rect x="1.185" y="14.559" width="2.448" height="1.441" rx="0.59" fill="#005ba1" /> --></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="46.7936" x="853.9832" y="572.7616">Workbooks</text><!--MD5=[3e4e5020858011ed37e11e185bc2b1e4]
-entity AnalysisServices--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="84.2285" x="574.0015" y="671.8477"/> --><svg x="595.0586" y="679.6466"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="fd591b35-0e01-4610-a025-8e017443b6ca" x1="3.96" y1="2.52" x2="3.96" y2="7.82" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32d4f5" /> --><stop offset="1" stop-color="#198ab3" /> --></linearGradient><linearGradient id="bded69e0-afb1-4c25-aa81-a799bd12553b" x1="14.04" y1="5.58" x2="14.04" y2="10.89" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32d4f5" /> --><stop offset="1" stop-color="#198ab3" /> --></linearGradient><linearGradient id="f25b6c72-365d-4ac2-a15c-1cace994f1e6" x1="5.29" y1="10.18" x2="5.29" y2="15.48" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32d4f5" /> --><stop offset="1" stop-color="#198ab3" /> --></linearGradient></defs><title>Icon-analytics-148</title><rect x="0.5" y="2.52" width="6.92" height="5.31" rx="0.28" fill="url(#fd591b35-0e01-4610-a025-8e017443b6ca)" /> --><rect x="10.58" y="5.58" width="6.92" height="5.31" rx="0.28" fill="url(#bded69e0-afb1-4c25-aa81-a799bd12553b)" /> --><rect x="1.82" y="10.18" width="6.92" height="5.31" rx="0.42" fill="url(#f25b6c72-365d-4ac2-a15c-1cace994f1e6)" /> --><path d="M13.15,8.92l.23-.64L4.82,5.13l-.23.63Zm.53-.09-.32-.6L5.29,12.48l.31.6ZM5,13.37l.67-.12L4.31,5.54l-.67.12Z" fill="#773adc" /> --><circle cx="14.04" cy="8.23" r="1.08" transform="translate(-2.23 8.81) rotate(-32.41)" fill="#fff" /> --><circle cx="3.96" cy="5.17" r="1.08" transform="translate(-2.15 2.93) rotate(-32.41)" fill="#fff" /> --><circle cx="5.29" cy="12.83" r="1.08" transform="translate(-6.05 4.83) rotate(-32.41)" fill="#fff" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="68.6306" x="581.8005" y="731.8599">Analysis Services</text><!--MD5=[8d03ed8981b71250d4444418ab80479c]
-entity LogAnalyticsWorkspaces--><rect fill="#FFFFFF" height="82.6078" style="stroke:#3C7FC0;stroke-width:0.0;" width="73.31" x="685.5263" y="665.6085"/> --><svg x="701.1241" y="673.4075"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="a997e203-1d7d-4cb9-b131-5dc44e029b46" x1="5.23" y1="17.45" x2="5.23" y2="8.09" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1988d9" /> --><stop offset="0.9" stop-color="#54aef0" /> --></linearGradient><linearGradient id="e122e9d8-aee5-4f1a-a60e-b1eae355daa5" x1="11.5" y1="12.45" x2="11.5" y2="0.55" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#198ab3" /> --><stop offset="0.01" stop-color="#198bb4" /> --><stop offset="0.44" stop-color="#27b2d7" /> --><stop offset="0.79" stop-color="#2fcbed" /> --><stop offset="1" stop-color="#32d4f5" /> --></linearGradient></defs><title>Icon-manage-307</title><path d="M5.59,13.13H9.91v4.32H5.59ZM1.15,17.45H4.87V13.13H.55v3.72A.6.6,0,0,0,1.15,17.45Zm-.6-5H4.87V8.09H.55Z" fill="url(#a997e203-1d7d-4cb9-b131-5dc44e029b46)" /> --><path d="M11.5.55a5.89,5.89,0,0,1,5.95,6,5.89,5.89,0,0,1-5.95,5.95H5.55V6.5A5.89,5.89,0,0,1,11.5.55Z" fill-rule="evenodd" fill="url(#e122e9d8-aee5-4f1a-a60e-b1eae355daa5)" /> --><rect x="7.59" y="5.65" width="1.36" height="4.08" fill="#fff" /> --><rect x="10.31" y="7.01" width="1.36" height="2.72" fill="#fff" /> --><rect x="13.03" y="4.29" width="1.36" height="5.44" fill="#fff" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="55.3724" x="693.3252" y="725.6207">Log Analytics</text><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="49.1333" x="697.6146" y="738.0685">Workspaces</text><!--MD5=[63a0bd6abc7f91fa757a1dc71de1528c]
-entity Alerts--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="57.7121" x="574.0015" y="830.9459"/> --><svg x="581.8005" y="838.7449"><defs><linearGradient id="e4e1e494-21f1-4e9c-a6fa-0993efff08d3" x1="9" y1="17.2" x2="9" y2="-3.28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5e9624" /> --><stop offset="0.18" stop-color="#629c25" /> --><stop offset="0.44" stop-color="#6dae2a" /> --><stop offset="0.73" stop-color="#7fcb30" /> --><stop offset="0.82" stop-color="#86d633" /> --></linearGradient></defs><g transform="scale(2.3397,2.3397)" ><path d="M17.5,2.5V13.33a.58.58,0,0,1-.58.58H12.4a.15.15,0,0,0-.15.14V15.8a.28.28,0,0,1-.45.23L9.08,13.94l-.09,0H1.08a.58.58,0,0,1-.58-.58V2.5a.58.58,0,0,1,.58-.59H16.92A.58.58,0,0,1,17.5,2.5Z" fill="url(#e4e1e494-21f1-4e9c-a6fa-0993efff08d3)" /> --><path d="M9.54,9.63H8.38A.36.36,0,0,1,8,9.29L7.8,3.43a.35.35,0,0,1,.35-.36h1.7a.35.35,0,0,1,.35.37L9.89,9.3A.35.35,0,0,1,9.54,9.63Z" fill="#fff" /> --><rect x="8.13" y="10.62" width="1.69" height="1.69" rx="0.61" fill="#fff" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="23.3968" x="591.1592" y="890.9581">Alerts</text><!--MD5=[53ca6d8bac37bda1a0168b92f09eecba]
-entity VMScaleSets--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="71.7502" x="659.0099" y="830.9459"/> --><svg x="673.8279" y="838.7449"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="b816c8ea-05a2-41fb-ba99-96d84599c9f4" x1="12.74" y1="15.28" x2="12.74" y2="8.52" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4" /> --><stop offset="0.82" stop-color="#5ea0ef" /> --></linearGradient><linearGradient id="ab373d88-41af-4fc3-b172-d4489f9107a0" x1="12.74" y1="17.89" x2="12.74" y2="15.28" gradientUnits="userSpaceOnUse"><stop offset="0.15" stop-color="#ccc" /> --><stop offset="1" stop-color="#707070" /> --></linearGradient></defs><title>Icon-compute-34</title><rect x="0.79" y="0.89" width="10.11" height="6.75" rx="0.34" fill="#005ba1" /> --><polygon points="7.53 3.28 7.53 5.25 5.85 6.23 5.85 4.27 7.53 3.28" fill="#50e6ff" /> --><polygon points="7.53 3.28 5.85 4.27 4.16 3.28 5.85 2.29 7.53 3.28" fill="#c3f1ff" /> --><polygon points="5.85 4.27 5.85 6.23 4.16 5.25 4.16 3.28 5.85 4.27" fill="#9cebff" /> --><rect x="4.76" y="4.76" width="10.11" height="6.75" rx="0.34" fill="#0078d4" /> --><polygon points="11.5 7.16 11.5 9.12 9.82 10.11 9.82 8.14 11.5 7.16" fill="#50e6ff" /> --><polygon points="11.5 7.16 9.82 8.14 8.13 7.16 9.82 6.17 11.5 7.16" fill="#c3f1ff" /> --><polygon points="9.82 8.14 9.82 10.11 8.13 9.12 8.13 7.16 9.82 8.14" fill="#9cebff" /> --><rect x="7.68" y="8.52" width="10.11" height="6.75" rx="0.34" fill="url(#b816c8ea-05a2-41fb-ba99-96d84599c9f4)" /> --><polygon points="14.42 10.92 14.42 12.88 12.74 13.87 12.74 11.9 14.42 10.92" fill="#50e6ff" /> --><polygon points="14.42 10.92 12.74 11.91 11.05 10.92 12.74 9.93 14.42 10.92" fill="#c3f1ff" /> --><polygon points="12.74 11.91 12.74 13.87 11.05 12.88 11.05 10.92 12.74 11.91" fill="#9cebff" /> --><polygon points="11.05 12.88 12.74 11.9 12.74 13.87 11.05 12.88" fill="#c3f1ff" /> --><polygon points="14.42 12.88 12.74 11.9 12.74 13.87 14.42 12.88" fill="#9cebff" /> --><path d="M14.76,17.32c-1-.16-1-.88-1-2h-2c0,1.16,0,1.88-1,2a.59.59,0,0,0-.5.57h5A.59.59,0,0,0,14.76,17.32Z" fill="url(#ab373d88-41af-4fc3-b172-d4489f9107a0)" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="56.1523" x="666.8088" y="890.9581">VM Scale Sets</text><!--MD5=[d86f3688527373ac508ddf728afb93a2]
-entity LogicApps--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="61.6116" x="574.3915" y="990.0442"/> --><svg x="584.1401" y="997.8431"><defs><linearGradient id="e20ae4ca-8128-4625-bcc6-863bc1bc51d9" x1="5.05" y1="10.55" x2="5.05" y2="13.48" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#76bc2d" /> --><stop offset="1" stop-color="#5e9624" /> --></linearGradient><linearGradient id="b6fa89de-29eb-462e-97de-5bdbdaeb090e" x1="12.84" y1="10.57" x2="12.84" y2="13.5" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#76bc2d" /> --><stop offset="1" stop-color="#5e9624" /> --></linearGradient></defs><title>Icon-integration-204</title><g transform="scale(2.3397,2.3397)" ><path d="M3.19,15.6a2.49,2.49,0,0,1-1.53-.38,1.7,1.7,0,0,1-.45-1.36V10.33c0-.58-.23-.89-.71-.89V8.56c.48,0,.71-.31.71-.92V4.17a1.79,1.79,0,0,1,.45-1.39A2.29,2.29,0,0,1,3.19,2.4v.89c-.51,0-.79.27-.79.85v3.4c0,.78-.23,1.26-.74,1.46a1.42,1.42,0,0,1,.74,1.46v3.37a1.25,1.25,0,0,0,.17.68.74.74,0,0,0,.58.2l0,.89Z" fill="#949494" /> --><path d="M14.81,2.4a2.49,2.49,0,0,1,1.53.38,1.7,1.7,0,0,1,.45,1.36V7.67c0,.58.23.89.71.89v.88c-.48,0-.71.31-.71.92v3.43a1.8,1.8,0,0,1-.45,1.4,2.28,2.28,0,0,1-1.53.41v-.89c.51,0,.79-.27.79-.85v-3.4c0-.78.23-1.26.74-1.46a1.42,1.42,0,0,1-.74-1.46V4.17a1.25,1.25,0,0,0-.17-.68.74.74,0,0,0-.58-.2Z" fill="#949494" /> --><path d="M9.41,8.35V7.08h-.9V8.35a.18.18,0,0,1-.18.18H5a.36.36,0,0,0-.36.36v1.65h.9V9.63a.18.18,0,0,1,.17-.18h6.54a.18.18,0,0,1,.18.18v.93h.89V8.89a.36.36,0,0,0-.35-.36H9.59A.18.18,0,0,1,9.41,8.35Z" fill="#005ba1" /> --><path d="M10.61,3.21H7.25a.38.38,0,0,0-.38.37V6.94a.37.37,0,0,0,.38.37h3.36A.37.37,0,0,0,11,6.94V3.58A.38.38,0,0,0,10.61,3.21Zm-.32,3.17a.25.25,0,0,1-.25.24H7.81a.25.25,0,0,1-.25-.24V4.15a.25.25,0,0,1,.25-.25H10a.25.25,0,0,1,.25.25Z" fill="#0078d4" /> --><rect x="3.58" y="10.55" width="2.94" height="2.94" rx="0.27" fill="url(#e20ae4ca-8128-4625-bcc6-863bc1bc51d9)" /> --><rect x="11.38" y="10.57" width="2.94" height="2.94" rx="0.27" fill="url(#b6fa89de-29eb-462e-97de-5bdbdaeb090e)" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="46.0137" x="582.1904" y="1050.0564">Logic Apps</text><!--MD5=[10fde560afb99a068cde2e4d3866c7b9]
-entity APIManagementServices--><rect fill="#FFFFFF" height="82.6078" style="stroke:#3C7FC0;stroke-width:0.0;" width="89.6877" x="663.2993" y="983.805"/> --><svg x="687.0861" y="991.604"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="bf8a9583-aae9-48ff-87d8-fb8f44e7d6bd" x1="9" y1="16.82" x2="9" y2="1.18" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#198ab3" /> --><stop offset="0.09" stop-color="#1f9dc4" /> --><stop offset="0.24" stop-color="#28b5d9" /> --><stop offset="0.4" stop-color="#2dc6e9" /> --><stop offset="0.57" stop-color="#31d1f2" /> --><stop offset="0.78" stop-color="#32d4f5" /> --></linearGradient><linearGradient id="f9b1bb8c-728e-4abf-bce5-6c11ac170c5b" x1="8.36" y1="11.35" x2="8.36" y2="14.46" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#c69aeb" /> --><stop offset="1" stop-color="#6f4bb2" /> --></linearGradient></defs><title>Icon-web-42</title><path d="M14.18,5.89A4.85,4.85,0,0,0,9.23,1.18,5,5,0,0,0,4.48,4.47,4.61,4.61,0,0,0,.5,9,4.67,4.67,0,0,0,5.29,13.5a3,3,0,0,0,.42,0h1.2a1.47,1.47,0,0,1-.11-.56v0A1.51,1.51,0,0,1,7,12.21H5.6l-.31,0A3.41,3.41,0,0,1,1.77,9,3.33,3.33,0,0,1,4.68,5.73l.76-.12.25-.73A3.73,3.73,0,0,1,9.23,2.45,3.6,3.6,0,0,1,12.91,5.9V7L14,7.15a2.59,2.59,0,0,1,2.26,2.49,2.63,2.63,0,0,1-2.62,2.54h-.15l-.08,0h-1A3.92,3.92,0,0,0,8.54,9a.64.64,0,1,0,0,1.27,2.65,2.65,0,0,1,0,5.29.64.64,0,1,0,0,1.27,3.92,3.92,0,0,0,3.87-3.34h1.05a.64.64,0,0,0,.2,0A3.91,3.91,0,0,0,17.5,9.64,3.86,3.86,0,0,0,14.18,5.89Z" fill="url(#bf8a9583-aae9-48ff-87d8-fb8f44e7d6bd)" /> --><rect x="6.8" y="11.35" width="3.12" height="3.12" rx="1.54" fill="url(#f9b1bb8c-728e-4abf-bce5-6c11ac170c5b)" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="71.7502" x="671.0982" y="1043.8172">API Management</text><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="32.7555" x="691.7654" y="1056.265">Services</text><!--MD5=[b5f71b4c79b11f7daaaeb2db7a18ec47]
-entity Metrics--><path d="M283.8812,341.9528 C283.8812,334.1538 312.7372,334.1538 312.7372,334.1538 C312.7372,334.1538 341.5933,334.1538 341.5933,341.9528 L341.5933,403.5339 C341.5933,411.3328 312.7372,411.3328 312.7372,411.3328 C312.7372,411.3328 283.8812,411.3328 283.8812,403.5339 L283.8812,341.9528 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.16984006092917;"/> --><path d="M283.8812,341.9528 C283.8812,349.7517 312.7372,349.7517 312.7372,349.7517 C312.7372,349.7517 341.5933,349.7517 341.5933,341.9528 " fill="none" style="stroke:#000000;stroke-width:1.16984006092917;"/> --><svg x="291.6801" y="352.8713"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="e1d73f47-752a-4159-9841-f0e298db8522" x1="6.57" y1="7.06" x2="6.57" y2="3.76" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#773adc" /> --><stop offset="1" stop-color="#b77af4" /> --></linearGradient><linearGradient id="e8c6440a-2701-4507-8d04-c5dedd18bcf2" x1="11.02" y1="11.15" x2="11.02" y2="7.86" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#773adc" /> --><stop offset="1" stop-color="#b77af4" /> --></linearGradient><linearGradient id="b40385c6-522c-4b7d-afa0-c8216f314bdf" x1="15.15" y1="3.79" x2="15.15" y2="0.5" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#773adc" /> --><stop offset="1" stop-color="#b77af4" /> --></linearGradient><linearGradient id="a5c9d1e7-33fb-4353-b4bd-5d3732a54634" x1="2.85" y1="11.86" x2="2.85" y2="8.57" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#773adc" /> --><stop offset="1" stop-color="#b77af4" /> --></linearGradient></defs><title>Icon-manage-319</title><polygon points="14.73 1.62 10.74 8.72 6.52 4.42 2.17 10.06 3.19 10.86 6.64 6.41 11.02 10.88 15.86 2.27 14.73 1.62" fill="#b796f9" /> --><ellipse cx="6.57" cy="5.41" rx="1.64" ry="1.65" fill="url(#e1d73f47-752a-4159-9841-f0e298db8522)" /> --><ellipse cx="11.02" cy="9.5" rx="1.64" ry="1.65" fill="url(#e8c6440a-2701-4507-8d04-c5dedd18bcf2)" /> --><ellipse cx="15.15" cy="2.15" rx="1.64" ry="1.65" fill="url(#b40385c6-522c-4b7d-afa0-c8216f314bdf)" /> --><ellipse cx="2.85" cy="10.22" rx="1.64" ry="1.65" fill="url(#a5c9d1e7-33fb-4353-b4bd-5d3732a54634)" /> --><rect x="5.67" y="9.92" width="2.58" height="7.58" rx="0.28" fill="#0078d4" /> --><rect x="9.78" y="12.54" width="2.58" height="4.96" rx="0.28" fill="#005ba1" /> --><rect x="13.89" y="7.38" width="2.58" height="10.12" rx="0.28" fill="#005ba1" /> --><rect x="1.56" y="12.54" width="2.58" height="4.96" rx="0.28" fill="#5ea0ef" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="30.4158" x="297.5293" y="405.0845">Metrics</text><!--MD5=[9bce44786166a533721cc3bc4b6e90b3]
-entity ActivityLog--><path d="M369.2795,341.9528 C369.2795,334.1538 401.6451,334.1538 401.6451,334.1538 C401.6451,334.1538 434.0107,334.1538 434.0107,341.9528 L434.0107,403.5339 C434.0107,411.3328 401.6451,411.3328 401.6451,411.3328 C401.6451,411.3328 369.2795,411.3328 369.2795,403.5339 L369.2795,341.9528 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.16984006092917;"/> --><path d="M369.2795,341.9528 C369.2795,349.7517 401.6451,349.7517 401.6451,349.7517 C401.6451,349.7517 434.0107,349.7517 434.0107,341.9528 " fill="none" style="stroke:#000000;stroke-width:1.16984006092917;"/> --><svg x="380.588" y="352.8713"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="f8a6a4fc-9e8d-423a-97d1-d514179ece73" x1="8.15" y1="17.5" x2="8.15" y2="2.09" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1988d9" /> --><stop offset="0.9" stop-color="#54aef0" /> --></linearGradient></defs><title>Icon-manage-305</title><path d="M1.93,2.11,3.14.7A.59.59,0,0,1,3.59.5H15.2a.81.81,0,0,1,.89.83v14.5a.57.57,0,0,1-.2.43l-1.3,1.19H2.72l-.81-.33Z" fill="#005ba1" /> --><path d="M2.91,2.1l.74-.84A.5.5,0,0,1,4,1.08H14.89a.52.52,0,0,1,.52.52V15.38a.52.52,0,0,1-.17.39l-1.16,1.05Z" fill="#fff" /> --><path d="M14,2.09H2a.06.06,0,0,0-.06.06v15a.39.39,0,0,0,.39.38H14a.38.38,0,0,0,.38-.38V2.48A.39.39,0,0,0,14,2.09Z" fill="url(#f8a6a4fc-9e8d-423a-97d1-d514179ece73)" /> --><rect x="4.72" y="6.2" width="6.58" height="2.38" rx="0.28" fill="#fff" /> --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="49.1333" x="377.0784" y="405.0845">Activity Log</text><!--MD5=[683b542119beebd0a072a322ba57815f]
+entity Workbooks--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="62.3915" x="846.1843" y="512.7494"/> --><svg x="856.3229" y="520.5484"><defs><linearGradient id="bf27f400-3b83-4dfa-9afd-dbfe78240842" x1="8.881" y1="17.5" x2="8.881" y2="2.093" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+---
+
+ --><stop offset="0.817" stop-color="#5ea0ef"
+---
+
+ --></linearGradient></defs><title>MsPortalFx.base.images-45</title><g transform="scale(2.3397,2.3397)"  id="ec8922f1-4baf-49ec-b516-cec52695ceb5"><g><path d="M2.659,2.109,3.87.7A.591.591,0,0,1,4.314.5H15.927a.813.813,0,0,1,.888.831v14.5a.59.59,0,0,1-.192.435l-1.308,1.191H3.444l-.8-.337Z" fill="#005ba1"
+---
+
+ --><path d="M3.633,2.1l.742-.846a.521.521,0,0,1,.393-.179H15.614a.522.522,0,0,1,.522.522V15.383a.521.521,0,0,1-.171.386l-1.158,1.055Z" fill="#fff"
+---
+
+ --><path d="M14.736,2.093H2.7a.056.056,0,0,0-.056.056V17.115a.385.385,0,0,0,.385.385h11.71a.385.385,0,0,0,.385-.385V2.478A.386.386,0,0,0,14.736,2.093Z" fill="url(#bf27f400-3b83-4dfa-9afd-dbfe78240842)"
+---
+
+ --><rect x="6.028" y="6.2" width="6.005" height="2.382" rx="0.27" fill="#fff"
+---
+
+ --><rect x="1.185" y="3.608" width="2.448" height="1.441" rx="0.59" fill="#005ba1"
+---
+
+ --><rect x="1.185" y="6.346" width="2.448" height="1.441" rx="0.59" fill="#005ba1"
+---
+
+ --><rect x="1.185" y="9.084" width="2.448" height="1.441" rx="0.59" fill="#005ba1"
+---
+
+ --><rect x="1.185" y="11.821" width="2.448" height="1.441" rx="0.59" fill="#005ba1"
+---
+
+ --><rect x="1.185" y="14.559" width="2.448" height="1.441" rx="0.59" fill="#005ba1"
+---
+
+ --></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="46.7936" x="853.9832" y="572.7616">Workbooks</text><!--MD5=[3e4e5020858011ed37e11e185bc2b1e4]
+entity AnalysisServices--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="84.2285" x="574.0015" y="671.8477"/> --><svg x="595.0586" y="679.6466"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="fd591b35-0e01-4610-a025-8e017443b6ca" x1="3.96" y1="2.52" x2="3.96" y2="7.82" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32d4f5"
+---
+
+ --><stop offset="1" stop-color="#198ab3"
+---
+
+ --></linearGradient><linearGradient id="bded69e0-afb1-4c25-aa81-a799bd12553b" x1="14.04" y1="5.58" x2="14.04" y2="10.89" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32d4f5"
+---
+
+ --><stop offset="1" stop-color="#198ab3"
+---
+
+ --></linearGradient><linearGradient id="f25b6c72-365d-4ac2-a15c-1cace994f1e6" x1="5.29" y1="10.18" x2="5.29" y2="15.48" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32d4f5"
+---
+
+ --><stop offset="1" stop-color="#198ab3"
+---
+
+ --></linearGradient></defs><title>Icon-analytics-148</title><rect x="0.5" y="2.52" width="6.92" height="5.31" rx="0.28" fill="url(#fd591b35-0e01-4610-a025-8e017443b6ca)"
+---
+
+ --><rect x="10.58" y="5.58" width="6.92" height="5.31" rx="0.28" fill="url(#bded69e0-afb1-4c25-aa81-a799bd12553b)"
+---
+
+ --><rect x="1.82" y="10.18" width="6.92" height="5.31" rx="0.42" fill="url(#f25b6c72-365d-4ac2-a15c-1cace994f1e6)"
+---
+
+ --><path d="M13.15,8.92l.23-.64L4.82,5.13l-.23.63Zm.53-.09-.32-.6L5.29,12.48l.31.6ZM5,13.37l.67-.12L4.31,5.54l-.67.12Z" fill="#773adc"
+---
+
+ --><circle cx="14.04" cy="8.23" r="1.08" transform="translate(-2.23 8.81) rotate(-32.41)" fill="#fff"
+---
+
+ --><circle cx="3.96" cy="5.17" r="1.08" transform="translate(-2.15 2.93) rotate(-32.41)" fill="#fff"
+---
+
+ --><circle cx="5.29" cy="12.83" r="1.08" transform="translate(-6.05 4.83) rotate(-32.41)" fill="#fff"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="68.6306" x="581.8005" y="731.8599">Analysis Services</text><!--MD5=[8d03ed8981b71250d4444418ab80479c]
+entity LogAnalyticsWorkspaces--><rect fill="#FFFFFF" height="82.6078" style="stroke:#3C7FC0;stroke-width:0.0;" width="73.31" x="685.5263" y="665.6085"/> --><svg x="701.1241" y="673.4075"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="a997e203-1d7d-4cb9-b131-5dc44e029b46" x1="5.23" y1="17.45" x2="5.23" y2="8.09" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1988d9"
+---
+
+ --><stop offset="0.9" stop-color="#54aef0"
+---
+
+ --></linearGradient><linearGradient id="e122e9d8-aee5-4f1a-a60e-b1eae355daa5" x1="11.5" y1="12.45" x2="11.5" y2="0.55" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#198ab3"
+---
+
+ --><stop offset="0.01" stop-color="#198bb4"
+---
+
+ --><stop offset="0.44" stop-color="#27b2d7"
+---
+
+ --><stop offset="0.79" stop-color="#2fcbed"
+---
+
+ --><stop offset="1" stop-color="#32d4f5"
+---
+
+ --></linearGradient></defs><title>Icon-manage-307</title><path d="M5.59,13.13H9.91v4.32H5.59ZM1.15,17.45H4.87V13.13H.55v3.72A.6.6,0,0,0,1.15,17.45Zm-.6-5H4.87V8.09H.55Z" fill="url(#a997e203-1d7d-4cb9-b131-5dc44e029b46)"
+---
+
+ --><path d="M11.5.55a5.89,5.89,0,0,1,5.95,6,5.89,5.89,0,0,1-5.95,5.95H5.55V6.5A5.89,5.89,0,0,1,11.5.55Z" fill-rule="evenodd" fill="url(#e122e9d8-aee5-4f1a-a60e-b1eae355daa5)"
+---
+
+ --><rect x="7.59" y="5.65" width="1.36" height="4.08" fill="#fff"
+---
+
+ --><rect x="10.31" y="7.01" width="1.36" height="2.72" fill="#fff"
+---
+
+ --><rect x="13.03" y="4.29" width="1.36" height="5.44" fill="#fff"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="55.3724" x="693.3252" y="725.6207">Log Analytics</text><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="49.1333" x="697.6146" y="738.0685">Workspaces</text><!--MD5=[63a0bd6abc7f91fa757a1dc71de1528c]
+entity Alerts--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="57.7121" x="574.0015" y="830.9459"/> --><svg x="581.8005" y="838.7449"><defs><linearGradient id="e4e1e494-21f1-4e9c-a6fa-0993efff08d3" x1="9" y1="17.2" x2="9" y2="-3.28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5e9624"
+---
+
+ --><stop offset="0.18" stop-color="#629c25"
+---
+
+ --><stop offset="0.44" stop-color="#6dae2a"
+---
+
+ --><stop offset="0.73" stop-color="#7fcb30"
+---
+
+ --><stop offset="0.82" stop-color="#86d633"
+---
+
+ --></linearGradient></defs><g transform="scale(2.3397,2.3397)" ><path d="M17.5,2.5V13.33a.58.58,0,0,1-.58.58H12.4a.15.15,0,0,0-.15.14V15.8a.28.28,0,0,1-.45.23L9.08,13.94l-.09,0H1.08a.58.58,0,0,1-.58-.58V2.5a.58.58,0,0,1,.58-.59H16.92A.58.58,0,0,1,17.5,2.5Z" fill="url(#e4e1e494-21f1-4e9c-a6fa-0993efff08d3)"
+---
+
+ --><path d="M9.54,9.63H8.38A.36.36,0,0,1,8,9.29L7.8,3.43a.35.35,0,0,1,.35-.36h1.7a.35.35,0,0,1,.35.37L9.89,9.3A.35.35,0,0,1,9.54,9.63Z" fill="#fff"
+---
+
+ --><rect x="8.13" y="10.62" width="1.69" height="1.69" rx="0.61" fill="#fff"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="23.3968" x="591.1592" y="890.9581">Alerts</text><!--MD5=[53ca6d8bac37bda1a0168b92f09eecba]
+entity VMScaleSets--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="71.7502" x="659.0099" y="830.9459"/> --><svg x="673.8279" y="838.7449"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="b816c8ea-05a2-41fb-ba99-96d84599c9f4" x1="12.74" y1="15.28" x2="12.74" y2="8.52" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+---
+
+ --><stop offset="0.82" stop-color="#5ea0ef"
+---
+
+ --></linearGradient><linearGradient id="ab373d88-41af-4fc3-b172-d4489f9107a0" x1="12.74" y1="17.89" x2="12.74" y2="15.28" gradientUnits="userSpaceOnUse"><stop offset="0.15" stop-color="#ccc"
+---
+
+ --><stop offset="1" stop-color="#707070"
+---
+
+ --></linearGradient></defs><title>Icon-compute-34</title><rect x="0.79" y="0.89" width="10.11" height="6.75" rx="0.34" fill="#005ba1"
+---
+
+ --><polygon points="7.53 3.28 7.53 5.25 5.85 6.23 5.85 4.27 7.53 3.28" fill="#50e6ff"
+---
+
+ --><polygon points="7.53 3.28 5.85 4.27 4.16 3.28 5.85 2.29 7.53 3.28" fill="#c3f1ff"
+---
+
+ --><polygon points="5.85 4.27 5.85 6.23 4.16 5.25 4.16 3.28 5.85 4.27" fill="#9cebff"
+---
+
+ --><rect x="4.76" y="4.76" width="10.11" height="6.75" rx="0.34" fill="#0078d4"
+---
+
+ --><polygon points="11.5 7.16 11.5 9.12 9.82 10.11 9.82 8.14 11.5 7.16" fill="#50e6ff"
+---
+
+ --><polygon points="11.5 7.16 9.82 8.14 8.13 7.16 9.82 6.17 11.5 7.16" fill="#c3f1ff"
+---
+
+ --><polygon points="9.82 8.14 9.82 10.11 8.13 9.12 8.13 7.16 9.82 8.14" fill="#9cebff"
+---
+
+ --><rect x="7.68" y="8.52" width="10.11" height="6.75" rx="0.34" fill="url(#b816c8ea-05a2-41fb-ba99-96d84599c9f4)"
+---
+
+ --><polygon points="14.42 10.92 14.42 12.88 12.74 13.87 12.74 11.9 14.42 10.92" fill="#50e6ff"
+---
+
+ --><polygon points="14.42 10.92 12.74 11.91 11.05 10.92 12.74 9.93 14.42 10.92" fill="#c3f1ff"
+---
+
+ --><polygon points="12.74 11.91 12.74 13.87 11.05 12.88 11.05 10.92 12.74 11.91" fill="#9cebff"
+---
+
+ --><polygon points="11.05 12.88 12.74 11.9 12.74 13.87 11.05 12.88" fill="#c3f1ff"
+---
+
+ --><polygon points="14.42 12.88 12.74 11.9 12.74 13.87 14.42 12.88" fill="#9cebff"
+---
+
+ --><path d="M14.76,17.32c-1-.16-1-.88-1-2h-2c0,1.16,0,1.88-1,2a.59.59,0,0,0-.5.57h5A.59.59,0,0,0,14.76,17.32Z" fill="url(#ab373d88-41af-4fc3-b172-d4489f9107a0)"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="56.1523" x="666.8088" y="890.9581">VM Scale Sets</text><!--MD5=[d86f3688527373ac508ddf728afb93a2]
+entity LogicApps--><rect fill="#FFFFFF" height="70.1599" style="stroke:#3C7FC0;stroke-width:0.0;" width="61.6116" x="574.3915" y="990.0442"/> --><svg x="584.1401" y="997.8431"><defs><linearGradient id="e20ae4ca-8128-4625-bcc6-863bc1bc51d9" x1="5.05" y1="10.55" x2="5.05" y2="13.48" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#76bc2d"
+---
+
+ --><stop offset="1" stop-color="#5e9624"
+---
+
+ --></linearGradient><linearGradient id="b6fa89de-29eb-462e-97de-5bdbdaeb090e" x1="12.84" y1="10.57" x2="12.84" y2="13.5" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#76bc2d"
+---
+
+ --><stop offset="1" stop-color="#5e9624"
+---
+
+ --></linearGradient></defs><title>Icon-integration-204</title><g transform="scale(2.3397,2.3397)" ><path d="M3.19,15.6a2.49,2.49,0,0,1-1.53-.38,1.7,1.7,0,0,1-.45-1.36V10.33c0-.58-.23-.89-.71-.89V8.56c.48,0,.71-.31.71-.92V4.17a1.79,1.79,0,0,1,.45-1.39A2.29,2.29,0,0,1,3.19,2.4v.89c-.51,0-.79.27-.79.85v3.4c0,.78-.23,1.26-.74,1.46a1.42,1.42,0,0,1,.74,1.46v3.37a1.25,1.25,0,0,0,.17.68.74.74,0,0,0,.58.2l0,.89Z" fill="#949494"
+---
+
+ --><path d="M14.81,2.4a2.49,2.49,0,0,1,1.53.38,1.7,1.7,0,0,1,.45,1.36V7.67c0,.58.23.89.71.89v.88c-.48,0-.71.31-.71.92v3.43a1.8,1.8,0,0,1-.45,1.4,2.28,2.28,0,0,1-1.53.41v-.89c.51,0,.79-.27.79-.85v-3.4c0-.78.23-1.26.74-1.46a1.42,1.42,0,0,1-.74-1.46V4.17a1.25,1.25,0,0,0-.17-.68.74.74,0,0,0-.58-.2Z" fill="#949494"
+---
+
+ --><path d="M9.41,8.35V7.08h-.9V8.35a.18.18,0,0,1-.18.18H5a.36.36,0,0,0-.36.36v1.65h.9V9.63a.18.18,0,0,1,.17-.18h6.54a.18.18,0,0,1,.18.18v.93h.89V8.89a.36.36,0,0,0-.35-.36H9.59A.18.18,0,0,1,9.41,8.35Z" fill="#005ba1"
+---
+
+ --><path d="M10.61,3.21H7.25a.38.38,0,0,0-.38.37V6.94a.37.37,0,0,0,.38.37h3.36A.37.37,0,0,0,11,6.94V3.58A.38.38,0,0,0,10.61,3.21Zm-.32,3.17a.25.25,0,0,1-.25.24H7.81a.25.25,0,0,1-.25-.24V4.15a.25.25,0,0,1,.25-.25H10a.25.25,0,0,1,.25.25Z" fill="#0078d4"
+---
+
+ --><rect x="3.58" y="10.55" width="2.94" height="2.94" rx="0.27" fill="url(#e20ae4ca-8128-4625-bcc6-863bc1bc51d9)"
+---
+
+ --><rect x="11.38" y="10.57" width="2.94" height="2.94" rx="0.27" fill="url(#b6fa89de-29eb-462e-97de-5bdbdaeb090e)"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="46.0137" x="582.1904" y="1050.0564">Logic Apps</text><!--MD5=[10fde560afb99a068cde2e4d3866c7b9]
+entity APIManagementServices--><rect fill="#FFFFFF" height="82.6078" style="stroke:#3C7FC0;stroke-width:0.0;" width="89.6877" x="663.2993" y="983.805"/> --><svg x="687.0861" y="991.604"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="bf8a9583-aae9-48ff-87d8-fb8f44e7d6bd" x1="9" y1="16.82" x2="9" y2="1.18" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#198ab3"
+---
+
+ --><stop offset="0.09" stop-color="#1f9dc4"
+---
+
+ --><stop offset="0.24" stop-color="#28b5d9"
+---
+
+ --><stop offset="0.4" stop-color="#2dc6e9"
+---
+
+ --><stop offset="0.57" stop-color="#31d1f2"
+---
+
+ --><stop offset="0.78" stop-color="#32d4f5"
+---
+
+ --></linearGradient><linearGradient id="f9b1bb8c-728e-4abf-bce5-6c11ac170c5b" x1="8.36" y1="11.35" x2="8.36" y2="14.46" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#c69aeb"
+---
+
+ --><stop offset="1" stop-color="#6f4bb2"
+---
+
+ --></linearGradient></defs><title>Icon-web-42</title><path d="M14.18,5.89A4.85,4.85,0,0,0,9.23,1.18,5,5,0,0,0,4.48,4.47,4.61,4.61,0,0,0,.5,9,4.67,4.67,0,0,0,5.29,13.5a3,3,0,0,0,.42,0h1.2a1.47,1.47,0,0,1-.11-.56v0A1.51,1.51,0,0,1,7,12.21H5.6l-.31,0A3.41,3.41,0,0,1,1.77,9,3.33,3.33,0,0,1,4.68,5.73l.76-.12.25-.73A3.73,3.73,0,0,1,9.23,2.45,3.6,3.6,0,0,1,12.91,5.9V7L14,7.15a2.59,2.59,0,0,1,2.26,2.49,2.63,2.63,0,0,1-2.62,2.54h-.15l-.08,0h-1A3.92,3.92,0,0,0,8.54,9a.64.64,0,1,0,0,1.27,2.65,2.65,0,0,1,0,5.29.64.64,0,1,0,0,1.27,3.92,3.92,0,0,0,3.87-3.34h1.05a.64.64,0,0,0,.2,0A3.91,3.91,0,0,0,17.5,9.64,3.86,3.86,0,0,0,14.18,5.89Z" fill="url(#bf8a9583-aae9-48ff-87d8-fb8f44e7d6bd)"
+---
+
+ --><rect x="6.8" y="11.35" width="3.12" height="3.12" rx="1.54" fill="url(#f9b1bb8c-728e-4abf-bce5-6c11ac170c5b)"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="71.7502" x="671.0982" y="1043.8172">API Management</text><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="32.7555" x="691.7654" y="1056.265">Services</text><!--MD5=[b5f71b4c79b11f7daaaeb2db7a18ec47]
+entity Metrics--><path d="M283.8812,341.9528 C283.8812,334.1538 312.7372,334.1538 312.7372,334.1538 C312.7372,334.1538 341.5933,334.1538 341.5933,341.9528 L341.5933,403.5339 C341.5933,411.3328 312.7372,411.3328 312.7372,411.3328 C312.7372,411.3328 283.8812,411.3328 283.8812,403.5339 L283.8812,341.9528 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.16984006092917;"/> --><path d="M283.8812,341.9528 C283.8812,349.7517 312.7372,349.7517 312.7372,349.7517 C312.7372,349.7517 341.5933,349.7517 341.5933,341.9528 " fill="none" style="stroke:#000000;stroke-width:1.16984006092917;"/> --><svg x="291.6801" y="352.8713"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="e1d73f47-752a-4159-9841-f0e298db8522" x1="6.57" y1="7.06" x2="6.57" y2="3.76" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#773adc"
+---
+
+ --><stop offset="1" stop-color="#b77af4"
+---
+
+ --></linearGradient><linearGradient id="e8c6440a-2701-4507-8d04-c5dedd18bcf2" x1="11.02" y1="11.15" x2="11.02" y2="7.86" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#773adc"
+---
+
+ --><stop offset="1" stop-color="#b77af4"
+---
+
+ --></linearGradient><linearGradient id="b40385c6-522c-4b7d-afa0-c8216f314bdf" x1="15.15" y1="3.79" x2="15.15" y2="0.5" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#773adc"
+---
+
+ --><stop offset="1" stop-color="#b77af4"
+---
+
+ --></linearGradient><linearGradient id="a5c9d1e7-33fb-4353-b4bd-5d3732a54634" x1="2.85" y1="11.86" x2="2.85" y2="8.57" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#773adc"
+---
+
+ --><stop offset="1" stop-color="#b77af4"
+---
+
+ --></linearGradient></defs><title>Icon-manage-319</title><polygon points="14.73 1.62 10.74 8.72 6.52 4.42 2.17 10.06 3.19 10.86 6.64 6.41 11.02 10.88 15.86 2.27 14.73 1.62" fill="#b796f9"
+---
+
+ --><ellipse cx="6.57" cy="5.41" rx="1.64" ry="1.65" fill="url(#e1d73f47-752a-4159-9841-f0e298db8522)"
+---
+
+ --><ellipse cx="11.02" cy="9.5" rx="1.64" ry="1.65" fill="url(#e8c6440a-2701-4507-8d04-c5dedd18bcf2)"
+---
+
+ --><ellipse cx="15.15" cy="2.15" rx="1.64" ry="1.65" fill="url(#b40385c6-522c-4b7d-afa0-c8216f314bdf)"
+---
+
+ --><ellipse cx="2.85" cy="10.22" rx="1.64" ry="1.65" fill="url(#a5c9d1e7-33fb-4353-b4bd-5d3732a54634)"
+---
+
+ --><rect x="5.67" y="9.92" width="2.58" height="7.58" rx="0.28" fill="#0078d4"
+---
+
+ --><rect x="9.78" y="12.54" width="2.58" height="4.96" rx="0.28" fill="#005ba1"
+---
+
+ --><rect x="13.89" y="7.38" width="2.58" height="10.12" rx="0.28" fill="#005ba1"
+---
+
+ --><rect x="1.56" y="12.54" width="2.58" height="4.96" rx="0.28" fill="#5ea0ef"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="30.4158" x="297.5293" y="405.0845">Metrics</text><!--MD5=[9bce44786166a533721cc3bc4b6e90b3]
+entity ActivityLog--><path d="M369.2795,341.9528 C369.2795,334.1538 401.6451,334.1538 401.6451,334.1538 C401.6451,334.1538 434.0107,334.1538 434.0107,341.9528 L434.0107,403.5339 C434.0107,411.3328 401.6451,411.3328 401.6451,411.3328 C401.6451,411.3328 369.2795,411.3328 369.2795,403.5339 L369.2795,341.9528 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.16984006092917;"/> --><path d="M369.2795,341.9528 C369.2795,349.7517 401.6451,349.7517 401.6451,349.7517 C401.6451,349.7517 434.0107,349.7517 434.0107,341.9528 " fill="none" style="stroke:#000000;stroke-width:1.16984006092917;"/> --><svg x="380.588" y="352.8713"><g transform="scale(2.3397,2.3397)" ><defs><linearGradient id="f8a6a4fc-9e8d-423a-97d1-d514179ece73" x1="8.15" y1="17.5" x2="8.15" y2="2.09" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1988d9"
+---
+
+ --><stop offset="0.9" stop-color="#54aef0"
+---
+
+ --></linearGradient></defs><title>Icon-manage-305</title><path d="M1.93,2.11,3.14.7A.59.59,0,0,1,3.59.5H15.2a.81.81,0,0,1,.89.83v14.5a.57.57,0,0,1-.2.43l-1.3,1.19H2.72l-.81-.33Z" fill="#005ba1"
+---
+
+ --><path d="M2.91,2.1l.74-.84A.5.5,0,0,1,4,1.08H14.89a.52.52,0,0,1,.52.52V15.38a.52.52,0,0,1-.17.39l-1.16,1.05Z" fill="#fff"
+---
+
+ --><path d="M14,2.09H2a.06.06,0,0,0-.06.06v15a.39.39,0,0,0,.39.38H14a.38.38,0,0,0,.38-.38V2.48A.39.39,0,0,0,14,2.09Z" fill="url(#f8a6a4fc-9e8d-423a-97d1-d514179ece73)"
+---
+
+ --><rect x="4.72" y="6.2" width="6.58" height="2.38" rx="0.28" fill="#fff"
+---
+
+ --></g></svg><text fill="#000000" font-family="Segoe UI" font-size="9.3587" lengthAdjust="spacing" textLength="49.1333" x="377.0784" y="405.0845">Activity Log</text><!--MD5=[683b542119beebd0a072a322ba57815f]
 link StaticApps to OperatingSystem--><!--MD5=[c1dc1abcc9be938f5cb4769d26e8e76e]
 link OperatingSystem to ResourceGroups--><!--MD5=[7e2420f2ea3b16cec6e4e36876070995]
 link ResourceGroups to Subscriptions--><!--MD5=[9ee5aa52f419e59189f6f23a25b3a219]

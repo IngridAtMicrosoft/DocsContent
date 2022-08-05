@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Onboarding and getting started"
 	description="Apollo migrated file - Onboarding and getting started"
     infoBubbleTest="Onboarding and getting started"
@@ -18,7 +10,7 @@ author: IngridAtMicrosoft
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="2a872b0b-2597-f8ed-7e22-7acc35de391b"
     resourcerequired="false"
-/> -->
+/>
 
 # Onboarding and getting started
 

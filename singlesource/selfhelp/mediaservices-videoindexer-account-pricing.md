@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
     pageTitle="Video Indexer Pricing"
     description="Video Indexer Pricing"
     infoBubbleText=""
@@ -23,7 +15,7 @@ author: IngridAtMicrosoft
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/> -->
+/>
 
 # Video Indexer’s pricing
 

@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-policies-quotas"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Apollo migrated file - Manage access policies quotas"
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="5d0175e0-fdc9-ecdd-07a2-9962b8c06ec1" /> -->
+  supporttopicids="5d0175e0-fdc9-ecdd-07a2-9962b8c06ec1"
+---
+
+
 # Manage access policies quotas
 
 ## Manage access policies quotas in Media Services

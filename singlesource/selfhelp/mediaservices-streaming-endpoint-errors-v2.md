@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   pagetitle="PackagingResolve packaging, origin or streaming endpoint errors"
   description="Apollo migrated file - Packaging, origin or streaming endpoint errors"
   ms.author="jiayali"
@@ -17,7 +9,10 @@ author: IngridAtMicrosoft
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   articleid="apollo-mediaservices-streaming-endpoint-errors"
   ownershipid="StorageMediaEdge_Media"
-  resourcerequired="False" /> -->
+  resourcerequired="False"
+---
+
+
 # Packaging, origin or streaming endpoint errors
 
 ## Resolve packaging, origin or streaming endpoint errors

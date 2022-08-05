@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Configuration and management"
 	description="Apollo migrated file - Configuration and management"
 	ms.author="akucer"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="01c8a5a6-0de9-9a25-1a04-2d334881938a"
     resourcerequired="false"
-/> -->
+/>
 
 # Configuration and management
 

@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
     pageTitle="What media file formats are supported by the recommended encoder?"
     description="What media file formats are supported by the recommended encoder?"
     service="microsoft.media"
@@ -21,7 +13,7 @@ author: IngridAtMicrosoft
     cloudEnvironments="public, fairfax, usnat, ussec"
  	articleId="38289a66-10ef-4a00-8bc2-af5c365479c9"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # What media file formats are supported by the recommended encoder?
 

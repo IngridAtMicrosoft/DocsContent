@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Need to scale Media Reserved Units"
 	description="Apollo migrated file - Need to scale Media Reserved Units"
 	ms.author="juliako"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="59b593df-9e6f-d4de-6346-fdfeb5b9deb2"
     resourcerequired="false"
-/> -->
+/>
 
 # Need to scale Media Reserved Units
 

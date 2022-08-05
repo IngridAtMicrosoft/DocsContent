@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Manage Assets quotas"
 	description="Apollo migrated file - Manage Assets quotas"
 	ms.author="juliako"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="6c6f629b-8fb4-b35c-0d70-0b994d1d23fc"
     resourcerequired="false"
-/> -->
+/>
 
 # Manage Assets quotas
 

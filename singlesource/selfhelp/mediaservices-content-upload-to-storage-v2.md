@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-content-upload-to-storage"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Apollo migrated file - Upload to storage"
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="5893fb6c-980f-e9a3-d487-be538ff15710" /> -->
+  supporttopicids="5893fb6c-980f-e9a3-d487-be538ff15710"
+---
+
+
 # Upload to storage
 
 ## Upload to storage in Media Services

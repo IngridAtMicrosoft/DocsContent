@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-accounts-linking-storage-accts"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Azure Media Services supports multiple storage accounts. You can link an existing storage account, or create a new storage account prior to the creation of your Media Services account and pass it in to the create call. Learn to do this by following recommended steps."
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="1b279143-929c-86e1-4c6c-18bc6a7fe2c5" /> -->
+  supporttopicids="1b279143-929c-86e1-4c6c-18bc6a7fe2c5"
+---
+
+
 # Azure Media Services linking and managing storage accounts
 
 ## Link and manage storage accounts in Azure Media Services

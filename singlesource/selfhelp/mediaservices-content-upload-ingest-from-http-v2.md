@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Upload from HTTP"
 	description="Apollo migrated file - Upload from HTTP"
 	ms.author="juliako"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="73c03300-8f12-3c79-e340-ae42408c61d6"
     resourcerequired="false"
-/> -->
+/>
 
 # Upload from HTTP
 

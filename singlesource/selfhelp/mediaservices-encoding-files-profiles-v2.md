@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Media Services: Profiles or custom profiles"
 	description="Apollo migrated file - Media Services: Profiles or custom profiles"
 	ms.author="juliako"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="86821d54-477e-9c74-fefa-9045782f6695"
     resourcerequired="false"
-/> -->
+/>
 
 # Media Services: Profiles or custom profiles
 

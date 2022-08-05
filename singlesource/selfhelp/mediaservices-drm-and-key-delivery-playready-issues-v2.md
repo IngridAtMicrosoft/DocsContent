@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Issues encrypting with PlayReady"
 	description="Apollo migrated file - Issues encrypting with PlayReady"
 	ms.author="juliako"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="b5aa7c16-f1c1-3092-0bb3-feaf27e6e4ee"
     resourcerequired="false"
-/> -->
+/>
 
 # Issues encrypting with PlayReady
 

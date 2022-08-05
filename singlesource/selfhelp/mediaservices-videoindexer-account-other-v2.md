@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-videoindexer-account-other"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Apollo migrated file - Account management"
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="28f503a1-1dae-fbf9-c9f2-ef0212bcfee1" /> -->
+  supporttopicids="28f503a1-1dae-fbf9-c9f2-ef0212bcfee1"
+---
+
+
 # Manage a Video Indexer account connected to Azure
 
 ## Learn to manage a Video Indexer account

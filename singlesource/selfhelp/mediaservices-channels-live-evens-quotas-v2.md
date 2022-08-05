@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
 	pageTitle="Manage quotas of Channels (v2)/Live Events (v3)"
 	description="Apollo migrated file - Manage quotas of Channels (v2)/Live Events (v3)"
 	ms.author="juliako"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="80c2815b-610f-963c-8d0d-3ad455edf7d7"
     resourcerequired="false"
-/> -->
+/>
 
 # Manage quotas of Channels (v2)/Live Events (v3)
 

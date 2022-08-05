@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-stream-files-streaming-endpoints"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Apollo migrated file - Streaming endpoints"
@@ -19,7 +11,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="16c919c7-e8da-2796-4e7d-69f69fac0e1a" /> -->
+  supporttopicids="16c919c7-e8da-2796-4e7d-69f69fac0e1a"
+---
+
+
 # Streaming endpoint
 
 ## Learn about Streaming endpoints

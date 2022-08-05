@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-drm-and-key-delivery-widevine-issues"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Apollo migrated file - Issues encrypting with Widevine"
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="020b987b-bb9e-b5a1-4284-e2ff977c3318" /> -->
+  supporttopicids="020b987b-bb9e-b5a1-4284-e2ff977c3318"
+---
+
+
 # Issues encrypting with Widevine
 
 ## Resolve issues encrypting with Widevine

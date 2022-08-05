@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-live-streaming-configure-channels-live-events"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Use our guidance to learn how to configure live streaming, including supported live encoders, using live events in the v3 API, and more."
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="35ba9292-e626-9c0b-fb2c-be68ffcf4e97" /> -->
+  supporttopicids="35ba9292-e626-9c0b-fb2c-be68ffcf4e97"
+---
+
+
 # How to configure live streaming?
 
 ## Learn to configure live streaming

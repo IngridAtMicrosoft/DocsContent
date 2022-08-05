@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
     pageTitle="Custom models"
     description="Apollo migrated file - Custom models"
     ms.author="t-reutam"
@@ -17,7 +9,7 @@ author: IngridAtMicrosoft
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="a8b604b7-336c-eb37-5811-da99ebc882ef"
     resourcerequired="false"
-/> -->
+/>
 
 # Custom models in Video Indexer
 

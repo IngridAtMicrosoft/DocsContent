@@ -1,12 +1,4 @@
 ---
-title: ""
-description: "Description goes here."
-ms.author: "inhenkel"
-ms.service: media-services
-author: IngridAtMicrosoft
----
-
-<!-- <properties
   articleid="apollo-mediaservices-stream-files-howto"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Apollo migrated file - Streaming files how-tos and tutorials"
@@ -18,7 +10,10 @@ author: IngridAtMicrosoft
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="f4ffb732-4cd6-59e9-6063-5ec1fbe2bef1" /> -->
+  supporttopicids="f4ffb732-4cd6-59e9-6063-5ec1fbe2bef1"
+---
+
+
 # Streaming media how-tos and tutorials
 
 ## Learn how to stream media with Azure Media Services
