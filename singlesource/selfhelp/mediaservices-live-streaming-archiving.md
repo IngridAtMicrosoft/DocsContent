@@ -1,5 +1,5 @@
 ---
-title: Archiving a live stream v2
+title: Archiving a live stream
 description: Archiving a live stream
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Archiving a live stream v2"
-	description="Archiving a live stream v2"
+	pageTitle="Archiving a live stream"
+	description="Archiving a live stream"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Archiving a live stream v2
+# Archiving a live stream
 
 **Media Services v3 (latest)**
 

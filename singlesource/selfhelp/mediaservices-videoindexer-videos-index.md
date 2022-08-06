@@ -1,5 +1,5 @@
 ---
-title: Indexing Videos v2
+title: Indexing Videos
 description: Indexing Videos
 ms.author: t-reutam
 authors: ReutAmior
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Indexing Videos v2"
-    description="Indexing Videos v2"
+    pageTitle="Indexing Videos"
+    description="Indexing Videos"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Indexing Videos v2
+# Indexing Videos
 
 When uploading videos with Video Indexer API, you have the following upload options:
 * Upload your video from a URL (preferred),

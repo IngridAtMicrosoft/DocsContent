@@ -1,5 +1,5 @@
 ---
-title: Azure Media Player browser and OS compatibility v2
+title: Azure Media Player browser and OS compatibility
 description: Azure Media Player browser and OS compatibility
 ms.author: johndeu
 authors: johndeu
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Azure Media Player browser and OS compatibility v2"
-	description="Azure Media Player browser and OS compatibility v2"
+	pageTitle="Azure Media Player browser and OS compatibility"
+	description="Azure Media Player browser and OS compatibility"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource=""
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Azure Media Player browser and OS compatibility v2
+# Azure Media Player browser and OS compatibility
 
 
 ### **What browsers and OS are supported for Media Player?**

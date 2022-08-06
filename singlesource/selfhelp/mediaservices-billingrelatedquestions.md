@@ -1,5 +1,5 @@
 ---
-title: Explanation of media services pricing v2
+title: Explanation of media services pricing
 description: I have a question regarding media services pricing
 ms.author: inhenkel
 authors: juliako
@@ -9,7 +9,7 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Explanation of media services pricing v2"
+    pageTitle="Explanation of media services pricing"
     description="I have a question regarding media services pricing"
     service="microsoft.media"
     resource="mediaservices"
@@ -24,7 +24,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Explanation of media services pricing v2
+# Explanation of media services pricing
 
 ## **Recommended documents**
 

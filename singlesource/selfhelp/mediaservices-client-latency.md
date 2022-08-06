@@ -1,5 +1,5 @@
 ---
-title: Client Latency v2
+title: Client Latency
 description: Client Latency
 ms.author: akucer
 authors: akucer
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Client Latency v2"
-	description="Client Latency v2"
+	pageTitle="Client Latency"
+	description="Client Latency"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
@@ -25,7 +25,7 @@ ms.date: 08/5/2022
 	cloudEnvironments="public, mooncake, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
 /> -->
-# Client Latency v2
+# Client Latency
 
 ## **Recommended Steps**
 

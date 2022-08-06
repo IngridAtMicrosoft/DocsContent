@@ -1,5 +1,5 @@
 ---
-title: How to configure content protection for your stream? v2
+title: How to configure content protection for your stream?
 description: How to configure content protection for your stream?
 ms.author: inhenkel
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="How to configure content protection for your stream? v2"
-    description="How to configure content protection for your stream? v2"
+    pageTitle="How to configure content protection for your stream?"
+    description="How to configure content protection for your stream?"
     service="microsoft.media"
     resource="mediaservices"
     authors="juliako"
@@ -24,7 +24,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# How to configure content protection for your stream? v2
+# How to configure content protection for your stream?
 
 ## **Recommended documents**
 

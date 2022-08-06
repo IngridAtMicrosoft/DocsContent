@@ -1,5 +1,5 @@
 ---
-title: How-to encrypt with DRM and use a license delivery service v2
+title: How-to encrypt with DRM and use a license delivery service
 description: How-to encrypt with DRM and use a license delivery service
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="How-to encrypt with DRM and use a license delivery service v2"
-	description="How-to encrypt with DRM and use a license delivery service v2"
+	pageTitle="How-to encrypt with DRM and use a license delivery service"
+	description="How-to encrypt with DRM and use a license delivery service"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# How-to encrypt with DRM and use a license delivery service v2
+# How-to encrypt with DRM and use a license delivery service
 
 Before implementing DRM encryption, review [Content protection overview](https://docs.microsoft.com/azure/media-services/latest/content-protection-overview). It is highly recommended to focus and fully test each part described in the [Main components of a content protection system](https://docs.microsoft.com/azure/media-services/latest/content-protection-overview#main-components-of-a-content-protection-system) section before moving onto the next part. To test your "content protection" system, use the tools specified in the section.
 

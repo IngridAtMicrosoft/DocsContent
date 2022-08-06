@@ -1,5 +1,5 @@
 ---
-title: Video Indexer Widgets v2
+title: Video Indexer Widgets
 description: Video Indexer Widgets
 ms.author: t-reutam
 authors: ReutAmior
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Video Indexer Widgets v2"
-    description="Video Indexer Widgets v2"
+    pageTitle="Video Indexer Widgets"
+    description="Video Indexer Widgets"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Video Indexer Widgets v2
+# Video Indexer Widgets
 
 Video Indexer supports embedding three types of widgets into your apps: _Cognitive Insights_, _Player_, and _Editor_.
 

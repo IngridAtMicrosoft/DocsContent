@@ -1,5 +1,5 @@
 ---
-title: Issues encrypting with PlayReady v2
+title: Issues encrypting with PlayReady
 description: Issues encrypting with PlayReady
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Issues encrypting with PlayReady v2"
-	description="Issues encrypting with PlayReady v2"
+	pageTitle="Issues encrypting with PlayReady"
+	description="Issues encrypting with PlayReady"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Issues encrypting with PlayReady v2
+# Issues encrypting with PlayReady
 
 **Media Services v3 (latest)**
 

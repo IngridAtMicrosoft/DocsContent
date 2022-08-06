@@ -1,5 +1,5 @@
 ---
-title: Create an Asset v2
+title: Create an Asset
 description: Create an Asset
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Create an Asset v2"
-	description="Create an Asset v2"
+	pageTitle="Create an Asset"
+	description="Create an Asset"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Create an Asset v2
+# Create an Asset
 
 **NOTE:** This topic references Media Services v3 API documentation. v3 is the latest Media Services version.
 
@@ -56,7 +56,7 @@ REST:
     PUT https://management.azure.com/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Media/mediaServices/{amsAccountName}/assets/{assetName}?api-version=2018-07-01
 ```
 
-Also, see the [Create an Asset v2 with REST](https://docs.microsoft.com/rest/api/media/assets/createorupdate#examples) example. The example shows how to create the **Request Body** where you can specify useful information like description, container name, storage account, and other information.
+Also, see the [Create an Asset with REST](https://docs.microsoft.com/rest/api/media/assets/createorupdate#examples) example. The example shows how to create the **Request Body** where you can specify useful information like description, container name, storage account, and other information.
 
 cURL:
 

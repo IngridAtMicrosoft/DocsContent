@@ -1,5 +1,5 @@
 ---
-title: Issues encrypting with AES-128 clear key v2
+title: Issues encrypting with AES-128 clear key
 description: Issues encrypting with AES-128 clear key
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Issues encrypting with AES-128 clear key v2"
-	description="Issues encrypting with AES-128 clear key v2"
+	pageTitle="Issues encrypting with AES-128 clear key"
+	description="Issues encrypting with AES-128 clear key"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Issues encrypting with AES-128 clear key v2
+# Issues encrypting with AES-128 clear key
 
 **Does offline playback work with AES-128 clear key encryption?**
 

@@ -1,5 +1,5 @@
 ---
-title: Azure Media Player how to embed the player v2
+title: Azure Media Player how to embed the player
 description: Azure Media Player how to embed the player
 ms.author: johndeu
 authors: johndeu
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Azure Media Player how to embed the player v2"
-	description="Azure Media Player how to embed the player v2"
+	pageTitle="Azure Media Player how to embed the player"
+	description="Azure Media Player how to embed the player"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource=""
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Azure Media Player how to embed the player v2
+# Azure Media Player how to embed the player
 
 ### **Quick Start on embedding the player**
 

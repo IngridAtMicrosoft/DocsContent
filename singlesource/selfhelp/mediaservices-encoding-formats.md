@@ -1,5 +1,5 @@
 ---
-title: What media file formats are supported by the recommended encoder? v2
+title: What media file formats are supported by the recommended encoder?
 description: What media file formats are supported by the recommended encoder?
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="What media file formats are supported by the recommended encoder? v2"
-    description="What media file formats are supported by the recommended encoder? v2"
+    pageTitle="What media file formats are supported by the recommended encoder?"
+    description="What media file formats are supported by the recommended encoder?"
     service="microsoft.media"
     resource="mediaservices"
     authors="juliako"
@@ -25,7 +25,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# What media file formats are supported by the recommended encoder? v2
+# What media file formats are supported by the recommended encoder?
 
 ## **Recommended documents**
 

@@ -1,5 +1,5 @@
 ---
-title: Live streaming and RTMP error v2
+title: Live streaming and RTMP error
 description: Live streaming and RTMP error
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Live streaming and RTMP error v2"
-	description="Live streaming and RTMP error v2"
+	pageTitle="Live streaming and RTMP error"
+	description="Live streaming and RTMP error"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource="liveevent"
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Live streaming and RTMP error v2
+# Live streaming and RTMP error
 
 When streaming via RTMP, check firewall and/or proxy settings to confirm that outbound TCP ports 1935 and 1936 are open.
 

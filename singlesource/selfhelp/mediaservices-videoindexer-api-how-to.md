@@ -1,5 +1,5 @@
 ---
-title: Using Video Indexer's API v2
+title: Using Video Indexer's API
 description: Using Video Indexer's API
 ms.author: t-reutam
 authors: ReutAmior
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Using Video Indexer's API v2"
-    description="Using Video Indexer's API v2"
+    pageTitle="Using Video Indexer's API"
+    description="Using Video Indexer's API"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Using Video Indexer's API v2
+# Using Video Indexer's API
 
 * [Video Indexer's Developer portal](https://api-portal.videoindexer.ai/)
 

@@ -1,5 +1,5 @@
 ---
-title: Streaming files how-tos and tutorials v2
+title: Streaming files how-tos and tutorials
 description: Streaming files how-tos and tutorials
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Streaming files how-tos and tutorials v2"
-	description="Streaming files how-tos and tutorials v2"
+	pageTitle="Streaming files how-tos and tutorials"
+	description="Streaming files how-tos and tutorials"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Streaming files how-tos and tutorials v2
+# Streaming files how-tos and tutorials
 
 ## **Recommended Documents**
 

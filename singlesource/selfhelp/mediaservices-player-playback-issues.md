@@ -1,5 +1,5 @@
 ---
-title: Azure Media Player playback issues v2
+title: Azure Media Player playback issues
 description: Azure Media Player playback issues
 ms.author: johndeu
 authors: johndeu
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Azure Media Player playback issues v2"
-	description="Azure Media Player playback issues v2"
+	pageTitle="Azure Media Player playback issues"
+	description="Azure Media Player playback issues"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource=""
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Azure Media Player playback issues v2
+# Azure Media Player playback issues
 
 ## **Recommended Steps**
 

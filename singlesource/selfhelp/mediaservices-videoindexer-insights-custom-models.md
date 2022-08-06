@@ -1,5 +1,5 @@
 ---
-title: Custom models v2
+title: Custom models
 description: Custom models
 ms.author: t-reutam
 authors: ReutAmior
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Custom models in Video Indexer v2
+# Custom models in Video Indexer
 
 Video Indexer allows you to customize some of its models to be adapted to your specific use case. These models include person, brands, language, and animation. You can easily customize these models using the Video Indexer website or API.
 

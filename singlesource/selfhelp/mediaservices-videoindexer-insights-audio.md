@@ -1,5 +1,5 @@
 ---
-title: Audio and Transcription v2
+title: Audio and Transcription
 description: Audio and Transcription
 ms.author: t-reutam
 authors: ReutAmior
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Audio and Transcription v2"
-    description="Audio and Transcription v2"
+    pageTitle="Audio and Transcription"
+    description="Audio and Transcription"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Audio and Transcription v2
+# Audio and Transcription
 
 Video Indexer converts speech to text in 12 languages and allows extensions. Supported languages include English, Spanish, French, German, Italian, Mandarin Chinese, Japanese, Arabic, Russian, Portuguese, Hindi, and Korean.
 

@@ -1,5 +1,5 @@
 ---
-title: Manage quotas of Channels (v2)/Live Events (v3) v2
+title: Manage quotas of Channels (v2)/Live Events (v3)
 description: Manage quotas of Channels (v2)/Live Events (v3)
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Manage quotas of Channels (v2)/Live Events (v3) v2"
-	description="Manage quotas of Channels (v2)/Live Events (v3) v2"
+	pageTitle="Manage quotas of Channels (v2)/Live Events (v3)"
+	description="Manage quotas of Channels (v2)/Live Events (v3)"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Manage quotas of Channels (v2)/Live Events (v3) v2
+# Manage quotas of Channels (v2)/Live Events (v3)
 
 There is a default (soft) limit of 5 live Channels (v2) and Live Events (v3) per Media Services account. You can open a support ticket to increase this quota. Make sure to include detailed information in the request on the desired quota changes, including your region and scale information.
 

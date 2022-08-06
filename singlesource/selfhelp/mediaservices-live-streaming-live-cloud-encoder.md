@@ -1,5 +1,5 @@
 ---
-title: Live streaming with a live cloud encoder v2
+title: Live streaming with a live cloud encoder
 description: Live streaming with a live cloud encoder
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Live streaming with a live cloud encoder v2"
-	description="Live streaming with a live cloud encoder v2"
+	pageTitle="Live streaming with a live cloud encoder"
+	description="Live streaming with a live cloud encoder"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource="liveevent"
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Live streaming with a live cloud encoder v2
+# Live streaming with a live cloud encoder
 
 When using live encoding with Media Services, you would configure your on-premises live encoder to send a single bitrate video as the contribution feed to the Channel (v2)/Live Event (v3) using RTMP or Fragmented-Mp4 protocol. The Channel/Live Event encodes that incoming single bitrate stream to a [multiple bitrate video stream](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming), makes it available for delivery to play back devices via protocols like MPEG-DASH, HLS, and Smooth Streaming.
 

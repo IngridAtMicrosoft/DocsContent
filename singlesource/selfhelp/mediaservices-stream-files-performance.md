@@ -1,5 +1,5 @@
 ---
-title: Streaming files performance v2
+title: Streaming files performance
 description: Streaming files performance
 ms.author: juliako
 authors: juliako
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Streaming files performance  v2
+# Streaming files performance
 
 **Streaming Endpoint types**
 

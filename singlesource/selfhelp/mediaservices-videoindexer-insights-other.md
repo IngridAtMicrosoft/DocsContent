@@ -1,5 +1,5 @@
 ---
-title: Cognitive insights in Video Indexer v2
+title: Cognitive insights in Video Indexer
 description: Cognitive insights in Video Indexer
 ms.author: t-reutam
 authors: ReutAmior
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Cognitive insights in Video Indexer v2"
-    description="Cognitive insights in Video Indexer v2"
+    pageTitle="Cognitive insights in Video Indexer"
+    description="Cognitive insights in Video Indexer"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Cognitive insights in Video Indexer v2
+# Cognitive insights in Video Indexer
 
 When you call the *Get Video Index API* and the response status is OK, you get a detailed JSON output as the response content. The JSON content contains details of the specified video insights. The insights include transcripts, OCRs, faces, topics, blocks, etc. Each insight type includes instances of time ranges that show when the insight appears in the video.
 

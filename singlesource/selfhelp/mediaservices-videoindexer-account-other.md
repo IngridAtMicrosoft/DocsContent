@@ -1,5 +1,5 @@
 ---
-title: Account management v2
+title: Account management
 description: Account management
 ms.author: t-reutam
 authors: ReutAmior
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Manage a Video Indexer account connected to Azure  v2
+# Manage a Video Indexer account connected to Azure
 
 [Learn how to manage a Video Indexer account](https://docs.microsoft.com/azure/media-services/video-indexer/manage-account-connected-to-azure) that's connected to your Azure subscription and an Azure Media Services account. You will learn how to:
 * Examine your account settings

@@ -1,5 +1,5 @@
 ---
-title: What are the capabilities of Media Analytics? v2
+title: What are the capabilities of Media Analytics?
 description: What are the capabilities of Media Analytics?
 ms.author: inhenkel
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="What are the capabilities of Media Analytics? v2"
-    description="What are the capabilities of Media Analytics? v2"
+    pageTitle="What are the capabilities of Media Analytics?"
+    description="What are the capabilities of Media Analytics?"
     service="microsoft.media"
     resource="mediaservices"
     authors="juliako"
@@ -24,7 +24,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# What are the capabilities of Media Analytics? v2
+# What are the capabilities of Media Analytics?
 
 ## **Recommended documents**
 
