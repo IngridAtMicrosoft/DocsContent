@@ -11,17 +11,17 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-drm-and-key-delivery-widevine-issues"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
-  description="Apollo migrated file - Issues encrypting with Widevine"
+  description="Apollo migrated file - Issues encrypting with Widevine v2"
   ms.author="jiayali"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Issues encrypting with Widevine"
+  pagetitle="Issues encrypting with Widevine v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="020b987b-bb9e-b5a1-4284-e2ff977c3318" /> -->
-# Issues encrypting with Widevine
+# Issues encrypting with Widevine v2
 
 ## Resolve issues encrypting with Widevine
 

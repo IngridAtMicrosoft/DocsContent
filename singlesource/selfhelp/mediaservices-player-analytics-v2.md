@@ -11,17 +11,17 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-player-analytics"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
-  description="Apollo migrated file - Azure Media Player analytics"
+  description="Apollo migrated file - Azure Media Player analytics v2"
   ms.author="jiayali"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Azure Media Player analytics"
+  pagetitle="Azure Media Player analytics v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="a9036f12-bfde-7afb-6d76-7a3b7bad3096" /> -->
-# Azure Media Player analytics
+# Azure Media Player analytics v2
 
 ## Understanding the client experience using analytics with Azure Media Player
 
@@ -39,7 +39,7 @@ CDN provides information about the general bandwidth, cache hit ratio, and cache
 
 For getting client playback experience and statistics, use the Azure Media Player plugin model with an analytics plugin. See, [AMP plugins](https://amp.azure.net/libs/amp/latest/docs/PLUGINS.html). These use the Azure Media Player API events to feed a database with the playback metrics. For more information on the Application Insights plugin see [Player analytics with Azure Media Player plugins](https://azure.microsoft.com/blog/player-analytics-azure-media-player-plugin/).
 
-**Plugins for Azure Media Player analytics**
+**Plugins for Azure Media Player analytics v2**
 
 * [Azure Application Insights plugin](https://azure.microsoft.com/blog/player-analytics-azure-media-player-plugin/)<br>
 * [Google Analytics plugin](https://github.com/Azure-Samples/media-services-javascript-azure-media-player-google-analytics-plugin)

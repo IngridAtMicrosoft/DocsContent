@@ -1,5 +1,5 @@
 ---
-title: Cognitive insights in Video Indexer
+title: Cognitive insights in Video Indexer v2
 description: Apollo migrated file - Cognitive insights in Video Indexer
 ms.author: t-reutam
 authors: no authors mediaservices-videoindexer-insights-other-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Cognitive insights in Video Indexer"
-    description="Apollo migrated file - Cognitive insights in Video Indexer"
+    pageTitle="Cognitive insights in Video Indexer v2"
+    description="Apollo migrated file - Cognitive insights in Video Indexer v2"
     ms.author="t-reutam"
     articleId="apollo-mediaservices-videoindexer-insights-other"
     selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Cognitive insights in Video Indexer
+# Cognitive insights in Video Indexer v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

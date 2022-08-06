@@ -11,19 +11,19 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-content-upload-to-storage"
   cloudenvironments="public,fairfax,usnat,ussec"
-  description="Apollo migrated file - Upload to storage"
+  description="Apollo migrated file - Upload to storage v2"
   ms.author="juliako,jiayali"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Upload to storage"
+  pagetitle="Upload to storage v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="5893fb6c-980f-e9a3-d487-be538ff15710" /> -->
-# Upload to storage
+# Upload to storage v2
 
-## Upload to storage in Media Services
+## Upload to storage v2 in Media Services
 
 
 **NOTE:** This topic references Media Services v3 API documentation. v3 is the latest Media Services version.

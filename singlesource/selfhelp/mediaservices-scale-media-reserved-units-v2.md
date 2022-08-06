@@ -1,5 +1,5 @@
 ---
-title: Need to scale Media Reserved Units
+title: Need to scale Media Reserved Units v2
 description: Apollo migrated file - Need to scale Media Reserved Units
 ms.author: juliako
 authors: no authors mediaservices-scale-media-reserved-units-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Need to scale Media Reserved Units"
-	description="Apollo migrated file - Need to scale Media Reserved Units"
+	pageTitle="Need to scale Media Reserved Units v2"
+	description="Apollo migrated file - Need to scale Media Reserved Units v2"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-scale-media-reserved-units"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Need to scale Media Reserved Units
+# Need to scale Media Reserved Units v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

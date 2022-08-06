@@ -1,5 +1,5 @@
 ---
-title: Need to scale Media Reserved Units
+title: Need to scale Media Reserved Units v2
 description: Need to scale Media Reserved Units
 ms.author: t-reutam
 authors: ReutAmior
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Need to scale Media Reserved Units"
-    description="Need to scale Media Reserved Units"
+    pageTitle="Need to scale Media Reserved Units v2"
+    description="Need to scale Media Reserved Units v2"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Need to scale Media Reserved Units
+# Need to scale Media Reserved Units v2
 
 Videos may take a long time to index if they are waiting in the Reserved Units queue.
 

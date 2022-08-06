@@ -1,5 +1,5 @@
 ---
-title: How to configure live streaming?
+title: How to configure live streaming? v2
 description: How to configure live streaming?
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="How to configure live streaming?"
-	description="How to configure live streaming?"
+	pageTitle="How to configure live streaming? v2"
+	description="How to configure live streaming? v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# How to configure live streaming?
+# How to configure live streaming? v2
 
 ## **Recommended Documents**
 

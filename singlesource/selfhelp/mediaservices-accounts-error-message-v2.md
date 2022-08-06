@@ -1,5 +1,5 @@
 ---
-title: Troubleshoot account management error messages
+title: Troubleshoot account management error messages v2
 description: Troubleshoot account management error messages by using recommended resources.
 ms.author: akucer
 authors: no authors mediaservices-accounts-error-message-v2.md
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Account management error messages
+# Account management error messages v2
 
 ## Troubleshoot account management error messages
 

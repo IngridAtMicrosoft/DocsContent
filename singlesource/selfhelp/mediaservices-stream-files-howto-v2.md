@@ -14,14 +14,14 @@ ms.date: 08/5/2022
   description="Apollo migrated file - Streaming files how-tos and tutorials"
   ms.author="inhenkel"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Streaming media how-tos and tutorials"
+  pagetitle="Streaming media how-tos and tutorials v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="f4ffb732-4cd6-59e9-6063-5ec1fbe2bef1" /> -->
-# Streaming media how-tos and tutorials
+# Streaming media how-tos and tutorials v2
 
 ## Learn how to stream media with Azure Media Services
 

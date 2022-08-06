@@ -22,7 +22,7 @@ ms.date: 08/5/2022
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="16c919c7-e8da-2796-4e7d-69f69fac0e1a" /> -->
-# Streaming endpoint
+# Streaming endpoint  v2
 
 ## Learn about Streaming endpoints
 

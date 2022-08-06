@@ -1,5 +1,5 @@
 ---
-title: Media Services Premium Encoder
+title: Media Services Premium Encoder v2
 description: Media Services Premium Encoder
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Media Services Premium Encoder"
-	description="Media Services Premium Encoder"
+	pageTitle="Media Services Premium Encoder v2"
+	description="Media Services Premium Encoder v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Media Services Premium Encoder
+# Media Services Premium Encoder v2
 
 ## **Recommended Documents**
 

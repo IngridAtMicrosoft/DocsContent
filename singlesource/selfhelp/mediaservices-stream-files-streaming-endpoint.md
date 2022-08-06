@@ -1,5 +1,5 @@
 ---
-title: Streaming endpoints
+title: Streaming endpoints v2
 description: Streaming endpoints
 ms.author: juliako
 authors: juliako
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Streaming endpoint
+# Streaming endpoint  v2
 
 A common Media Services scenario is to encode your content and stream files using different streaming formats and content protection formats to a variety of client technologies (for example, iOS and XBOX).
 

@@ -1,5 +1,5 @@
 ---
-title: Video Indexer Widgets
+title: Video Indexer Widgets v2
 description: Apollo migrated file - Video Indexer Widgets
 ms.author: t-reutam
 authors: no authors mediaservices-videoindexer-api-widgets-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Video Indexer Widgets"
-    description="Apollo migrated file - Video Indexer Widgets"
+    pageTitle="Video Indexer Widgets v2"
+    description="Apollo migrated file - Video Indexer Widgets v2"
     ms.author="t-reutam"
     articleId="apollo-mediaservices-videoindexer-api-widgets"
     selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Video Indexer Widgets
+# Video Indexer Widgets v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

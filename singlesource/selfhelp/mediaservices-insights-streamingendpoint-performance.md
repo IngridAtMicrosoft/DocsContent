@@ -1,5 +1,5 @@
 ---
-title: Streaming endpoint performance guidance
+title: Streaming endpoint performance guidance v2
 description: Solution to streaming endpoint performance issues (status 503)
 ms.author: juliako
 authors: Juliako
@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<!-- <properties pageTitle="Streaming endpoint performance guidance"
+<!-- <properties pageTitle="Streaming endpoint performance guidance v2"
     description="Solution to streaming endpoint performance issues (status 503)"
     infoBubbleText="See details on the right"
     service="microsoft.media"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Streaming endpoint performance guidance
+# Streaming endpoint performance guidance v2
 <!--issueDescription-->
 Our internal service telemetry detected that the customer's streaming endpoint(s) under the Azure Media Services account **<!--$amsAccountName--> amsAccountName <!--/$amsAccountName-->** had performance issues from  **<!--$startTime--> startTime <!--/$startTime-->** to **<!--$endTime--> endTime <!--/$endTime-->** (UTC) due to high traffic or heavy processing.
 <!--/issueDescription-->

@@ -1,5 +1,5 @@
 ---
-title: Azure Media Services linking and managing storage accounts
+title: Azure Media Services linking and managing storage accounts v2
 description: Azure Media Services linking and managing storage accounts
 ms.author: johndeu
 authors: johndeu
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Azure Media Services linking and managing storage accounts"
-	description="Azure Media Services linking and managing storage accounts"
+	pageTitle="Azure Media Services linking and managing storage accounts v2"
+	description="Azure Media Services linking and managing storage accounts v2"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Azure Media Services linking and managing storage accounts
+# Azure Media Services linking and managing storage accounts v2
 
 Azure Media Services supports multiple storage accounts. You can link an existing storage account, or create a new storage account prior to the creation of your Media Services account and pass it in to the create call.
 

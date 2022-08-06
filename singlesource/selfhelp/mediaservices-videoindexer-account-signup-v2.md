@@ -1,5 +1,5 @@
 ---
-title: Sign up and sign in to Video Indexer
+title: Sign up and sign in to Video Indexer v2
 description: Apollo migrated file - Sign up and sign in to Video Indexer
 ms.author: t-reutam
 authors: no authors mediaservices-videoindexer-account-signup-v2.md
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Account sign up and sign in
+# Account sign up and sign in v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

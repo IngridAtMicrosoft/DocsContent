@@ -1,5 +1,5 @@
 ---
-title: Upload to storage
+title: Upload to storage v2
 description: Upload to storage
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Upload to storage"
-	description="Upload to storage"
+	pageTitle="Upload to storage v2"
+	description="Upload to storage v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Upload to storage
+# Upload to storage v2
 
 **NOTE:** This topic references Media Services v3 API documentation. v3 is the latest Media Services version.
 

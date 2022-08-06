@@ -1,5 +1,5 @@
 ---
-title: Media Services Premium Encoder
+title: Media Services Premium Encoder v2
 description: Apollo migrated file - Media Services Premium Encoder
 ms.author: juliako
 authors: no authors mediaservices-encoding-files-premium-encoder-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Media Services Premium Encoder"
-	description="Apollo migrated file - Media Services Premium Encoder"
+	pageTitle="Media Services Premium Encoder v2"
+	description="Apollo migrated file - Media Services Premium Encoder v2"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-encoding-files-premium-encoder"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Media Services Premium Encoder
+# Media Services Premium Encoder v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

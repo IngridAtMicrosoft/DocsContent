@@ -1,5 +1,5 @@
 ---
-title: Onboarding and getting started
+title: Onboarding and getting started v2
 description: Apollo migrated file - Onboarding and getting started
 ms.author: akucer
 authors: no authors mediaservices-lva-onboarding-getting-started-v2.md
@@ -9,9 +9,9 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Onboarding and getting started"
-	description="Apollo migrated file - Onboarding and getting started"
-    infoBubbleTest="Onboarding and getting started"
+	pageTitle="Onboarding and getting started v2"
+	description="Apollo migrated file - Onboarding and getting started v2"
+    infoBubbleTest="Onboarding and getting started v2"
 	ms.author="akucer"
 	articleId="apollo-mediaservices-lva-onboarding-getting-started"
 	selfHelpType="apollo"
@@ -22,7 +22,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Onboarding and getting started
+# Onboarding and getting started v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

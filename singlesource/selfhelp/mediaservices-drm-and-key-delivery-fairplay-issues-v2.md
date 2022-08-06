@@ -1,5 +1,5 @@
 ---
-title: Issues encrypting with FairPlay
+title: Issues encrypting with FairPlay v2
 description: Apollo migrated file - Issues encrypting with FairPlay
 ms.author: juliako
 authors: no authors mediaservices-drm-and-key-delivery-fairplay-issues-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Issues encrypting with FairPlay"
-	description="Apollo migrated file - Issues encrypting with FairPlay"
+	pageTitle="Issues encrypting with FairPlay v2"
+	description="Apollo migrated file - Issues encrypting with FairPlay v2"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-drm-and-key-delivery-fairplay-issues"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Issues encrypting with FairPlay
+# Issues encrypting with FairPlay v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

@@ -1,5 +1,5 @@
 ---
-title: Analyzing and indexing performance
+title: Analyzing and indexing performance v2
 description: Apollo migrated file - Analyzing and indexing performance
 ms.author: akucer
 authors: no authors mediaservices-analyzing-and-indexing-performance-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Analyzing and indexing performance"
-	description="Apollo migrated file - Analyzing and indexing performance"
+	pageTitle="Analyzing and indexing performance v2"
+	description="Apollo migrated file - Analyzing and indexing performance v2"
 	ms.author="akucer"
 	articleId="apollo-mediaservices-analyzing-indexing-performance"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Analyzing and indexing performance
+# Analyzing and indexing performance v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

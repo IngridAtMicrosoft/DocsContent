@@ -11,17 +11,17 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-client-latency"
   cloudenvironments="public,mooncake,fairfax,usnat,ussec"
-  description="Apollo migrated file - Client Latency"
+  description="Apollo migrated file - Client Latency v2"
   ms.author="akucer,jiayali,inhenkel"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Client Latency"
+  pagetitle="Client Latency v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="4706e3b6-8e87-89a7-42cc-174d25a5a531,bb39ff08-5d16-e549-af8e-3b30554e31cc" /> -->
-# Client Latency
+# Client Latency v2
 
 ## Resolve client latency issues in Azure Media Services
 

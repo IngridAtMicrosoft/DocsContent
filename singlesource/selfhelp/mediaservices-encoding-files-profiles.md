@@ -1,5 +1,5 @@
 ---
-title: Media Services: Profiles or custom profiles
+title: Media Services: Profiles or custom profiles v2
 description: Media Services: Profiles or custom profiles
 ms.author: juliako
 authors: juliako
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Media Services: Profiles or custom profiles
+# Media Services: Profiles or custom profiles  v2
 
 ## **Recommended Documents**
 

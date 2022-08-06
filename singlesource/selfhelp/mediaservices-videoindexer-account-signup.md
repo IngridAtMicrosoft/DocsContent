@@ -1,5 +1,5 @@
 ---
-title: Sign up and sign in to Video Indexer
+title: Sign up and sign in to Video Indexer v2
 description: Sign up and sign in to Video Indexer
 ms.author: t-reutam
 authors: ReutAmior
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Account sign up and sign in
+# Account sign up and sign in v2
 
 To help you get started with Video Indexer you can learn more here:
 * [Sign up and upload your first video](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-get-started)

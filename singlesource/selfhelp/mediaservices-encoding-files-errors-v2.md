@@ -14,14 +14,14 @@ ms.date: 08/5/2022
   description="Use our guidance to learn how to resolve specific errors."
   ms.author="juliako,jiayali,inhenkel"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Diagnose and resolve Encoding errors for Media Services v3/v2"
+  pagetitle="Diagnose and resolve Encoding errors for Media Services v3/v2 v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="4850e98f-4532-3e70-79b4-4dde5eafaab1" /> -->
-# Diagnose and resolve Encoding errors for Media Services v3/v2
+# Diagnose and resolve Encoding errors for Media Services v3/v2 v2
 
 ## Diagnose and resolve encoding errors for Media Services v3/v2
 

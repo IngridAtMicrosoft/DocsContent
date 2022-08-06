@@ -11,19 +11,19 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-policies-quotas"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
-  description="Apollo migrated file - Manage access policies quotas"
+  description="Apollo migrated file - Manage access policies quotas v2"
   ms.author="jiayali"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Manage access policies quotas"
+  pagetitle="Manage access policies quotas v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="5d0175e0-fdc9-ecdd-07a2-9962b8c06ec1" /> -->
-# Manage access policies quotas
+# Manage access policies quotas v2
 
-## Manage access policies quotas in Media Services
+## Manage access policies quotas v2 in Media Services
 
 
 You should try to design a limited set of policies in your Media Services account and reuse them when possible.

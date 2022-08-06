@@ -1,5 +1,5 @@
 ---
-title: Extract information using machine learning models
+title: Extract information using machine learning models v2
 description: Apollo migrated file - Extract information using machine learning models
 ms.author: akucer
 authors: no authors mediaservices-lva-extract-information-using-machine-learning-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Extract information using machine learning models"
-	description="Apollo migrated file - Extract information using machine learning models"
+	pageTitle="Extract information using machine learning models v2"
+	description="Apollo migrated file - Extract information using machine learning models v2"
 	ms.author="akucer"
 	articleId="apollo-mediaservices-lva-extract-information-using-machine-learning"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Extract information using machine learning models
+# Extract information using machine learning models v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

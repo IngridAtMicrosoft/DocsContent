@@ -14,16 +14,16 @@ ms.date: 08/5/2022
   description="You need to create an Asset if you want to encode or analyze your on-demand content, or if you have a Live Output that is associated with an Asset. A Live Output uses an Asset to store recorded videos."
   ms.author="juliako,jiayali"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Create an Asset"
+  pagetitle="Create an Asset v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="4fd1b35e-df2d-4bd0-01a4-c03527ad5c1e" /> -->
-# Create an Asset
+# Create an Asset v2
 
-## Create an Asset
+## Create an Asset v2
 You need to create an Asset if you want to encode or analyze your on-demand content, or if you have a Live Output that is associated with an Asset. A Live Output uses an Asset to store recorded videos.
 
 Use our guidance to learn how to upload digital files, create a new asset, and more.
@@ -53,7 +53,7 @@ The following steps describe how to upload a file and then encode or analyze the
     PUT https://management.azure.com/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Media/mediaServices/{amsAccountName}/assets/{assetName}?api-version=2018-07-01
 ```
 
-Also, see [Create an Asset with REST](https://docs.microsoft.com/rest/api/media/assets/createorupdate#examples). The example shows how to create the **Request Body** where you can specify useful information like description, container name, storage account, and other information.
+Also, see [Create an Asset v2 with REST](https://docs.microsoft.com/rest/api/media/assets/createorupdate#examples). The example shows how to create the **Request Body** where you can specify useful information like description, container name, storage account, and other information.
 
 **cURL**
 

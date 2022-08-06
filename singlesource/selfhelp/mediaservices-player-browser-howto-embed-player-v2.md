@@ -1,5 +1,5 @@
 ---
-title: Azure Media Player how to embed the player
+title: Azure Media Player how to embed the player v2
 description: Apollo migrated file - Azure Media Player how to embed the player
 ms.author: johndeu
 authors: no authors mediaservices-player-browser-howto-embed-player-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Azure Media Player how to embed the player"
-	description="Apollo migrated file - Azure Media Player how to embed the player"
+	pageTitle="Azure Media Player how to embed the player v2"
+	description="Apollo migrated file - Azure Media Player how to embed the player v2"
 	ms.author="johndeu"
 	articleId="apollo-mediaservices-player-howto-embed-player"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Azure Media Player how to embed the player
+# Azure Media Player how to embed the player v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

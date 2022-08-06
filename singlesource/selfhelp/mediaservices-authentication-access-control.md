@@ -1,5 +1,5 @@
 ---
-title: Authentication or access control
+title: Authentication or access control v2
 description: Authentication or access control
 ms.author: akucer
 authors: akucer
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Authentication or access control"
-	description="Authentication or access control"
+	pageTitle="Authentication or access control v2"
+	description="Authentication or access control v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
@@ -25,7 +25,7 @@ ms.date: 08/5/2022
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
 /> -->
-# Authentication or access control
+# Authentication or access control v2
 ## Accessing the Azure Media Services API
 
 To be authorized to access Media Services resources and the Media Services API, you must first be authenticated. Media Services supports [Azure Active Directory (Azure AD)-based](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis) authentication. Two common authentication options are:

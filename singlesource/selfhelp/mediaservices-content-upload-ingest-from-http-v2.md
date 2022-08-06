@@ -1,5 +1,5 @@
 ---
-title: Upload from HTTP
+title: Upload from HTTP v2
 description: Apollo migrated file - Upload from HTTP
 ms.author: juliako
 authors: no authors mediaservices-content-upload-ingest-from-http-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Upload from HTTP"
-	description="Apollo migrated file - Upload from HTTP"
+	pageTitle="Upload from HTTP v2"
+	description="Apollo migrated file - Upload from HTTP v2"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-content-upload-ingest-from-http"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Upload from HTTP
+# Upload from HTTP v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

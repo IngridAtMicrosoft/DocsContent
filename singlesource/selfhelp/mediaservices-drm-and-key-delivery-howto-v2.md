@@ -11,17 +11,17 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-drm-and-key-delivery-howto"
   cloudenvironments="public,fairfax,usnat,ussec"
-  description="Apollo migrated file - How-to encrypt with DRM and use a license delivery service"
+  description="Apollo migrated file - How-to encrypt with DRM and use a license delivery service v2"
   ms.author="inhenkel"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="How-to encrypt with DRM and use a license delivery service"
+  pagetitle="How-to encrypt with DRM and use a license delivery service v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="3fef00a2-f544-488f-597a-a7a498b1da70" /> -->
-# How-to encrypt with DRM and use a license delivery service
+# How-to encrypt with DRM and use a license delivery service v2
 
 ## Implement DRM encryption and use a license delivery service
 

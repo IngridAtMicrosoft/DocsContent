@@ -11,17 +11,17 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-authentication-access-control"
   cloudenvironments="public,fairfax,usnat,ussec"
-  description="Apollo migrated file - Authentication or access control"
+  description="Apollo migrated file - Authentication or access control v2"
   ms.author="akucer,jiayali,inhenkel"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Authentication or access control"
+  pagetitle="Authentication or access control v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="3962655e-b25d-3a69-1175-b540ce09c9da" /> -->
-# Authentication or access control
+# Authentication or access control v2
 
 ## Resolve issues with authentication or access control in the Azure Media Services API
 

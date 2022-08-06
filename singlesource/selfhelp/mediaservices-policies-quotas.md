@@ -1,5 +1,5 @@
 ---
-title: Manage access policies quotas
+title: Manage access policies quotas v2
 description: Manage access policies quotas
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Manage access policies quotas"
-	description="Manage access policies quotas"
+	pageTitle="Manage access policies quotas v2"
+	description="Manage access policies quotas v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Manage access policies quotas
+# Manage access policies quotas v2
 
 You should try to design a limited set of policies in your Media Services account and reuse them when possible.
 

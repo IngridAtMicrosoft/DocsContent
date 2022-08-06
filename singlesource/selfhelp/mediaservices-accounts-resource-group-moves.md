@@ -1,5 +1,5 @@
 ---
-title: Azure Media Services resource group movement
+title: Azure Media Services resource group movement v2
 description: Azure Media Services resource group movement
 ms.author: johndeu
 authors: johndeu
@@ -27,10 +27,10 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Azure Media Services resource group moves
+# Azure Media Services resource group moves v2
 
 ### Resource Group Movement
-Azure Media Services resource group moves can be requested through support ticket only.
+Azure Media Services resource group moves v2 can be requested through support ticket only.
 Resource group movement is not available through the Azure CLI.
 
 

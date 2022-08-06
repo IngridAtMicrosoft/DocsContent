@@ -11,17 +11,17 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-content-upload"
   cloudenvironments="public,fairfax,usnat,ussec"
-  description="Apollo migrated file - Upload content"
+  description="Apollo migrated file - Upload content v2"
   ms.author="juliako,jiayali"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Upload content"
+  pagetitle="Upload content v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="4fd1b35e-df2d-4bd0-01a4-c03527ad5c1e,73ba2c29-3345-bfc4-d42e-b7c31b61c4e5,73c03300-8f12-3c79-e340-ae42408c61d6,5893fb6c-980f-e9a3-d487-be538ff15710" /> -->
-# Upload content
+# Upload content v2
 
 ## Manage content in Media Services
 

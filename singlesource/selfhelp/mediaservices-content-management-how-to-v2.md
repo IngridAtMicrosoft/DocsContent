@@ -11,17 +11,17 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-asset-management-issue-how-to"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
-  description="Apollo migrated file - Asset management issue or how to"
+  description="Apollo migrated file - Asset management issue or how to v2"
   ms.author="akucer,jiayali"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Asset management issue or how to"
+  pagetitle="Asset management issue or how to v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="73ba2c29-3345-bfc4-d42e-b7c31b61c4e5" /> -->
-# Asset management issue or how to
+# Asset management issue or how to v2
 
 ## Resolve asset management issues
 

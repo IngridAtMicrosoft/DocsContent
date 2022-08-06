@@ -1,5 +1,5 @@
 ---
-title: Access Tokens
+title: Access Tokens v2
 description: Access Tokens
 ms.author: t-reutam
 authors: ReutAmior
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Access tokens
+# Access tokens v2
 
 [Subscribe to Video Indexer's API](https://api-portal.videoindexer.ai/products/authorization)
 

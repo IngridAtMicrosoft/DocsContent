@@ -1,5 +1,5 @@
 ---
-title: Upload from HTTP
+title: Upload from HTTP v2
 description: Upload from HTTP
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Upload from HTTP"
-	description="Upload from HTTP"
+	pageTitle="Upload from HTTP v2"
+	description="Upload from HTTP v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Upload from HTTP
+# Upload from HTTP v2
 
 **NOTE:** This topic references Media Services v3 API documentation. v3 is the latest Media Services version.
 

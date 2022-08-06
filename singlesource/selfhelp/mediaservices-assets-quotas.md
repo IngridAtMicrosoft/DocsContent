@@ -1,5 +1,5 @@
 ---
-title: Manage Assets quotas
+title: Manage Assets quotas v2
 description: Manage Assets quotas
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Manage Assets quotas"
-	description="Manage Assets quotas"
+	pageTitle="Manage Assets quotas v2"
+	description="Manage Assets quotas v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Manage Assets quotas
+# Manage Assets quotas v2
 
 There is a default (soft) limit of 1,000,000 Assets per Azure Media Services account. You can open a support ticket to increase this quota. Make sure to include detailed information in the request on the desired quota changes, use-case scenarios, and regions required.
 

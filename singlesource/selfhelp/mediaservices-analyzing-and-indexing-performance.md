@@ -1,5 +1,5 @@
 ---
-title: Analyzing and indexing performance
+title: Analyzing and indexing performance v2
 description: Analyzing and indexing performance
 ms.author: akucer
 authors: akucer
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Analyzing and indexing performance"
-	description="Analyzing and indexing performance"
+	pageTitle="Analyzing and indexing performance v2"
+	description="Analyzing and indexing performance v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
@@ -25,7 +25,7 @@ ms.date: 08/5/2022
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
 /> -->
-# Analyzing and indexing performance
+# Analyzing and indexing performance v2
 
 ### Troubleshoot slow audio and video indexing
 

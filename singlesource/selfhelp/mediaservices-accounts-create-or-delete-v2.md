@@ -21,8 +21,7 @@ ms.date: 08/5/2022
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="45383072-cde0-c5cd-c5f9-330714cc0f49" /> -->
-
-# Azure Media Services account creation and deletion
+# Azure Media Services account creation and deletion v2
 
 ## Create or delete an Azure Media Services account
 

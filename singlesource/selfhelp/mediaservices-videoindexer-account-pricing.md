@@ -1,5 +1,5 @@
 ---
-title: Video Indexer Pricing
+title: Video Indexer Pricing v2
 description: Video Indexer Pricing
 ms.author: t-reutam
 authors: ReutAmior
@@ -27,7 +27,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Video Indexer’s pricing
+# Video Indexer’s pricing v2
 
 Video Indexer can be used with two types of accounts:
 * *Free trial account:* up to 10 hours of free indexing for website users, and up to 40 hours of free indexing for API users.
@@ -40,4 +40,4 @@ Price per input minute:
 
 ## **Recommended Documents**
 
-* [Video Indexer’s pricing](https://azure.microsoft.com/pricing/details/media-services/)
+* [Video Indexer’s pricing v2](https://azure.microsoft.com/pricing/details/media-services/)

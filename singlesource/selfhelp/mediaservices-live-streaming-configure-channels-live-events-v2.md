@@ -21,7 +21,7 @@ ms.date: 08/5/2022
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="35ba9292-e626-9c0b-fb2c-be68ffcf4e97" /> -->
-# How to configure live streaming?
+# How to configure live streaming? v2
 
 ## Learn to configure live streaming
 

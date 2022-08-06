@@ -1,5 +1,5 @@
 ---
-title: Issues encrypting with Widevine
+title: Issues encrypting with Widevine v2
 description: Issues encrypting with Widevine
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Issues encrypting with Widevine"
-	description="Issues encrypting with Widevine"
+	pageTitle="Issues encrypting with Widevine v2"
+	description="Issues encrypting with Widevine v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Issues encrypting with Widevine
+# Issues encrypting with Widevine v2
 
 **NOTE:** This topic references Media Services v3 API documentation. v3 is the latest Media Services version.<br>
 Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://aka.ms/ams-v3-rest-ref), [CLI](https://aka.ms/ams-v3-cli-ref), or one of the supported [SDKs](https://docs.microsoft.com/azure/media-services/latest/developers-guide).

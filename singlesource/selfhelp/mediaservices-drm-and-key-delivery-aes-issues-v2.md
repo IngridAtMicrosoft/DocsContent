@@ -1,5 +1,5 @@
 ---
-title: Issues encrypting with AES-128 clear key
+title: Issues encrypting with AES-128 clear key v2
 description: Apollo migrated file - Issues encrypting with AES-128 clear key
 ms.author: juliako
 authors: no authors mediaservices-drm-and-key-delivery-aes-issues-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Issues encrypting with AES-128 clear key"
-	description="Apollo migrated file - Issues encrypting with AES-128 clear key"
+	pageTitle="Issues encrypting with AES-128 clear key v2"
+	description="Apollo migrated file - Issues encrypting with AES-128 clear key v2"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-drm-and-key-delivery-aes-issues"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Issues encrypting with AES-128 clear key
+# Issues encrypting with AES-128 clear key v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

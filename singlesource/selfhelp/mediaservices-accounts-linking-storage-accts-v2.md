@@ -21,7 +21,7 @@ ms.date: 08/5/2022
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="1b279143-929c-86e1-4c6c-18bc6a7fe2c5" /> -->
-# Azure Media Services linking and managing storage accounts
+# Azure Media Services linking and managing storage accounts v2
 
 ## Link and manage storage accounts in Azure Media Services
 

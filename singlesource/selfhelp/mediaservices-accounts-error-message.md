@@ -1,5 +1,5 @@
 ---
-title: Account management error messages
+title: Account management error messages v2
 description: Account management error messages
 ms.author: akucer
 authors: akucer
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Account management error messages"
-	description="Account management error messages"
+	pageTitle="Account management error messages v2"
+	description="Account management error messages v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
@@ -25,7 +25,7 @@ ms.date: 08/5/2022
 	cloudEnvironments="public, mooncake, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
 /> -->
-# Account management error messages
+# Account management error messages v2
 ## **Recommended Documents**
 
 * [Azure Media Services error codes](https://docs.microsoft.com/azure/media-services/previous/media-services-error-codes)<br>

@@ -1,5 +1,5 @@
 ---
-title: Media Services: Profiles or custom profiles
+title: Media Services: Profiles or custom profiles v2
 description: Apollo migrated file - Media Services: Profiles or custom profiles
 ms.author: juliako
 authors: no authors mediaservices-encoding-files-profiles-v2.md
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Media Services: Profiles or custom profiles
+# Media Services: Profiles or custom profiles  v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

@@ -10,7 +10,7 @@ ms.date: 08/5/2022
 
 <!-- <properties
   pagetitle="PackagingResolve packaging, origin or streaming endpoint errors"
-  description="Apollo migrated file - Packaging, origin or streaming endpoint errors"
+  description="Apollo migrated file - Packaging, origin or streaming endpoint errors v2"
   ms.author="jiayali"
   selfhelptype="apollo"
   supporttopicids="07a399ba-7dbc-57f6-4eb9-b88c36f85333"
@@ -20,7 +20,7 @@ ms.date: 08/5/2022
   articleid="apollo-mediaservices-streaming-endpoint-errors"
   ownershipid="StorageMediaEdge_Media"
   resourcerequired="False" /> -->
-# Packaging, origin or streaming endpoint errors
+# Packaging, origin or streaming endpoint errors v2
 
 ## Resolve packaging, origin or streaming endpoint errors
 

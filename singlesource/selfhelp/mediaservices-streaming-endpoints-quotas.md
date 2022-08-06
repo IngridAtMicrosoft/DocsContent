@@ -1,5 +1,5 @@
 ---
-title: Manage Streaming Endpoints quotas
+title: Manage Streaming Endpoints quotas v2
 description: Manage Streaming Endpoints quotas
 ms.author: juliako
 authors: juliako
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Manage Streaming Endpoints quotas"
-	description="Manage Streaming Endpoints quotas"
+	pageTitle="Manage Streaming Endpoints quotas v2"
+	description="Manage Streaming Endpoints quotas v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="juliako"
@@ -26,7 +26,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Manage Streaming Endpoints quotas
+# Manage Streaming Endpoints quotas v2
 
 There is a limit of 2 Streaming Endpoints per Media Services account. This quota applies to stopped or running Streaming Endpoints.
 

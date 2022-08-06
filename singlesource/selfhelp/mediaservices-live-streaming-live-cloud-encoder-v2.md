@@ -21,7 +21,7 @@ ms.date: 08/5/2022
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="596c66d3-32a1-65b4-bf17-d1b11113b0da" /> -->
-# Live streaming with a live cloud encoder
+# Live streaming with a live cloud encoder v2
 
 ## Learn about live streaming with a live cloud encoder
 

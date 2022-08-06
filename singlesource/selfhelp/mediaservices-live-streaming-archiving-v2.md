@@ -1,5 +1,5 @@
 ---
-title: Archiving a live stream
+title: Archiving a live stream v2
 description: Apollo migrated file - Archiving a live stream
 ms.author: juliako
 authors: no authors mediaservices-live-streaming-archiving-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Archiving a live stream"
-	description="Apollo migrated file - Archiving a live stream"
+	pageTitle="Archiving a live stream v2"
+	description="Apollo migrated file - Archiving a live stream v2"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-live-streaming-archiving"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Archiving a live stream
+# Archiving a live stream v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

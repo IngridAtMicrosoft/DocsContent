@@ -1,5 +1,5 @@
 ---
-title: Connect to Azure
+title: Connect to Azure v2
 description: Apollo migrated file - Connect to Azure
 ms.author: t-reutam
 authors: no authors mediaservices-videoindexer-account-connect-to-azure-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Connect to Azure"
-    description="Apollo migrated file - Connect to Azure"
+    pageTitle="Connect to Azure v2"
+    description="Apollo migrated file - Connect to Azure v2"
     ms.author="t-reutam"
     articleId="apollo-mediaservices-videoindexer-account-connect-to-azure"
     selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Connect to Azure
+# Connect to Azure v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.
@@ -32,7 +32,7 @@ When creating a Video Indexer account, you can choose a free trial account (wher
 
 ### Recommended resources
 
-* [Connect to Azure](https://docs.microsoft.com/azure/media-services/video-indexer/connect-to-azure)
+* [Connect to Azure v2](https://docs.microsoft.com/azure/media-services/video-indexer/connect-to-azure)
 
 
 

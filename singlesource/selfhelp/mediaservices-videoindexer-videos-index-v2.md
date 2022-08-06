@@ -1,5 +1,5 @@
 ---
-title: Indexing Videos
+title: Indexing Videos v2
 description: Apollo migrated file - Indexing Videos
 ms.author: t-reutam
 authors: no authors mediaservices-videoindexer-videos-index-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Indexing Videos"
-    description="Apollo migrated file - Indexing Videos"
+    pageTitle="Indexing Videos v2"
+    description="Apollo migrated file - Indexing Videos v2"
     ms.author="t-reutam"
     articleId="apollo-mediaservices-videoindexer-videos-index"
     selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Indexing Videos
+# Indexing Videos v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

@@ -1,5 +1,5 @@
 ---
-title: Explanation of media services pricing
+title: Explanation of media services pricing v2
 description: I have a question regarding media services pricing
 ms.author: juliako
 authors: juliako
@@ -25,7 +25,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Media Services Pricing
+# Media Services Pricing v2
 
 ## **Recommended Documents**
 

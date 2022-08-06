@@ -1,5 +1,5 @@
 ---
-title: Manage Assets quotas
+title: Manage Assets quotas v2
 description: Apollo migrated file - Manage Assets quotas
 ms.author: juliako
 authors: no authors mediaservices-assets-quotas-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Manage Assets quotas"
-	description="Apollo migrated file - Manage Assets quotas"
+	pageTitle="Manage Assets quotas v2"
+	description="Apollo migrated file - Manage Assets quotas v2"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-assets-quotas"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Manage Assets quotas
+# Manage Assets quotas v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

@@ -1,5 +1,5 @@
 ---
-title: Packaging, origin or streaming endpoint errors
+title: Packaging, origin or streaming endpoint errors v2
 description: Packaging, origin or streaming endpoint errors
 ms.author: akucer
 authors: akucer
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Packaging, origin or streaming endpoint errors"
-	description="Packaging, origin or streaming endpoint errors"
+	pageTitle="Packaging, origin or streaming endpoint errors v2"
+	description="Packaging, origin or streaming endpoint errors v2"
 	service="microsoft.media"
 	resource="mediaservices"
 	authors="akucer"
@@ -25,7 +25,7 @@ ms.date: 08/5/2022
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
 /> -->
-# Packaging, origin or streaming endpoint errors
+# Packaging, origin or streaming endpoint errors v2
 ## **Recommended Documents**
 * [Streaming Endpoint (Origin) errors](https://docs.microsoft.com/azure/media-services/latest/streaming-endpoint-error-codes)<br>
 	* [400 Bad Request](https://docs.microsoft.com/azure/media-services/latest/streaming-endpoint-error-codes#400-bad-request) - The request contains invalid information.<br>

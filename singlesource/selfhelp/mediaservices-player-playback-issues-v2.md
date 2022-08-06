@@ -11,17 +11,17 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-player-playback-issues"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
-  description="Apollo migrated file - Azure Media Player playback issues"
+  description="Apollo migrated file - Azure Media Player playback issues v2"
   ms.author="jiayali,inhenkel"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Azure Media Player playback issues"
+  pagetitle="Azure Media Player playback issues v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="6272b6a0-6c9c-32d1-0849-981b96a666ee" /> -->
-# Azure Media Player playback issues
+# Azure Media Player playback issues v2
 
 ## Resolve Azure Media Player play-back issues
 

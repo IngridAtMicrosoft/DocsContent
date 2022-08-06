@@ -1,5 +1,5 @@
 ---
-title: Video Indexer Pricing
+title: Video Indexer Pricing v2
 description: Apollo migrated file - Video Indexer Pricing
 ms.author: t-reutam
 authors: no authors mediaservices-videoindexer-account-pricing-v2.md
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Video Indexers pricing
+# Video Indexers pricing v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.
@@ -39,7 +39,7 @@ Price per input minute:
 
 ### Recommended resources
 
-* [Video Indexers pricing](https://azure.microsoft.com/pricing/details/media-services/)
+* [Video Indexers pricing v2](https://azure.microsoft.com/pricing/details/media-services/)
 
 
 ### Here are some relevant results from the web

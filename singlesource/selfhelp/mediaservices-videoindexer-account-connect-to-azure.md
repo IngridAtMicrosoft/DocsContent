@@ -1,5 +1,5 @@
 ---
-title: Connect to Azure
+title: Connect to Azure v2
 description: Connect to Azure
 ms.author: t-reutam
 authors: ReutAmior
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-    pageTitle="Connect to Azure"
-    description="Connect to Azure"
+    pageTitle="Connect to Azure v2"
+    description="Connect to Azure v2"
     infoBubbleText=""
 	service="microsoft.media"
 	resource="mediaservices"
@@ -27,11 +27,11 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
 /> -->
 
-# Connect to Azure
+# Connect to Azure v2
 
 When creating a Video Indexer account, you can choose a free trial account (where you get a certain number of free indexing minutes) or a paid option (where you're not limited by the quota). With a free trial, Video Indexer provides up to 600 minutes of free indexing to website users and up to 2400 minutes of free indexing to API users. With the paid option, you create a Video Indexer account that's connected to your Azure subscription and an Azure Media Services account. You pay for minutes indexed as well as the media account related charges.
 
 ## **Recommended Documents**
 
-* [Connect to Azure](https://docs.microsoft.com/azure/media-services/video-indexer/connect-to-azure)
+* [Connect to Azure v2](https://docs.microsoft.com/azure/media-services/video-indexer/connect-to-azure)
 

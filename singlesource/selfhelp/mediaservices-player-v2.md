@@ -1,5 +1,5 @@
 ---
-title: Azure Media Player
+title: Azure Media Player v2
 description: Apollo migrated file - Azure Media Player
 ms.author: johndeu
 authors: no authors mediaservices-player-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Azure Media Player"
-	description="Apollo migrated file - Azure Media Player"
+	pageTitle="Azure Media Player v2"
+	description="Apollo migrated file - Azure Media Player v2"
 	ms.author="johndeu"
 	articleId="apollo-mediaservices-player"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Azure Media Player
+# Azure Media Player v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.
@@ -31,14 +31,14 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 
 ### Recommended resources
 
-* [Azure Media Player overview](https://docs.microsoft.com/azure/media-services/latest/use-azure-media-player)<br>
-* [Azure Media Player documentation](http://amp.azure.net/libs/amp/latest/docs/index.html)<br>
-* [Azure Media Player sample streams](https://amp.azure.net/libs/amp/latest/docs/samples.html)<br>
-* [Azure Media Player demo/test page](https://ampdemo.azureedge.net/azuremediaplayer.html)<br>
-* [Azure Media Player plugins](https://amp.azure.net/libs/amp/latest/docs/PLUGINS.html)<br>
+* [Azure Media Player v2 overview](https://docs.microsoft.com/azure/media-services/latest/use-azure-media-player)<br>
+* [Azure Media Player v2 documentation](http://amp.azure.net/libs/amp/latest/docs/index.html)<br>
+* [Azure Media Player v2 sample streams](https://amp.azure.net/libs/amp/latest/docs/samples.html)<br>
+* [Azure Media Player v2 demo/test page](https://ampdemo.azureedge.net/azuremediaplayer.html)<br>
+* [Azure Media Player v2 plugins](https://amp.azure.net/libs/amp/latest/docs/PLUGINS.html)<br>
 * [Playing back streaming video with existing player frameworks](https://docs.microsoft.com/azure/media-services/previous/media-services-playback-content-with-existing-players)<br>
-* [Developing video player applications with Azure Media Player](https://docs.microsoft.com/azure/media-services/previous/media-services-develop-video-players)<br>
-* [Azure Media Player changelog](http://amp.azure.net/libs/amp/latest/docs/changelog.html)
+* [Developing video player applications with Azure Media Player v2](https://docs.microsoft.com/azure/media-services/previous/media-services-develop-video-players)<br>
+* [Azure Media Player v2 changelog](http://amp.azure.net/libs/amp/latest/docs/changelog.html)
 
 
 

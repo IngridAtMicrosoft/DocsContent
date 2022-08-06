@@ -1,5 +1,5 @@
 ---
-title: Custom models
+title: Custom models v2
 description: Apollo migrated file - Custom models
 ms.author: t-reutam
 authors: no authors mediaservices-videoindexer-insights-custom-models-v2.md
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Custom models in Video Indexer
+# Custom models in Video Indexer v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

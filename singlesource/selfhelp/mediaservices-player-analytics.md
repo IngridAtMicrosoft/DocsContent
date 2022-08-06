@@ -1,5 +1,5 @@
 ---
-title: Azure Media Player analytics
+title: Azure Media Player analytics v2
 description: Azure Media Player analytics
 ms.author: johndeu
 authors: johndeu
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Azure Media Player analytics"
-	description="Azure Media Player analytics"
+	pageTitle="Azure Media Player analytics v2"
+	description="Azure Media Player analytics v2"
 	infoBubbleText=""
 	service="microsoft.media"
 	resource=""
@@ -27,9 +27,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
 /> -->
 
-# Azure Media Player analytics
+# Azure Media Player analytics v2
 
-**Plugins available for Azure Media Player analytics**
+**Plugins available for Azure Media Player analytics v2**
 
 * [Azure Application Insights plugin](https://azure.microsoft.com/blog/player-analytics-azure-media-player-plugin/)<br>
 * [Google Analytics plugin](https://github.com/Azure-Samples/media-services-javascript-azure-media-player-google-analytics-plugin)

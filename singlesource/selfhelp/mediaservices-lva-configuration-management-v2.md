@@ -1,5 +1,5 @@
 ---
-title: Configuration and management
+title: Configuration and management v2
 description: Apollo migrated file - Configuration and management
 ms.author: akucer
 authors: no authors mediaservices-lva-configuration-management-v2.md
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Configuration and management
+# Configuration and management  v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

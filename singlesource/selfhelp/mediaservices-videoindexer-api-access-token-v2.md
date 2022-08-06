@@ -1,5 +1,5 @@
 ---
-title: Access Tokens
+title: Access Tokens v2
 description: Apollo migrated file - Access Tokens
 ms.author: t-reutam
 authors: no authors mediaservices-videoindexer-api-access-token-v2.md
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Access tokens
+# Access tokens v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

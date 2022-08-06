@@ -11,17 +11,17 @@ ms.date: 08/5/2022
 <!-- <properties
   articleid="apollo-mediaservices-streaming-endpoints-quotas"
   cloudenvironments="public,fairfax,usnat,ussec"
-  description="Apollo migrated file - Manage Streaming Endpoints quotas"
+  description="Apollo migrated file - Manage Streaming Endpoints quotas v2"
   ms.author="inhenkel,jiayali"
   ownershipid="StorageMediaEdge_Media"
-  pagetitle="Manage Streaming Endpoints quotas"
+  pagetitle="Manage Streaming Endpoints quotas v2"
   problemids=""
   productpesids="14885"
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="52af5698-1a28-ded8-0a0c-d1038b1e4498" /> -->
-# Manage Streaming Endpoints quotas
+# Manage Streaming Endpoints quotas v2
 
 ## Learn how to manage Streaming Endpoints quotas
 When you create a Media Services account, a default Standard streaming endpoint is created for you in a stopped state. You can create more streaming endpoints under the account. Learn more about [Streaming Endpoints](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-endpoint-concept).

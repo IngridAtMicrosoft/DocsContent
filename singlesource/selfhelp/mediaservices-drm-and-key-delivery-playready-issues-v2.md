@@ -1,5 +1,5 @@
 ---
-title: Issues encrypting with PlayReady
+title: Issues encrypting with PlayReady v2
 description: Apollo migrated file - Issues encrypting with PlayReady
 ms.author: juliako
 authors: no authors mediaservices-drm-and-key-delivery-playready-issues-v2.md
@@ -9,8 +9,8 @@ ms.date: 08/5/2022
 ---
 
 <!-- <properties
-	pageTitle="Issues encrypting with PlayReady"
-	description="Apollo migrated file - Issues encrypting with PlayReady"
+	pageTitle="Issues encrypting with PlayReady v2"
+	description="Apollo migrated file - Issues encrypting with PlayReady v2"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-drm-and-key-delivery-playready-issues"
 	selfHelpType="apollo"
@@ -21,7 +21,7 @@ ms.date: 08/5/2022
     resourcerequired="false"
 /> -->
 
-# Issues encrypting with PlayReady
+# Issues encrypting with PlayReady v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.
