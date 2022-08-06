@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Need to scale Media Reserved Units"
 	description="Need to scale Media Reserved Units"
 	service="microsoft.media"
@@ -24,7 +24,7 @@ ms.date: 08/5/2022
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # Need to scale Media Reserved Units
 

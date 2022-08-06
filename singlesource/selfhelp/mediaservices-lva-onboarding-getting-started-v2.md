@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Onboarding and getting started"
 	description="Apollo migrated file - Onboarding and getting started"
     infoBubbleTest="Onboarding and getting started"
@@ -20,7 +20,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="2a872b0b-2597-f8ed-7e22-7acc35de391b"
     resourcerequired="false"
-/>
+/> -->
 
 # Onboarding and getting started
 
@@ -39,7 +39,7 @@ With Live Video Analytics on IoT Edge, you can continue to use your CCTV cameras
 
 * [Quickstart: Get started - Live Video Analytics on IoT Edge](https://docs.microsoft.com/azure/media-services/live-video-analytics-edge/get-started-detect-motion-emit-events-quickstart)  - This article walks you through the steps to get started with Live Video Analytics on IoT Edge. It uses an Azure VM as an IoT Edge device and a simulated live video stream.
 
-The following articles provide details on the core concepts for Live Video Analytics on IoT Edge. 
+The following articles provide details on the core concepts for Live Video Analytics on IoT Edge.
 * [Media graph](https://docs.microsoft.com/azure/media-services/live-video-analytics-edge/media-graph-concept)  A media graph lets you define where media should be captured from, how it should be processed, and where the results should be delivered.
 * [Video playback](https://docs.microsoft.com/azure/media-services/live-video-analytics-edge/video-playback-concept) - Learn how to play an asset using existing streaming capabilities of Azure Media Services.
 * [Continuous video recording](https://docs.microsoft.com/azure/media-services/live-video-analytics-edge/continuous-video-recording-concept)  This article covers the process of continuously recording the video from a video source.

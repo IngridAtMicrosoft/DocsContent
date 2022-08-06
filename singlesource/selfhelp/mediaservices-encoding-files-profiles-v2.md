@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Media Services: Profiles or custom profiles"
 	description="Apollo migrated file - Media Services: Profiles or custom profiles"
 	ms.author="juliako"
@@ -19,9 +19,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="86821d54-477e-9c74-fefa-9045782f6695"
     resourcerequired="false"
-/>
+/> -->
 
-# Media Services: Profiles or custom profiles 
+# Media Services: Profiles or custom profiles
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

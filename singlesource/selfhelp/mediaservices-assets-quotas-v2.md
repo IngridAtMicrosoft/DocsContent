@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Manage Assets quotas"
 	description="Apollo migrated file - Manage Assets quotas"
 	ms.author="juliako"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="6c6f629b-8fb4-b35c-0d70-0b994d1d23fc"
     resourcerequired="false"
-/>
+/> -->
 
 # Manage Assets quotas
 

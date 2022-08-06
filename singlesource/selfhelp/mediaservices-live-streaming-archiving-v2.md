@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Archiving a live stream"
 	description="Apollo migrated file - Archiving a live stream"
 	ms.author="juliako"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="89756bf0-2df9-40d8-9b73-52d7cf7c3aa9"
     resourcerequired="false"
-/>
+/> -->
 
 # Archiving a live stream
 

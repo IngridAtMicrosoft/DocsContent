@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-live-streaming-rtmp-errors"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Apollo migrated file - Live streaming and RTMP error"
@@ -20,7 +20,7 @@ ms.date: 08/5/2022
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="6b04f8ed-155d-1d1a-7bfe-58acefe85b73" />
+  supporttopicids="6b04f8ed-155d-1d1a-7bfe-58acefe85b73" /> -->
 # Live streaming and RTMP error
 
 ## Learn about live streaming and RTMP errors
@@ -55,7 +55,7 @@ Media Services recommends using one of the following live encoders that have RTM
 
 **Note**: Currently, you can't use the Azure portal to manage v3 resources. Use the [REST API](https://docs.microsoft.com/rest/api/media/account-filters), [CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](https://docs.microsoft.com/azure/media-services/latest/all-sdks).
 
-[Live Events](https://docs.microsoft.com/azure/media-services/latest/live-event-outputs-concept) are responsible for ingesting and processing the live video feeds. When you create a Live Event, an input endpoint is created that you can use to send a live signal from a remote encoder. The remote live encoder sends the contribution feed to that input endpoint using either the [RTMP](https://www.adobe.com/devnet/rtmp.html) or [Smooth Streaming](https://msdn.microsoft.com/library/ff469518.aspx) (fragmented-MP4) protocol. For the RTMP ingest protocol, the supported URL schemes are `rtmp://` or `rtmps://`. 
+[Live Events](https://docs.microsoft.com/azure/media-services/latest/live-event-outputs-concept) are responsible for ingesting and processing the live video feeds. When you create a Live Event, an input endpoint is created that you can use to send a live signal from a remote encoder. The remote live encoder sends the contribution feed to that input endpoint using either the [RTMP](https://www.adobe.com/devnet/rtmp.html) or [Smooth Streaming](https://msdn.microsoft.com/library/ff469518.aspx) (fragmented-MP4) protocol. For the RTMP ingest protocol, the supported URL schemes are `rtmp://` or `rtmps://`.
 
 **Live Event ingest URLs**
 
@@ -63,7 +63,7 @@ Media Services recommends using one of the following live encoders that have RTM
 
   - A non-vanity URL is the default mode in AMS v3. You can potentially get the Live Event quickly, but the ingest URL is known only when the live event is started. The URL will change if you stop/start the Live Event. Non-vanity is useful in scenarios when an end user wants to stream using an app where the app wants to get a live event ASAP and having a dynamic ingest URL is not a problem.
 
-  - A vanity mode is preferred by large media broadcasters who use hardware broadcast encoders and don't want to re-configure their encoders when they start the Live Event. They want a predictive ingest URL, which doesn't change over time. 
+  - A vanity mode is preferred by large media broadcasters who use hardware broadcast encoders and don't want to re-configure their encoders when they start the Live Event. They want a predictive ingest URL, which doesn't change over time.
 
 **Note**: For an ingest URL to be predictive, you need to use vanity mode and pass your own access token (to avoid a random token in the URL).
 

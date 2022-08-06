@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Asset management issue or how to"
 	description="Asset management issue or how to"
 	service="microsoft.media"
@@ -24,11 +24,11 @@ ms.date: 08/5/2022
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 # Asset management issue or how to
 **NOTE:** This topic references Media Services v3 API documentation. v3 is the latest Media Services version.
 
-To start managing content, you need to create a Media Services account and associate it with an Azure Storage account. To upload your digital files, you need to create an Asset which is used to store the content in the associated Azure blob storage container. In Media Services v3, the Storage APIs are used to upload files into Assets. 
+To start managing content, you need to create a Media Services account and associate it with an Azure Storage account. To upload your digital files, you need to create an Asset which is used to store the content in the associated Azure blob storage container. In Media Services v3, the Storage APIs are used to upload files into Assets.
 
 ## **Recommended Documents**
 

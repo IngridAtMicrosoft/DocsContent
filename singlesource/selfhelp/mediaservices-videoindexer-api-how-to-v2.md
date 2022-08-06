@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
     pageTitle="Using Video Indexer's API"
     description="Apollo migrated file - Using Video Indexer's API"
     ms.author="t-reutam"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="965285bd-9da7-f6da-ebbb-c399285bcd84,3f68b8b4-d6cf-b099-b80a-7829b4e9fd6c"
     resourcerequired="false"
-/>
+/> -->
 
 # Using Video Indexer's API
 

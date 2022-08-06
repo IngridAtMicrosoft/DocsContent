@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
     pageTitle="Cognitive insights in Video Indexer"
     description="Apollo migrated file - Cognitive insights in Video Indexer"
     ms.author="t-reutam"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="618ce0c1-a2d6-d11d-a1f9-03d0e859ddce,56b770fd-dc9b-a560-c8c9-c926cdd5f009,30cc5807-bc78-6e61-e6d8-92a6333a5cfa"
     resourcerequired="false"
-/>
+/> -->
 
 # Cognitive insights in Video Indexer
 
@@ -28,7 +28,7 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 <br><br><br>
 
 
-When you call the *Get Video Index API* and the response status is OK, you get a detailed JSON output as the response content. The JSON content contains details of the specified video insights. The insights include transcripts, OCRs, faces, topics, blocks, etc. Each insight type includes instances of time ranges that show when the insight appears in the video. 
+When you call the *Get Video Index API* and the response status is OK, you get a detailed JSON output as the response content. The JSON content contains details of the specified video insights. The insights include transcripts, OCRs, faces, topics, blocks, etc. Each insight type includes instances of time ranges that show when the insight appears in the video.
 
 ### Recommended resources
 
@@ -39,4 +39,3 @@ When you call the *Get Video Index API* and the response status is OK, you get a
 <azureKB>
     <client>Portal</client>
 </azureKB>
-                    

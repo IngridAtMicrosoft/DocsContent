@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties 
+<!-- <properties
     pageTitle="Explanation of media services pricing"
     description="I have a question regarding media services pricing"
     service="microsoft.media"
@@ -23,7 +23,7 @@ ms.date: 08/5/2022
     cloudEnvironments="MoonCake"
  	articleId="e178fdef-1d3e-4e3f-8550-93831d1fe06a"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # Media Services Pricing
 

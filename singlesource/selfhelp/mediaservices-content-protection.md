@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties 
+<!-- <properties
     pageTitle="How to configure content protection for your stream?"
     description="How to configure content protection for your stream?"
     service="microsoft.media"
@@ -22,7 +22,7 @@ ms.date: 08/5/2022
     cloudEnvironments="public, fairfax, usnat, ussec"
  	articleId="1d657557-6afd-479c-a8f1-56d03a6d70db"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # How to configure content protection for your stream?
 

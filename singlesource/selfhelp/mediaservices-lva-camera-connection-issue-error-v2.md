@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Camera connection issue or error"
 	description="Apollo migrated file - Camera connection issue or error"
 	ms.author="akucer"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="1ea9b4f6-314f-e241-9a23-f40977d5ce95"
     resourcerequired="false"
-/>
+/> -->
 
 # Camera connection issue or error
 

@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
     pageTitle="Using Video Indexer's API"
     description="Using Video Indexer's API"
     infoBubbleText=""
@@ -25,7 +25,7 @@ ms.date: 08/5/2022
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/>
+/> -->
 
 # Using Video Indexer's API
 

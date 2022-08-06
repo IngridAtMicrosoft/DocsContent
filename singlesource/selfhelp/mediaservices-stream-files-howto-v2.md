@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-stream-files-howto"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Apollo migrated file - Streaming files how-tos and tutorials"
@@ -20,7 +20,7 @@ ms.date: 08/5/2022
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="f4ffb732-4cd6-59e9-6063-5ec1fbe2bef1" />
+  supporttopicids="f4ffb732-4cd6-59e9-6063-5ec1fbe2bef1" /> -->
 # Streaming media how-tos and tutorials
 
 ## Learn how to stream media with Azure Media Services

@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Manage quotas of Channels (v2)/Live Events (v3)"
 	description="Apollo migrated file - Manage quotas of Channels (v2)/Live Events (v3)"
 	ms.author="juliako"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="80c2815b-610f-963c-8d0d-3ad455edf7d7"
     resourcerequired="false"
-/>
+/> -->
 
 # Manage quotas of Channels (v2)/Live Events (v3)
 

@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Need to scale Media Reserved Units"
 	description="Apollo migrated file - Need to scale Media Reserved Units"
 	ms.author="juliako"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="59b593df-9e6f-d4de-6346-fdfeb5b9deb2"
     resourcerequired="false"
-/>
+/> -->
 
 # Need to scale Media Reserved Units
 

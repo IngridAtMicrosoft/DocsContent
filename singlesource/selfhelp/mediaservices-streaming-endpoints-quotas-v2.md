@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-streaming-endpoints-quotas"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Apollo migrated file - Manage Streaming Endpoints quotas"
@@ -20,7 +20,7 @@ ms.date: 08/5/2022
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="52af5698-1a28-ded8-0a0c-d1038b1e4498" />
+  supporttopicids="52af5698-1a28-ded8-0a0c-d1038b1e4498" /> -->
 # Manage Streaming Endpoints quotas
 
 ## Learn how to manage Streaming Endpoints quotas

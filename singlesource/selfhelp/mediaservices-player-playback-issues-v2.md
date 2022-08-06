@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-player-playback-issues"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Apollo migrated file - Azure Media Player playback issues"
@@ -20,7 +20,7 @@ ms.date: 08/5/2022
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="6272b6a0-6c9c-32d1-0849-981b96a666ee" />
+  supporttopicids="6272b6a0-6c9c-32d1-0849-981b96a666ee" /> -->
 # Azure Media Player playback issues
 
 ## Resolve Azure Media Player play-back issues
@@ -74,18 +74,18 @@ If there is bad playback, use [adaptive bitrate streaming](https://docs.microsof
 
 **Apple iOS and HEVC**
 
-For iOS devices, HEVC playback was in iOS 11.0 or higher. iPhone X, iPhone 8/Plus, iPhone 7/6s/6/Plus. Not all phone models can play back 4K and might be limited to specific resolutions and frame rate requirements. For example, iPhone 6/Plus can play HEVC video only up to 1080p at 240fps. 
-iPhone XS/XR/X, iPhone 8/Plus, iPhone 7/6s/Plus with Apples A9, A10 chipset (or later) support up to 4K 2160p playback at common frame rates. 
+For iOS devices, HEVC playback was in iOS 11.0 or higher. iPhone X, iPhone 8/Plus, iPhone 7/6s/6/Plus. Not all phone models can play back 4K and might be limited to specific resolutions and frame rate requirements. For example, iPhone 6/Plus can play HEVC video only up to 1080p at 240fps.
+iPhone XS/XR/X, iPhone 8/Plus, iPhone 7/6s/Plus with Apples A9, A10 chipset (or later) support up to 4K 2160p playback at common frame rates.
 
 For supported Apple devices for HEVC, search HEVC in the [Apple support system](https://support.apple.com/kb/index?page=search&q=HEVC&product=&doctype=SPECIFICATIONS&currentPage=1&includeArchived=false&locale=en_US).
 
 **Android and HEVC**
 
-Android supports HEVC in Android 5.0+ on certain OEM hardware: 
+Android supports HEVC in Android 5.0+ on certain OEM hardware:
 
 - Chromecast Ultra supports HEVC
 - Android mobile has support for HEVC, but typically only up to Main Level 3 on mobile devices (limited support). See [video formats and codecs supported by Android mobile.](https://developer.android.com/guide/topics/media/media-formats#video-codecs).
-- Android TV support for HEVC up to Main Level 4.1. See [video formats and codecs supported by Android TV](https://developer.android.com/guide/topics/media/media-formats#video-codecs) for details. 
+- Android TV support for HEVC up to Main Level 4.1. See [video formats and codecs supported by Android TV](https://developer.android.com/guide/topics/media/media-formats#video-codecs) for details.
 
 
 ### Resources

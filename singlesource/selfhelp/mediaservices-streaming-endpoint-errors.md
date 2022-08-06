@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Packaging, origin or streaming endpoint errors"
 	description="Packaging, origin or streaming endpoint errors"
 	service="microsoft.media"
@@ -24,7 +24,7 @@ ms.date: 08/5/2022
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 # Packaging, origin or streaming endpoint errors
 ## **Recommended Documents**
 * [Streaming Endpoint (Origin) errors](https://docs.microsoft.com/azure/media-services/latest/streaming-endpoint-error-codes)<br>

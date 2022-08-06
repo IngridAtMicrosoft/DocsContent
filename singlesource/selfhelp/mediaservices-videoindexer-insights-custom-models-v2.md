@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
     pageTitle="Custom models"
     description="Apollo migrated file - Custom models"
     ms.author="t-reutam"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="a8b604b7-336c-eb37-5811-da99ebc882ef"
     resourcerequired="false"
-/>
+/> -->
 
 # Custom models in Video Indexer
 

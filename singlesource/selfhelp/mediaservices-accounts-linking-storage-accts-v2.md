@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-accounts-linking-storage-accts"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Azure Media Services supports multiple storage accounts. You can link an existing storage account, or create a new storage account prior to the creation of your Media Services account and pass it in to the create call. Learn to do this by following recommended steps."
@@ -20,12 +20,12 @@ ms.date: 08/5/2022
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="1b279143-929c-86e1-4c6c-18bc6a7fe2c5" />
+  supporttopicids="1b279143-929c-86e1-4c6c-18bc6a7fe2c5" /> -->
 # Azure Media Services linking and managing storage accounts
 
 ## Link and manage storage accounts in Azure Media Services
 
-Azure Media Services supports multiple storage accounts. You can link an existing storage account, or create a new storage account prior to the creation of your Media Services account and pass it in to the create call. 
+Azure Media Services supports multiple storage accounts. You can link an existing storage account, or create a new storage account prior to the creation of your Media Services account and pass it in to the create call.
 
 The Media Services account and all associated storage accounts must be in the same Azure subscription. We strongly recommend using storage accounts in the same location as the Media Services account to avoid additional latency and data egress costs.
 
@@ -34,19 +34,19 @@ Follow these instructions on how to create a new Media Services account with a n
 ### Add a storage account to your Media Services account using the CLI
 
 1. Open the Cloud Shell or CLI locally and run the following command to see the options:
-   
+
    ```
    az ams account storage -h
    ```
 
 2. To attach a "secondary" storage account, use the following CLI command to see the options:
-   
+
    ```
    az ams account storage add -h
    ```
 
 3. To remove a "secondary" storage account, use the following CLI command to see the options:
-   
+
    ```
    az ams account storage remove -h
    ```

@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
   articleid="apollo-mediaservices-content-upload-to-storage"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Apollo migrated file - Upload to storage"
@@ -20,7 +20,7 @@ ms.date: 08/5/2022
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="5893fb6c-980f-e9a3-d487-be538ff15710" />
+  supporttopicids="5893fb6c-980f-e9a3-d487-be538ff15710" /> -->
 # Upload to storage
 
 ## Upload to storage in Media Services
@@ -28,14 +28,14 @@ ms.date: 08/5/2022
 
 **NOTE:** This topic references Media Services v3 API documentation. v3 is the latest Media Services version.
 
-To start managing content, you need to create a Media Services account and associate it with an Azure Storage account. To upload your digital files, you need to create an Asset which is used to store the content in the associated Azure blob storage container. In Media Services v3, the Storage APIs are used to upload files into Assets. In Media Services v3, you use the Azure Storage APIs or SDKs to upload files into the Asset container. 
+To start managing content, you need to create a Media Services account and associate it with an Azure Storage account. To upload your digital files, you need to create an Asset which is used to store the content in the associated Azure blob storage container. In Media Services v3, the Storage APIs are used to upload files into Assets. In Media Services v3, you use the Azure Storage APIs or SDKs to upload files into the Asset container.
 
 ### Upload a file
 
 To upload a file:
-1. Use the Media Services v3 API to create a new input Asset. This operation creates a container in the storage account associated with your Media Services account. The API returns the container name, for example: `"container": "asset-b8d8b68a-2d7f-4d8c-81bb-8c7bbbe67ee4"`. If you already have a blob container that you want to associate with an Asset, you can specify the container name when creating the Asset. Media Services currently only supports blobs in the container root and not with paths in the file name. Thus, a container with the "input.mp4" file name will work. However, a container with the "videos/inputs/input.mp4" file name, will not work. 
+1. Use the Media Services v3 API to create a new input Asset. This operation creates a container in the storage account associated with your Media Services account. The API returns the container name, for example: `"container": "asset-b8d8b68a-2d7f-4d8c-81bb-8c7bbbe67ee4"`. If you already have a blob container that you want to associate with an Asset, you can specify the container name when creating the Asset. Media Services currently only supports blobs in the container root and not with paths in the file name. Thus, a container with the "input.mp4" file name will work. However, a container with the "videos/inputs/input.mp4" file name, will not work.
 
-   You can use the Azure CLI to upload directly to any storage account and container that you have rights to in your subscription. 
+   You can use the Azure CLI to upload directly to any storage account and container that you have rights to in your subscription.
 
    The container name must be unique and follow storage naming guidelines. The name doesn't have to follow the Media Services Asset container name (Asset-GUID) formatting. `az storage blob upload -f /path/to/file -c MyContainer -n MyBlob`.<br>
 

@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Azure Media Player analytics"
 	description="Azure Media Player analytics"
 	infoBubbleText=""
@@ -25,7 +25,7 @@ ms.date: 08/5/2022
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # Azure Media Player analytics
 
@@ -33,7 +33,7 @@ ms.date: 08/5/2022
 
 * [Azure Application Insights plugin](https://azure.microsoft.com/blog/player-analytics-azure-media-player-plugin/)<br>
 * [Google Analytics plugin](https://github.com/Azure-Samples/media-services-javascript-azure-media-player-google-analytics-plugin)
-  
+
 ## **Recommended Documents**
 
 * [Player events for Azure Media Player](http://amp.azure.net/libs/amp/latest/docs/index.html#amp.eventname)<br>

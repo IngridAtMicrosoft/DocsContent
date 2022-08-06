@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Media Services Premium Encoder"
 	description="Apollo migrated file - Media Services Premium Encoder"
 	ms.author="juliako"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="85a0a6ff-353c-a962-1e07-3cfb01731666"
     resourcerequired="false"
-/>
+/> -->
 
 # Media Services Premium Encoder
 

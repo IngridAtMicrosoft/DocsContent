@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
     pageTitle="Audio and Transcription"
     description="Apollo migrated file - Audio and Transcription"
     ms.author="t-reutam"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="f23a93f8-05c2-2069-75fe-c6fe31599d8a"
     resourcerequired="false"
-/>
+/> -->
 
 # Audio and Transcription
 

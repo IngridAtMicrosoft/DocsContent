@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="How-to encrypt with DRM and use a license delivery service"
 	description="How-to encrypt with DRM and use a license delivery service"
 	service="microsoft.media"
@@ -24,7 +24,7 @@ ms.date: 08/5/2022
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # How-to encrypt with DRM and use a license delivery service
 

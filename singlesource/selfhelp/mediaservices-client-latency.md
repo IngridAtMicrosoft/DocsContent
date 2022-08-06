@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Client Latency"
 	description="Client Latency"
 	service="microsoft.media"
@@ -24,10 +24,10 @@ ms.date: 08/5/2022
 	productPesIds="14885"
 	cloudEnvironments="public, mooncake, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 # Client Latency
 
-## **Recommended Steps** 
+## **Recommended Steps**
 
 * Ensure you are using Azure Media Services in an Azure region that is geographically closest to the majority of your customers
 * Enable Azure CDN for your streaming endpoint if a large number of clients will be simultaneously accessing content. Azure CDN can be enabled directly using either media services APIs or the Azure Portal.

@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="How to configure live streaming?"
 	description="How to configure live streaming?"
 	service="microsoft.media"
@@ -24,7 +24,7 @@ ms.date: 08/5/2022
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # How to configure live streaming?
 
@@ -32,7 +32,7 @@ ms.date: 08/5/2022
 
 **Supported live encoders to use with Media Services**
 
-If you are having an issue with live encoding, please test with one of the recommended encoder configurations for Azure Media Services first before filing a support ticket. 
+If you are having an issue with live encoding, please test with one of the recommended encoder configurations for Azure Media Services first before filing a support ticket.
 
 * [Recommended live encoders to use with Media Services](https://docs.microsoft.com/azure/media-services/latest/recommended-on-premises-live-encoders)
 

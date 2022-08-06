@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties 
+<!-- <properties
     pageTitle="What media file formats are supported by the recommended encoder?"
     description="What media file formats are supported by the recommended encoder?"
     service="microsoft.media"
@@ -23,7 +23,7 @@ ms.date: 08/5/2022
     cloudEnvironments="public, fairfax, usnat, ussec"
  	articleId="38289a66-10ef-4a00-8bc2-af5c365479c9"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/> -->
 
 # What media file formats are supported by the recommended encoder?
 

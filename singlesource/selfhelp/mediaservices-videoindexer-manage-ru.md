@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
     pageTitle="Need to scale Media Reserved Units"
     description="Need to scale Media Reserved Units"
     infoBubbleText=""
@@ -25,7 +25,7 @@ ms.date: 08/5/2022
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/>
+/> -->
 
 # Need to scale Media Reserved Units
 

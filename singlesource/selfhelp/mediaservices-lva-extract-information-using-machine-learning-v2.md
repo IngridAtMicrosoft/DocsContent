@@ -8,7 +8,7 @@ ms.service: media-services
 ms.date: 08/5/2022
 ---
 
-<properties
+<!-- <properties
 	pageTitle="Extract information using machine learning models"
 	description="Apollo migrated file - Extract information using machine learning models"
 	ms.author="akucer"
@@ -19,7 +19,7 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="0a279559-4acd-417e-afd0-07dbc2daaf38"
     resourcerequired="false"
-/>
+/> -->
 
 # Extract information using machine learning models
 
