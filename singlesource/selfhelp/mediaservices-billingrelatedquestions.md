@@ -1,20 +1,28 @@
 ---
-  title:  "Explanation of media services pricing"
-  description: "I have a question regarding media services pricing"
+title: Explanation of media services pricing
+description: I have a question regarding media services pricing
+ms.author: inhenkel
+authors: juliako
+author: IngridAtMicrosoft
+ms.service: media-services
+ms.date: 08/5/2022
+---
+
+<properties 
+    pageTitle="Explanation of media services pricing"
+    description="I have a question regarding media services pricing"
     service="microsoft.media"
     resource="mediaservices"
     authors="juliako"
     displayOrder="1"
-  selfhelptype: "resource"
-supporttopicids: ""
-  resourcetags:
-  productpesids: ""
-  cloudenvironments: "public, fairfax, usnat, ussec"
- articleid: "883b60c9-a25f-434b-bb3d-0b1b2a30f1bc"
-ownershipid: "StorageMediaEdge_Media"
-author: IngridAtMicrosoft
-ms.service: media-services
----
+    selfHelpType="resource"
+    supportTopicIds=""
+    resourceTags=""
+    productPesIds=""
+    cloudEnvironments="public, fairfax, usnat, ussec"
+ 	articleId="883b60c9-a25f-434b-bb3d-0b1b2a30f1bc"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # Explanation of media services pricing
 

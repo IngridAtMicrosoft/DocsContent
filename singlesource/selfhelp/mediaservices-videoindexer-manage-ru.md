@@ -1,23 +1,31 @@
 ---
-  title:  "Need to scale Media Reserved Units"
-  description: "Need to scale Media Reserved Units"
-    infoBubbleText=""
-service: "microsoft.media"
-resource:
-    authors="ReutAmior"
-  ms.author: inhenkel"t-reutam"
-    displayOrder="1"
-  articleid: "mediaservices-videoindexer-manage-ru"
-    diagnosticScenario=""
-  selfhelptype: "generic"
-supporttopicids: "32740746,32740748"
-  resourcetags:
-  productpesids: "16535"
-  cloudenvironments: "public, fairfax, usnat, ussec"
-  ownershipid: "StorageMediaEdge_Media_VI"
+title: Need to scale Media Reserved Units
+description: Need to scale Media Reserved Units
+ms.author: t-reutam
+authors: ReutAmior
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+    pageTitle="Need to scale Media Reserved Units"
+    description="Need to scale Media Reserved Units"
+    infoBubbleText=""
+	service="microsoft.media"
+	resource="mediaservices"
+    authors="ReutAmior"
+    ms.author="t-reutam"
+    displayOrder="1"
+    articleId="mediaservices-videoindexer-manage-ru"
+    diagnosticScenario=""
+    selfHelpType="generic"
+    supportTopicIds="32740746,32740748"
+    resourceTags=""
+    productPesIds="16535"
+    cloudEnvironments="public, fairfax, usnat, ussec"
+    ownershipId="StorageMediaEdge_Media_VI"
+/>
 
 # Need to scale Media Reserved Units
 

@@ -1,17 +1,25 @@
 ---
-  title:  "Custom models"
-  description: "Apollo migrated file - Custom models"
-  ms.author: inhenkel"t-reutam"
-  articleid: "apollo-mediaservices-videoindexer-insights-custom-models"
-  selfhelptype: "apollo"
-  productpesids: "16535"
-  cloudenvironments: "public, fairfax, usnat, ussec"
-  ownershipid: "StorageMediaEdge_Media_VI"
-supporttopicids: "a8b604b7-336c-eb37-5811-da99ebc882ef"
-resourcerequired: "false"
+title: Custom models
+description: Apollo migrated file - Custom models
+ms.author: t-reutam
+authors: no authors mediaservices-videoindexer-insights-custom-models-v2.md
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+    pageTitle="Custom models"
+    description="Apollo migrated file - Custom models"
+    ms.author="t-reutam"
+    articleId="apollo-mediaservices-videoindexer-insights-custom-models"
+    selfHelpType="apollo"
+    productPesIds="16535"
+    cloudEnvironments="public, fairfax, usnat, ussec"
+    ownershipId="StorageMediaEdge_Media_VI"
+    supportTopicIds="a8b604b7-336c-eb37-5811-da99ebc882ef"
+    resourcerequired="false"
+/>
 
 # Custom models in Video Indexer
 

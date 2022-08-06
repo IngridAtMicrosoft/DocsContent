@@ -1,21 +1,29 @@
 ---
-  title:  "What media file formats are supported by the recommended encoder?"
-  description: "What media file formats are supported by the recommended encoder?"
+title: What media file formats are supported by the recommended encoder?
+description: What media file formats are supported by the recommended encoder?
+ms.author: juliako
+authors: juliako
+author: IngridAtMicrosoft
+ms.service: media-services
+ms.date: 08/5/2022
+---
+
+<properties 
+    pageTitle="What media file formats are supported by the recommended encoder?"
+    description="What media file formats are supported by the recommended encoder?"
     service="microsoft.media"
     resource="mediaservices"
     authors="juliako"
-  ms.author: inhenkel"juliako"
+    ms.author="juliako"
     displayOrder="2"
-  selfhelptype: "resource"
-supporttopicids: ""
-  resourcetags:
-  productpesids: ""
-  cloudenvironments: "public, fairfax, usnat, ussec"
- articleid: "38289a66-10ef-4a00-8bc2-af5c365479c9"
-ownershipid: "StorageMediaEdge_Media"
-author: IngridAtMicrosoft
-ms.service: media-services
----
+    selfHelpType="resource"
+    supportTopicIds=""
+    resourceTags=""
+    productPesIds=""
+    cloudEnvironments="public, fairfax, usnat, ussec"
+ 	articleId="38289a66-10ef-4a00-8bc2-af5c365479c9"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # What media file formats are supported by the recommended encoder?
 

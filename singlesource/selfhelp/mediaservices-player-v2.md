@@ -1,17 +1,25 @@
 ---
-title:   "Azure Media Player"
-description: "Apollo migrated file - Azure Media Player"
-ms.author: inhenkel"johndeu"
-articleid: "apollo-mediaservices-player"
-selfhelptype: "apollo"
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
-supporttopicids: "0e2283d6-4c34-cb97-9afa-792bc8f10a2a"
-resourcerequired: "false"
+title: Azure Media Player
+description: Apollo migrated file - Azure Media Player
+ms.author: johndeu
+authors: no authors mediaservices-player-v2.md
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Azure Media Player"
+	description="Apollo migrated file - Azure Media Player"
+	ms.author="johndeu"
+	articleId="apollo-mediaservices-player"
+	selfHelpType="apollo"
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+    supportTopicIds="0e2283d6-4c34-cb97-9afa-792bc8f10a2a"
+    resourcerequired="false"
+/>
 
 # Azure Media Player
 

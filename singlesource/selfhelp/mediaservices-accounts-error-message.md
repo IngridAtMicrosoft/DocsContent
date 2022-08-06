@@ -1,22 +1,30 @@
 ---
-title:   "Account management error messages"
-description: "Account management error messages"
-service: "microsoft.media"
-resource:
-authors: "akucer"
-ms.author: inhenkel"akucer"
-displayOrder: "1"
-articleid: "mediaservices-error-message"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32729544"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, mooncake, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: Account management error messages
+description: Account management error messages
+ms.author: akucer
+authors: akucer
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Account management error messages"
+	description="Account management error messages"
+	service="microsoft.media"
+	resource="mediaservices"
+	authors="akucer"
+	ms.author="akucer"
+	displayOrder="1"
+	articleId="mediaservices-error-message"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32729544"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, mooncake, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 # Account management error messages
 ## **Recommended Documents**
 

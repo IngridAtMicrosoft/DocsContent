@@ -1,17 +1,25 @@
 ---
-  title:  "Video Indexer Pricing"
-  description: "Apollo migrated file - Video Indexer Pricing"
-  ms.author: inhenkel"t-reutam"
-  articleid: "apollo-mediaservices-videoindexer-account-pricing"
-  selfhelptype: "apollo"
-  productpesids: "16535"
-  cloudenvironments: "public, fairfax, usnat, ussec"
-  ownershipid: "StorageMediaEdge_Media_VI"
-supporttopicids: "622c9497-03f4-86c3-237a-87f6367d0a7d"
-resourcerequired: "false"
+title: Video Indexer Pricing
+description: Apollo migrated file - Video Indexer Pricing
+ms.author: t-reutam
+authors: no authors mediaservices-videoindexer-account-pricing-v2.md
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+    pageTitle="Video Indexer Pricing"
+    description="Apollo migrated file - Video Indexer Pricing"
+    ms.author="t-reutam"
+    articleId="apollo-mediaservices-videoindexer-account-pricing"
+    selfHelpType="apollo"
+    productPesIds="16535"
+    cloudEnvironments="public, fairfax, usnat, ussec"
+    ownershipId="StorageMediaEdge_Media_VI"
+    supportTopicIds="622c9497-03f4-86c3-237a-87f6367d0a7d"
+    resourcerequired="false"
+/>
 
 # Video Indexers pricing
 

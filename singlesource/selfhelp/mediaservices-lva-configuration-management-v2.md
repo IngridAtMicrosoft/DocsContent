@@ -1,19 +1,27 @@
 ---
-title:   "Configuration and management"
-description: "Apollo migrated file - Configuration and management"
-ms.author: inhenkel"akucer"
-articleid: "apollo-mediaservices-lva-configuration-management"
-selfhelptype: "apollo"
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
-supporttopicids: "01c8a5a6-0de9-9a25-1a04-2d334881938a"
-resourcerequired: "false"
+title: Configuration and management
+description: Apollo migrated file - Configuration and management
+ms.author: akucer
+authors: no authors mediaservices-lva-configuration-management-v2.md
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
 
-# Configuration and management
+<properties
+	pageTitle="Configuration and management"
+	description="Apollo migrated file - Configuration and management"
+	ms.author="akucer"
+	articleId="apollo-mediaservices-lva-configuration-management"
+	selfHelpType="apollo"
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+    supportTopicIds="01c8a5a6-0de9-9a25-1a04-2d334881938a"
+    resourcerequired="false"
+/>
+
+# Configuration and management 
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.
@@ -51,7 +59,7 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 * Tools to monitor Media Services IoT Edge modules
 * IP Camera ingest and RTSP settings
 
-[Module twin JSON schema](https://docs.microsoft.com/azure/media-services/live-video-analytics-edge/module-twin-configuration-schema)  This article describes the module twin JSON schema of Live Video Analytics on IoT Edge.
+[Module twin JSON schema](https://docs.microsoft.com/azure/media-services/live-video-analytics-edge/module-twin-configuration-schema)  This article describes the module twin JSON schema of Live Video Analytics on IoT Edge. 
 * Module twins are JSON documents that store module state information including metadata, configurations, and conditions. See the [Understand and use module twins in IoT Hub](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-module-twins) article for further details on module twins.
 
 

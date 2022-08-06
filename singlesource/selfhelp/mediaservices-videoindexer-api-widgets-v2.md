@@ -1,17 +1,25 @@
 ---
-  title:  "Video Indexer Widgets"
-  description: "Apollo migrated file - Video Indexer Widgets"
-  ms.author: inhenkel"t-reutam"
-  articleid: "apollo-mediaservices-videoindexer-api-widgets"
-  selfhelptype: "apollo"
-  productpesids: "16535"
-  cloudenvironments: "public, fairfax, usnat, ussec"
-  ownershipid: "StorageMediaEdge_Media_VI"
-supporttopicids: "86e3ac11-6009-319e-bffa-0445c53dc1ac"
-resourcerequired: "false"
+title: Video Indexer Widgets
+description: Apollo migrated file - Video Indexer Widgets
+ms.author: t-reutam
+authors: no authors mediaservices-videoindexer-api-widgets-v2.md
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+    pageTitle="Video Indexer Widgets"
+    description="Apollo migrated file - Video Indexer Widgets"
+    ms.author="t-reutam"
+    articleId="apollo-mediaservices-videoindexer-api-widgets"
+    selfHelpType="apollo"
+    productPesIds="16535"
+    cloudEnvironments="public, fairfax, usnat, ussec"
+    ownershipId="StorageMediaEdge_Media_VI"
+    supportTopicIds="86e3ac11-6009-319e-bffa-0445c53dc1ac"
+    resourcerequired="false"
+/>
 
 # Video Indexer Widgets
 

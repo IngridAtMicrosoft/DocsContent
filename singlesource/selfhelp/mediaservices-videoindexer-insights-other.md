@@ -1,27 +1,35 @@
 ---
-  title:  "Cognitive insights in Video Indexer"
-  description: "Cognitive insights in Video Indexer"
-    infoBubbleText=""
-service: "microsoft.media"
-resource:
-    authors="ReutAmior"
-  ms.author: inhenkel"t-reutam"
-    displayOrder="1"
-  articleid: "mediaservices-videoindexer-insights-other"
-    diagnosticScenario=""
-  selfhelptype: "generic"
-supporttopicids: "32740739,32740745,32740740"
-  resourcetags:
-  productpesids: "16535"
-  cloudenvironments: "public, fairfax, usnat, ussec"
-  ownershipid: "StorageMediaEdge_Media_VI"
+title: Cognitive insights in Video Indexer
+description: Cognitive insights in Video Indexer
+ms.author: t-reutam
+authors: ReutAmior
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+    pageTitle="Cognitive insights in Video Indexer"
+    description="Cognitive insights in Video Indexer"
+    infoBubbleText=""
+	service="microsoft.media"
+	resource="mediaservices"
+    authors="ReutAmior"
+    ms.author="t-reutam"
+    displayOrder="1"
+    articleId="mediaservices-videoindexer-insights-other"
+    diagnosticScenario=""
+    selfHelpType="generic"
+    supportTopicIds="32740739,32740745,32740740"
+    resourceTags=""
+    productPesIds="16535"
+    cloudEnvironments="public, fairfax, usnat, ussec"
+    ownershipId="StorageMediaEdge_Media_VI"
+/>
 
 # Cognitive insights in Video Indexer
 
-When you call the *Get Video Index API* and the response status is OK, you get a detailed JSON output as the response content. The JSON content contains details of the specified video insights. The insights include transcripts, OCRs, faces, topics, blocks, etc. Each insight type includes instances of time ranges that show when the insight appears in the video.
+When you call the *Get Video Index API* and the response status is OK, you get a detailed JSON output as the response content. The JSON content contains details of the specified video insights. The insights include transcripts, OCRs, faces, topics, blocks, etc. Each insight type includes instances of time ranges that show when the insight appears in the video. 
 
 ## **Recommended Documents**
 

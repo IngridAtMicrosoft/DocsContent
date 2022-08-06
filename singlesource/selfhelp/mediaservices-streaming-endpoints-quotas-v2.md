@@ -1,18 +1,26 @@
 ---
-articleid: "apollo-mediaservices-streaming-endpoints-quotas"
-cloudenvironments: "public,fairfax,usnat,ussec"
-description: "Apollo migrated file - Manage Streaming Endpoints quotas"
-ms.author: inhenkel"inhenkel,jiayali"
-ownershipid: "StorageMediaEdge_Media"
-title:  "Manage Streaming Endpoints quotas"
-problemids: ""
-productpesids: "14885"
-resourcerequired: "False"
-resourcetags:
-selfhelptype: "apollo"
-supporttopicids: "52af5698-1a28-ded8-0a0c-d1038b1e4498" author: IngridAtMicrosoft
+title: no title mediaservices-streaming-endpoints-quotas-v2.md
+description: Apollo migrated file - Manage Streaming Endpoints quotas
+ms.author: inhenkel,jiayali
+authors: no authors mediaservices-streaming-endpoints-quotas-v2.md
+author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+  articleid="apollo-mediaservices-streaming-endpoints-quotas"
+  cloudenvironments="public,fairfax,usnat,ussec"
+  description="Apollo migrated file - Manage Streaming Endpoints quotas"
+  ms.author="inhenkel,jiayali"
+  ownershipid="StorageMediaEdge_Media"
+  pagetitle="Manage Streaming Endpoints quotas"
+  problemids=""
+  productpesids="14885"
+  resourcerequired="False"
+  resourcetags=""
+  selfhelptype="apollo"
+  supporttopicids="52af5698-1a28-ded8-0a0c-d1038b1e4498" />
 # Manage Streaming Endpoints quotas
 
 ## Learn how to manage Streaming Endpoints quotas

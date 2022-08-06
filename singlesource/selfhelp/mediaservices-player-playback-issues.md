@@ -1,23 +1,31 @@
 ---
-title:   "Azure Media Player playback issues"
-description: "Azure Media Player playback issues"
-infoBubbleText: =""
-service: "microsoft.media"
-	resource=""
-authors:
-ms.author: inhenkel"johndeu"
-displayOrder: "1"
-articleid: "mediaservices-player-playback-issues"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32632111"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: Azure Media Player playback issues
+description: Azure Media Player playback issues
+ms.author: johndeu
+authors: johndeu
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Azure Media Player playback issues"
+	description="Azure Media Player playback issues"
+	infoBubbleText=""
+	service="microsoft.media"
+	resource=""
+	authors="johndeu"
+	ms.author="johndeu"
+	displayOrder="1"
+	articleId="mediaservices-player-playback-issues"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32632111"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # Azure Media Player playback issues
 
@@ -65,22 +73,22 @@ For DRM content to playback, check the support matrix for EME on the browser and
 
 See the ["Can I Use" website](https://caniuse.com/#feat=hevc).
 
-If you are looking for device support of HEVC, please check with the device manufacturer to determine which hardware releases include support for HEVC playback.
+If you are looking for device support of HEVC, please check with the device manufacturer to determine which hardware releases include support for HEVC playback.  
 
 **Apple iOS and HEVC**
 
-For iOS devices, HEVC playback was included in iOS 11.0 or higher. iPhone X, iPhone 8/Plus, iPhone 7/6s/6/Plus. Not all phone models are capable of playing back 4K and may be limited to specific resolutions and frame rate requirements. For example, iPhone 6/Plus can play HEVC video only up to 1080p at 240fps.
-iPhone XS/XR/X, iPhone 8/Plus, iPhone 7/6s/Plus with Apples A9, A10 chipset (or later) support up to 4K 2160p playback at common frame rates.
+For iOS devices, HEVC playback was included in iOS 11.0 or higher. iPhone X, iPhone 8/Plus, iPhone 7/6s/6/Plus. Not all phone models are capable of playing back 4K and may be limited to specific resolutions and frame rate requirements. For example, iPhone 6/Plus can play HEVC video only up to 1080p at 240fps. 
+iPhone XS/XR/X, iPhone 8/Plus, iPhone 7/6s/Plus with Apples A9, A10 chipset (or later) support up to 4K 2160p playback at common frame rates. 
 
 For details on supported Apple devices for HEVC, please search HEVC in the [Apple support system](https://support.apple.com/kb/index?page=search&q=HEVC&product=&doctype=SPECIFICATIONS&currentPage=1&includeArchived=false&locale=en_US).
 
 **Android and HEVC**
 
-Android supports HEVC in Android 5.0+ on certain OEM hardware.
+Android supports HEVC in Android 5.0+ on certain OEM hardware. 
 
 - Chromecast Ultra supports HEVC
 - Android mobile has support for HEVC, but typically only up to Main Level 3 on mobile devices (very limited support in market). See [video formats and codecs supported by Android mobile.](https://developer.android.com/guide/topics/media/media-formats#video-codecs).
-- Android TV support for HEVC up to Main Level 4.1. See [video formats and codecs supported by Android TV](https://developer.android.com/guide/topics/media/media-formats#video-codecs) for details.
+- Android TV support for HEVC up to Main Level 4.1. See [video formats and codecs supported by Android TV](https://developer.android.com/guide/topics/media/media-formats#video-codecs) for details. 
 
 ### **Does my browser support H.264/AVC video playback?**
 

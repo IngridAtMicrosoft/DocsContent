@@ -1,22 +1,30 @@
----title:  "Streaming endpoint performance guidance"
-  description: "Solution to streaming endpoint performance issues (status 503)"
+---
+title: Streaming endpoint performance guidance
+description: Solution to streaming endpoint performance issues (status 503)
+ms.author: juliako
+authors: Juliako
+author: IngridAtMicrosoft
+ms.service: media-services
+ms.date: 08/5/2022
+---
+
+<properties pageTitle="Streaming endpoint performance guidance"
+    description="Solution to streaming endpoint performance issues (status 503)"
     infoBubbleText="See details on the right"
     service="microsoft.media"
     resource="mediaservices"
     authors="Juliako"
-  ms.author: inhenkel"juliako"
+    ms.author="juliako"
     displayOrder="1"
-  articleid: "mediaservices-insights-streamingendpoint-performance"
+    articleId="mediaservices-insights-streamingendpoint-performance"
     diagnosticScenario=""
-  selfhelptype: "diagnostics"
-supporttopicids: ""
-  resourcetags:
-  productpesids: "14885"
-  cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
-author: IngridAtMicrosoft
-ms.service: media-services
----
+    selfHelpType="diagnostics"
+    supportTopicIds=""
+    resourceTags=""
+    productPesIds="14885"
+    cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # Streaming endpoint performance guidance
 <!--issueDescription-->
@@ -40,7 +48,7 @@ Check if CDN is enabled. If not, enable CDN. If enabled already, enable origin s
 
 **Premium Streaming Endpoint**
 
-Check if CDN is enabled. If not, enable CDN. If enabled already, enable origin shield and request consolidation at CDN. If changing the CDN configuration doesn't help, the customer should increase streaming units based on the bandwidth usage data.
+Check if CDN is enabled. If not, enable CDN. If enabled already, enable origin shield and request consolidation at CDN. If changing the CDN configuration doesn't help, the customer should increase streaming units based on the bandwidth usage data. 
 
 It is also possible that the customer is streaming too many assets at the same time on the same streaming endpoint. It will help the playback experience if the customer distributes the assets into different streaming endpoints.
 

@@ -1,24 +1,32 @@
 ---
-title:   "Media Services: Profiles or custom profiles"
-description: "Media Services: Profiles or custom profiles"
-service: "microsoft.media"
-resource:
-authors: "juliako"
-ms.author: inhenkel"juliako"
-displayOrder: "1"
-articleid: "mediaservices-encoding-files-profiles"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32632115"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: Media Services: Profiles or custom profiles
+description: Media Services: Profiles or custom profiles
+ms.author: juliako
+authors: juliako
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
 
-# Media Services: Profiles or custom profiles
+<properties
+	pageTitle="Media Services: Profiles or custom profiles"
+	description="Media Services: Profiles or custom profiles"
+	service="microsoft.media"
+	resource="mediaservices"
+	authors="juliako"
+	ms.author="juliako"
+	displayOrder="1"
+	articleId="mediaservices-encoding-files-profiles"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32632115"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
+
+# Media Services: Profiles or custom profiles 
 
 ## **Recommended Documents**
 

@@ -1,23 +1,31 @@
 ---
-title:   "Azure Media Player analytics"
-description: "Azure Media Player analytics"
-infoBubbleText: =""
-service: "microsoft.media"
-	resource=""
-authors:
-ms.author: inhenkel"johndeu"
-displayOrder: "1"
-articleid: "mediaservices-player-analytics"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32632077"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: Azure Media Player analytics
+description: Azure Media Player analytics
+ms.author: johndeu
+authors: johndeu
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Azure Media Player analytics"
+	description="Azure Media Player analytics"
+	infoBubbleText=""
+	service="microsoft.media"
+	resource=""
+	authors="johndeu"
+	ms.author="johndeu"
+	displayOrder="1"
+	articleId="mediaservices-player-analytics"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32632077"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # Azure Media Player analytics
 
@@ -25,7 +33,7 @@ ms.service: media-services
 
 * [Azure Application Insights plugin](https://azure.microsoft.com/blog/player-analytics-azure-media-player-plugin/)<br>
 * [Google Analytics plugin](https://github.com/Azure-Samples/media-services-javascript-azure-media-player-google-analytics-plugin)
-
+  
 ## **Recommended Documents**
 
 * [Player events for Azure Media Player](http://amp.azure.net/libs/amp/latest/docs/index.html#amp.eventname)<br>

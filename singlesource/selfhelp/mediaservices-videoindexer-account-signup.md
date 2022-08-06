@@ -1,23 +1,31 @@
 ---
-  title:  "Sign up and sign in to Video Indexer"
-  description: "Sign up and sign in to Video Indexer"
-    infoBubbleText=""
-service: "microsoft.media"
-resource:
-    authors="ReutAmior"
-  ms.author: inhenkel"t-reutam"
-    displayOrder="1"
-  articleid: "mediaservices-videoindexer-account-signup"
-    diagnosticScenario=""
-  selfhelptype: "generic"
-supporttopicids: "32606567"
-  resourcetags:
-  productpesids: "16535"
-  cloudenvironments: "public, fairfax, usnat, ussec"
-  ownershipid: "StorageMediaEdge_Media_VI"
+title: Sign up and sign in to Video Indexer
+description: Sign up and sign in to Video Indexer
+ms.author: t-reutam
+authors: ReutAmior
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+    pageTitle="Sign up and sign in to Video Indexer"
+    description="Sign up and sign in to Video Indexer"
+    infoBubbleText=""
+	service="microsoft.media"
+	resource="mediaservices"
+    authors="ReutAmior"
+    ms.author="t-reutam"
+    displayOrder="1"
+    articleId="mediaservices-videoindexer-account-signup"
+    diagnosticScenario=""
+    selfHelpType="generic"
+    supportTopicIds="32606567"
+    resourceTags=""
+    productPesIds="16535"
+    cloudEnvironments="public, fairfax, usnat, ussec"
+    ownershipId="StorageMediaEdge_Media_VI"
+/>
 
 # Account sign up and sign in
 

@@ -1,29 +1,37 @@
 ---
-title:   "Issues encrypting with FairPlay"
-description: "Issues encrypting with FairPlay"
-service: "microsoft.media"
-resource:
-authors: "juliako"
-ms.author: inhenkel"juliako"
-displayOrder: "1"
-articleid: "mediaservices-drm-and-key-delivery-fairplay-issues"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32632095"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: Issues encrypting with FairPlay
+description: Issues encrypting with FairPlay
+ms.author: juliako
+authors: juliako
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Issues encrypting with FairPlay"
+	description="Issues encrypting with FairPlay"
+	service="microsoft.media"
+	resource="mediaservices"
+	authors="juliako"
+	ms.author="juliako"
+	displayOrder="1"
+	articleId="mediaservices-drm-and-key-delivery-fairplay-issues"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32632095"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # Issues encrypting with FairPlay
 
 **Media Services v3 (latest)**
 
 **NOTE**: Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://aka.ms/ams-v3-rest-ref), [CLI](https://aka.ms/ams-v3-cli-ref), or one of the supported [SDKs](https://docs.microsoft.com/azure/media-services/latest/developers-guide).
-
+ 
 Before implementing DRM encryption, review [Content protection overview](https://docs.microsoft.com/azure/media-services/latest/content-protection-overview). It is highly recommended to focus and fully test each part described in the [Main components of a content protection system](https://docs.microsoft.com/azure/media-services/latest/content-protection-overview#main-components-of-a-content-protection-system) section before moving onto the next part. To test your "content protection" system, use the tools specified in the section.
 
 To get details on all failing Key delivery service request, enable the Azure monitoring diagnostic logs. For more information, see [Monitor Media Services metrics and diagnostic logs](https://docs.microsoft.com/azure/media-services/latest/media-services-metrics-diagnostic-logs).

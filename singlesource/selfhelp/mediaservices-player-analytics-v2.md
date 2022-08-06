@@ -1,18 +1,26 @@
 ---
-articleid: "apollo-mediaservices-player-analytics"
-cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
-description: "Apollo migrated file - Azure Media Player analytics"
-ms.author: inhenkel"jiayali"
-ownershipid: "StorageMediaEdge_Media"
-title:  "Azure Media Player analytics"
-problemids: ""
-productpesids: "14885"
-resourcerequired: "False"
-resourcetags:
-selfhelptype: "apollo"
-supporttopicids: "a9036f12-bfde-7afb-6d76-7a3b7bad3096" author: IngridAtMicrosoft
+title: no title mediaservices-player-analytics-v2.md
+description: Apollo migrated file - Azure Media Player analytics
+ms.author: jiayali
+authors: no authors mediaservices-player-analytics-v2.md
+author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+  articleid="apollo-mediaservices-player-analytics"
+  cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
+  description="Apollo migrated file - Azure Media Player analytics"
+  ms.author="jiayali"
+  ownershipid="StorageMediaEdge_Media"
+  pagetitle="Azure Media Player analytics"
+  problemids=""
+  productpesids="14885"
+  resourcerequired="False"
+  resourcetags=""
+  selfhelptype="apollo"
+  supporttopicids="a9036f12-bfde-7afb-6d76-7a3b7bad3096" />
 # Azure Media Player analytics
 
 ## Understanding the client experience using analytics with Azure Media Player
@@ -35,7 +43,7 @@ For getting client playback experience and statistics, use the Azure Media Playe
 
 * [Azure Application Insights plugin](https://azure.microsoft.com/blog/player-analytics-azure-media-player-plugin/)<br>
 * [Google Analytics plugin](https://github.com/Azure-Samples/media-services-javascript-azure-media-player-google-analytics-plugin)
-
+  
 ### Resources
 
 * [Player events for Azure Media Player](https://amp.azure.net/libs/amp/latest/docs/index.html#amp.eventname)<br>

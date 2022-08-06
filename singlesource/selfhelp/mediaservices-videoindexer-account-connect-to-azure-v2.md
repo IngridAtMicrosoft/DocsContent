@@ -1,17 +1,25 @@
 ---
-  title:  "Connect to Azure"
-  description: "Apollo migrated file - Connect to Azure"
-  ms.author: inhenkel"t-reutam"
-  articleid: "apollo-mediaservices-videoindexer-account-connect-to-azure"
-  selfhelptype: "apollo"
-  productpesids: "16535"
-  cloudenvironments: "public, fairfax, usnat, ussec"
-  ownershipid: "StorageMediaEdge_Media_VI"
-supporttopicids: "c5e09f82-e517-428b-e12f-7e3cc5b639d4"
-resourcerequired: "false"
+title: Connect to Azure
+description: Apollo migrated file - Connect to Azure
+ms.author: t-reutam
+authors: no authors mediaservices-videoindexer-account-connect-to-azure-v2.md
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+    pageTitle="Connect to Azure"
+    description="Apollo migrated file - Connect to Azure"
+    ms.author="t-reutam"
+    articleId="apollo-mediaservices-videoindexer-account-connect-to-azure"
+    selfHelpType="apollo"
+    productPesIds="16535"
+    cloudEnvironments="public, fairfax, usnat, ussec"
+    ownershipId="StorageMediaEdge_Media_VI"
+    supportTopicIds="c5e09f82-e517-428b-e12f-7e3cc5b639d4"
+    resourcerequired="false"
+/>
 
 # Connect to Azure
 
@@ -20,7 +28,7 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 <br><br><br>
 
 
-When creating a Video Indexer account, you can choose a free trial account (where you get a certain number of free indexing minutes) or a paid option (where you're not limited by the quota). With a free trial, Video Indexer provides up to 600 minutes of free indexing to website users and up to 2400 minutes of free indexing to API users. With the paid option, you create a Video Indexer account that's connected to your Azure subscription and an Azure Media Services account. You pay for minutes indexed as well as the media account related charges.
+When creating a Video Indexer account, you can choose a free trial account (where you get a certain number of free indexing minutes) or a paid option (where you're not limited by the quota). With a free trial, Video Indexer provides up to 600 minutes of free indexing to website users and up to 2400 minutes of free indexing to API users. With the paid option, you create a Video Indexer account that's connected to your Azure subscription and an Azure Media Services account. You pay for minutes indexed as well as the media account related charges. 
 
 ### Recommended resources
 

@@ -1,17 +1,25 @@
 ---
-title:   "Archiving a live stream"
-description: "Apollo migrated file - Archiving a live stream"
-ms.author: inhenkel"juliako"
-articleid: "apollo-mediaservices-live-streaming-archiving"
-selfhelptype: "apollo"
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
-supporttopicids: "89756bf0-2df9-40d8-9b73-52d7cf7c3aa9"
-resourcerequired: "false"
+title: Archiving a live stream
+description: Apollo migrated file - Archiving a live stream
+ms.author: juliako
+authors: no authors mediaservices-live-streaming-archiving-v2.md
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Archiving a live stream"
+	description="Apollo migrated file - Archiving a live stream"
+	ms.author="juliako"
+	articleId="apollo-mediaservices-live-streaming-archiving"
+	selfHelpType="apollo"
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+    supportTopicIds="89756bf0-2df9-40d8-9b73-52d7cf7c3aa9"
+    resourcerequired="false"
+/>
 
 # Archiving a live stream
 

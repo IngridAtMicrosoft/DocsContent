@@ -1,27 +1,35 @@
 ---
-title:   "Live streaming with a live cloud encoder"
-description: "Live streaming with a live cloud encoder"
-infoBubbleText: =""
-service: "microsoft.media"
-	resource="liveevent"
-authors: "juliako"
-ms.author: inhenkel"juliako"
-displayOrder: "1"
-articleid: "mediaservices-live-streaming-live-cloud-encoder"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32632105"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: Live streaming with a live cloud encoder
+description: Live streaming with a live cloud encoder
+ms.author: juliako
+authors: juliako
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Live streaming with a live cloud encoder"
+	description="Live streaming with a live cloud encoder"
+	infoBubbleText=""
+	service="microsoft.media"
+	resource="liveevent"
+	authors="juliako"
+	ms.author="juliako"
+	displayOrder="1"
+	articleId="mediaservices-live-streaming-live-cloud-encoder"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32632105"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # Live streaming with a live cloud encoder
 
-When using live encoding with Media Services, you would configure your on-premises live encoder to send a single bitrate video as the contribution feed to the Channel (v2)/Live Event (v3) using RTMP or Fragmented-Mp4 protocol. The Channel/Live Event encodes that incoming single bitrate stream to a [multiple bitrate video stream](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming), makes it available for delivery to play back devices via protocols like MPEG-DASH, HLS, and Smooth Streaming.
+When using live encoding with Media Services, you would configure your on-premises live encoder to send a single bitrate video as the contribution feed to the Channel (v2)/Live Event (v3) using RTMP or Fragmented-Mp4 protocol. The Channel/Live Event encodes that incoming single bitrate stream to a [multiple bitrate video stream](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming), makes it available for delivery to play back devices via protocols like MPEG-DASH, HLS, and Smooth Streaming. 
 
 You can send the contribution feed at up to 1080p resolution at a frame rate of 30 frames/second, with H.264/AVC video codec and AAC (AAC-LC, HE-AACv1, or HE-AACv2) audio codec. See the [Live Event types comparison](https://docs.microsoft.com/azure/media-services/latest/live-event-types-comparison) article for more details.
 

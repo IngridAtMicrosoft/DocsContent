@@ -1,22 +1,30 @@
 ---
-title:   "Manage Assets quotas"
-description: "Manage Assets quotas"
-service: "microsoft.media"
-resource:
-authors: "juliako"
-ms.author: inhenkel"juliako"
-displayOrder: "1"
-articleid: "mediaservices-assets-quotas"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32632080"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: Manage Assets quotas
+description: Manage Assets quotas
+ms.author: juliako
+authors: juliako
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Manage Assets quotas"
+	description="Manage Assets quotas"
+	service="microsoft.media"
+	resource="mediaservices"
+	authors="juliako"
+	ms.author="juliako"
+	displayOrder="1"
+	articleId="mediaservices-assets-quotas"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32632080"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # Manage Assets quotas
 

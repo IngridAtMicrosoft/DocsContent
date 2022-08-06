@@ -1,22 +1,30 @@
 ---
-title:   "How-to encrypt with DRM and use a license delivery service"
-description: "How-to encrypt with DRM and use a license delivery service"
-service: "microsoft.media"
-resource:
-authors: "juliako"
-ms.author: inhenkel"juliako"
-displayOrder: "1"
-articleid: "mediaservices-drm-and-key-delivery-howto"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32632097"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: How-to encrypt with DRM and use a license delivery service
+description: How-to encrypt with DRM and use a license delivery service
+ms.author: juliako
+authors: juliako
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="How-to encrypt with DRM and use a license delivery service"
+	description="How-to encrypt with DRM and use a license delivery service"
+	service="microsoft.media"
+	resource="mediaservices"
+	authors="juliako"
+	ms.author="juliako"
+	displayOrder="1"
+	articleId="mediaservices-drm-and-key-delivery-howto"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32632097"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # How-to encrypt with DRM and use a license delivery service
 

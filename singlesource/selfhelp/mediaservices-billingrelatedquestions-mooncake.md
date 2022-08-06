@@ -1,21 +1,29 @@
 ---
-  title:  "Explanation of media services pricing"
-  description: "I have a question regarding media services pricing"
+title: Explanation of media services pricing
+description: I have a question regarding media services pricing
+ms.author: juliako
+authors: juliako
+author: IngridAtMicrosoft
+ms.service: media-services
+ms.date: 08/5/2022
+---
+
+<properties 
+    pageTitle="Explanation of media services pricing"
+    description="I have a question regarding media services pricing"
     service="microsoft.media"
     resource="mediaservices"
     authors="juliako"
-  ms.author: inhenkel"juliako"
+    ms.author="juliako"
     displayOrder="1"
-  selfhelptype: "resource"
-supporttopicids: ""
-  resourcetags:
-  productpesids: ""
-  cloudenvironments: "MoonCake"
- articleid: "e178fdef-1d3e-4e3f-8550-93831d1fe06a"
-ownershipid: "StorageMediaEdge_Media"
-author: IngridAtMicrosoft
-ms.service: media-services
----
+    selfHelpType="resource"
+    supportTopicIds=""
+    resourceTags=""
+    productPesIds=""
+    cloudEnvironments="MoonCake"
+ 	articleId="e178fdef-1d3e-4e3f-8550-93831d1fe06a"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # Media Services Pricing
 

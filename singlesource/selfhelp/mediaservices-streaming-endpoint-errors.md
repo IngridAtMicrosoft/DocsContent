@@ -1,22 +1,30 @@
 ---
-title:   "Packaging, origin or streaming endpoint errors"
-description: "Packaging, origin or streaming endpoint errors"
-service: "microsoft.media"
-resource:
-authors: "akucer"
-ms.author: inhenkel"akucer"
-displayOrder: "1"
-articleid: "mediaservices-streaming-endpoint-errors"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32632093"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: Packaging, origin or streaming endpoint errors
+description: Packaging, origin or streaming endpoint errors
+ms.author: akucer
+authors: akucer
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Packaging, origin or streaming endpoint errors"
+	description="Packaging, origin or streaming endpoint errors"
+	service="microsoft.media"
+	resource="mediaservices"
+	authors="akucer"
+	ms.author="akucer"
+	displayOrder="1"
+	articleId="mediaservices-streaming-endpoint-errors"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32632093"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 # Packaging, origin or streaming endpoint errors
 ## **Recommended Documents**
 * [Streaming Endpoint (Origin) errors](https://docs.microsoft.com/azure/media-services/latest/streaming-endpoint-error-codes)<br>

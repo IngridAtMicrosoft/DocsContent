@@ -1,17 +1,25 @@
 ---
-title:  "PackagingResolve packaging, origin or streaming endpoint errors"
-description: "Apollo migrated file - Packaging, origin or streaming endpoint errors"
-ms.author: inhenkel"jiayali"
-selfhelptype: "apollo"
-supporttopicids: "07a399ba-7dbc-57f6-4eb9-b88c36f85333"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "blackforest,fairfax,mooncake,public,usnat,ussec"
-articleid: "apollo-mediaservices-streaming-endpoint-errors"
-ownershipid: "StorageMediaEdge_Media"
-resourcerequired: "False" author: IngridAtMicrosoft
+title: no title mediaservices-streaming-endpoint-errors-v2.md
+description: Apollo migrated file - Packaging, origin or streaming endpoint errors
+ms.author: jiayali
+authors: no authors mediaservices-streaming-endpoint-errors-v2.md
+author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+  pagetitle="PackagingResolve packaging, origin or streaming endpoint errors"
+  description="Apollo migrated file - Packaging, origin or streaming endpoint errors"
+  ms.author="jiayali"
+  selfhelptype="apollo"
+  supporttopicids="07a399ba-7dbc-57f6-4eb9-b88c36f85333"
+  resourcetags=""
+  productpesids="14885"
+  cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
+  articleid="apollo-mediaservices-streaming-endpoint-errors"
+  ownershipid="StorageMediaEdge_Media"
+  resourcerequired="False" />
 # Packaging, origin or streaming endpoint errors
 
 ## Resolve packaging, origin or streaming endpoint errors
@@ -37,3 +45,4 @@ For help resolving common errors, refer to the following links:
 <azureKB>
     <client>Portal</client>
 </azureKB>
+                    

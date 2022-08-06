@@ -1,19 +1,27 @@
 ---
-title:   "Troubleshoot account management error messages"
-description: "Troubleshoot account management error messages by using recommended resources."
-ms.author: inhenkel
-articleid: "apollo-mediaservices-error-message"
-selfhelptype: "apollo"
-productpesids: "14885"
-cloudenvironments: "public, mooncake, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
-supporttopicids: "46bd2a20-f182-90a9-6586-907fe31382e7"
-resourcerequired: "false"
+title: Troubleshoot account management error messages
+description: Troubleshoot account management error messages by using recommended resources.
+ms.author: akucer
+authors: no authors mediaservices-accounts-error-message-v2.md
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
 
-# v2 Account management error messages
+<properties
+	pageTitle="Troubleshoot account management error messages"
+	description="Troubleshoot account management error messages by using recommended resources."
+	ms.author="akucer"
+	articleId="apollo-mediaservices-error-message"
+	selfHelpType="apollo"
+	productPesIds="14885"
+	cloudEnvironments="public, mooncake, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+    supportTopicIds="46bd2a20-f182-90a9-6586-907fe31382e7"
+    resourcerequired="false"
+/>
+
+# Account management error messages
 
 ## Troubleshoot account management error messages
 

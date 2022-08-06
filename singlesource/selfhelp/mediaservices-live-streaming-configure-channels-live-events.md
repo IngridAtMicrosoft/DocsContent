@@ -1,22 +1,30 @@
 ---
-title:   "How to configure live streaming?"
-description: "How to configure live streaming?"
-service: "microsoft.media"
-resource:
-authors: "juliako"
-ms.author: inhenkel"juliako"
-displayOrder: "1"
-articleid: "mediaservices-live-streaming-configure-channels-live-events"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32632083"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: How to configure live streaming?
+description: How to configure live streaming?
+ms.author: juliako
+authors: juliako
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="How to configure live streaming?"
+	description="How to configure live streaming?"
+	service="microsoft.media"
+	resource="mediaservices"
+	authors="juliako"
+	ms.author="juliako"
+	displayOrder="1"
+	articleId="mediaservices-live-streaming-configure-channels-live-events"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32632083"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # How to configure live streaming?
 
@@ -24,7 +32,7 @@ ms.service: media-services
 
 **Supported live encoders to use with Media Services**
 
-If you are having an issue with live encoding, please test with one of the recommended encoder configurations for Azure Media Services first before filing a support ticket.
+If you are having an issue with live encoding, please test with one of the recommended encoder configurations for Azure Media Services first before filing a support ticket. 
 
 * [Recommended live encoders to use with Media Services](https://docs.microsoft.com/azure/media-services/latest/recommended-on-premises-live-encoders)
 

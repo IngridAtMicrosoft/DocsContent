@@ -1,17 +1,25 @@
 ---
-title:   "Analyzing and indexing performance"
-description: "Apollo migrated file - Analyzing and indexing performance"
-ms.author: inhenkel"akucer"
-articleid: "apollo-mediaservices-analyzing-indexing-performance"
-selfhelptype: "apollo"
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
-supporttopicids: "fbe66cdd-dd27-fd04-de67-7bc9fd2bbe0b"
-resourcerequired: "false"
+title: Analyzing and indexing performance
+description: Apollo migrated file - Analyzing and indexing performance
+ms.author: akucer
+authors: no authors mediaservices-analyzing-and-indexing-performance-v2.md
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Analyzing and indexing performance"
+	description="Apollo migrated file - Analyzing and indexing performance"
+	ms.author="akucer"
+	articleId="apollo-mediaservices-analyzing-indexing-performance"
+	selfHelpType="apollo"
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+    supportTopicIds="fbe66cdd-dd27-fd04-de67-7bc9fd2bbe0b"
+    resourcerequired="false"
+/>
 
 # Analyzing and indexing performance
 
@@ -32,3 +40,4 @@ When using a Video or Audio Analyzer presets, use the Azure portal or the CLI to
 <azureKB>
     <client>Portal</client>
 </azureKB>
+                    

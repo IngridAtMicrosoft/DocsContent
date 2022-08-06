@@ -1,23 +1,31 @@
 ---
-  title:  "Video Indexer Widgets"
-  description: "Video Indexer Widgets"
-    infoBubbleText=""
-service: "microsoft.media"
-resource:
-    authors="ReutAmior"
-  ms.author: inhenkel"t-reutam"
-    displayOrder="1"
-  articleid: "mediaservices-videoindexer-api-widgets"
-    diagnosticScenario=""
-  selfhelptype: "generic"
-supporttopicids: "32740749"
-  resourcetags:
-  productpesids: "16535"
-  cloudenvironments: "public, fairfax, usnat, ussec"
-  ownershipid: "StorageMediaEdge_Media_VI"
+title: Video Indexer Widgets
+description: Video Indexer Widgets
+ms.author: t-reutam
+authors: ReutAmior
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+    pageTitle="Video Indexer Widgets"
+    description="Video Indexer Widgets"
+    infoBubbleText=""
+	service="microsoft.media"
+	resource="mediaservices"
+    authors="ReutAmior"
+    ms.author="t-reutam"
+    displayOrder="1"
+    articleId="mediaservices-videoindexer-api-widgets"
+    diagnosticScenario=""
+    selfHelpType="generic"
+    supportTopicIds="32740749"
+    resourceTags=""
+    productPesIds="16535"
+    cloudEnvironments="public, fairfax, usnat, ussec"
+    ownershipId="StorageMediaEdge_Media_VI"
+/>
 
 # Video Indexer Widgets
 

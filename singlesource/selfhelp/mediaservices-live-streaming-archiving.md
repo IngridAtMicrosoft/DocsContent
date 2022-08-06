@@ -1,22 +1,30 @@
 ---
-title:   "Archiving a live stream"
-description: "Archiving a live stream"
-service: "microsoft.media"
-resource:
-authors: "juliako"
-ms.author: inhenkel"juliako"
-displayOrder: "1"
-articleid: "mediaservices-live-streaming-archiving"
-diagnosticScenario: ""
-selfhelptype: "generic"
-supporttopicids: "32632078"
-resourcetags:
-productpesids: "14885"
-cloudenvironments: "public, fairfax, usnat, ussec"
-ownershipid: "StorageMediaEdge_Media"
+title: Archiving a live stream
+description: Archiving a live stream
+ms.author: juliako
+authors: juliako
 author: IngridAtMicrosoft
 ms.service: media-services
+ms.date: 08/5/2022
 ---
+
+<properties
+	pageTitle="Archiving a live stream"
+	description="Archiving a live stream"
+	service="microsoft.media"
+	resource="mediaservices"
+	authors="juliako"
+	ms.author="juliako"
+	displayOrder="1"
+	articleId="mediaservices-live-streaming-archiving"
+	diagnosticScenario=""
+	selfHelpType="generic"
+	supportTopicIds="32632078"
+	resourceTags=""
+	productPesIds="14885"
+	cloudEnvironments="public, fairfax, usnat, ussec"
+	ownershipId="StorageMediaEdge_Media"
+/>
 
 # Archiving a live stream
 
