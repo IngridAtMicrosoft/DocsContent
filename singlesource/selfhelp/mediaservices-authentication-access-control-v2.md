@@ -61,7 +61,9 @@ Media Services v3 (latest)
 Media Services v2 (legacy)
 * [Access the Azure Media Services API with Azure AD authentication](/azure/media-services/previous/media-services-use-aad-auth-to-access-ams-api)
 
+<!--
 ### Relevant results from the web
 <azureKB>
 	<client>portal</client>
 </azureKB>
+-->

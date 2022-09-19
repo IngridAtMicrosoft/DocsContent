@@ -52,7 +52,9 @@ For getting client playback experience and statistics, use the Azure Media Playe
 * [Azure Media Player documentation](http://amp.azure.net/libs/amp/latest/docs/index.html)<br>
 * [Azure Media Player sample streams](https://amp.azure.net/libs/amp/latest/docs/samples.html)
 
+<!--
 ### Relevant results from the web
 <azureKB>
     <client>portal</client>
 </azureKB>
+-->

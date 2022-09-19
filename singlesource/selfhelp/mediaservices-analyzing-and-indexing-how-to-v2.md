@@ -45,8 +45,9 @@ To analyze your content using Media Services v3 presets, [create a transform](/a
 * [Video Indexer Developer Portal and APIs](https://api-portal.videoindexer.ai/)
 * [Pricing for Analytics and Indexing (see Analytics & Indexing tab)](https://azure.microsoft.com/pricing/details/media-services/)
 * [CODE SAMPLES](/azure/media-services/latest/samples-overview)
-
+<!--
 ### Relevant results from the web
 <azureKB>
     <client>portal</client>
 </azureKB>
+-->

@@ -46,8 +46,9 @@ The message property has details. See [Migrate from Media Services v2 to v3 intr
 ### Media Services v2 (legacy)
 
 See a table of error codes returned during encoding: [Encoding error codes](/azure/media-services/previous/media-services-encoding-error-codes).
-
+<!--
 ### Relevant results from the web
 <azureKB>
     <client>portal</client>
 </azureKB>
+-->

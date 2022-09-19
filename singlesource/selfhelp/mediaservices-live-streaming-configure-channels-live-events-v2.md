@@ -34,7 +34,7 @@ If you're having an issue with live encoding, try testing with one of the recomm
 
 ### Using live events in the v3 API
 
-**Note**: Currently, you can't use the Azure portal to manage v3 resources. Use the [REST API](/rest/api/media/account-filters), [CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](/azure/media-services/latest/all-sdks).
+**Note**: Currently, you can't use the Azure portal to manage v3 resources. Use the [REST API](/rest/api/media/account-filters), [CLI](/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](/azure/media-services/latest/all-sdks).
 
 * Azure Media Services enables you to deliver live events to your customers on the Azure cloud, see [Live streaming with Azure Media Services v3](/azure/media-services/latest/stream-live-streaming-concept).
 
@@ -59,8 +59,9 @@ A channel represents a pipeline for processing live streaming content, see [Over
 ### Resources
 
 * [Transforms and jobs in Media Services](/azure/media-services/latest/transform-jobs-concept)
-
+<!--
 ### Relevant results from the web
 <azureKB>
     <client>portal</client>
 </azureKB>
+-->

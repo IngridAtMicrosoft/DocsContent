@@ -47,7 +47,9 @@ Your upstream live encoder must be capable of pre-inserting CEA-708 and 608 capt
 * [Azure Media Player sample streams](https://amp.azure.net/libs/amp/latest/docs/samples.html)<br>
 * [Azure Media Player changelog](http://amp.azure.net/libs/amp/latest/docs/changelog.html)
 
+<!--
 ### Relevant results from the web
 <azureKB>
     <client>portal</client>
 </azureKB>
+-->

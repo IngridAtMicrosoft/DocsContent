@@ -84,7 +84,7 @@ Also, see [.NET example](/azure/media-services/latest/job-input-from-local-file-
 * [Encoding with Media Services v3](/azure/media-services/latest/encoding-concept)<br>
 * [Assets Overview](/azure/media-services/latest/assets-concept)<br>
 * [API Access](/azure/media-services/latest/access-api-howto?tabs=portal)<br>
-* [AMS API Functions List](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest)<br>
+* [AMS API Functions List](/cli/azure/ams?view=azure-cli-latest)<br>
 * [Using a cloud DVR](/azure/media-services/latest/live-event-cloud-dvr)<br>
 * [Tutorial: Encode a remote file based on URL and stream the video - REST](/azure/media-services/latest/stream-files-tutorial-with-rest)
 

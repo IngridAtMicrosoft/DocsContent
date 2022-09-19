@@ -46,12 +46,13 @@ Review the following documents to get an understanding of encoding and live stre
 
 * [CODE SAMPLES](/azure/media-services/latest/samples-overview)<br>
 * [Media Services REST API](/rest/api/media/)<br>
-* [Media Services CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest)<br>
-* [Media Services Node.JS SDK](https://docs.microsoft.com/javascript/api/overview/azure/arm-mediaservices-readme?view=azure-node-latest)<br>
-* [Media Services Python SDK](https://docs.microsoft.com/python/api/azure-mgmt-media/azure.mgmt.media?view=azure-python&preserve-view=true)<br>
-* [Media Services .NET SDK](https://docs.microsoft.com/dotnet/api/overview/azure/media-services?view=azure-dotnet&preserve-view=true)<br>
-
+* [Media Services CLI](/cli/azure/ams?view=azure-cli-latest)<br>
+* [Media Services Node.JS SDK](/javascript/api/overview/azure/arm-mediaservices-readme?view=azure-node-latest)<br>
+* [Media Services Python SDK](/python/api/azure-mgmt-media/azure.mgmt.media?view=azure-python&preserve-view=true)<br>
+* [Media Services .NET SDK](/dotnet/api/overview/azure/media-services?view=azure-dotnet&preserve-view=true)<br>
+<!--
 ### Relevant results from the web
 <azureKB>
     <client>Portal</client>
 </azureKB>
+-->

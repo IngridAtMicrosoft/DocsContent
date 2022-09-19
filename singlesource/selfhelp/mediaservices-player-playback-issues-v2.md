@@ -98,7 +98,9 @@ Android supports HEVC in Android 5.0+ on certain OEM hardware:
 * [Azure Media Player sample streams](https://github.com/Azure-Samples/azure-media-player-samples)
 * [Azure Media Player changelog](https://amp.azure.net/libs/amp/latest/docs/changelog.html)
 
+<!--
 ### Relevant results from the web
 <azureKB>
 	<client>portal</client>
 </azureKB>
+-->
