@@ -36,7 +36,7 @@ If you're experiencing issues with the Standard Encoder, use our guidance to hel
 The Standard Encoder currently offers a wide variety of codecs, bitrates, and resolutions. If you would like to see the full list of input and output codecs, see the doc [Standard Encoder formats and codecs](/azure/media-services/latest/encode-media-encoder-standard-formats-reference).
 
 ### Encoding job errors
-If you get any job error codes when running an encoding job using the Standard Encoder, see the doc [REST API Job Error Code](https://docs.microsoft.com/rest/api/media/jobs/get?tabs=HTTP#joberrorcode).
+If you get any job error codes when running an encoding job using the Standard Encoder, see the doc [REST API Job Error Code](/rest/api/media/jobs/get?tabs=HTTP#joberrorcode).
 
 For other troubleshooting errors, our [troubleshooting page](/azure/media-services/latest/troubleshooting) provides solutions to common issues.
 

@@ -55,7 +55,7 @@ Media Services recommends using one of the following live encoders that have RTM
 
 ### Media Services v3 (latest)
 
-**Note**: Currently, you can't use the Azure portal to manage v3 resources. Use the [REST API](https://docs.microsoft.com/rest/api/media/account-filters), [Azure CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](/azure/media-services/latest/all-sdks).
+**Note**: Currently, you can't use the Azure portal to manage v3 resources. Use the [REST API](/rest/api/media/account-filters), [Azure CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](/azure/media-services/latest/all-sdks).
 
 [Live events](/azure/media-services/latest/live-event-outputs-concept) are responsible for ingesting and processing the live video feeds. When you create a live event, an input endpoint is created that you can use to send a live signal from a remote encoder. The remote live encoder sends the contribution feed to that input endpoint using either the [RTMP](https://rtmp.veriskope.com/docs/spec/) or [Smooth Streaming](https://msdn.microsoft.com/library/ff469518.aspx) (fragmented-MP4) protocol. For the RTMP ingest protocol, the supported URL schemes are `rtmp://` or `rtmps://`.
 

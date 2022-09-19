@@ -26,7 +26,7 @@ ms.date: 9/19/2022
 ## Resolve issues encrypting with Widevine
 
 **Note**: This topic refers to Media Services v3 API documentation. v3 is the latest Media Services version.
-Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://docs.microsoft.com/rest/api/media/account-filters), [CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](/azure/media-services/latest/media-services-apis-overview).
+Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](/rest/api/media/account-filters), [CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](/azure/media-services/latest/media-services-apis-overview).
 
 Before implementing DRM encryption, review [Content protection overview](/azure/media-services/latest/drm-content-protection-concept). It is recommended you test each part in the [Main components of a content protection system](/azure/media-services/latest/drm-content-protection-concept#main-components-of-a-content-protection-system).
 

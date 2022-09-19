@@ -42,7 +42,7 @@ To upload a file:
 
    The container name must be unique and follow storage naming guidelines. The name doesn't have to follow the Media Services Asset container name (Asset-GUID) formatting. `az storage blob upload -f /path/to/file -c MyContainer -n MyBlob`.<br>
 
-2. Get a SAS URL with read-write permissions that will be used to upload digital files into the Asset container. You can use the Media Services API to [list the asset container URLs](https://docs.microsoft.com/rest/api/media/assets/listcontainersas).<br>
+2. Get a SAS URL with read-write permissions that will be used to upload digital files into the Asset container. You can use the Media Services API to [list the asset container URLs](/rest/api/media/assets/listcontainersas).<br>
 
 3. Use the Azure Storage APIs or SDKs (for example, the [Storage REST API](/azure/storage/common/storage-rest-api-auth), [JAVA SDK](/azure/storage/blobs/storage-quickstart-blobs-java-v10), or [.NET SDK](/azure/storage/blobs/storage-quickstart-blobs-dotnet?tabs=windows)) to upload files into the Asset container
 

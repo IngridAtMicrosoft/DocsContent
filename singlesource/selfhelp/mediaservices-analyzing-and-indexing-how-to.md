@@ -34,7 +34,7 @@ Azure Media Services enables you to extract insights from your video and audio f
 
 
 *  To analyze your content using Media Services v3 presets, you create a Transform and submit a Job that uses one of these presets: VideoAnalyzerPreset or AudioAnalyzerPreset.
-*  The following tutorial demonstrates how to use the [VideoAnalyzerPreset](https://docs.microsoft.com/rest/api/media/transforms/createorupdate#videoanalyzerpreset):
+*  The following tutorial demonstrates how to use the [VideoAnalyzerPreset](/rest/api/media/transforms/createorupdate#videoanalyzerpreset):
    *  [Tutorial: Analyze videos with Azure Media Services](/azure/media-services/latest/analyze-videos-tutorial-with-api)
 
 
