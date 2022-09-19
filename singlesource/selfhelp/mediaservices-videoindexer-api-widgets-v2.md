@@ -1,16 +1,6 @@
----
-title: Video Indexer Widgets v2
-description: Apollo migrated file - Video Indexer Widgets
-ms.author: t-reutam
-authors: no authors mediaservices-videoindexer-api-widgets-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-    pageTitle="Video Indexer Widgets v2"
-    description="Apollo migrated file - Video Indexer Widgets v2"
+<properties
+    pageTitle="Video Indexer Widgets"
+    description="Apollo migrated file - Video Indexer Widgets"
     ms.author="t-reutam"
     articleId="apollo-mediaservices-videoindexer-api-widgets"
     selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="86e3ac11-6009-319e-bffa-0445c53dc1ac"
     resourcerequired="false"
-/> -->
+/>
 
-# Video Indexer Widgets v2
+# Video Indexer Widgets
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

@@ -1,14 +1,4 @@
----
-title: Troubleshoot account management error messages v2
-description: Troubleshoot account management error messages by using recommended resources.
-ms.author: akucer
-authors: no authors mediaservices-accounts-error-message-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
 	pageTitle="Troubleshoot account management error messages"
 	description="Troubleshoot account management error messages by using recommended resources."
 	ms.author="akucer"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="46bd2a20-f182-90a9-6586-907fe31382e7"
     resourcerequired="false"
-/> -->
+/>
 
-# Account management error messages v2
+# Account management error messages
 
 ## Troubleshoot account management error messages
 

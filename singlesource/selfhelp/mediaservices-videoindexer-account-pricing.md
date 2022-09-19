@@ -1,14 +1,4 @@
----
-title: Video Indexer Pricing
-description: Video Indexer Pricing
-ms.author: t-reutam
-authors: ReutAmior
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
     pageTitle="Video Indexer Pricing"
     description="Video Indexer Pricing"
     infoBubbleText=""
@@ -25,7 +15,7 @@ ms.date: 08/5/2022
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/> -->
+/>
 
 # Video Indexer’s pricing
 

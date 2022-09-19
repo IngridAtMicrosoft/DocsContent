@@ -1,16 +1,6 @@
----
-title: Camera connection issue or error v2
-description: Apollo migrated file - Camera connection issue or error
-ms.author: akucer
-authors: no authors mediaservices-lva-camera-connection-issue-error-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-	pageTitle="Camera connection issue or error v2"
-	description="Apollo migrated file - Camera connection issue or error v2"
+<properties
+	pageTitle="Camera connection issue or error"
+	description="Apollo migrated file - Camera connection issue or error"
 	ms.author="akucer"
 	articleId="apollo-mediaservices-lva-camera-connection-issue-error"
 	selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="1ea9b4f6-314f-e241-9a23-f40977d5ce95"
     resourcerequired="false"
-/> -->
+/>
 
-# Camera connection issue or error v2
+# Camera connection issue or error
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

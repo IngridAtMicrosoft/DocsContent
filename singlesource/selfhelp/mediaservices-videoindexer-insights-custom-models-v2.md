@@ -1,14 +1,4 @@
----
-title: Custom models v2
-description: Apollo migrated file - Custom models
-ms.author: t-reutam
-authors: no authors mediaservices-videoindexer-insights-custom-models-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
     pageTitle="Custom models"
     description="Apollo migrated file - Custom models"
     ms.author="t-reutam"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="a8b604b7-336c-eb37-5811-da99ebc882ef"
     resourcerequired="false"
-/> -->
+/>
 
-# Custom models in Video Indexer v2
+# Custom models in Video Indexer
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

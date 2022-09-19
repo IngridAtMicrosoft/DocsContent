@@ -1,14 +1,4 @@
----
-title: no title mediaservices-accounts-create-or-delete-v2.md
-description: Azure Media Services accounts can be created or deleted directly in the portal, using the Azure CLI (cloud shell or local), or by using the REST API and one of the many client libraries. Follow the recommended steps.
-ms.author: inhenkel
-authors: no authors mediaservices-accounts-create-or-delete-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
   articleid="apollo-mediaservices-accounts-create-or-delete"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
   description="Azure Media Services accounts can be created or deleted directly in the portal, using the Azure CLI (cloud shell or local), or by using the REST API and one of the many client libraries. Follow the recommended steps."
@@ -20,12 +10,12 @@ ms.date: 08/5/2022
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="45383072-cde0-c5cd-c5f9-330714cc0f49" /> -->
-# Azure Media Services account creation and deletion v2
+  supporttopicids="45383072-cde0-c5cd-c5f9-330714cc0f49" />
+# Azure Media Services account creation and deletion
 
-## Create or delete an Azure Media Services account
+## Create or delete an Azure Media Services account 
 
-Azure Media Services accounts can be created or deleted directly in the portal using the Azure CLI (cloud shell or local), or by using the REST API and one of the many client libraries.
+Azure Media Services accounts can be created or deleted directly in the portal using the Azure CLI (cloud shell or local), or by using the REST API and one of the many client libraries. 
 
 
 ### Create or delete an Azure Media Services account with the CLI and connect to the API
@@ -37,7 +27,7 @@ Azure Media Services accounts can be created or deleted directly in the portal u
 ### Create a Media Services account using the CLI
 
 Open the Cloud Shell or CLI locally and run the following command to see the available options:
-
+   
 ```
 az ams account create -h
 ```
@@ -45,7 +35,7 @@ az ams account create -h
 ### Delete a Media Services account using the CLI
 
 Open the Cloud Shell or CLI locally and run the following command to see the available options:
-
+   
 ```
 az ams account delete -h
 ```

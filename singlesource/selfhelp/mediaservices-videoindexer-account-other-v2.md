@@ -1,14 +1,4 @@
----
-title: no title mediaservices-videoindexer-account-other-v2.md
-description: Apollo migrated file - Account management
-ms.author: t-reutam,jiayali
-authors: no authors mediaservices-videoindexer-account-other-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
   articleid="apollo-mediaservices-videoindexer-account-other"
   cloudenvironments="public,fairfax,usnat,ussec"
   description="Apollo migrated file - Account management"
@@ -20,8 +10,8 @@ ms.date: 08/5/2022
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="28f503a1-1dae-fbf9-c9f2-ef0212bcfee1" /> -->
-# Manage a Video Indexer account connected to Azure  v2
+  supporttopicids="28f503a1-1dae-fbf9-c9f2-ef0212bcfee1" />
+# Manage a Video Indexer account connected to Azure 
 
 ## Learn to manage a Video Indexer account
 
@@ -33,7 +23,7 @@ Learn to manage a Video Indexer account, including fixing the connection to Azur
 * Examine your account settings
 * Repair the connection to Azure
 * Autoscale reserved units
-* Handle errors and warnings
+* Handle errors and warnings 
 
 ### Manage multiple tenants
 
@@ -44,7 +34,7 @@ Learn to manage a Video Indexer account, including fixing the connection to Azur
 
 ### Invite users to Video Indexer
 
-To collaborate with your colleagues, you can [invite them to your Video Indexer account](https://docs.microsoft.com/azure/media-services/video-indexer/invite-users) by adding their email addresses.
+To collaborate with your colleagues, you can [invite them to your Video Indexer account](https://docs.microsoft.com/azure/media-services/video-indexer/invite-users) by adding their email addresses. 
 
 ### Video Indexer failover and disaster recovery
 

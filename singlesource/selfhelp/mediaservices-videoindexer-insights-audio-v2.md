@@ -1,16 +1,6 @@
----
-title: Audio and Transcription v2
-description: Apollo migrated file - Audio and Transcription
-ms.author: t-reutam
-authors: no authors mediaservices-videoindexer-insights-audio-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-    pageTitle="Audio and Transcription v2"
-    description="Apollo migrated file - Audio and Transcription v2"
+<properties
+    pageTitle="Audio and Transcription"
+    description="Apollo migrated file - Audio and Transcription"
     ms.author="t-reutam"
     articleId="apollo-mediaservices-videoindexer-insights-audio"
     selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="f23a93f8-05c2-2069-75fe-c6fe31599d8a"
     resourcerequired="false"
-/> -->
+/>
 
-# Audio and Transcription v2
+# Audio and Transcription
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

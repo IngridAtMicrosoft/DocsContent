@@ -1,17 +1,7 @@
----
-title: no title mediaservices-accounts-resource-group-moves-v2.md
-description: Azure Media Services resource group moves can be requested through support ticket only. Resource group movement is not available through the Azure CLI.
-ms.author: johndeu,jiayali
-authors: no authors mediaservices-accounts-resource-group-moves-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
   articleid="apollo-mediaservices-accounts-resource-group-moves"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
-  description="Azure Media Services resource group moves v2 can be requested through support ticket only. Resource group movement is not available through the Azure CLI."
+  description="Azure Media Services resource group moves can be requested through support ticket only. Resource group movement is not available through the Azure CLI."
   ms.author="johndeu,jiayali"
   ownershipid="StorageMediaEdge_Media"
   pagetitle="Move Azure Media Services resource groups"
@@ -20,12 +10,12 @@ ms.date: 08/5/2022
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="e09663f0-cc2d-21bd-7e8e-bd9d42882213" /> -->
-# Azure Media Services resource group moves v2
+  supporttopicids="e09663f0-cc2d-21bd-7e8e-bd9d42882213" />
+# Azure Media Services resource group moves
 
 ## Move Azure Media Services resource groups
 
-Azure Media Services resource group moves v2 can be requested through support ticket only. Resource group movement is not available through the Azure CLI.
+Azure Media Services resource group moves can be requested through support ticket only. Resource group movement is not available through the Azure CLI.
 
 ### Resources
 

@@ -1,14 +1,4 @@
----
-title: Indexing Videos
-description: Indexing Videos
-ms.author: t-reutam
-authors: ReutAmior
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
     pageTitle="Indexing Videos"
     description="Indexing Videos"
     infoBubbleText=""
@@ -25,7 +15,7 @@ ms.date: 08/5/2022
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/> -->
+/>
 
 # Indexing Videos
 

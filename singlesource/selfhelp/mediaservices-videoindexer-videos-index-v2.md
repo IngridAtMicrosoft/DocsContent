@@ -1,16 +1,6 @@
----
-title: Indexing Videos v2
-description: Apollo migrated file - Indexing Videos
-ms.author: t-reutam
-authors: no authors mediaservices-videoindexer-videos-index-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-    pageTitle="Indexing Videos v2"
-    description="Apollo migrated file - Indexing Videos v2"
+<properties
+    pageTitle="Indexing Videos"
+    description="Apollo migrated file - Indexing Videos"
     ms.author="t-reutam"
     articleId="apollo-mediaservices-videoindexer-videos-index"
     selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="72ab1fe2-34f8-6fe1-73f3-c784b39a7cf6,bcacd635-4b22-46f9-2ed1-906748653e93"
     resourcerequired="false"
-/> -->
+/>
 
-# Indexing Videos v2
+# Indexing Videos
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.
@@ -59,3 +49,4 @@ Learn how to upload and index your videos with these options:
 <azureKB>
     <client>Portal</client>
 </azureKB>
+                    

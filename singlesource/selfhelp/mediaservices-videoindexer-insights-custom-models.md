@@ -1,14 +1,4 @@
----
-title: Custom models
-description: Custom models
-ms.author: t-reutam
-authors: ReutAmior
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
     pageTitle="Custom models"
     description="Custom models"
     infoBubbleText=""
@@ -25,7 +15,7 @@ ms.date: 08/5/2022
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/> -->
+/>
 
 # Custom models in Video Indexer
 

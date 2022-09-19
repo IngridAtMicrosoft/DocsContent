@@ -1,16 +1,6 @@
----
-title: DRM encryption and key delivery v2
-description: Apollo migrated file - DRM encryption and key delivery
-ms.author: juliako
-authors: no authors mediaservices-drm-and-key-delivery-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-	pageTitle="DRM encryption and key delivery v2"
-	description="Apollo migrated file - DRM encryption and key delivery v2"
+<properties
+	pageTitle="DRM encryption and key delivery"
+	description="Apollo migrated file - DRM encryption and key delivery"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-drm-and-key-delivery"
 	selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="0ac6e9ed-9e0f-0d40-22c5-00b868fc3ed9"
     resourcerequired="false"
-/> -->
+/>
 
-# DRM encryption and key delivery v2
+# DRM encryption and key delivery
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

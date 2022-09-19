@@ -1,16 +1,6 @@
----
-title: Archiving a live stream v2
-description: Apollo migrated file - Archiving a live stream
-ms.author: juliako
-authors: no authors mediaservices-live-streaming-archiving-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-	pageTitle="Archiving a live stream v2"
-	description="Apollo migrated file - Archiving a live stream v2"
+<properties
+	pageTitle="Archiving a live stream"
+	description="Apollo migrated file - Archiving a live stream"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-live-streaming-archiving"
 	selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="89756bf0-2df9-40d8-9b73-52d7cf7c3aa9"
     resourcerequired="false"
-/> -->
+/>
 
-# Archiving a live stream v2
+# Archiving a live stream
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

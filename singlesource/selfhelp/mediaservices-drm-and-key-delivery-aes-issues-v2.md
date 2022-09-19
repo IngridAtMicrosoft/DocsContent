@@ -1,16 +1,6 @@
----
-title: Issues encrypting with AES-128 clear key v2
-description: Apollo migrated file - Issues encrypting with AES-128 clear key
-ms.author: juliako
-authors: no authors mediaservices-drm-and-key-delivery-aes-issues-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-	pageTitle="Issues encrypting with AES-128 clear key v2"
-	description="Apollo migrated file - Issues encrypting with AES-128 clear key v2"
+<properties
+	pageTitle="Issues encrypting with AES-128 clear key"
+	description="Apollo migrated file - Issues encrypting with AES-128 clear key"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-drm-and-key-delivery-aes-issues"
 	selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="c5ede9ef-49ba-821d-6805-804357b50aa0"
     resourcerequired="false"
-/> -->
+/>
 
-# Issues encrypting with AES-128 clear key v2
+# Issues encrypting with AES-128 clear key
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.
@@ -31,9 +21,9 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 **Does offline playback work with AES-128 clear key encryption?**
 
  No. Offline download/playback of files encrypted with AES-128 is not supported by Media Services.
-
+ 
 **Media Services v3 (latest)**
-
+ 
 **NOTE**: Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://aka.ms/ams-v3-rest-ref), [CLI](https://aka.ms/ams-v3-cli-ref), or one of the supported [SDKs](https://docs.microsoft.com/azure/media-services/latest/developers-guide).
 
 To get details on all failing Key delivery service request, enable the Azure monitoring diagnostic logs. For more information, see [Monitor Media Services metrics and diagnostic logs](https://docs.microsoft.com/azure/media-services/latest/media-services-metrics-diagnostic-logs).

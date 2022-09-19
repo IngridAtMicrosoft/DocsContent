@@ -1,16 +1,6 @@
----
-title: Encode files with Media Services v3 v2
-description: Apollo migrated file - Encode files with Media Services v3
-ms.author: juliako
-authors: no authors mediaservices-encoding-files-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-	pageTitle="Encode files with Media Services v3 v2"
-	description="Apollo migrated file - Encode files with Media Services v3 v2"
+<properties
+	pageTitle="Encode files with Media Services v3"
+	description="Apollo migrated file - Encode files with Media Services v3"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-encoding-files"
 	selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="8501aea9-8441-c5d4-f901-8b5f9b4f0a29"
     resourcerequired="false"
-/> -->
+/>
 
-# Encode files with Media Services v3 v2
+# Encode files with Media Services v3
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

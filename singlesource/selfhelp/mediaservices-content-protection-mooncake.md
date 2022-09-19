@@ -1,14 +1,4 @@
----
-title: How do I configure content protection for my stream?
-description: How do I configure content protection for my stream
-ms.author: juliako
-authors: juliako
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties 
     pageTitle="How do I configure content protection for my stream?"
     description="How do I configure content protection for my stream"
     service="microsoft.media"
@@ -23,7 +13,7 @@ ms.date: 08/5/2022
     cloudEnvironments="MoonCake"
  	articleId="8532932d-b103-4c2e-b249-2eff496bd062"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # How do I configure content protection for my stream?
 

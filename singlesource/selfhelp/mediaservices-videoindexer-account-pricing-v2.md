@@ -1,14 +1,4 @@
----
-title: Video Indexer Pricing v2
-description: Apollo migrated file - Video Indexer Pricing
-ms.author: t-reutam
-authors: no authors mediaservices-videoindexer-account-pricing-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
     pageTitle="Video Indexer Pricing"
     description="Apollo migrated file - Video Indexer Pricing"
     ms.author="t-reutam"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="622c9497-03f4-86c3-237a-87f6367d0a7d"
     resourcerequired="false"
-/> -->
+/>
 
-# Video Indexers pricing v2
+# Video Indexers pricing
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.
@@ -39,7 +29,7 @@ Price per input minute:
 
 ### Recommended resources
 
-* [Video Indexers pricing v2](https://azure.microsoft.com/pricing/details/media-services/)
+* [Video Indexers pricing](https://azure.microsoft.com/pricing/details/media-services/)
 
 
 ### Here are some relevant results from the web

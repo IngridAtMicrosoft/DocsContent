@@ -1,14 +1,4 @@
----
-title: Issues encrypting with AES-128 clear key
-description: Issues encrypting with AES-128 clear key
-ms.author: juliako
-authors: juliako
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
 	pageTitle="Issues encrypting with AES-128 clear key"
 	description="Issues encrypting with AES-128 clear key"
 	service="microsoft.media"
@@ -24,16 +14,16 @@ ms.date: 08/5/2022
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
-
+/>
+ 
 # Issues encrypting with AES-128 clear key
 
 **Does offline playback work with AES-128 clear key encryption?**
 
  No. Offline download/playback of files encrypted with AES-128 is not supported by Media Services.
-
+ 
 **Media Services v3 (latest)**
-
+ 
 **NOTE**: Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://aka.ms/ams-v3-rest-ref), [CLI](https://aka.ms/ams-v3-cli-ref), or one of the supported [SDKs](https://docs.microsoft.com/azure/media-services/latest/developers-guide).
 
 To get details on all failing Key delivery service request, enable the Azure monitoring diagnostic logs. For more information, see [Monitor Media Services metrics and diagnostic logs](https://docs.microsoft.com/azure/media-services/latest/media-services-metrics-diagnostic-logs).

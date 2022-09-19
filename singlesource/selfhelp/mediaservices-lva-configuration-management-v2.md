@@ -1,14 +1,4 @@
----
-title: Configuration and management v2
-description: Apollo migrated file - Configuration and management
-ms.author: akucer
-authors: no authors mediaservices-lva-configuration-management-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
 	pageTitle="Configuration and management"
 	description="Apollo migrated file - Configuration and management"
 	ms.author="akucer"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="01c8a5a6-0de9-9a25-1a04-2d334881938a"
     resourcerequired="false"
-/> -->
+/>
 
-# Configuration and management  v2
+# Configuration and management 
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.
@@ -59,7 +49,7 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 * Tools to monitor Media Services IoT Edge modules
 * IP Camera ingest and RTSP settings
 
-[Module twin JSON schema](https://docs.microsoft.com/azure/media-services/live-video-analytics-edge/module-twin-configuration-schema)  This article describes the module twin JSON schema of Live Video Analytics on IoT Edge.
+[Module twin JSON schema](https://docs.microsoft.com/azure/media-services/live-video-analytics-edge/module-twin-configuration-schema)  This article describes the module twin JSON schema of Live Video Analytics on IoT Edge. 
 * Module twins are JSON documents that store module state information including metadata, configurations, and conditions. See the [Understand and use module twins in IoT Hub](https://docs.microsoft.com/azure/iot-hub/iot-hub-devguide-module-twins) article for further details on module twins.
 
 

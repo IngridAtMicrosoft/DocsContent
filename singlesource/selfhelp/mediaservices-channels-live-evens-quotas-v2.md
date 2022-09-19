@@ -1,16 +1,6 @@
----
-title: Manage quotas of Channels (v2)/Live Events (v3) v2
-description: Apollo migrated file - Manage quotas of Channels (v2)/Live Events (v3)
-ms.author: juliako
-authors: no authors mediaservices-channels-live-evens-quotas-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-	pageTitle="Manage quotas of Channels (v2)/Live Events (v3) v2"
-	description="Apollo migrated file - Manage quotas of Channels (v2)/Live Events (v3) v2"
+<properties
+	pageTitle="Manage quotas of Channels (v2)/Live Events (v3)"
+	description="Apollo migrated file - Manage quotas of Channels (v2)/Live Events (v3)"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-channels-live-evens-quotas"
 	selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="80c2815b-610f-963c-8d0d-3ad455edf7d7"
     resourcerequired="false"
-/> -->
+/>
 
-# Manage quotas of Channels (v2)/Live Events (v3) v2
+# Manage quotas of Channels (v2)/Live Events (v3)
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

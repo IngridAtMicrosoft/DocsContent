@@ -1,14 +1,4 @@
----
-title: How do I configure live streaming?
-description: How do I configure live streaming?
-ms.author: juliako
-authors: juliako
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
     pageTitle="How do I configure live streaming?"
     description="How do I configure live streaming?"
     service="microsoft.media"
@@ -23,7 +13,7 @@ ms.date: 08/5/2022
     cloudEnvironments="MoonCake"
  	articleId="e2f8d39b-83bb-4c7f-b72e-6ed00c47d8c5"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # How do I configure live streaming?
 

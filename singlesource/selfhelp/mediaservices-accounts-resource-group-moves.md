@@ -1,14 +1,4 @@
----
-title: Azure Media Services resource group movement
-description: Azure Media Services resource group movement
-ms.author: johndeu
-authors: johndeu
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
 	pageTitle="Azure Media Services resource group movement"
 	description="Azure Media Services resource group movement"
 	infoBubbleText=""
@@ -25,12 +15,12 @@ ms.date: 08/5/2022
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # Azure Media Services resource group moves
 
 ### Resource Group Movement
-Azure Media Services resource group moves can be requested through support ticket only.
+Azure Media Services resource group moves can be requested through support ticket only. 
 Resource group movement is not available through the Azure CLI.
 
 

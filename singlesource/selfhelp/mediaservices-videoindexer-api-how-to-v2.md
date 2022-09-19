@@ -1,16 +1,6 @@
----
-title: Using Video Indexer's API v2
-description: Apollo migrated file - Using Video Indexer's API
-ms.author: t-reutam
-authors: no authors mediaservices-videoindexer-api-how-to-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-    pageTitle="Using Video Indexer's API v2"
-    description="Apollo migrated file - Using Video Indexer's API v2"
+<properties
+    pageTitle="Using Video Indexer's API"
+    description="Apollo migrated file - Using Video Indexer's API"
     ms.author="t-reutam"
     articleId="apollo-mediaservices-videoindexer-api-how-to"
     selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="965285bd-9da7-f6da-ebbb-c399285bcd84,3f68b8b4-d6cf-b099-b80a-7829b4e9fd6c"
     resourcerequired="false"
-/> -->
+/>
 
-# Using Video Indexer's API v2
+# Using Video Indexer's API
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

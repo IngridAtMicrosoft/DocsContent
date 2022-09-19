@@ -1,16 +1,6 @@
----
-title: Upload from HTTP v2
-description: Apollo migrated file - Upload from HTTP
-ms.author: juliako
-authors: no authors mediaservices-content-upload-ingest-from-http-v2.md
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
-	pageTitle="Upload from HTTP v2"
-	description="Apollo migrated file - Upload from HTTP v2"
+<properties
+	pageTitle="Upload from HTTP"
+	description="Apollo migrated file - Upload from HTTP"
 	ms.author="juliako"
 	articleId="apollo-mediaservices-content-upload-ingest-from-http"
 	selfHelpType="apollo"
@@ -19,9 +9,9 @@ ms.date: 08/5/2022
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="73c03300-8f12-3c79-e340-ae42408c61d6"
     resourcerequired="false"
-/> -->
+/>
 
-# Upload from HTTP v2
+# Upload from HTTP
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

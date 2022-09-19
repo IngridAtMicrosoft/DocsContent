@@ -1,14 +1,4 @@
----
-title: Azure Media Services linking and managing storage accounts
-description: Azure Media Services linking and managing storage accounts
-ms.author: johndeu
-authors: johndeu
-author: IngridAtMicrosoft
-ms.service: media-services
-ms.date: 08/5/2022
----
-
-<!-- <properties
+<properties
 	pageTitle="Azure Media Services linking and managing storage accounts"
 	description="Azure Media Services linking and managing storage accounts"
 	infoBubbleText=""
@@ -25,11 +15,11 @@ ms.date: 08/5/2022
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/> -->
+/>
 
 # Azure Media Services linking and managing storage accounts
 
-Azure Media Services supports multiple storage accounts. You can link an existing storage account, or create a new storage account prior to the creation of your Media Services account and pass it in to the create call.
+Azure Media Services supports multiple storage accounts. You can link an existing storage account, or create a new storage account prior to the creation of your Media Services account and pass it in to the create call. 
 
 The Media Services account and all associated storage accounts must be in the same Azure subscription. It is strongly recommended to use storage accounts in the same location as the Media Services account to avoid additional latency and data egress costs.
 
@@ -42,19 +32,19 @@ The Media Services account and all associated storage accounts must be in the sa
 ### Add a storage account to your Media Services account using the CLI
 
 1. Open the Cloud Shell or CLI locally and run the following command to see the options:
-
+   
 ```
 	az ams account storage -h
 ```
 
 2. To attach a "secondary" storage account, use the following CLI command to see the options:
-
+   
 ```
 	az ams account storage add -h
 ```
 
 3. To remove a "secondary" storage account, use the following CLI command to see the options:
-
+   
 ```
 	az ams account storage remove -h
 ```
