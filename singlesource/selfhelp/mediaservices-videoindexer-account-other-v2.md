@@ -22,7 +22,7 @@ ms.date: 9/19/2022
   supporttopicids="28f503a1-1dae-fbf9-c9f2-ef0212bcfee1" />
 -->
 
-# Manage a Video Indexer account connected to Azure
+# Manage a Video Indexer account connected to Azure v2
 
 ## Learn to manage a Video Indexer account
 

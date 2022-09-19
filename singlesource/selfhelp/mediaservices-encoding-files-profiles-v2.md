@@ -22,7 +22,7 @@ ms.date: 9/19/2022
   supporttopicids="86821d54-477e-9c74-fefa-9045782f6695" />
 -->
 
-# Standard Encoder Configuration and Management
+# Standard Encoder Configuration and Management v2
 
 ## Resolve encoding issues with the Azure Media Services standard encoder
 

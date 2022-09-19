@@ -23,7 +23,7 @@ ms.date: 9/19/2022
   supporttopicids="16c919c7-e8da-2796-4e7d-69f69fac0e1a" />
 -->
 
-# Streaming endpoint
+# Streaming endpoint v2
 
 ## Learn about Streaming endpoints
 

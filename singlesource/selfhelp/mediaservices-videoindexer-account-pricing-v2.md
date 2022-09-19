@@ -21,7 +21,7 @@ ms.date: 9/19/2022
 />
 -->
 
-# Video Indexers pricing
+# Video Indexers pricing v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

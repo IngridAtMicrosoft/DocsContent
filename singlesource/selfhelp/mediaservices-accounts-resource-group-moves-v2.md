@@ -20,7 +20,7 @@ ms.date: 9/19/2022
   selfhelptype="apollo"
   supporttopicids="e09663f0-cc2d-21bd-7e8e-bd9d42882213" />-->
 
-# Azure Media Services resource group moves
+# Azure Media Services resource group moves v2
 
 ## Move Azure Media Services resource groups
 

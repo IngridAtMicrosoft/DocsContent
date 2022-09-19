@@ -23,7 +23,7 @@ ms.date: 9/19/2022
 
 -->
 
-# Manage Streaming Endpoints quotas
+# Manage Streaming Endpoints quotas v2
 
 ## Learn how to manage Streaming Endpoints quotas
 When you create a Media Services account, a default Standard streaming endpoint is created for you in a stopped state. You can create more streaming endpoints under the account. Learn more about [Streaming Endpoints](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-endpoint-concept).

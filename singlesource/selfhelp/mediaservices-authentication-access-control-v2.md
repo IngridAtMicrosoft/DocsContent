@@ -22,7 +22,7 @@ ms.date: 9/19/2022
   supporttopicids="3962655e-b25d-3a69-1175-b540ce09c9da" />
 -->
 
-# Authentication or access control
+# Authentication or access control v2
 
 ## Resolve issues with authentication or access control in the Azure Media Services API
 

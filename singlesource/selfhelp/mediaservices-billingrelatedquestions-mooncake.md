@@ -24,7 +24,7 @@ ms.date: 9/19/2022
 	ownershipId="StorageMediaEdge_Media"
 />-->
 
-# Media Services Pricing
+# Media Services Pricing Mooncake
 
 ## **Recommended Documents**
 

@@ -23,7 +23,7 @@ ms.date: 9/19/2022
   supporttopicids="6b04f8ed-155d-1d1a-7bfe-58acefe85b73" />
 -->
 
-# Live streaming and RTMP error
+# Live streaming and RTMP error v2
 
 ## Learn about live streaming and RTMP errors in Azure Media Services
 

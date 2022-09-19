@@ -22,7 +22,7 @@ ms.date: 9/19/2022
   supporttopicids="f4ffb732-4cd6-59e9-6063-5ec1fbe2bef1" />
 -->
 
-# Streaming media how-tos and tutorials
+# Streaming media how-tos and tutorials v2
 
 ## Learn how to stream media with Azure Media Services
 

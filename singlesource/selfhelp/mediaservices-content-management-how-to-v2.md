@@ -22,7 +22,7 @@ ms.date: 9/19/2022
   supporttopicids="73ba2c29-3345-bfc4-d42e-b7c31b61c4e5" />
 -->
 
-# Asset management issue or how to
+# Asset management issue or how  v2
 
 ## Resolve asset management issues
 

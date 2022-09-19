@@ -22,7 +22,7 @@ ms.date: 9/19/2022
   supporttopicids="5d0175e0-fdc9-ecdd-07a2-9962b8c06ec1" />
 -->
 
-# Manage access policies quotas
+# Manage access policies quotas v2
 
 ## Manage access policies quotas in Media Services
 

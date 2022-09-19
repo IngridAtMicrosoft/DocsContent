@@ -24,7 +24,7 @@ ms.date: 9/19/2022
 	ownershipId="StorageMediaEdge_Media"
 />-->
 
-# How do I configure content protection for my stream?
+# How do I configure content protection for my stream? Mooncake
 
 ## **Recommended Documents**
 

@@ -20,7 +20,7 @@ ms.date: 9/19/2022
     resourcerequired="false"
 />-->
 
-# Extract information using machine learning models
+# Extract information using machine learning models v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

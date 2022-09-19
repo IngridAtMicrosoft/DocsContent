@@ -22,7 +22,7 @@ ms.date: 9/19/2022
   supporttopicids="4850e98f-4532-3e70-79b4-4dde5eafaab1" />
 -->
 
-# Diagnose and resolve Encoding errors for Media Services v3/v2
+# Diagnose and resolve Encoding errors for Media Services v3/v2 v2
 
 ## Diagnose and resolve encoding errors for Media Services v3/v2
 

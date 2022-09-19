@@ -23,7 +23,7 @@ ms.date: 9/19/2022
   supporttopicids="6272b6a0-6c9c-32d1-0849-981b96a666ee" />
 -->
 
-# Azure Media Player playback issues
+# Azure Media Player playback issues v2
 
 ## Resolve Azure Media Player play-back issues
 

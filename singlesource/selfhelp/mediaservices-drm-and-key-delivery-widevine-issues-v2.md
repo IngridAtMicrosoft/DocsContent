@@ -21,7 +21,7 @@ ms.date: 9/19/2022
   selfhelptype="apollo"
   supporttopicids="020b987b-bb9e-b5a1-4284-e2ff977c3318" />=-->
 
-# Issues encrypting with Widevine
+# Issues encrypting with Widevine v2
 
 ## Resolve issues encrypting with Widevine
 

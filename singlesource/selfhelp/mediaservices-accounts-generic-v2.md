@@ -21,7 +21,7 @@ ms.date: 9/19/2022
   selfhelptype="apollo"
   supporttopicids="d3afbd52-5a62-a7c6-033c-2a1eccd1f6e8" />-->
 
-# Account management generic
+# Account management generic v2
 
 ## Create Azure Media Services accounts
 

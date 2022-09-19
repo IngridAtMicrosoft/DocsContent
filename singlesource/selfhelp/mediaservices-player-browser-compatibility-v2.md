@@ -22,7 +22,7 @@ ms.date: 9/19/2022
   supporttopicids="69c4a3ae-6a8f-55d3-c106-e9043c48a14c" />
 -->
 
-# Azure Media Player browser and OS compatibility
+# Azure Media Player browser and OS compatibility v2
 
 ## Learn about Azure Media Player browser and OS compatibility
 The [Azure Media Player](https://docs.microsoft.com/azure/media-services/azure-media-player/azure-media-player-overview) supports a variety of industry standards on various browsers and devices. There are, however, limitations to what Azure Media Player currently supports. See [Azure Media Player Known Issues](https://docs.microsoft.com/azure/media-services/azure-media-player/azure-media-player-known-issues).

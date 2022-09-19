@@ -23,7 +23,7 @@ ms.date: 9/19/2022
 
 -->
 
-# Create an Asset
+# Create an Asset v2
 
 ## Create an Asset
 You need to create an Asset if you want to encode or analyze your on-demand content, or if you have a Live Output that is associated with an Asset. A Live Output uses an Asset to store recorded videos.

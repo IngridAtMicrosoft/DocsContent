@@ -22,7 +22,7 @@ ms.date: 9/19/2022
   selfhelptype="apollo"
   supporttopicids="50572256-2e9f-4da9-2849-35cab985386e" />-->
 
-# Analyzing and indexing how to
+# Analyzing and indexing how to v2
 
 ## Learn to analyze and index audio and video files in Azure Media Services
 

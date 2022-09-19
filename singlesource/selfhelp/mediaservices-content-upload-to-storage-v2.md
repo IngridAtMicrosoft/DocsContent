@@ -23,7 +23,7 @@ ms.date: 9/19/2022
   supporttopicids="5893fb6c-980f-e9a3-d487-be538ff15710" />
 -->
 
-# Upload to storage
+# Upload to storage v2
 
 ## Learn how to upload to storage in Media Services
 

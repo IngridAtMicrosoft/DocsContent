@@ -21,7 +21,7 @@ ms.date: 9/19/2022
 />
 -->
 
-# Encode files with Media Services v3
+# Encode files with Media Services v3 v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

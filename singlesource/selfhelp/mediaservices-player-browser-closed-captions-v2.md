@@ -21,7 +21,7 @@ ms.date: 9/19/2022
   selfhelptype="apollo"
   supporttopicids="c9174122-cb68-f0bd-1ca1-fe91f7b6342d" />-->
 
-# Azure Media Player closed captions and subtitles
+# Azure Media Player closed captions and subtitles v2
 
 ## Learn about Azure Media Player closed captions and subtitles
 

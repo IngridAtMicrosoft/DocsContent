@@ -23,7 +23,7 @@ ms.date: 9/19/2022
 -->
 
 
-# Client Latency
+# Client Latency v2
 
 ## Resolve client latency issues in Azure Media Services
 
