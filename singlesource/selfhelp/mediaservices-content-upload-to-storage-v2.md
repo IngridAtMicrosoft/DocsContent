@@ -53,7 +53,9 @@ To upload a file:
 * [Upload files into a Media Services account using REST](/azure/media-services/latest/upload-files-rest-how-to)
 * [CODE SAMPLES](/azure/media-services/latest/samples-overview)
 
+<!--
 ### Here are some relevant results from the web
 <azureKB>
 	<client>portal</client>
 </azureKB>
+-->

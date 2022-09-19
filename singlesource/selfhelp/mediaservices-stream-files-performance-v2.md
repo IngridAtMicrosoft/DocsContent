@@ -49,7 +49,9 @@ Learn more: [Azure CDN Overview](/azure/cdn/cdn-overview)
 * [Media Services pricing](https://azure.microsoft.com/pricing/details/media-services/)
 * [Streaming Endpoints (Origin) in Azure Media Services](/azure/media-services/latest/stream-streaming-endpoint-concept)
 
+<!--
 ### Relevant results from the web
 <azureKB>
     <client>portal</client>
 </azureKB>
+-->

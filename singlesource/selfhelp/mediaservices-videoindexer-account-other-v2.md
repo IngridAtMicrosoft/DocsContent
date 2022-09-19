@@ -55,8 +55,9 @@ Azure Media Services Video Indexer doesn't provide instant failover of the servi
 
  * [Manage a Video Indexer account connected to Azure](/azure/media-services/video-indexer/manage-account-connected-to-azure)
 
+<!--
 ### Here are some relevant results from the web
-
 <azureKB>
 	<client>portal</client>
 </azureKB>
+-->

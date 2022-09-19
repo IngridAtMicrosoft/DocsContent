@@ -48,7 +48,9 @@ Tutorials and how-tos:
 
 * [Use PlayReady and/or Widevine dynamic common encryption](/azure/media-services/previous/media-services-protect-with-playready-widevine)
 
+<!--
 ### Here are some relevant results from the web
 <azureKB>
 	<client>portal</client>
 </azureKB>
+-->
