@@ -1,3 +1,12 @@
+---
+title: Indexing Videos
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
     pageTitle="Indexing Videos"
     description="Indexing Videos"
@@ -15,7 +24,7 @@
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/>
+/>-->
 
 # Indexing Videos
 

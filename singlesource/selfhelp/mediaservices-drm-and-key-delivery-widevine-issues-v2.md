@@ -1,3 +1,12 @@
+---
+title: Issues encrypting with Widevine v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-drm-and-key-delivery-widevine-issues"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
@@ -10,7 +19,8 @@
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="020b987b-bb9e-b5a1-4284-e2ff977c3318" />
+  supporttopicids="020b987b-bb9e-b5a1-4284-e2ff977c3318" />=-->
+
 # Issues encrypting with Widevine
 
 ## Resolve issues encrypting with Widevine

@@ -1,3 +1,11 @@
+---
+title: Move Azure Media Services resource groups v2
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-accounts-resource-group-moves"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
@@ -10,7 +18,8 @@
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="e09663f0-cc2d-21bd-7e8e-bd9d42882213" />
+  supporttopicids="e09663f0-cc2d-21bd-7e8e-bd9d42882213" />-->
+
 # Azure Media Services resource group moves
 
 ## Move Azure Media Services resource groups

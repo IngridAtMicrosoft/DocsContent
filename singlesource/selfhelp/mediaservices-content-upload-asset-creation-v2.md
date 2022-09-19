@@ -1,3 +1,12 @@
+---
+title: Create an Asset v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-content-upload-asset-creation"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
@@ -11,6 +20,9 @@
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="4fd1b35e-df2d-4bd0-01a4-c03527ad5c1e" />
+
+-->
+
 # Create an Asset
 
 ## Create an Asset
@@ -28,9 +40,9 @@ The following steps describe how to upload a file and then encode or analyze the
 1. Use the Media Services v3 API to create a new "input" Asset. This operation creates a container in the storage account associated with your Media Services account. The API returns the container name (for example: `"container": "asset-b8d8b68a-2d7f-4d8c-81bb-8c7bbbe67ee4"`). If you already have a blob container that you want to associate with an Asset, you can specify the container name when creating the Asset. Media Services currently only supports blobs in the container root and without paths in the file name. Thus, a container with the `input.mp4` file name will work, whereas a container with a name of `videos/inputs/input.mp4` will not work.
 
 	You can use the Azure CLI to upload directly to any storage account and container that you have rights to in your subscription.
-	
+
 	The container name must be unique and follow storage naming guidelines. The name doesn't have to follow the Media Services Asset container name (Asset-GUID) formatting. `az storage blob upload -f /path/to/file -c MyContainer -n MyBlob`.<br>
-	
+
 2. Get an SAS URL with read-write permissions that will be used to upload digital files into the Asset container. You can use the Media Services API to [list the asset container URLs](https://docs.microsoft.com/rest/api/media/assets/listcontainersas).<br>
 3. Use the Azure Storage APIs or SDKs (for example, the [Storage REST API](https://docs.microsoft.com/azure/storage/common/storage-rest-api-auth), [JAVA SDK](https://docs.microsoft.com/azure/storage/blobs/storage-quickstart-blobs-java-v10), or [.NET SDK](https://docs.microsoft.com/azure/storage/blobs/storage-quickstart-blobs-dotnet?tabs=windows)) to upload files into the Asset container.<br>
 4. Use Media Services v3 APIs to create a transform and a job to process your "input" Asset. See [Transforms and Jobs](https://docs.microsoft.com/azure/media-services/latest/transforms-jobs-concept).

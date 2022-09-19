@@ -1,3 +1,12 @@
+---
+title: Extract information using machine learning models v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Extract information using machine learning models"
 	description="Apollo migrated file - Extract information using machine learning models"
@@ -9,7 +18,7 @@
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="0a279559-4acd-417e-afd0-07dbc2daaf38"
     resourcerequired="false"
-/>
+/>-->
 
 # Extract information using machine learning models
 

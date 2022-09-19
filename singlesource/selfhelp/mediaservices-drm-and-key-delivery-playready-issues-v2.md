@@ -1,3 +1,12 @@
+---
+title: Issues encrypting with PlayReady v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Issues encrypting with PlayReady"
 	description="Apollo migrated file - Issues encrypting with PlayReady"
@@ -10,6 +19,7 @@
     supportTopicIds="b5aa7c16-f1c1-3092-0bb3-feaf27e6e4ee"
     resourcerequired="false"
 />
+-->
 
 # Issues encrypting with PlayReady
 

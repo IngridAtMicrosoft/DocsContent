@@ -1,3 +1,12 @@
+---
+title: Azure Media Player how to embed the player
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Azure Media Player how to embed the player"
 	description="Azure Media Player how to embed the player"
@@ -15,7 +24,7 @@
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/>-->
 
 # Azure Media Player how to embed the player
 

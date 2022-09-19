@@ -1,3 +1,12 @@
+---
+title: Access tokens v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
     pageTitle="Access Tokens"
     description="Apollo migrated file - Access Tokens"
@@ -9,7 +18,7 @@
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="0a09bfd2-ae7f-997d-4f68-fd222183807e"
     resourcerequired="false"
-/>
+/>-->
 
 # Access tokens
 

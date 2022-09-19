@@ -1,3 +1,12 @@
+---
+title: Archiving a live stream
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Archiving a live stream"
 	description="Archiving a live stream"
@@ -14,7 +23,7 @@
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/>-->
 
 # Archiving a live stream
 

@@ -1,3 +1,12 @@
+---
+title: DRM encryption and key delivery v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="DRM encryption and key delivery"
 	description="Apollo migrated file - DRM encryption and key delivery"
@@ -10,6 +19,7 @@
     supportTopicIds="0ac6e9ed-9e0f-0d40-22c5-00b868fc3ed9"
     resourcerequired="false"
 />
+-->
 
 # DRM encryption and key delivery
 

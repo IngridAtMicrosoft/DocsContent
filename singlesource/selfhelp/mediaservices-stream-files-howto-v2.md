@@ -1,3 +1,12 @@
+---
+title: Streaming media how-tos and tutorials v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-stream-files-howto"
   cloudenvironments="public,fairfax,usnat,ussec"
@@ -11,6 +20,8 @@
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="f4ffb732-4cd6-59e9-6063-5ec1fbe2bef1" />
+-->
+
 # Streaming media how-tos and tutorials
 
 ## Learn how to stream media with Azure Media Services

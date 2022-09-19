@@ -1,3 +1,12 @@
+---
+title: Using Video Indexer's API
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
     pageTitle="Using Video Indexer's API"
     description="Using Video Indexer's API"
@@ -15,7 +24,7 @@
     productPesIds="16535"
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
-/>
+/>-->
 
 # Using Video Indexer's API
 

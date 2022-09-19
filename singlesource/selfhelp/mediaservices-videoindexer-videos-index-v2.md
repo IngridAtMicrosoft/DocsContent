@@ -1,3 +1,12 @@
+---
+title: Indexing Videos v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
     pageTitle="Indexing Videos"
     description="Apollo migrated file - Indexing Videos"
@@ -9,7 +18,7 @@
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="72ab1fe2-34f8-6fe1-73f3-c784b39a7cf6,bcacd635-4b22-46f9-2ed1-906748653e93"
     resourcerequired="false"
-/>
+/>-->
 
 # Indexing Videos
 
@@ -49,4 +58,3 @@ Learn how to upload and index your videos with these options:
 <azureKB>
     <client>Portal</client>
 </azureKB>
-                    

@@ -1,3 +1,12 @@
+---
+title: Packaging, origin or streaming endpoint errors v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   pagetitle="PackagingResolve packaging, origin or streaming endpoint errors"
   description="Apollo migrated file - Packaging, origin or streaming endpoint errors"
@@ -10,6 +19,8 @@
   articleid="apollo-mediaservices-streaming-endpoint-errors"
   ownershipid="StorageMediaEdge_Media"
   resourcerequired="False" />
+-->
+
 # Packaging, origin or streaming endpoint errors
 
 ## Resolve packaging, origin or streaming endpoint errors
@@ -35,4 +46,3 @@ For help resolving common errors, refer to the following links:
 <azureKB>
     <client>Portal</client>
 </azureKB>
-                    

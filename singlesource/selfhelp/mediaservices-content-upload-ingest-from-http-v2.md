@@ -1,3 +1,12 @@
+---
+title: Upload from HTTP v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Upload from HTTP"
 	description="Apollo migrated file - Upload from HTTP"
@@ -9,7 +18,7 @@
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="73c03300-8f12-3c79-e340-ae42408c61d6"
     resourcerequired="false"
-/>
+/>-->
 
 # Upload from HTTP
 

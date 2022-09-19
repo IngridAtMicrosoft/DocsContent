@@ -1,3 +1,12 @@
+---
+title: Upload from HTTP
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Upload from HTTP"
 	description="Upload from HTTP"
@@ -14,7 +23,7 @@
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/>-->
 
 # Upload from HTTP
 

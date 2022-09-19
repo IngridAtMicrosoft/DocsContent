@@ -1,3 +1,12 @@
+---
+title: Camera connection issue or error v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Camera connection issue or error"
 	description="Apollo migrated file - Camera connection issue or error"
@@ -9,7 +18,7 @@
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="1ea9b4f6-314f-e241-9a23-f40977d5ce95"
     resourcerequired="false"
-/>
+/>-->
 
 # Camera connection issue or error
 

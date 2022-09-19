@@ -1,3 +1,12 @@
+---
+title: How-to encrypt with DRM and use a license delivery service v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-drm-and-key-delivery-howto"
   cloudenvironments="public,fairfax,usnat,ussec"
@@ -11,6 +20,8 @@
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="3fef00a2-f544-488f-597a-a7a498b1da70" />
+-->
+
 # How-to encrypt with DRM and use a license delivery service
 
 ## Implement DRM encryption and use a license delivery service

@@ -1,3 +1,12 @@
+---
+title: What are the capabilities of Media Analytics? Mooncake
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
     pageTitle="What are the capabilities of Media Analytics?"
     description="What are the capabilities of Media Analytics?"
@@ -13,7 +22,7 @@
     cloudEnvironments="MoonCake"
  	articleId="0cb3e6b1-620e-4070-8791-8eed7ddedd0b"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/>-->
 
 # What are the capabilities of Media Analytics?
 

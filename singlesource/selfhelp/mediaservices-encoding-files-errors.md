@@ -1,3 +1,12 @@
+---
+title: Diagnose and resolve Encoding errors for Media Services v3
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Diagnose and resolve Encoding errors for Media Services v3/v2"
 	description="Diagnose and resolve Encoding errors for Media Services v3/v2"
@@ -14,7 +23,7 @@
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/>-->
 
 # Diagnose and resolve Encoding errors for Media Services v3/v2
 
@@ -26,7 +35,7 @@
 
 The following error codes could be returned in case an error was encountered during the encoding task:
 
-* ApiErrorCode.BadRequest 
+* ApiErrorCode.BadRequest
 * ApiErrorCode.NotFound
 * ApiErrorCode.InvalidResource
 * ApiErrorCode.QuotaExceeded

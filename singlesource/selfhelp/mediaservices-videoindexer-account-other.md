@@ -1,3 +1,12 @@
+---
+title: Manage a Video Indexer account connected to Azure
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
     pageTitle="Account management"
     description="Account management"
@@ -16,14 +25,15 @@
     cloudEnvironments="public, fairfax, usnat, ussec"
     ownershipId="StorageMediaEdge_Media_VI"
 />
+-->
 
-# Manage a Video Indexer account connected to Azure 
+# Manage a Video Indexer account connected to Azure
 
 [Learn how to manage a Video Indexer account](https://docs.microsoft.com/azure/media-services/video-indexer/manage-account-connected-to-azure) that's connected to your Azure subscription and an Azure Media Services account. You will learn how to:
 * Examine your account settings
 * Repair the connection to Azure
 * Autoscale reserved units
-* Handle Errors and warnings 
+* Handle Errors and warnings
 
 ## Manage multiple tenants
 
@@ -34,7 +44,7 @@
 
 ## Invite users to Video Indexer
 
-To collaborate with your colleagues, you can [invite them to your Video Indexer account](https://docs.microsoft.com/azure/media-services/video-indexer/invite-users) by adding their email addresses. 
+To collaborate with your colleagues, you can [invite them to your Video Indexer account](https://docs.microsoft.com/azure/media-services/video-indexer/invite-users) by adding their email addresses.
 
 ## Video Indexer failover and disaster recovery
 

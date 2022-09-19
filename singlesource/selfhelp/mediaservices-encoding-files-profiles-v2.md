@@ -1,3 +1,12 @@
+---
+title: Standard Encoder Configuration and Management
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-encoding-files-profiles"
   cloudenvironments="public,fairfax,usnat,ussec"
@@ -11,6 +20,8 @@
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="86821d54-477e-9c74-fefa-9045782f6695" />
+-->
+
 # Standard Encoder Configuration and Management
 
 ## Resolve encoding issues with the Azure Media Services standard encoder
@@ -25,7 +36,7 @@ If you're experiencing issues with the Standard Encoder, use our guidance to hel
 The Standard Encoder currently offers a wide variety of codecs, bitrates, and resolutions. If you would like to see the full list of input and output codecs, see the doc [Standard Encoder formats and codecs](https://docs.microsoft.com/azure/media-services/latest/encode-media-encoder-standard-formats-reference).
 
 ### Encoding job errors
-If you get any job error codes when running an encoding job using the Standard Encoder, see the doc [REST API Job Error Code](https://docs.microsoft.com/rest/api/media/jobs/get?tabs=HTTP#joberrorcode). 
+If you get any job error codes when running an encoding job using the Standard Encoder, see the doc [REST API Job Error Code](https://docs.microsoft.com/rest/api/media/jobs/get?tabs=HTTP#joberrorcode).
 
 For other troubleshooting errors, our [troubleshooting page](https://docs.microsoft.com/azure/media-services/latest/troubleshooting) provides solutions to common issues.
 

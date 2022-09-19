@@ -1,3 +1,12 @@
+---
+title: Need to scale Media Reserved Units v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
     pageTitle="Need to scale Media Reserved Units"
     description="Apollo migrated file - Need to scale Media Reserved Units"
@@ -9,7 +18,7 @@
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="8da2e643-6a98-3563-feec-7e0fa7d82172,9b275d30-aa3f-c24a-5c7c-1272344196c4"
     resourcerequired="false"
-/>
+/>-->
 
 # Need to scale Media Reserved Units
 

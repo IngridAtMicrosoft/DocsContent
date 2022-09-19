@@ -1,3 +1,12 @@
+---
+title: Video Indexer Widgets v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
     pageTitle="Video Indexer Widgets"
     description="Apollo migrated file - Video Indexer Widgets"
@@ -9,7 +18,7 @@
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="86e3ac11-6009-319e-bffa-0445c53dc1ac"
     resourcerequired="false"
-/>
+/>-->
 
 # Video Indexer Widgets
 

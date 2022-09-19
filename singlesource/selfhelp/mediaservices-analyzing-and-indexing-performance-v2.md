@@ -1,3 +1,12 @@
+---
+title: Analyzing and indexing performance v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Analyzing and indexing performance"
 	description="Apollo migrated file - Analyzing and indexing performance"
@@ -9,7 +18,7 @@
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="fbe66cdd-dd27-fd04-de67-7bc9fd2bbe0b"
     resourcerequired="false"
-/>
+/>-->
 
 # Analyzing and indexing performance
 
@@ -30,4 +39,3 @@ When using a Video or Audio Analyzer presets, use the Azure portal or the CLI to
 <azureKB>
     <client>Portal</client>
 </azureKB>
-                    

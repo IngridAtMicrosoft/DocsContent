@@ -1,4 +1,13 @@
-<properties 
+---
+title: What are the capabilities of Media Analytics?
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
+<properties
     pageTitle="What are the capabilities of Media Analytics?"
     description="What are the capabilities of Media Analytics?"
     service="microsoft.media"
@@ -12,7 +21,7 @@
     cloudEnvironments="public, fairfax, usnat, ussec"
  	articleId="bb420f91-7bee-4f28-9ae9-a33b0921598b"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/>-->
 
 # What are the capabilities of Media Analytics?
 

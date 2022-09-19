@@ -1,3 +1,12 @@
+---
+title: Troubleshoot account management error messages
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Troubleshoot account management error messages"
 	description="Troubleshoot account management error messages by using recommended resources."
@@ -9,7 +18,7 @@
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="46bd2a20-f182-90a9-6586-907fe31382e7"
     resourcerequired="false"
-/>
+/>-->
 
 # Account management error messages
 

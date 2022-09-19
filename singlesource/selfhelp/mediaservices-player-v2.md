@@ -1,3 +1,12 @@
+---
+title: Azure Media Player v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Azure Media Player"
 	description="Apollo migrated file - Azure Media Player"
@@ -10,6 +19,7 @@
     supportTopicIds="0e2283d6-4c34-cb97-9afa-792bc8f10a2a"
     resourcerequired="false"
 />
+-->
 
 # Azure Media Player
 

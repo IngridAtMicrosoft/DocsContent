@@ -1,3 +1,12 @@
+---
+title: Diagnose and resolve Encoding errors for Media Services v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-encoding-files-errors"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
@@ -11,6 +20,8 @@
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="4850e98f-4532-3e70-79b4-4dde5eafaab1" />
+-->
+
 # Diagnose and resolve Encoding errors for Media Services v3/v2
 
 ## Diagnose and resolve encoding errors for Media Services v3/v2
@@ -24,7 +35,7 @@ Encoding in Media Services is converting files with digital video and/or audio f
 
 The following error codes can appear during encoding:
 
-* ApiErrorCode.BadRequest 
+* ApiErrorCode.BadRequest
 * ApiErrorCode.NotFound
 * ApiErrorCode.InvalidResource
 * ApiErrorCode.QuotaExceeded

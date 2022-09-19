@@ -1,3 +1,12 @@
+---
+title: Manage quotas of Channels (v2)/Live Events (v3)
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Manage quotas of Channels (v2)/Live Events (v3)"
 	description="Manage quotas of Channels (v2)/Live Events (v3)"
@@ -14,7 +23,7 @@
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/>-->
 
 # Manage quotas of Channels (v2)/Live Events (v3)
 

@@ -1,3 +1,12 @@
+---
+title: Learn to create Azure Media Services accounts
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-account-management-generic"
   cloudenvironments="public,fairfax,usnat,ussec"
@@ -10,12 +19,13 @@
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="d3afbd52-5a62-a7c6-033c-2a1eccd1f6e8" />
+  supporttopicids="d3afbd52-5a62-a7c6-033c-2a1eccd1f6e8" />-->
+
 # Account management generic
 
 ## Create Azure Media Services accounts
 
-Create Azure Media Services accounts in the portal, using the Azure CLI (cloud shell or local), or by using the REST API and one of the client libraries. Learn to create accounts and start developing with client SDKs using the following guidance. 
+Create Azure Media Services accounts in the portal, using the Azure CLI (cloud shell or local), or by using the REST API and one of the client libraries. Learn to create accounts and start developing with client SDKs using the following guidance.
 
 ### Common tasks
 

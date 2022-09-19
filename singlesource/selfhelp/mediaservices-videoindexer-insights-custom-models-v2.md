@@ -1,3 +1,12 @@
+---
+title: Custom models in Video Indexer v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
     pageTitle="Custom models"
     description="Apollo migrated file - Custom models"
@@ -9,7 +18,7 @@
     ownershipId="StorageMediaEdge_Media_VI"
     supportTopicIds="a8b604b7-336c-eb37-5811-da99ebc882ef"
     resourcerequired="false"
-/>
+/>-->
 
 # Custom models in Video Indexer
 

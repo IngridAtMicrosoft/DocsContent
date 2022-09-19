@@ -1,3 +1,12 @@
+---
+title: How to configure live streaming? v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-live-streaming-configure-channels-live-events"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
@@ -11,6 +20,8 @@
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="35ba9292-e626-9c0b-fb2c-be68ffcf4e97" />
+-->
+
 # How to configure live streaming?
 
 ## Learn to configure live streaming

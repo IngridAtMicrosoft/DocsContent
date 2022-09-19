@@ -1,3 +1,12 @@
+---
+title: Analyze and index audio and video files in Azure Media Services
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-analyzing-indexing-how-to"
   cloudenvironments="blackforest,fairfax,mooncake,public,usnat,ussec"
@@ -11,16 +20,17 @@
   resourcerequired="False"
   resourcetags=""
   selfhelptype="apollo"
-  supporttopicids="50572256-2e9f-4da9-2849-35cab985386e" />
+  supporttopicids="50572256-2e9f-4da9-2849-35cab985386e" />-->
+
 # Analyzing and indexing how to
 
 ## Learn to analyze and index audio and video files in Azure Media Services
 
-Azure Media Services enables you to extract insights from your video and audio files with Video Indexer through Media Services v3 presets. Learn to do this by using the following guidance. 
+Azure Media Services enables you to extract insights from your video and audio files with Video Indexer through Media Services v3 presets. Learn to do this by using the following guidance.
 
 ### Before you begin
 
-For detailed insights, use the [Video Indexer APIs](https://api-portal.videoindexer.ai/) directly. 
+For detailed insights, use the [Video Indexer APIs](https://api-portal.videoindexer.ai/) directly.
 
 To understand the differences between the Video Indexer APIs and Media Services v3 APIs, see the [comparison document](https://docs.microsoft.com/azure/azure-video-analyzer/video-analyzer-for-media-docs/compare-video-indexer-with-media-services-presets).
 
@@ -31,8 +41,8 @@ To analyze your content using Media Services v3 presets, [create a transform](ht
 ### Resources
 
 * [Analyzing Video and Audio Files Overview](https://docs.microsoft.com/azure/media-services/latest/analyze-video-audio-files-concept)
-* [Scale Media Analytics and Indexing](https://docs.microsoft.com/azure/media-services/previous/media-services-scale-media-processing-overview) 
-* [Video Indexer Developer Portal and APIs](https://api-portal.videoindexer.ai/) 
+* [Scale Media Analytics and Indexing](https://docs.microsoft.com/azure/media-services/previous/media-services-scale-media-processing-overview)
+* [Video Indexer Developer Portal and APIs](https://api-portal.videoindexer.ai/)
 * [Pricing for Analytics and Indexing (see Analytics & Indexing tab)](https://azure.microsoft.com/pricing/details/media-services/)
 * [CODE SAMPLES](https://docs.microsoft.com/azure/media-services/latest/samples-overview)
 

@@ -1,3 +1,12 @@
+---
+title: Manage Streaming Endpoints quotas v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
   articleid="apollo-mediaservices-streaming-endpoints-quotas"
   cloudenvironments="public,fairfax,usnat,ussec"
@@ -11,6 +20,9 @@
   resourcetags=""
   selfhelptype="apollo"
   supporttopicids="52af5698-1a28-ded8-0a0c-d1038b1e4498" />
+
+-->
+
 # Manage Streaming Endpoints quotas
 
 ## Learn how to manage Streaming Endpoints quotas

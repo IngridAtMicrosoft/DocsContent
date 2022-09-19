@@ -1,3 +1,12 @@
+---
+title: Media Services: Media Services Profiles or custom profiles
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Media Services: Profiles or custom profiles"
 	description="Media Services: Profiles or custom profiles"
@@ -14,9 +23,9 @@
 	productPesIds="14885"
 	cloudEnvironments="public, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/>-->
 
-# Media Services: Profiles or custom profiles 
+# Media Services: Profiles or custom profiles
 
 ## **Recommended Documents**
 

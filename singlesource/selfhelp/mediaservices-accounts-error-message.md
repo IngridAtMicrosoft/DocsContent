@@ -1,3 +1,12 @@
+---
+title: Account management error messages
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Account management error messages"
 	description="Account management error messages"
@@ -14,7 +23,8 @@
 	productPesIds="14885"
 	cloudEnvironments="public, mooncake, fairfax, usnat, ussec"
 	ownershipId="StorageMediaEdge_Media"
-/>
+/>-->
+
 # Account management error messages
 ## **Recommended Documents**
 

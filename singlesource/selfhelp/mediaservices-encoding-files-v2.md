@@ -1,3 +1,12 @@
+---
+title: Encode files with Media Services v3
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Encode files with Media Services v3"
 	description="Apollo migrated file - Encode files with Media Services v3"
@@ -10,6 +19,7 @@
     supportTopicIds="8501aea9-8441-c5d4-f901-8b5f9b4f0a29"
     resourcerequired="false"
 />
+-->
 
 # Encode files with Media Services v3
 

@@ -1,3 +1,12 @@
+---
+title: Video Indexers pricing v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
     pageTitle="Video Indexer Pricing"
     description="Apollo migrated file - Video Indexer Pricing"
@@ -10,6 +19,7 @@
     supportTopicIds="622c9497-03f4-86c3-237a-87f6367d0a7d"
     resourcerequired="false"
 />
+-->
 
 # Video Indexers pricing
 

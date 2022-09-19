@@ -1,3 +1,12 @@
+---
+title: Azure Media Player how to embed the player v2
+author: IngridAtMicrosoft
+ms.author: inhenkel
+ms.service: media-services
+ms.date: 9/19/2022
+---
+
+<!--
 <properties
 	pageTitle="Azure Media Player how to embed the player"
 	description="Apollo migrated file - Azure Media Player how to embed the player"
@@ -9,7 +18,7 @@
 	ownershipId="StorageMediaEdge_Media"
     supportTopicIds="c87fa25a-2547-2ac1-be3d-6409369a7578"
     resourcerequired="false"
-/>
+/>-->
 
 # Azure Media Player how to embed the player
 
