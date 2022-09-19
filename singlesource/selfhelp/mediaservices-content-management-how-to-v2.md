@@ -32,12 +32,12 @@ To start managing content, you need to create a Media Services account and assoc
 
 ### Resources
 
-* [Cloud Upload and Storage](https://docs.microsoft.com/azure/media-services/latest/storage-account-concept)<br>
-* [Assets Overview](https://docs.microsoft.com/azure/media-services/latest/assets-concept)<br>
-* [Asset Management](https://docs.microsoft.com/azure/media-services/previous/media-services-dotnet-manage-entities)<br>
-* [Encoding with Media Services v3](https://docs.microsoft.com/azure/media-services/latest/encoding-concept)<br>
-* [API Access](https://docs.microsoft.com/azure/media-services/latest/access-api-howto?tabs=portal)<br>
-* [Blob Storage Tiers](https://docs.microsoft.com/azure/storage/blobs/storage-blob-storage-tiers)
+* [Cloud Upload and Storage](/azure/media-services/latest/storage-account-concept)<br>
+* [Assets Overview](/azure/media-services/latest/assets-concept)<br>
+* [Asset Management](/azure/media-services/previous/media-services-dotnet-manage-entities)<br>
+* [Encoding with Media Services v3](/azure/media-services/latest/encoding-concept)<br>
+* [API Access](/azure/media-services/latest/access-api-howto?tabs=portal)<br>
+* [Blob Storage Tiers](/azure/storage/blobs/storage-blob-storage-tiers)
 
 ### Here are some relevant results from the web
 <azureKB>

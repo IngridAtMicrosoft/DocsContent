@@ -35,6 +35,6 @@ Media Services v3 does not yet support **Premium Encoder**.
 
 **Media Services v2** (legacy)
 
-* [Media Encoder Premium Workflow formats and codecs](https://docs.microsoft.com/azure/media-services/previous/media-services-premium-workflow-encoder-formats)<br>
-* [Advanced encoding with Media Encoder Premium Workflow](https://docs.microsoft.com/azure/media-services/previous/media-services-encode-with-premium-workflow)<br>
-* [Advanced Media Encoder Premium Workflow tutorials](https://docs.microsoft.com/azure/media-services/previous/media-services-media-encoder-premium-workflow-tutorials)
+* [Media Encoder Premium Workflow formats and codecs](/azure/media-services/previous/media-services-premium-workflow-encoder-formats)<br>
+* [Advanced encoding with Media Encoder Premium Workflow](/azure/media-services/previous/media-services-encode-with-premium-workflow)<br>
+* [Advanced Media Encoder Premium Workflow tutorials](/azure/media-services/previous/media-services-media-encoder-premium-workflow-tutorials)

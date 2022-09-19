@@ -29,15 +29,15 @@ Create Azure Media Services accounts in the portal, using the Azure CLI (cloud s
 
 ### Common tasks
 
-1. [Create a new Media Services account](https://docs.microsoft.com/azure/media-services/latest/account-create-how-to?tabs=portal).
-2. [Use Azure CLI to create an Azure AD app and configure it to access Media Services API](https://docs.microsoft.com/azure/media-services/previous/media-services-cli-create-and-configure-aad-app).
-3. [Develop with client SDKs (.NET, Java, Node.js, Python, Go, Ruby)](https://docs.microsoft.com/azure/media-services/latest/all-sdks).
+1. [Create a new Media Services account](/azure/media-services/latest/account-create-how-to?tabs=portal).
+2. [Use Azure CLI to create an Azure AD app and configure it to access Media Services API](/azure/media-services/previous/media-services-cli-create-and-configure-aad-app).
+3. [Develop with client SDKs (.NET, Java, Node.js, Python, Go, Ruby)](/azure/media-services/latest/all-sdks).
 
 ### Resources
 
-* [Azure Media Services v3 overview](https://docs.microsoft.com/azure/media-services/latest/media-services-overview)
-* [Create a new Media Services account](https://docs.microsoft.com/azure/media-services/latest/account-create-how-to?tabs=portal)
-* [Use Azure CLI to create an Azure AD app and configure it to access Media Services API](https://docs.microsoft.com/azure/media-services/previous/media-services-cli-create-and-configure-aad-app)
+* [Azure Media Services v3 overview](/azure/media-services/latest/media-services-overview)
+* [Create a new Media Services account](/azure/media-services/latest/account-create-how-to?tabs=portal)
+* [Use Azure CLI to create an Azure AD app and configure it to access Media Services API](/azure/media-services/previous/media-services-cli-create-and-configure-aad-app)
 
 ### Relevant results from the web
 <azureKB>

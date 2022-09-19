@@ -42,12 +42,12 @@ The two types of Streaming Endpoints, Standard and Premium, are defined by the n
 
 For most cases, enable CDN. However, with maximium concurrency lower than 500 viewers, disable CDN. It scales best with concurrency. The Streaming Endpoint hostname and the streaming URL remains the same whether or not you enable CDN.
 
-Learn more: [Azure CDN Overview](https://docs.microsoft.com/azure/cdn/cdn-overview)
+Learn more: [Azure CDN Overview](/azure/cdn/cdn-overview)
 
 ### Resources
 
 * [Media Services pricing](https://azure.microsoft.com/pricing/details/media-services/)
-* [Streaming Endpoints (Origin) in Azure Media Services](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-endpoint-concept)
+* [Streaming Endpoints (Origin) in Azure Media Services](/azure/media-services/latest/stream-streaming-endpoint-concept)
 
 ### Relevant results from the web
 <azureKB>

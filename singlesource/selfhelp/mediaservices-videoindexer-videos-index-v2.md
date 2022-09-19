@@ -30,8 +30,8 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 When uploading videos with Video Indexer API, you have the following upload options:
 * Upload your video from a URL (preferred),
 * Send the video file as a byte array in the request body,
-* Use existing Azure Media Services asset by providing the [asset ID](https://docs.microsoft.com/azure/media-services/latest/assets-concept) (supported in paid accounts only).
-Once your video has been uploaded, Video Indexer (optionally) encodes the video. When creating a Video Indexer account, you can choose a free trial account (where you get a certain number of free indexing minutes) or a paid option (where you are not limited by the quota). With free trial, Video Indexer provides up to 600 minutes of free indexing to website users and up to 2400 minutes of free indexing to API users. With paid option, you create a Video Indexer account that is [connected to your Azure subscription and an Azure Media Services account](https://docs.microsoft.com/azure/media-services/video-indexer/connect-to-azure). You pay for minutes indexed as well as the Media Account related charges.
+* Use existing Azure Media Services asset by providing the [asset ID](/azure/media-services/latest/assets-concept) (supported in paid accounts only).
+Once your video has been uploaded, Video Indexer (optionally) encodes the video. When creating a Video Indexer account, you can choose a free trial account (where you get a certain number of free indexing minutes) or a paid option (where you are not limited by the quota). With free trial, Video Indexer provides up to 600 minutes of free indexing to website users and up to 2400 minutes of free indexing to API users. With paid option, you create a Video Indexer account that is [connected to your Azure subscription and an Azure Media Services account](/azure/media-services/video-indexer/connect-to-azure). You pay for minutes indexed as well as the Media Account related charges.
 
 ## Uploading considerations and limitations
 
@@ -51,8 +51,8 @@ Once your video has been uploaded, Video Indexer (optionally) encodes the video.
 ### Recommended resources
 
 Learn how to upload and index your videos with these options:
-* [The Video Indexer website](https://docs.microsoft.com/azure/media-services/video-indexer/upload-index-videos#website)
-* [The Video Indexer APIs](https://docs.microsoft.com/azure/media-services/video-indexer/upload-index-videos#apis)
+* [The Video Indexer website](/azure/media-services/video-indexer/upload-index-videos#website)
+* [The Video Indexer APIs](/azure/media-services/video-indexer/upload-index-videos#apis)
 
 ### Here are some relevant results from the web
 <azureKB>

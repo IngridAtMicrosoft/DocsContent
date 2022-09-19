@@ -28,7 +28,7 @@ Azure Media Services resource group moves can be requested through support ticke
 
 ### Resources
 
-* [Azure Media Services v3 overview](https://docs.microsoft.com/azure/media-services/latest/media-services-overview)
+* [Azure Media Services v3 overview](/azure/media-services/latest/media-services-overview)
 
 ### Here are some relevant results from the web
 <azureKB>

@@ -30,13 +30,13 @@ Azure Media Services accounts can be created directly in the portal, using the A
 
 ## **Recommended Steps**
 
-1. Follow the instructions on how to [create a new Media Services account with the Azure CLI or Cloud Shell](https://docs.microsoft.com/azure/media-services/latest/create-account-cli-how-to)
-2. [Access the Media Services API using the CLI](https://docs.microsoft.com/azure/media-services/latest/access-api-cli-how-to)
-3. Start [developing with client SDKs (.NET, Java, Node.js, Python, Go, Ruby)](https://docs.microsoft.com/azure/media-services/latest/developers-guide)
+1. Follow the instructions on how to [create a new Media Services account with the Azure CLI or Cloud Shell](/azure/media-services/latest/create-account-cli-how-to)
+2. [Access the Media Services API using the CLI](/azure/media-services/latest/access-api-cli-how-to)
+3. Start [developing with client SDKs (.NET, Java, Node.js, Python, Go, Ruby)](/azure/media-services/latest/developers-guide)
 
 
 ## **Recommended Documents**
 
-* [Azure Media Services v3 overview](https://docs.microsoft.com/azure/media-services/latest/media-services-overview)
-* [Create a new Media Services account with the Azure CLI or Cloud Shell](https://docs.microsoft.com/azure/media-services/latest/create-account-cli-how-to)
-* [Access the Media Services API using the CLI](https://docs.microsoft.com/azure/media-services/latest/access-api-cli-how-to)
+* [Azure Media Services v3 overview](/azure/media-services/latest/media-services-overview)
+* [Create a new Media Services account with the Azure CLI or Cloud Shell](/azure/media-services/latest/create-account-cli-how-to)
+* [Access the Media Services API using the CLI](/azure/media-services/latest/access-api-cli-how-to)

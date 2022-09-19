@@ -29,7 +29,7 @@ ms.date: 9/19/2022
 
 ### Troubleshoot slow audio and video indexing
 
-When using a Video or Audio Analyzer presets, use the Azure portal or the CLI to set your account to have at least  10 "S3" Media Reserved Units. For more information, see [Scale media analytics and indexing](https://docs.microsoft.com/azure/media-services/previous/media-services-scale-media-processing-overview).
+When using a Video or Audio Analyzer presets, use the Azure portal or the CLI to set your account to have at least  10 "S3" Media Reserved Units. For more information, see [Scale media analytics and indexing](/azure/media-services/previous/media-services-scale-media-processing-overview).
 
 ## **Recommended Documents**
-* [Scale media analytics and indexing](https://docs.microsoft.com/azure/media-services/previous/)
+* [Scale media analytics and indexing](/azure/media-services/previous/)

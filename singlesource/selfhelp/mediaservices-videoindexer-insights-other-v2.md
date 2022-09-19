@@ -31,7 +31,7 @@ When you call the *Get Video Index API* and the response status is OK, you get a
 
 ### Recommended resources
 
-* [Learn how to examine Video Indexer output](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-output-json-v2)
+* [Learn how to examine Video Indexer output](/azure/media-services/video-indexer/video-indexer-output-json-v2)
 
 
 ### Here are some relevant results from the web

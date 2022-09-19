@@ -32,19 +32,19 @@ Azure Media Services enables you to extract insights from your video and audio f
 
 For detailed insights, use the [Video Indexer APIs](https://api-portal.videoindexer.ai/) directly.
 
-To understand the differences between the Video Indexer APIs and Media Services v3 APIs, see the [comparison document](https://docs.microsoft.com/azure/azure-video-analyzer/video-analyzer-for-media-docs/compare-video-indexer-with-media-services-presets).
+To understand the differences between the Video Indexer APIs and Media Services v3 APIs, see the [comparison document](/azure/azure-video-analyzer/video-analyzer-for-media-docs/compare-video-indexer-with-media-services-presets).
 
 ### Analyze your video and audio files in Azure Media Services
 
-To analyze your content using Media Services v3 presets, [create a transform](https://docs.microsoft.com/azure/media-services/latest/transform-create-transform-how-to?tabs=cli) and submit a job that uses one of these presets: VideoAnalyzerPreset or AudioAnalyzerPreset.
+To analyze your content using Media Services v3 presets, [create a transform](/azure/media-services/latest/transform-create-transform-how-to?tabs=cli) and submit a job that uses one of these presets: VideoAnalyzerPreset or AudioAnalyzerPreset.
 
 ### Resources
 
-* [Analyzing Video and Audio Files Overview](https://docs.microsoft.com/azure/media-services/latest/analyze-video-audio-files-concept)
-* [Scale Media Analytics and Indexing](https://docs.microsoft.com/azure/media-services/previous/media-services-scale-media-processing-overview)
+* [Analyzing Video and Audio Files Overview](/azure/media-services/latest/analyze-video-audio-files-concept)
+* [Scale Media Analytics and Indexing](/azure/media-services/previous/media-services-scale-media-processing-overview)
 * [Video Indexer Developer Portal and APIs](https://api-portal.videoindexer.ai/)
 * [Pricing for Analytics and Indexing (see Analytics & Indexing tab)](https://azure.microsoft.com/pricing/details/media-services/)
-* [CODE SAMPLES](https://docs.microsoft.com/azure/media-services/latest/samples-overview)
+* [CODE SAMPLES](/azure/media-services/latest/samples-overview)
 
 ### Relevant results from the web
 <azureKB>

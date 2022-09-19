@@ -32,5 +32,5 @@ ms.date: 9/19/2022
 
 ## **Recommended Documents**
 
-* [Learn how to use Video Indexer’s APIs](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-use-apis)
+* [Learn how to use Video Indexer’s APIs](/azure/media-services/video-indexer/video-indexer-use-apis)
 

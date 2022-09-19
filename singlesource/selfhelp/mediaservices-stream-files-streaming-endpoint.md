@@ -29,7 +29,7 @@ ms.date: 9/19/2022
 
 A common Media Services scenario is to encode your content and stream files using different streaming formats and content protection formats to a variety of client technologies (for example, iOS and XBOX).
 
-[Streaming Endpoints](https://docs.microsoft.com/azure/media-services/latest/streaming-endpoint-concept) is the dynamic packaging and streaming service in Media Services used to deliver media content to client players or to a Content Delivery Network (CDN) for further distribution. Dynamic Packaging is a feature that comes standard on all Streaming Endpoints (Standard or Premium).
+[Streaming Endpoints](/azure/media-services/latest/streaming-endpoint-concept) is the dynamic packaging and streaming service in Media Services used to deliver media content to client players or to a Content Delivery Network (CDN) for further distribution. Dynamic Packaging is a feature that comes standard on all Streaming Endpoints (Standard or Premium).
 
 To take advantage of Dynamic Packaging, you need to have an Asset with a set of adaptive bitrate MP4 files and streaming configuration files needed by Media Services Dynamic Packaging. One way to get the files is to encode your mezzanine (source) file with Media Services. The encoding job will produce an output Asset.
 
@@ -48,12 +48,12 @@ Based on the specified format in the streaming client manifest (HLS, DASH, or Sm
 |MPEG DASH CMAF|`https://amsv3account-usw22.streaming.media.azure.net/21b17732-0112-4d76-b526-763dcd843449/ignite.ism/manifest(format=mpd-time-cmaf)` |
 |Smooth Streaming| `https://amsv3account-usw22.streaming.media.azure.net/21b17732-0112-4d76-b526-763dcd843449/ignite.ism/manifest`|
 
-**NOTE**: Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://aka.ms/ams-v3-rest-ref), [CLI](https://aka.ms/ams-v3-cli-ref), or one of the supported [SDKs](https://docs.microsoft.com/azure/media-services/latest/developers-guide).
+**NOTE**: Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://aka.ms/ams-v3-rest-ref), [CLI](https://aka.ms/ams-v3-cli-ref), or one of the supported [SDKs](/azure/media-services/latest/developers-guide).
 
 ## **Recommended Documents**
 
-* [Streaming Endpoints](https://docs.microsoft.com/azure/media-services/latest/streaming-endpoint-concept)<br>
-* [Dynamic packaging](https://docs.microsoft.com/azure/media-services/latest/dynamic-packaging-overview)<br>
-* [Tutorial: Encode a remote file based on URL and stream the video - REST](https://docs.microsoft.com/azure/media-services/latest/stream-files-tutorial-with-rest)<br>
-* [Tutorial: Upload, encode, and stream videos using .NET](https://docs.microsoft.com/azure/media-services/latest/stream-files-tutorial-with-api)<br>
+* [Streaming Endpoints](/azure/media-services/latest/streaming-endpoint-concept)<br>
+* [Dynamic packaging](/azure/media-services/latest/dynamic-packaging-overview)<br>
+* [Tutorial: Encode a remote file based on URL and stream the video - REST](/azure/media-services/latest/stream-files-tutorial-with-rest)<br>
+* [Tutorial: Upload, encode, and stream videos using .NET](/azure/media-services/latest/stream-files-tutorial-with-api)<br>
 * [Download the results from the specified output asset](https://github.com/Azure-Samples/media-services-v3-dotnet-tutorials/blob/master/AMSV3Tutorials/UploadEncodeAndStreamFiles/Program.cs#L464)

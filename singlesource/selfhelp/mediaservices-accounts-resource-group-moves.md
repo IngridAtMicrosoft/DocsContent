@@ -33,4 +33,4 @@ Resource group movement is not available through the Azure CLI.
 
 ## **Recommended Documents**
 
-* [Azure Media Services v3 overview](https://docs.microsoft.com/azure/media-services/latest/media-services-overview)
+* [Azure Media Services v3 overview](/azure/media-services/latest/media-services-overview)

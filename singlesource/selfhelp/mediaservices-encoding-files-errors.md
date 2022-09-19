@@ -31,7 +31,7 @@ ms.date: 9/19/2022
 
 **Media Services v3** (latest)
 
-* [Encoding with Media Services v3](https://docs.microsoft.com/azure/media-services/latest/encoding-concept)<br>
+* [Encoding with Media Services v3](/azure/media-services/latest/encoding-concept)<br>
 
 The following error codes could be returned in case an error was encountered during the encoding task:
 
@@ -41,8 +41,8 @@ The following error codes could be returned in case an error was encountered dur
 * ApiErrorCode.QuotaExceeded
 * ApiErrorCode.InternalServerError
 
-The message property will have more details of the error that should be meaningful to the customer. For additional information, review [Feature gaps with respect to v2 APIs](https://docs.microsoft.com/azure/media-services/latest/migrate-from-v2-to-v3).
+The message property will have more details of the error that should be meaningful to the customer. For additional information, review [Feature gaps with respect to v2 APIs](/azure/media-services/latest/migrate-from-v2-to-v3).
 
 **Media Services v2** (legacy)
 
-* [Encoding error codes](https://docs.microsoft.com/azure/media-services/previous/media-services-encoding-error-codes)
+* [Encoding error codes](/azure/media-services/previous/media-services-encoding-error-codes)

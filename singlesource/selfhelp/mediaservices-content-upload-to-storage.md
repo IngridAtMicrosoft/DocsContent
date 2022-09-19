@@ -43,11 +43,11 @@ The following general steps describe how to upload a file.<br>
 
 2. Get a SAS URL with read-write permissions that will be used to upload digital files into the Asset container. You can use the Media Services API to [list the asset container URLs](https://docs.microsoft.com/rest/api/media/assets/listcontainersas).<br>
 
-3. Use the Azure Storage APIs or SDKs (for example, the [Storage REST API](https://docs.microsoft.com/azure/storage/common/storage-rest-api-auth), [JAVA SDK](https://docs.microsoft.com/azure/storage/blobs/storage-quickstart-blobs-java-v10), or [.NET SDK](https://docs.microsoft.com/azure/storage/blobs/storage-quickstart-blobs-dotnet?tabs=windows)) to upload files into the Asset container
+3. Use the Azure Storage APIs or SDKs (for example, the [Storage REST API](/azure/storage/common/storage-rest-api-auth), [JAVA SDK](/azure/storage/blobs/storage-quickstart-blobs-java-v10), or [.NET SDK](/azure/storage/blobs/storage-quickstart-blobs-dotnet?tabs=windows)) to upload files into the Asset container
 
 ## **Recommended Documents**
 
-* [Cloud upload and storage](https://docs.microsoft.com/azure/media-services/latest/storage-account-concept)<br>
-* [Assets](https://docs.microsoft.com/azure/media-services/latest/assets-concept)<br>
-* [Upload files into a Media Services account using .NET](https://docs.microsoft.com/azure/media-services/latest/job-input-from-local-file-how-to)<br>
-* [Upload files into a Media Services account using REST](https://docs.microsoft.com/azure/media-services/latest/upload-files-rest-how-to)
+* [Cloud upload and storage](/azure/media-services/latest/storage-account-concept)<br>
+* [Assets](/azure/media-services/latest/assets-concept)<br>
+* [Upload files into a Media Services account using .NET](/azure/media-services/latest/job-input-from-local-file-how-to)<br>
+* [Upload files into a Media Services account using REST](/azure/media-services/latest/upload-files-rest-how-to)

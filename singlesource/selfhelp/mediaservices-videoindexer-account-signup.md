@@ -29,10 +29,10 @@ ms.date: 9/19/2022
 # Account sign up and sign in
 
 To help you get started with Video Indexer you can learn more here:
-* [Sign up and upload your first video](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-get-started)
+* [Sign up and upload your first video](/azure/media-services/video-indexer/video-indexer-get-started)
 
-* [Subscribe to the API](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-use-apis#subscribe-to-the-api)
+* [Subscribe to the API](/azure/media-services/video-indexer/video-indexer-use-apis#subscribe-to-the-api)
 
 ## **Recommended Documents**
 
-* [Invite users to Video Indexer](https://docs.microsoft.com/azure/media-services/video-indexer/invite-users)
+* [Invite users to Video Indexer](/azure/media-services/video-indexer/invite-users)

@@ -34,9 +34,9 @@ Azure Media Services accounts can be created or deleted directly in the portal, 
 
 ### Create or delete an Azure Media Services account with the CLI and connect to the API
 
-1. [Create a new Media Services account with the Azure CLI or cloud shell](https://docs.microsoft.com/azure/media-services/latest/create-account-cli-how-to)
-2. [Access the Media Services API using the CLI](https://docs.microsoft.com/azure/media-services/latest/access-api-cli-how-to)
-3. Start [developing with client SDKs (.NET, Java, Node.js, Python, Go, Ruby.](https://docs.microsoft.com/azure/media-services/latest/developers-guide)
+1. [Create a new Media Services account with the Azure CLI or cloud shell](/azure/media-services/latest/create-account-cli-how-to)
+2. [Access the Media Services API using the CLI](/azure/media-services/latest/access-api-cli-how-to)
+3. Start [developing with client SDKs (.NET, Java, Node.js, Python, Go, Ruby.](/azure/media-services/latest/developers-guide)
 
 ### Create a Media Services account using the CLI
 
@@ -56,7 +56,7 @@ Open the Cloud Shell or CLI locally and run the following command to see the ava
 
 ## **Recommended Documents**
 
-* [Azure Media Services v3 overview](https://docs.microsoft.com/azure/media-services/latest/media-services-overview)
-* [Create a new Media Services account with the Azure CLI or Cloud Shell](https://docs.microsoft.com/azure/media-services/latest/create-account-cli-how-to)
-* [Access the Media Services API using the CLI](https://docs.microsoft.com/azure/media-services/latest/access-api-cli-how-to)
+* [Azure Media Services v3 overview](/azure/media-services/latest/media-services-overview)
+* [Create a new Media Services account with the Azure CLI or Cloud Shell](/azure/media-services/latest/create-account-cli-how-to)
+* [Access the Media Services API using the CLI](/azure/media-services/latest/access-api-cli-how-to)
 

@@ -33,28 +33,28 @@ The [BuiltInStandardEncoderPreset](https://docs.microsoft.com/en-us/rest/api/med
 If you're experiencing issues with the Standard Encoder, use our guidance to help you resolve your issues.
 
 ### Standard Encoder offerings
-The Standard Encoder currently offers a wide variety of codecs, bitrates, and resolutions. If you would like to see the full list of input and output codecs, see the doc [Standard Encoder formats and codecs](https://docs.microsoft.com/azure/media-services/latest/encode-media-encoder-standard-formats-reference).
+The Standard Encoder currently offers a wide variety of codecs, bitrates, and resolutions. If you would like to see the full list of input and output codecs, see the doc [Standard Encoder formats and codecs](/azure/media-services/latest/encode-media-encoder-standard-formats-reference).
 
 ### Encoding job errors
 If you get any job error codes when running an encoding job using the Standard Encoder, see the doc [REST API Job Error Code](https://docs.microsoft.com/rest/api/media/jobs/get?tabs=HTTP#joberrorcode).
 
-For other troubleshooting errors, our [troubleshooting page](https://docs.microsoft.com/azure/media-services/latest/troubleshooting) provides solutions to common issues.
+For other troubleshooting errors, our [troubleshooting page](/azure/media-services/latest/troubleshooting) provides solutions to common issues.
 
 
 ### Encoding billing
 If you have questions on how pricing and billing works, refer to our [pricing page](https://azure.microsoft.com/pricing/details/media-services/) and select the "Encoding" tab.
 
-**Note**: Encoding prices are for each layer of output. For example, if you are using the Adaptive Streaming preset, this will result in multiple output layers. (See [Encode with an auto-generated bitrate ladder](https://docs.microsoft.com/azure/media-services/latest/encode-autogen-bitrate-ladder)). Azure Media Services charges per layer of output. If you have three layers of output for a video, where two are SD and one is HD, the total charge will be the sum of all three layers.
+**Note**: Encoding prices are for each layer of output. For example, if you are using the Adaptive Streaming preset, this will result in multiple output layers. (See [Encode with an auto-generated bitrate ladder](/azure/media-services/latest/encode-autogen-bitrate-ladder)). Azure Media Services charges per layer of output. If you have three layers of output for a video, where two are SD and one is HD, the total charge will be the sum of all three layers.
 
 
 ### Resources
 
 Media Services v3 (latest)
 
-* [Encoding with Media Services v3](https://docs.microsoft.com/azure/media-services/latest/encode-concept)<br>
-* [Media Encoder Standard formats and codecs](https://docs.microsoft.com/azure/media-services/latest/encode-media-encoder-standard-formats-reference)<br>
-* [Dynamic Packaging](https://docs.microsoft.com/azure/media-services/latest/encode-dynamic-packaging-concept)<br>
-* [Migrate to V3](https://docs.microsoft.com/azure/media-services/latest/migrate-v-2-v-3-migration-introduction)
+* [Encoding with Media Services v3](/azure/media-services/latest/encode-concept)<br>
+* [Media Encoder Standard formats and codecs](/azure/media-services/latest/encode-media-encoder-standard-formats-reference)<br>
+* [Dynamic Packaging](/azure/media-services/latest/encode-dynamic-packaging-concept)<br>
+* [Migrate to V3](/azure/media-services/latest/migrate-v-2-v-3-migration-introduction)
 
 ### Here are some relevant results from the web
 <azureKB>

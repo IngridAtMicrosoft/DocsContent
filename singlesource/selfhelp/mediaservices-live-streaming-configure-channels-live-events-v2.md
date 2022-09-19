@@ -30,35 +30,35 @@ Use the following guidance to learn how to configure live streaming, and learn a
 
 ### Troubleshoot live encoding issues
 
-If you're having an issue with live encoding, try testing with one of the recommended [encoder configurations for Azure Media Services](https://docs.microsoft.com/azure/media-services/latest/encode-recommended-on-premises-live-encoders).
+If you're having an issue with live encoding, try testing with one of the recommended [encoder configurations for Azure Media Services](/azure/media-services/latest/encode-recommended-on-premises-live-encoders).
 
 ### Using live events in the v3 API
 
-**Note**: Currently, you can't use the Azure portal to manage v3 resources. Use the [REST API](https://docs.microsoft.com/rest/api/media/account-filters), [CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](https://docs.microsoft.com/azure/media-services/latest/all-sdks).
+**Note**: Currently, you can't use the Azure portal to manage v3 resources. Use the [REST API](https://docs.microsoft.com/rest/api/media/account-filters), [CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](/azure/media-services/latest/all-sdks).
 
-* Azure Media Services enables you to deliver live events to your customers on the Azure cloud, see [Live streaming with Azure Media Services v3](https://docs.microsoft.com/azure/media-services/latest/stream-live-streaming-concept).
+* Azure Media Services enables you to deliver live events to your customers on the Azure cloud, see [Live streaming with Azure Media Services v3](/azure/media-services/latest/stream-live-streaming-concept).
 
-* Review this tutorial to learn more about [streaming live with v3 API and .NET](https://docs.microsoft.com/azure/media-services/latest/stream-live-tutorial-with-api).
+* Review this tutorial to learn more about [streaming live with v3 API and .NET](/azure/media-services/latest/stream-live-tutorial-with-api).
 
 ### Monitoring live events with Event Grid
 
 If you'd like to create and/or monitor the status and health of your live events, refer to the following documents for step-by-step instructions with the Azure portal or CLI.
 
-* [Azure portal](https://docs.microsoft.com/azure/media-services/latest/monitoring/monitor-events-portal-how-to)
-* [Azure CLI](https://docs.microsoft.com/azure/media-services/latest/monitoring/job-state-events-cli-how-to)
+* [Azure portal](/azure/media-services/latest/monitoring/monitor-events-portal-how-to)
+* [Azure CLI](/azure/media-services/latest/monitoring/job-state-events-cli-how-to)
 
 ### Using channels in the v2 API (legacy)
 
-A channel represents a pipeline for processing live streaming content, see [Overview of Live Streaming using Azure Media Services](https://docs.microsoft.com/azure/media-services/previous/media-services-manage-channels-overview/).
+A channel represents a pipeline for processing live streaming content, see [Overview of Live Streaming using Azure Media Services](/azure/media-services/previous/media-services-manage-channels-overview/).
 
 **How to configure live streaming**
 
-* [Working with channels that receive multi-bitrate live stream from on-premises encoders](https://docs.microsoft.com/azure/media-services/previous/media-services-live-streaming-with-onprem-encoders)
-* [Live streaming using Azure Media Services cloud encoder](https://docs.microsoft.com/azure/media-services/previous/media-services-manage-live-encoder-enabled-channels)
+* [Working with channels that receive multi-bitrate live stream from on-premises encoders](/azure/media-services/previous/media-services-live-streaming-with-onprem-encoders)
+* [Live streaming using Azure Media Services cloud encoder](/azure/media-services/previous/media-services-manage-live-encoder-enabled-channels)
 
 ### Resources
 
-* [Transforms and jobs in Media Services](https://docs.microsoft.com/azure/media-services/latest/transform-jobs-concept)
+* [Transforms and jobs in Media Services](/azure/media-services/latest/transform-jobs-concept)
 
 ### Relevant results from the web
 <azureKB>

@@ -31,7 +31,7 @@ Use the following guidance to learn how to resolve encoding errors.
 
 ### Media Services v3 (latest)
 
-Encoding in Media Services is converting files with digital video and/or audio from one standard format to another to reduce files size, and/or produce a format compatible with devices and apps. See, [Encoding with Media Services v3](https://docs.microsoft.com/azure/media-services/latest/encode-concept)
+Encoding in Media Services is converting files with digital video and/or audio from one standard format to another to reduce files size, and/or produce a format compatible with devices and apps. See, [Encoding with Media Services v3](/azure/media-services/latest/encode-concept)
 
 The following error codes can appear during encoding:
 
@@ -41,11 +41,11 @@ The following error codes can appear during encoding:
 * ApiErrorCode.QuotaExceeded
 * ApiErrorCode.InternalServerError
 
-The message property has details. See [Migrate from Media Services v2 to v3 introduction](https://docs.microsoft.com/azure/media-services/latest/migrate-v-2-v-3-migration-introduction).
+The message property has details. See [Migrate from Media Services v2 to v3 introduction](/azure/media-services/latest/migrate-v-2-v-3-migration-introduction).
 
 ### Media Services v2 (legacy)
 
-See a table of error codes returned during encoding: [Encoding error codes](https://docs.microsoft.com/azure/media-services/previous/media-services-encoding-error-codes).
+See a table of error codes returned during encoding: [Encoding error codes](/azure/media-services/previous/media-services-encoding-error-codes).
 
 ### Relevant results from the web
 <azureKB>

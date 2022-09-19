@@ -31,7 +31,7 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 
 ### Recommended resources
 
-[Learn how to obtain access token using the Authorization API](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-use-apis#obtain-access-token-using-the-authorization-api)
+[Learn how to obtain access token using the Authorization API](/azure/media-services/video-indexer/video-indexer-use-apis#obtain-access-token-using-the-authorization-api)
 
 ### Here are some relevant results from the web
 <azureKB>

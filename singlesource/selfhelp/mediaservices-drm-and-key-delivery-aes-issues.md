@@ -33,18 +33,18 @@ ms.date: 9/19/2022
 
 **Media Services v3 (latest)**
 
-**NOTE**: Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://aka.ms/ams-v3-rest-ref), [CLI](https://aka.ms/ams-v3-cli-ref), or one of the supported [SDKs](https://docs.microsoft.com/azure/media-services/latest/developers-guide).
+**NOTE**: Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://aka.ms/ams-v3-rest-ref), [CLI](https://aka.ms/ams-v3-cli-ref), or one of the supported [SDKs](/azure/media-services/latest/developers-guide).
 
-To get details on all failing Key delivery service request, enable the Azure monitoring diagnostic logs. For more information, see [Monitor Media Services metrics and diagnostic logs](https://docs.microsoft.com/azure/media-services/latest/media-services-metrics-diagnostic-logs).
+To get details on all failing Key delivery service request, enable the Azure monitoring diagnostic logs. For more information, see [Monitor Media Services metrics and diagnostic logs](/azure/media-services/latest/media-services-metrics-diagnostic-logs).
 
-* [Concept: Content protection overview](https://docs.microsoft.com/azure/media-services/latest/content-protection-overview)<br>
-* [FAQs](https://docs.microsoft.com/azure/media-services/latest/frequently-asked-questions#content-protection)<br>
-* [Tutorial: Use AES-128 dynamic encryption and the key delivery service](https://docs.microsoft.com/azure/media-services/latest/protect-with-aes128)
+* [Concept: Content protection overview](/azure/media-services/latest/content-protection-overview)<br>
+* [FAQs](/azure/media-services/latest/frequently-asked-questions#content-protection)<br>
+* [Tutorial: Use AES-128 dynamic encryption and the key delivery service](/azure/media-services/latest/protect-with-aes128)
 
 **Media Services v2 (legacy)**
 
-* [Use AES-128 dynamic encryption and the key delivery service](https://docs.microsoft.com/azure/media-services/previous/media-services-protect-with-aes128)
+* [Use AES-128 dynamic encryption and the key delivery service](/azure/media-services/previous/media-services-protect-with-aes128)
 
 ## **Recommended Documents**
 
-[Concept: Content protection overview](https://docs.microsoft.com/azure/media-services/latest/content-protection-overview)
+[Concept: Content protection overview](/azure/media-services/latest/content-protection-overview)

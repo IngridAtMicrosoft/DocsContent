@@ -31,13 +31,13 @@ Azure Media Player play-back issues may be cosed DRM issues, improper encoding, 
 
 ### Troubleshooting
 
-1. Compare your error code with the known list of [Azure Media Player error codes](https://docs.microsoft.com/azure/media-services/azure-media-player/azure-media-player-error-codes).
+1. Compare your error code with the known list of [Azure Media Player error codes](/azure/media-services/azure-media-player/azure-media-player-error-codes).
 2. To rule out DRM related issues, remove all content protection (AES) or DRM encryption from the stream.
 3. Test your (non-DRM) content using the [Azure Media Services test player](https://ampdemo.azureedge.net/azuremediaplayer.html).
 4. Test your (non-DRM) on target devices (iOS or Android) to confirm playback.
 5. Confirm the content is encoded correctly, with codecs and bitrates for the target devices in the manufacturer guidance.
-6. Confirm you are using the needed [player heuristics profile](https://docs.microsoft.com/azure/media-services/azure-media-player/demos) for your scenario.
-7. Review the [known issues list](https://docs.microsoft.com/azure/media-services/azure-media-player/azure-media-player-known-issues) for Azure Media Player.
+6. Confirm you are using the needed [player heuristics profile](/azure/media-services/azure-media-player/demos) for your scenario.
+7. Review the [known issues list](/azure/media-services/azure-media-player/azure-media-player-known-issues) for Azure Media Player.
 
 ### Error codes and catching errors
 
@@ -54,17 +54,17 @@ myPlayer.addEventListener('error', function() {
 }
 ```
 
-For player error codes and meanings see [Azure Media Player error codes](https://docs.microsoft.com/azure/media-services/azure-media-player/azure-media-player-error-codes).
+For player error codes and meanings see [Azure Media Player error codes](/azure/media-services/azure-media-player/azure-media-player-error-codes).
 
 ### Improving playback
 
-If there is bad playback, use [adaptive bitrate streaming](https://docs.microsoft.com/azure/media-services/latest/encode-autogen-bitrate-ladder). This automatically selects the best bitrate for network connections.
+If there is bad playback, use [adaptive bitrate streaming](/azure/media-services/latest/encode-autogen-bitrate-ladder). This automatically selects the best bitrate for network connections.
 
 ### Frequently Asked Questions
 
 |Question|Answer
 |---|---
-|What browsers and OS are supported for Media Player?|See the [browser and OS compatibility matrix](https://docs.microsoft.com/azure/media-services/azure-media-player/azure-media-player-playback-technology#compatibility-matrix) for Azure Media Player.
+|What browsers and OS are supported for Media Player?|See the [browser and OS compatibility matrix](/azure/media-services/azure-media-player/azure-media-player-playback-technology#compatibility-matrix) for Azure Media Player.
 |Does my browser support Media Source Extensions?|For streaming playback for work (DASH, HLS) your browser should support Media Source Extension. See the [Can I Use](https://caniuse.com/#feat=mediasource) website.
 |Does my browser support Encrypted Media Extensions?|For DRM content to playback, check the support matrix for EME on the browser and confirm the needed DRM is configured for targeting that browser. See the [Can I Use](https://caniuse.com/#feat=eme) website.
 |Does my browser or target device support HEVC/H.265 video playback?|See the [Can I Use](https://caniuse.com/#feat=hevc) website. For device support of HEVC, engage the device manufacturer to determine the hardware release that includes support.
@@ -92,9 +92,9 @@ Android supports HEVC in Android 5.0+ on certain OEM hardware:
 
 ### Resources
 
-* [Azure Media Player Error Codes](https://docs.microsoft.com/azure/media-services/azure-media-player/azure-media-player-error-codes)
-* [Azure Media Player overview](https://docs.microsoft.com/azure/media-services/azure-media-player/azure-media-player-overview)
-* [Azure Media Player documentation](https://docs.microsoft.com/azure/media-services/azure-media-player/azure-media-player-overview)
+* [Azure Media Player Error Codes](/azure/media-services/azure-media-player/azure-media-player-error-codes)
+* [Azure Media Player overview](/azure/media-services/azure-media-player/azure-media-player-overview)
+* [Azure Media Player documentation](/azure/media-services/azure-media-player/azure-media-player-overview)
 * [Azure Media Player sample streams](https://github.com/Azure-Samples/azure-media-player-samples)
 * [Azure Media Player changelog](https://amp.azure.net/libs/amp/latest/docs/changelog.html)
 

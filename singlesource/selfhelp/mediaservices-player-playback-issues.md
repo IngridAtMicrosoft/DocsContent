@@ -100,7 +100,7 @@ Successful playback on Android devices requires a combination of device capabili
 ## **Recommended Documents**
 
 * [Azure Media Player Error Codes](http://amp.azure.net/libs/amp/latest/docs/index.html#error-codes)
-* [Azure Media Player overview](https://docs.microsoft.com/azure/media-services/latest/use-azure-media-player)<br>
+* [Azure Media Player overview](/azure/media-services/latest/use-azure-media-player)<br>
 * [Azure Media Player documentation](http://amp.azure.net/libs/amp/latest/docs/index.html)<br>
 * [Azure Media Player sample streams](https://amp.azure.net/libs/amp/latest/docs/samples.html)<br>
 * [Azure Media Player changelog](http://amp.azure.net/libs/amp/latest/docs/changelog.html)

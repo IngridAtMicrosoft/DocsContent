@@ -34,7 +34,7 @@ For the Audio Analysis and Video Analysis Jobs that are triggered by Media Servi
 
 ### Recommended resources
 
-* [Scale media processing with CLI](https://docs.microsoft.com/azure/media-services/latest/media-reserved-units-cli-how-to)
+* [Scale media processing with CLI](/azure/media-services/latest/media-reserved-units-cli-how-to)
 
 
 ### Here are some relevant results from the web

@@ -26,11 +26,11 @@ ms.date: 9/19/2022
 ## Resolve issues encrypting with Widevine
 
 **Note**: This topic refers to Media Services v3 API documentation. v3 is the latest Media Services version.
-Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://docs.microsoft.com/rest/api/media/account-filters), [CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](https://docs.microsoft.com/azure/media-services/latest/media-services-apis-overview).
+Currently, you cannot use the Azure portal to manage v3 resources. Use the [REST API](https://docs.microsoft.com/rest/api/media/account-filters), [CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest), or one of the supported [SDKs](/azure/media-services/latest/media-services-apis-overview).
 
-Before implementing DRM encryption, review [Content protection overview](https://docs.microsoft.com/azure/media-services/latest/drm-content-protection-concept). It is recommended you test each part in the [Main components of a content protection system](https://docs.microsoft.com/azure/media-services/latest/drm-content-protection-concept#main-components-of-a-content-protection-system).
+Before implementing DRM encryption, review [Content protection overview](/azure/media-services/latest/drm-content-protection-concept). It is recommended you test each part in the [Main components of a content protection system](/azure/media-services/latest/drm-content-protection-concept#main-components-of-a-content-protection-system).
 
-To get details on failing Key delivery service request, enable the Azure monitoring diagnostic logs. See [Monitor Media Services metrics and diagnostic logs](https://docs.microsoft.com/azure/media-services/latest/monitoring/media-services-diagnostic-logs-howto).
+To get details on failing Key delivery service request, enable the Azure monitoring diagnostic logs. See [Monitor Media Services metrics and diagnostic logs](/azure/media-services/latest/monitoring/media-services-diagnostic-logs-howto).
 
 To specify the Widevine encryption Streaming Policy, use the "Predefined_MultiDrmCencStreaming" policy. The "Predefined_MultiDrmCencStreaming" policy supports envelope and cenc encryption and sets two content keys on the Streaming Locator. For an example of how to configure a Widevine Content Key Policy option, see [Create Content Key Policies](https://github.com/Azure-Samples/media-services-v3-dotnet-tutorials/blob/master/AMSV3Tutorials/EncryptWithDRM/Program.cs#L180)
 
@@ -38,18 +38,18 @@ To specify the Widevine encryption Streaming Policy, use the "Predefined_MultiDr
 
 **Concepts**
 
-* [Design of a multi-DRM content protection system with access control](https://docs.microsoft.com/azure/media-services/previous/media-services-cenc-with-multidrm-access-control)<br>
-* [Streaming Policies](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-policy-concept)<br>
-* [Content Key Policies](https://docs.microsoft.com/azure/media-services/latest/drm-content-key-policy-concept)<br>
-* [Widevine license template](https://docs.microsoft.com/azure/media-services/previous/media-services-widevine-license-template-overview)<br>
+* [Design of a multi-DRM content protection system with access control](/azure/media-services/previous/media-services-cenc-with-multidrm-access-control)<br>
+* [Streaming Policies](/azure/media-services/latest/stream-streaming-policy-concept)<br>
+* [Content Key Policies](/azure/media-services/latest/drm-content-key-policy-concept)<br>
+* [Widevine license template](/azure/media-services/previous/media-services-widevine-license-template-overview)<br>
 
 
 **Tutorials and how-tos**
 
-* [Tutorial: Use AES-128 dynamic encryption and the key delivery service](https://docs.microsoft.com/azure/media-services/latest/drm-protect-with-aes128-tutorial)<br>
-* [Use DRM dynamic encryption and license delivery service](https://docs.microsoft.com/azure/media-services/latest/drm-protect-with-drm-tutorial)<br>
-* [Get a signing key from the existing policy](https://docs.microsoft.com/azure/media-services/latest/drm-get-content-key-policy-how-to?tabs=net)<br>
-* [Offline Widevine streaming for Android](https://docs.microsoft.com/azure/media-services/latest/drm-offline-widevine-for-android?tabs=net)
+* [Tutorial: Use AES-128 dynamic encryption and the key delivery service](/azure/media-services/latest/drm-protect-with-aes128-tutorial)<br>
+* [Use DRM dynamic encryption and license delivery service](/azure/media-services/latest/drm-protect-with-drm-tutorial)<br>
+* [Get a signing key from the existing policy](/azure/media-services/latest/drm-get-content-key-policy-how-to?tabs=net)<br>
+* [Offline Widevine streaming for Android](/azure/media-services/latest/drm-offline-widevine-for-android?tabs=net)
 
 ### Relevant results from the web
 <azureKB>

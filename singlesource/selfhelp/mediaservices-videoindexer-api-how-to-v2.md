@@ -31,7 +31,7 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 
 ### Recommended resources
 
-* [Learn how to use Video Indexers APIs](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-use-apis)
+* [Learn how to use Video Indexers APIs](/azure/media-services/video-indexer/video-indexer-use-apis)
 
 
 

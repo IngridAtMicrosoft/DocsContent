@@ -37,7 +37,7 @@ ms.date: 9/19/2022
 
 * [Player events for Azure Media Player](http://amp.azure.net/libs/amp/latest/docs/index.html#amp.eventname)<br>
 * [Azure Media Player plugins](https://amp.azure.net/libs/amp/latest/docs/PLUGINS.html)<br>
-* [Azure Media Player overview](https://docs.microsoft.com/azure/media-services/latest/use-azure-media-player)<br>
+* [Azure Media Player overview](/azure/media-services/latest/use-azure-media-player)<br>
 * [Azure Media Player documentation](http://amp.azure.net/libs/amp/latest/docs/index.html)<br>
 * [Azure Media Player sample streams](https://amp.azure.net/libs/amp/latest/docs/samples.html)<br>
 

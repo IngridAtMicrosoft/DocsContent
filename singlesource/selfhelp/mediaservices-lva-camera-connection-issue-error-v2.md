@@ -41,7 +41,7 @@ Any [IP camera](https://en.wikipedia.org/wiki/IP_camera) with support for RTSP o
 * Can I reset or update the RTSP source URL on a graph instance?
     * Yes, when the graph instance is in the inactive state.
 * Is there a simulated RTSP camera signal available to use during testing and development?
-    * Yes, there is an [RTSP simulator edge module](https://docs.microsoft.com/azure/media-services/live-video-analytics-edge/get-started-detect-motion-emit-events-quickstart#deploy-modules-on-your-edge-device) available for use in the quick starts and tutorials to support the learning process. This module is provided as best-effort and may not always be available. It is strongly encouraged not to use this for more than a few hours, and you should invest in testing with an IP Camera before making plans for a production deployment.
+    * Yes, there is an [RTSP simulator edge module](/azure/media-services/live-video-analytics-edge/get-started-detect-motion-emit-events-quickstart#deploy-modules-on-your-edge-device) available for use in the quick starts and tutorials to support the learning process. This module is provided as best-effort and may not always be available. It is strongly encouraged not to use this for more than a few hours, and you should invest in testing with an IP Camera before making plans for a production deployment.
 * Do you support ONVIF discovery of IP cameras at the edge?
     * No, there is no support for ONVIF discovery of devices on the edge.
 

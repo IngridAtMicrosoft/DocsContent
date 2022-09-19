@@ -28,13 +28,13 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 
 
 To help you get started with Video Indexer you can learn more here:
-* [Sign up and upload your first video](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-get-started)
+* [Sign up and upload your first video](/azure/media-services/video-indexer/video-indexer-get-started)
 
-* [Subscribe to the API](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-use-apis#subscribe-to-the-api)
+* [Subscribe to the API](/azure/media-services/video-indexer/video-indexer-use-apis#subscribe-to-the-api)
 
 ### Recommended resources
 
-* [Invite users to Video Indexer](https://docs.microsoft.com/azure/media-services/video-indexer/invite-users)
+* [Invite users to Video Indexer](/azure/media-services/video-indexer/invite-users)
 
 
 ### Here are some relevant results from the web

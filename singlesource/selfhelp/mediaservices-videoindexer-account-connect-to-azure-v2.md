@@ -31,7 +31,7 @@ When creating a Video Indexer account, you can choose a free trial account (wher
 
 ### Recommended resources
 
-* [Connect to Azure](https://docs.microsoft.com/azure/media-services/video-indexer/connect-to-azure)
+* [Connect to Azure](/azure/media-services/video-indexer/connect-to-azure)
 
 
 

@@ -44,7 +44,7 @@ Your upstream live encoder must be capable of pre-inserting CEA-708 and 608 capt
 
 * [Subtitle and Captions in Azure Media Player](http://amp.azure.net/libs/amp/latest/docs/index.html#captions-and-subtitles)<br>
 * [CEA-708 and 608 captions settings in Player](http://amp.azure.net/libs/amp/latest/docs/index.html#amp.player.cea708captionssettings)<br>
-* [Azure Media Player overview](https://docs.microsoft.com/azure/media-services/latest/use-azure-media-player)<br>
+* [Azure Media Player overview](/azure/media-services/latest/use-azure-media-player)<br>
 * [Azure Media Player documentation](http://amp.azure.net/libs/amp/latest/docs/index.html)<br>
 * [Azure Media Player sample streams](https://amp.azure.net/libs/amp/latest/docs/samples.html)<br>
 * [Azure Media Player changelog](http://amp.azure.net/libs/amp/latest/docs/changelog.html)

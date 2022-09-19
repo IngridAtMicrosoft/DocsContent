@@ -32,10 +32,10 @@ Video Indexer allows you to customize some of its models to be adapted to your s
 ### Recommended resources
 
 Learn how to use custom models when indexing your videos:
-* [Person model](https://docs.microsoft.com/azure/media-services/video-indexer/customize-person-model-with-website)
-* [Brands model](https://docs.microsoft.com/azure/media-services/video-indexer/customize-brands-model-with-website)
-* [Language model](https://docs.microsoft.com/azure/media-services/video-indexer/customize-language-model-with-website)
-* [Animated character detection (preview)](https://docs.microsoft.com/azure/media-services/video-indexer/animated-characters-recognition)
+* [Person model](/azure/media-services/video-indexer/customize-person-model-with-website)
+* [Brands model](/azure/media-services/video-indexer/customize-brands-model-with-website)
+* [Language model](/azure/media-services/video-indexer/customize-language-model-with-website)
+* [Animated character detection (preview)](/azure/media-services/video-indexer/animated-characters-recognition)
 
 
 ### Here are some relevant results from the web

@@ -32,8 +32,8 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 
 **Media Services v3** (latest)
 
-* [Encoding with Media Services v3](https://docs.microsoft.com/azure/media-services/latest/encoding-concept)<br>
-* [How-to topics](https://docs.microsoft.com/azure/media-services/latest/encoding-concept#next-steps)
+* [Encoding with Media Services v3](/azure/media-services/latest/encoding-concept)<br>
+* [How-to topics](/azure/media-services/latest/encoding-concept#next-steps)
 
 
 

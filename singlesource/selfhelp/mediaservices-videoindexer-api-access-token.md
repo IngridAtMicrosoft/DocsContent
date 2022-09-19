@@ -32,4 +32,4 @@ ms.date: 9/19/2022
 
 ## **Recommended Documents**
 
-[Learn how to obtain access token using the Authorization API](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-use-apis#obtain-access-token-using-the-authorization-api)
+[Learn how to obtain access token using the Authorization API](/azure/media-services/video-indexer/video-indexer-use-apis#obtain-access-token-using-the-authorization-api)

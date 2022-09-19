@@ -30,21 +30,21 @@ Media Services provides extensive guidance for streaming media files. You can st
 
 Review the following documents to get an understanding of encoding and live streaming:
 
-* [Encoding](https://docs.microsoft.com/azure/media-services/latest/encode-concept)<br>
-* [Live streaming](https://docs.microsoft.com/azure/media-services/latest/media-services-overview)<br>
+* [Encoding](/azure/media-services/latest/encode-concept)<br>
+* [Live streaming](/azure/media-services/latest/media-services-overview)<br>
 
 ### Media streaming quickstarts and tutorials
 
-* [Quickstart: Basic VOD application in the Azure portal](https://docs.microsoft.com/azure/media-services/latest/video-on-demand-simple-portal-quickstart)<br>
-* [Quickstart: Live stream with OBS](https://docs.microsoft.com/azure/media-services/latest/live-event-obs-quickstart)<br>
-* [Tutorial: Encode and live stream with .NET](https://docs.microsoft.com/azure/media-services/latest/stream-files-dotnet-quickstart)<br>
-* [Tutorial: Upload, encode and stream with .NET](https://docs.microsoft.com/azure/media-services/latest/stream-files-tutorial-with-api)<br>
+* [Quickstart: Basic VOD application in the Azure portal](/azure/media-services/latest/video-on-demand-simple-portal-quickstart)<br>
+* [Quickstart: Live stream with OBS](/azure/media-services/latest/live-event-obs-quickstart)<br>
+* [Tutorial: Encode and live stream with .NET](/azure/media-services/latest/stream-files-dotnet-quickstart)<br>
+* [Tutorial: Upload, encode and stream with .NET](/azure/media-services/latest/stream-files-tutorial-with-api)<br>
 
 ### Resources
 
 **Media Services v3 (latest)**
 
-* [CODE SAMPLES](https://docs.microsoft.com/azure/media-services/latest/samples-overview)<br>
+* [CODE SAMPLES](/azure/media-services/latest/samples-overview)<br>
 * [Media Services REST API](https://docs.microsoft.com/rest/api/media/)<br>
 * [Media Services CLI](https://docs.microsoft.com/cli/azure/ams?view=azure-cli-latest)<br>
 * [Media Services Node.JS SDK](https://docs.microsoft.com/javascript/api/overview/azure/arm-mediaservices-readme?view=azure-node-latest)<br>

@@ -53,7 +53,7 @@ For more details or to see how to use manual setup mode, see the [Media Player q
 ### Recommended resources
 
 * [Media Player quick start documentation](http://amp.azure.net/libs/amp/latest/docs/index.html#quick-start)<br>
-* [Azure Media Player overview](https://docs.microsoft.com/azure/media-services/latest/use-azure-media-player)<br>
+* [Azure Media Player overview](/azure/media-services/latest/use-azure-media-player)<br>
 * [Azure Media Player documentation](http://amp.azure.net/libs/amp/latest/docs/index.html)<br>
 * [Azure Media Player sample streams](https://amp.azure.net/libs/amp/latest/docs/samples.html)
 

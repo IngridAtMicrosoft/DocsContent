@@ -26,7 +26,7 @@ ms.date: 9/19/2022
 
 ## Implement DRM encryption and use a license delivery service
 
-Before implementing DRM encryption, review [Content protection overview](https://docs.microsoft.com/azure/media-services/latest/drm-content-protection-concept). It is highly recommended to focus and fully test each part described in the [Main components of a content protection system](https://docs.microsoft.com/azure/media-services/latest/drm-content-protection-concept#main-components-of-a-content-protection-system) section before moving onto the next part.
+Before implementing DRM encryption, review [Content protection overview](/azure/media-services/latest/drm-content-protection-concept). It is highly recommended to focus and fully test each part described in the [Main components of a content protection system](/azure/media-services/latest/drm-content-protection-concept#main-components-of-a-content-protection-system) section before moving onto the next part.
 
 ### Resources
 
@@ -34,19 +34,19 @@ Before implementing DRM encryption, review [Content protection overview](https:/
 
 Concepts:
 
-* [Streaming Policies](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-policy-concept)<br>
-* [Content Key Policies](https://docs.microsoft.com/azure/media-services/latest/drm-content-key-policy-concept)<br>
+* [Streaming Policies](/azure/media-services/latest/stream-streaming-policy-concept)<br>
+* [Content Key Policies](/azure/media-services/latest/drm-content-key-policy-concept)<br>
 
 Tutorials and how-tos:
 
-* [Tutorial: Use AES-128 dynamic encryption and the key delivery service](https://docs.microsoft.com/azure/media-services/latest/drm-protect-with-aes128-tutorial)<br>
-* [Use DRM dynamic encryption and license delivery service](https://docs.microsoft.com/azure/media-services/latest/drm-protect-with-drm-tutorial)<br>
-* [Get a signing key from the existing policy](https://docs.microsoft.com/azure/media-services/latest/drm-get-content-key-policy-how-to)<br>
-* [Offline FairPlay Streaming for iOS](https://docs.microsoft.com/azure/media-services/latest/drm-offline-fairplay-for-ios-how-to)
+* [Tutorial: Use AES-128 dynamic encryption and the key delivery service](/azure/media-services/latest/drm-protect-with-aes128-tutorial)<br>
+* [Use DRM dynamic encryption and license delivery service](/azure/media-services/latest/drm-protect-with-drm-tutorial)<br>
+* [Get a signing key from the existing policy](/azure/media-services/latest/drm-get-content-key-policy-how-to)<br>
+* [Offline FairPlay Streaming for iOS](/azure/media-services/latest/drm-offline-fairplay-for-ios-how-to)
 
 **Media Services v2 (legacy)**
 
-* [Use PlayReady and/or Widevine dynamic common encryption](https://docs.microsoft.com/azure/media-services/previous/media-services-protect-with-playready-widevine)
+* [Use PlayReady and/or Widevine dynamic common encryption](/azure/media-services/previous/media-services-protect-with-playready-widevine)
 
 ### Here are some relevant results from the web
 <azureKB>

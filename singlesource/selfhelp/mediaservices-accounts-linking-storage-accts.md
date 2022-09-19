@@ -36,7 +36,7 @@ The Media Services account and all associated storage accounts must be in the sa
 ## **Recommended Steps**
 
 
-* Follow the instructions on how to create a new Media Services account with a new storage account - [Create an Azure Media Services account with storage accounts](https://docs.microsoft.com/azure/media-services/latest/create-account-cli-how-to#create-a-storage-account)
+* Follow the instructions on how to create a new Media Services account with a new storage account - [Create an Azure Media Services account with storage accounts](/azure/media-services/latest/create-account-cli-how-to#create-a-storage-account)
 
 ### Add a storage account to your Media Services account using the CLI
 
@@ -68,7 +68,7 @@ It is possible for keys to be rotated on a storage account and get out of sync w
 
 ## **Recommended Documents**
 
-* [Azure Media Services v3 overview](https://docs.microsoft.com/azure/media-services/latest/media-services-overview)
-* [Cloud upload and storage](https://docs.microsoft.com/azure/media-services/latest/storage-account-concept)
-* [Create an Azure Media Services account with storage accounts](https://docs.microsoft.com/azure/media-services/latest/create-account-cli-how-to#create-a-storage-account)
+* [Azure Media Services v3 overview](/azure/media-services/latest/media-services-overview)
+* [Cloud upload and storage](/azure/media-services/latest/storage-account-concept)
+* [Create an Azure Media Services account with storage accounts](/azure/media-services/latest/create-account-cli-how-to#create-a-storage-account)
 

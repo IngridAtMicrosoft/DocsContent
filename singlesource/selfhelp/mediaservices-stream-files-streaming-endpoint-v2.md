@@ -29,7 +29,7 @@ ms.date: 9/19/2022
 
 A common Media Services scenario is to encode your content and stream files using different streaming formats and content protection formats to a variety of client technologies (for example, iOS and XBOX).
 
-[Streaming Endpoints](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-endpoint-concept) is the dynamic packaging and streaming service in Media Services used to deliver media content to client players or to a Content Delivery Network (CDN) for further distribution. Dynamic Packaging is a feature that comes standard on all streaming endpoints (Standard or Premium).
+[Streaming Endpoints](/azure/media-services/latest/stream-streaming-endpoint-concept) is the dynamic packaging and streaming service in Media Services used to deliver media content to client players or to a Content Delivery Network (CDN) for further distribution. Dynamic Packaging is a feature that comes standard on all streaming endpoints (Standard or Premium).
 
 **Dynamic Packaging**
 
@@ -54,10 +54,10 @@ Based on the specified format in the streaming client manifest (HLS, DASH, or Sm
 
 ### Resources
 
-* [Troubleshooting Guide](https://docs.microsoft.com/azure/media-services/latest/troubleshooting) <br>
-* [Streaming Endpoints](https://docs.microsoft.com/azure/media-services/latest/stream-streaming-endpoint-concept)<br>
-* [Dynamic packaging](https://docs.microsoft.com/azure/media-services/latest/encode-dynamic-packaging-concept)<br>
-* [Tutorial: Upload, encode, and stream videos using .NET](https://docs.microsoft.com/azure/media-services/latest/stream-files-tutorial-with-api)<br>
+* [Troubleshooting Guide](/azure/media-services/latest/troubleshooting) <br>
+* [Streaming Endpoints](/azure/media-services/latest/stream-streaming-endpoint-concept)<br>
+* [Dynamic packaging](/azure/media-services/latest/encode-dynamic-packaging-concept)<br>
+* [Tutorial: Upload, encode, and stream videos using .NET](/azure/media-services/latest/stream-files-tutorial-with-api)<br>
 * [Download the results from the specified output asset](https://github.com/Azure-Samples/media-services-v3-dotnet-tutorials/blob/master/AMSV3Tutorials/UploadEncodeAndStreamFiles/Program.cs#L464)
 
 

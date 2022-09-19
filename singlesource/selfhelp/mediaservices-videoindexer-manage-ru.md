@@ -54,8 +54,8 @@ If you have already reached the default limit of Reserved Units (10 S3 units), c
 
 ## **Recommended Documents**
 
-* [How to create a service request to increase RUs quota](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-quota-errors#solution)
-* [Auto-scale reserved units in Video Indexer](https://docs.microsoft.com/azure/media-services/video-indexer/manage-account-connected-to-azure#auto-scale-reserved-units)
-* [Scaling Media Processing overview](https://docs.microsoft.com/azure/media-services/previous/media-services-scale-media-processing-overview)
-* [Change the reserved unit type](https://docs.microsoft.com/azure/media-services/previous/media-services-portal-scale-media-processing)
-* [Scale media processing with CLI](https://docs.microsoft.com/azure/media-services/latest/media-reserved-units-cli-how-to)
+* [How to create a service request to increase RUs quota](/azure/azure-resource-manager/resource-manager-quota-errors#solution)
+* [Auto-scale reserved units in Video Indexer](/azure/media-services/video-indexer/manage-account-connected-to-azure#auto-scale-reserved-units)
+* [Scaling Media Processing overview](/azure/media-services/previous/media-services-scale-media-processing-overview)
+* [Change the reserved unit type](/azure/media-services/previous/media-services-portal-scale-media-processing)
+* [Scale media processing with CLI](/azure/media-services/latest/media-reserved-units-cli-how-to)

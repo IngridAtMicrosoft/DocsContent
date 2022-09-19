@@ -33,10 +33,10 @@ To start managing content, you need to create a Media Services account and assoc
 
 ### Resources
 
-* [Cloud upload and storage](https://docs.microsoft.com/azure/media-services/latest/storage-account-concept)<br>
-* [Assets](https://docs.microsoft.com/azure/media-services/latest/assets-concept)<br>
-* [Encoding with Media Services v3](https://docs.microsoft.com/azure/media-services/latest/encoding-concept)<br>
-* [Using a cloud DVR](https://docs.microsoft.com/azure/media-services/latest/live-event-cloud-dvr)
+* [Cloud upload and storage](/azure/media-services/latest/storage-account-concept)<br>
+* [Assets](/azure/media-services/latest/assets-concept)<br>
+* [Encoding with Media Services v3](/azure/media-services/latest/encoding-concept)<br>
+* [Using a cloud DVR](/azure/media-services/latest/live-event-cloud-dvr)
 
 ### Here are some relevant results from the web
 <azureKB>

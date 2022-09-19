@@ -30,7 +30,7 @@ Learn to manage a Video Indexer account, including fixing the connection to Azur
 
 ### Learn basic account management
 
-[Learn how to manage a Video Indexer account](https://docs.microsoft.com/azure/media-services/video-indexer/manage-account-connected-to-azure) that's connected to your Azure subscription and an Azure Media Services account. You will learn how to:
+[Learn how to manage a Video Indexer account](/azure/media-services/video-indexer/manage-account-connected-to-azure) that's connected to your Azure subscription and an Azure Media Services account. You will learn how to:
 * Examine your account settings
 * Repair the connection to Azure
 * Autoscale reserved units
@@ -38,22 +38,22 @@ Learn to manage a Video Indexer account, including fixing the connection to Azur
 
 ### Manage multiple tenants
 
-[Learn about the different options for managing multiple tenants with Video Indexer](https://docs.microsoft.com/azure/media-services/video-indexer/manage-multiple-tenants). Choose a method that's most suitable for your scenario, including the following options:
+[Learn about the different options for managing multiple tenants with Video Indexer](/azure/media-services/video-indexer/manage-multiple-tenants). Choose a method that's most suitable for your scenario, including the following options:
 * Video Indexer account per tenant
 * Single Video Indexer account for all tenants
 * Azure subscription per tenant
 
 ### Invite users to Video Indexer
 
-To collaborate with your colleagues, you can [invite them to your Video Indexer account](https://docs.microsoft.com/azure/media-services/video-indexer/invite-users) by adding their email addresses.
+To collaborate with your colleagues, you can [invite them to your Video Indexer account](/azure/media-services/video-indexer/invite-users) by adding their email addresses.
 
 ### Video Indexer failover and disaster recovery
 
-Azure Media Services Video Indexer doesn't provide instant failover of the service if there's a regional datacenter outage or failure. [Learn how to configure your environment for a failover](https://docs.microsoft.com/azure/media-services/video-indexer/video-indexer-disaster-recovery) to ensure optimal availability for apps and minimized recovery time if a disaster occurs. We recommend that you configure business continuity disaster recovery (BCDR) across regional pairs to benefit from Azure's isolation and availability policies.
+Azure Media Services Video Indexer doesn't provide instant failover of the service if there's a regional datacenter outage or failure. [Learn how to configure your environment for a failover](/azure/media-services/video-indexer/video-indexer-disaster-recovery) to ensure optimal availability for apps and minimized recovery time if a disaster occurs. We recommend that you configure business continuity disaster recovery (BCDR) across regional pairs to benefit from Azure's isolation and availability policies.
 
 ### Resources
 
- * [Manage a Video Indexer account connected to Azure](https://docs.microsoft.com/azure/media-services/video-indexer/manage-account-connected-to-azure)
+ * [Manage a Video Indexer account connected to Azure](/azure/media-services/video-indexer/manage-account-connected-to-azure)
 
 ### Here are some relevant results from the web
 

@@ -44,8 +44,8 @@ The following steps describe how to upload a file and then encode or analyze the
 	The container name must be unique and follow storage naming guidelines. The name doesn't have to follow the Media Services Asset container name (Asset-GUID) formatting. `az storage blob upload -f /path/to/file -c MyContainer -n MyBlob`.<br>
 
 2. Get a SAS URL with read-write permissions that will be used to upload digital files into the Asset container. You can use the Media Services API to [list the asset container URLs](https://docs.microsoft.com/rest/api/media/assets/listcontainersas).<br>
-3. Use the Azure Storage APIs or SDKs (for example, the [Storage REST API](https://docs.microsoft.com/azure/storage/common/storage-rest-api-auth), [JAVA SDK](https://docs.microsoft.com/azure/storage/blobs/storage-quickstart-blobs-java-v10), or [.NET SDK](https://docs.microsoft.com/azure/storage/blobs/storage-quickstart-blobs-dotnet?tabs=windows)) to upload files into the Asset container.<br>
-4. Use Media Services v3 APIs to create a Transform and a Job to process your "input" Asset. For more information, see [Transforms and Jobs](https://docs.microsoft.com/azure/media-services/latest/transforms-jobs-concept).
+3. Use the Azure Storage APIs or SDKs (for example, the [Storage REST API](/azure/storage/common/storage-rest-api-auth), [JAVA SDK](/azure/storage/blobs/storage-quickstart-blobs-java-v10), or [.NET SDK](/azure/storage/blobs/storage-quickstart-blobs-dotnet?tabs=windows)) to upload files into the Asset container.<br>
+4. Use Media Services v3 APIs to create a Transform and a Job to process your "input" Asset. For more information, see [Transforms and Jobs](/azure/media-services/latest/transforms-jobs-concept).
 
 **Create a new asset**
 
@@ -77,10 +77,10 @@ cURL:
     Asset asset = await client.Assets.CreateOrUpdateAsync(resourceGroupName, accountName, assetName, new Asset());
 ```
 
-Also, see [.NET example](https://docs.microsoft.com/azure/media-services/latest/job-input-from-local-file-how-to).
+Also, see [.NET example](/azure/media-services/latest/job-input-from-local-file-how-to).
 
 ## **Recommended Documents**
 
-* [Encoding with Media Services v3](https://docs.microsoft.com/azure/media-services/latest/encoding-concept)<br>
-* [Using a cloud DVR](https://docs.microsoft.com/azure/media-services/latest/live-event-cloud-dvr)<br>
-* [Tutorial: Encode a remote file based on URL and stream the video - REST](https://docs.microsoft.com/azure/media-services/latest/stream-files-tutorial-with-rest)
+* [Encoding with Media Services v3](/azure/media-services/latest/encoding-concept)<br>
+* [Using a cloud DVR](/azure/media-services/latest/live-event-cloud-dvr)<br>
+* [Tutorial: Encode a remote file based on URL and stream the video - REST](/azure/media-services/latest/stream-files-tutorial-with-rest)

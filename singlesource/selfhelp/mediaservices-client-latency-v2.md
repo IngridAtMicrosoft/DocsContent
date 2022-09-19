@@ -33,12 +33,12 @@ Use the following guidance to resolve client latency issues.
 
 * Make sure you're using Azure Media Services in an Azure region that is geographically closest to the majority of your customers.
 * Enable [Azure Content Delivery Network (CDN)](https://azure.microsoft.com/pricing/details/cdn/) for your streaming endpoint if many clients will be simultaneously accessing content. Azure CDN can be enabled directly using either media services APIs or the Azure portal.
-* For livestreaming, use a [recommended on-premises encoder](https://docs.microsoft.com/azure/media-services/previous/media-services-recommended-encoders).
+* For livestreaming, use a [recommended on-premises encoder](/azure/media-services/previous/media-services-recommended-encoders).
 * Preload the media player on your webpage.
 
 ### Resources
-* [Live streaming best practices guide](https://docs.microsoft.com/azure/media-services/latest/live-event-streaming-best-practices-guide)
-* [Live event low latency settings](https://docs.microsoft.com/azure/media-services/latest/live-event-latency-reference)
+* [Live streaming best practices guide](/azure/media-services/latest/live-event-streaming-best-practices-guide)
+* [Live event low latency settings](/azure/media-services/latest/live-event-latency-reference)
 
 ### Rome relevant results from the web
 
