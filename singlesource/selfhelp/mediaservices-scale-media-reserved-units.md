@@ -1,5 +1,5 @@
 ---
-title: Need to scale Media Reserved Units
+title: Need to scale Media Reserved Units v3
 author: IngridAtMicrosoft
 ms.author: inhenkel
 ms.service: media-services
@@ -25,7 +25,7 @@ ms.date: 9/19/2022
 	ownershipId="StorageMediaEdge_Media"
 />-->
 
-# Need to scale Media Reserved Units
+# Need to scale Media Reserved Units v3
 
 Azure Media Services enables you to scale media processing in your account by managing Media Reserved Units (MRUs).
 

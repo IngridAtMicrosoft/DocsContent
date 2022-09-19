@@ -27,7 +27,7 @@ ms.date: 9/19/2022
     ownershipId="StorageMediaEdge_Media_VI"
 />-->
 
-# Need to scale Media Reserved Units
+# Video Indexer Need to scale Media Reserved Units
 
 Videos may take a long time to index if they are waiting in the Reserved Units queue.
 
