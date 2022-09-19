@@ -56,7 +56,7 @@ Media Services v3 (latest)
 * [Dynamic Packaging](/azure/media-services/latest/encode-dynamic-packaging-concept)<br>
 * [Migrate to V3](/azure/media-services/latest/migrate-v-2-v-3-migration-introduction)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
-    <client>portal</client>
-</azureKB>
+    <client>Portal</client>
+</azureKB>-->

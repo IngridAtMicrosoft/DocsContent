@@ -61,7 +61,7 @@ Based on the specified format in the streaming client manifest (HLS, DASH, or Sm
 * [Download the results from the specified output asset](https://github.com/Azure-Samples/media-services-v3-dotnet-tutorials/blob/master/AMSV3Tutorials/UploadEncodeAndStreamFiles/Program.cs#L464)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

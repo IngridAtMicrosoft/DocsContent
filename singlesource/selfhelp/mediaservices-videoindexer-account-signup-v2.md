@@ -37,7 +37,7 @@ To help you get started with Video Indexer you can learn more here:
 * [Invite users to Video Indexer](/azure/media-services/video-indexer/invite-users)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

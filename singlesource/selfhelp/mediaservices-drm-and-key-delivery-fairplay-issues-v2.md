@@ -58,7 +58,7 @@ Tutorials and how-tos:
 * [Apple FairPlay license requirements and configuration](/azure/media-services/latest/fairplay-license-overview) (v3)<br>
 * [Protect your HLS content with Apple FairPlay or Microsoft PlayReady](/azure/media-services/previous/media-services-protect-hls-with-fairplay) (v2)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

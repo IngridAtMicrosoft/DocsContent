@@ -38,7 +38,7 @@ In Media Services v3, when you submit Jobs to process your videos, you have to t
 * [Create a job input from an HTTPS URL with .NET](/azure/media-services/latest/job-input-from-http-how-to)<br>
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

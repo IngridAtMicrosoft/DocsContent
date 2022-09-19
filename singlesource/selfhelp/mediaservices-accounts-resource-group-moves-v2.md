@@ -30,7 +30,7 @@ Azure Media Services resource group moves can be requested through support ticke
 
 * [Azure Media Services v3 overview](/azure/media-services/latest/media-services-overview)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
-    <client>portal</client>
-</azureKB>
+    <client>Portal</client>
+</azureKB>-->

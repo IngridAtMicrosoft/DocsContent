@@ -47,7 +47,7 @@ The [Azure Media Player](/azure/media-services/azure-media-player/azure-media-pl
 * [Azure Media Player documentation](http://amp.azure.net/libs/amp/latest/docs/index.html)<br>
 * [Azure Media Player sample streams](https://amp.azure.net/libs/amp/latest/docs/samples.html)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
-    <client>portal</client>
-</azureKB>
+    <client>Portal</client>
+</azureKB>-->

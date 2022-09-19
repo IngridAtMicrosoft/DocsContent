@@ -46,7 +46,7 @@ In Media Services v2, Channels are responsible for processing live streaming con
 * [Using a cloud DVR](/azure/media-services/latest/live-event-cloud-dvr)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

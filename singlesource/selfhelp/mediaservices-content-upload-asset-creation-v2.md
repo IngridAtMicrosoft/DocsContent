@@ -88,7 +88,7 @@ Also, see [.NET example](/azure/media-services/latest/job-input-from-local-file-
 * [Using a cloud DVR](/azure/media-services/latest/live-event-cloud-dvr)<br>
 * [Tutorial: Encode a remote file based on URL and stream the video - REST](/azure/media-services/latest/stream-files-tutorial-with-rest)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
-    <client>portal</client>
-</azureKB>
+    <client>Portal</client>
+</azureKB>-->

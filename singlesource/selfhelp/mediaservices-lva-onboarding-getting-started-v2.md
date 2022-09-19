@@ -47,7 +47,7 @@ The following articles provide details on the core concepts for Live Video Analy
 
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

@@ -35,7 +35,7 @@ When creating a Video Indexer account, you can choose a free trial account (wher
 
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

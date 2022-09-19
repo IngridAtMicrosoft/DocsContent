@@ -35,7 +35,7 @@ There is a default (soft) limit of 1,000,000 Assets per Azure Media Services acc
 * [Media Services v2 (legacy) quotas and limitations](/azure/media-services/previous/media-services-quotas-and-limitations)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

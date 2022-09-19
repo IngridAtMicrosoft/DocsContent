@@ -42,7 +42,7 @@ Media Services v3 does not yet support **Premium Encoder**.
 * [Advanced Media Encoder Premium Workflow tutorials](/azure/media-services/previous/media-services-media-encoder-premium-workflow-tutorials)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

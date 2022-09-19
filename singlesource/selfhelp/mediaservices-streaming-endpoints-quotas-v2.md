@@ -38,7 +38,7 @@ There is a limit of 2 Streaming Endpoints per Media Services account. This quota
 * [Media Services v2 (legacy) quotas and limitations](/azure/media-services/previous/media-services-quotas-and-limitations)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

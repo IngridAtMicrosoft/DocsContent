@@ -48,7 +48,7 @@ Media Services v2 (legacy)
 
 * [Live streaming with v2](/azure/media-services/previous/media-services-manage-live-encoder-enabled-channels)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
-    <client>portal</client>
-</azureKB>
+    <client>Portal</client>
+</azureKB>-->

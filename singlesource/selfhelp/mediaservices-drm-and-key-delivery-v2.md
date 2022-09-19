@@ -59,7 +59,7 @@ Offline download/playback of files encrypted with AES-128 is not supported by Me
 * [Get a signing key from the existing policy](/azure/media-services/latest/get-content-key-policy-dotnet-howto)<br>
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

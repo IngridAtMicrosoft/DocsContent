@@ -34,7 +34,7 @@ Video Indexer supports embedding three types of widgets into your apps: _Cogniti
 * [Learn how to embed Video Indexer widgets in your apps](/azure/media-services/video-indexer/video-indexer-embed-widgets)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

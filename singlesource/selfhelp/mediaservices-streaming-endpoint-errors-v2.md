@@ -42,7 +42,7 @@ For help resolving common errors, refer to the following links:
 * [Media Services Live Event Error Codes](/azure/media-services/latest/live-event-error-codes-reference)<br>
 * [Streaming Endpoint (Origin) errors](/azure/media-services/latest/streaming-endpoint-error-codes)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

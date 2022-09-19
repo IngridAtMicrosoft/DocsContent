@@ -39,7 +39,7 @@ To start managing content, you need to create a Media Services account and assoc
 * [API Access](/azure/media-services/latest/access-api-howto?tabs=portal)<br>
 * [Blob Storage Tiers](/azure/storage/blobs/storage-blob-storage-tiers)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
-    <client>portal</client>
-</azureKB>
+    <client>Portal</client>
+</azureKB>-->

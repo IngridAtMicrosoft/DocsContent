@@ -33,7 +33,7 @@ Follow the [Quickstart: Analyze live video with your own model](/azure/media-ser
 
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

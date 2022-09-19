@@ -42,7 +42,7 @@ Price per input minute:
 * [Video Indexers pricing](https://azure.microsoft.com/pricing/details/media-services/)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

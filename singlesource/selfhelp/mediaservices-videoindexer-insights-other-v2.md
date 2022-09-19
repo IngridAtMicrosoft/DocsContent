@@ -34,7 +34,7 @@ When you call the *Get Video Index API* and the response status is OK, you get a
 * [Learn how to examine Video Indexer output](/azure/media-services/video-indexer/video-indexer-output-json-v2)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

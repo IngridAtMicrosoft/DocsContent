@@ -54,7 +54,7 @@ Learn how to upload and index your videos with these options:
 * [The Video Indexer website](/azure/media-services/video-indexer/upload-index-videos#website)
 * [The Video Indexer APIs](/azure/media-services/video-indexer/upload-index-videos#apis)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

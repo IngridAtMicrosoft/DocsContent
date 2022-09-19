@@ -65,7 +65,7 @@ az ams account storage sync-storage-keys -h
 * [Cloud upload and storage](/azure/media-services/latest/storage-account-concept)
 * [Create an Azure Media Services account with storage accounts](/azure/media-services/latest/create-account-cli-how-to#create-a-storage-account)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
-    <client>portal</client>
-</azureKB>
+    <client>Portal</client>
+</azureKB>-->

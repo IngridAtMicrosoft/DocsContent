@@ -60,7 +60,7 @@ For more details or to see how to use manual setup mode, see the [Media Player q
 
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

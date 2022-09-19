@@ -33,7 +33,7 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 
 [Learn how to obtain access token using the Authorization API](/azure/media-services/video-indexer/video-indexer-use-apis#obtain-access-token-using-the-authorization-api)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

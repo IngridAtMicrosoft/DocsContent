@@ -38,7 +38,7 @@ In Media Services v2 (legacy), there is a default limit of 1,000,000 policies fo
 * [Azure Media Services v3 quotas and limitations](/azure/media-services/latest/limits-quotas-constraints-reference) <br>
 * [Media Services v2 (legacy) quotas and limitations](/azure/media-services/previous/media-services-quotas-and-limitations)
 
- ### Here are some relevant results from the web
+ <!--### Here are some relevant results from the web
 <azureKB>
-    <client>portal</client>
-</azureKB>
+    <client>Portal</client>
+</azureKB>-->

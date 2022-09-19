@@ -46,7 +46,7 @@ Any [IP camera](https://en.wikipedia.org/wiki/IP_camera) with support for RTSP o
     * No, there is no support for ONVIF discovery of devices on the edge.
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

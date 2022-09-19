@@ -62,7 +62,7 @@ To specify the PlayReady encryption Streaming Policy, use the "Predefined_MultiD
 
 * [Content protection overview](/azure/media-services/latest/content-protection-overview).
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

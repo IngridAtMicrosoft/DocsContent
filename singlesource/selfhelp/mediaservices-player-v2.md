@@ -43,7 +43,7 @@ Expert solutions are written by Azure engineers to help you quickly resolve the 
 
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

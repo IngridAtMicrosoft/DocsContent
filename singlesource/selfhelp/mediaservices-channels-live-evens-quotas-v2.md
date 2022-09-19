@@ -37,7 +37,7 @@ There is a default (soft) limit of 5 live Channels (v2) and Live Events (v3) per
 * [Media Services v2 (legacy) quotas and limitations](/azure/media-services/previous/media-services-quotas-and-limitations)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

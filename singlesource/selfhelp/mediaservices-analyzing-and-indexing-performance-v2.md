@@ -35,7 +35,7 @@ When using a Video or Audio Analyzer presets, use the Azure portal or the CLI to
 * [Scale media analytics and indexing](/azure/media-services/previous/)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

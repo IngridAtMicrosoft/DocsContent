@@ -40,7 +40,7 @@ Learn more about audio and transcription insights in Video Indexer:
 * [Automatically identify and transcribe multi-language content](/azure/media-services/video-indexer/multi-language-identification-transcription)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

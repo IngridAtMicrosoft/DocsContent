@@ -38,7 +38,7 @@ Learn how to use custom models when indexing your videos:
 * [Animated character detection (preview)](/azure/media-services/video-indexer/animated-characters-recognition)
 
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
     <client>Portal</client>
-</azureKB>
+</azureKB>-->

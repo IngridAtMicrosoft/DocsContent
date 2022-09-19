@@ -38,7 +38,7 @@ To start managing content, you need to create a Media Services account and assoc
 * [Encoding with Media Services v3](/azure/media-services/latest/encoding-concept)<br>
 * [Using a cloud DVR](/azure/media-services/latest/live-event-cloud-dvr)
 
-### Here are some relevant results from the web
+<!--### Here are some relevant results from the web
 <azureKB>
-    <client>portal</client>
-</azureKB>
+    <client>Portal</client>
+</azureKB>-->
