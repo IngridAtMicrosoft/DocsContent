@@ -1,5 +1,5 @@
 ---
-title: # Need to scale Media Reserved Units
+title: Need to scale Media Reserved Units
 
 author: IngridAtMicrosoft
 ms.author: inhenkel

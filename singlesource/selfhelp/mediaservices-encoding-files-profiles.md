@@ -1,5 +1,5 @@
 ---
-title: Media Services: Media Services Profiles or custom profiles
+title: Media Services Media Services Profiles or custom profiles
 author: IngridAtMicrosoft
 ms.author: inhenkel
 ms.service: media-services

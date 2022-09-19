@@ -1,5 +1,5 @@
 ---
-title: Azure Media Services linking and managing storage accounts
+title: Azure Media Services linking and managing storage accounts v2
 author: IngridAtMicrosoft
 ms.author: inhenkel
 ms.service: media-services
