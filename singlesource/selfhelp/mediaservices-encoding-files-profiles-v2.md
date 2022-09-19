@@ -28,7 +28,7 @@ ms.date: 9/19/2022
 
 Azure Media Services (AMS) is a cloud-based platform that enables you to build solutions that achieve broadcast-quality video streaming, enhance accessibility and distribution, analyze content, and much more. Whether you're an app developer, a call center, a government agency, or an entertainment company, Media Services helps you create apps that deliver media experiences of outstanding quality to large audiences on today's most popular mobile devices and browsers.
 
-The [BuiltInStandardEncoderPreset](https://docs.microsoft.com/en-us/rest/api/media/transforms/create-or-update?tabs=HTTP#builtinstandardencoderpreset) is used to set a built-in preset for encoding the input video with the Standard Encoder.
+The [BuiltInStandardEncoderPreset](/rest/api/media/transforms/create-or-update?tabs=HTTP#builtinstandardencoderpreset) is used to set a built-in preset for encoding the input video with the Standard Encoder.
 
 If you're experiencing issues with the Standard Encoder, use our guidance to help you resolve your issues.
 

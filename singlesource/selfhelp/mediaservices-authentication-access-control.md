@@ -38,10 +38,11 @@ The Media Services API requires that the user or app making the REST API request
 Instead of creating a service principal, consider using managed identities for Azure resources to access the Media Services API through Azure Resource Manager. To learn more about managed identities for Azure resources, see [What is managed identities for Azure resources](/azure/active-directory/managed-identities-azure-resources/overview).
 
 ## **Recommended Documents**
+
 **Media Services v3 (latest)**
+
 * [Develop with Media Services v3 APIs](/azure/media-services/latest/media-services-apis-overview)
 
 **Media Services v2 (legacy)**
+
 * [Access the Azure Media Services API with Azure AD authentication](/azure/media-services/previous/media-services-use-aad-auth-to-access-ams-api)
-
-

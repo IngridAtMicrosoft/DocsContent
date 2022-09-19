@@ -39,7 +39,9 @@ Create Azure Media Services accounts in the portal, using the Azure CLI (cloud s
 * [Create a new Media Services account](/azure/media-services/latest/account-create-how-to?tabs=portal)
 * [Use Azure CLI to create an Azure AD app and configure it to access Media Services API](/azure/media-services/previous/media-services-cli-create-and-configure-aad-app)
 
+<!--
 ### Relevant results from the web
 <azureKB>
     <client>portal</client>
 </azureKB>
+-->

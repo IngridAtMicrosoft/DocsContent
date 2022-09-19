@@ -1,5 +1,5 @@
 ---
-title: Need to scale Media Reserved Units v2
+title: Video Indexer Need to scale Media Reserved Units v2
 author: IngridAtMicrosoft
 ms.author: inhenkel
 ms.service: media-services
@@ -20,7 +20,7 @@ ms.date: 9/19/2022
     resourcerequired="false"
 />-->
 
-# Need to scale Media Reserved Units v2
+# Video Indexer Need to scale Media Reserved Units v2
 
 ## Fix this problem now using our expert solution
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.

@@ -40,8 +40,10 @@ Use the following guidance to resolve client latency issues.
 * [Live streaming best practices guide](/azure/media-services/latest/live-event-streaming-best-practices-guide)
 * [Live event low latency settings](/azure/media-services/latest/live-event-latency-reference)
 
+<!--
 ### Rome relevant results from the web
 
 <azureKB>
 	<client>portal</client>
 </azureKB>
+-->

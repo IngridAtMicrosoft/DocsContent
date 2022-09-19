@@ -28,7 +28,6 @@ ms.date: 08/5/2022
 Expert solutions are written by Azure engineers to help you quickly resolve the problem on your own.
 <br><br><br>
 
-
 ### Recommended resources
 
 **Media Services v3** (latest)

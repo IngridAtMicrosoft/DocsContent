@@ -51,7 +51,9 @@ To specify the Widevine encryption Streaming Policy, use the "Predefined_MultiDr
 * [Get a signing key from the existing policy](/azure/media-services/latest/drm-get-content-key-policy-how-to?tabs=net)<br>
 * [Offline Widevine streaming for Android](/azure/media-services/latest/drm-offline-widevine-for-android?tabs=net)
 
+<!--
 ### Relevant results from the web
 <azureKB>
     <client>portal</client>
 </azureKB>
+-->
