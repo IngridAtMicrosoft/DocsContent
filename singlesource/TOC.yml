@@ -22,244 +22,244 @@
       href: ./learn/ams/intro/index.yml
 - name: AMS SelfHelp
   items:
-  - name:    mediaservices-billingrelatedquestions.md
-    href: mediaservices-billingrelatedquestions.md
-  - name:    mediaservices-billingrelatedquestions-mooncake.md
-    href: mediaservices-billingrelatedquestions-mooncake.md
-  - name:    mediaservices-channels-live-evens-quotas.md
-    href: mediaservices-channels-live-evens-quotas.md
-  - name:    mediaservices-channels-live-evens-quotas-v2.md
-    href: mediaservices-channels-live-evens-quotas-v2.md
-  - name:    mediaservices-client-latency.md
-    href: mediaservices-client-latency.md
-  - name:    mediaservices-client-latency-v2.md
-    href: mediaservices-client-latency-v2.md
-  - name:    mediaservices-content-management-how-to.md
-    href: mediaservices-content-management-how-to.md
-  - name:    mediaservices-content-management-how-to-v2.md
-    href: mediaservices-content-management-how-to-v2.md
-  - name:    mediaservices-content-protection.md
-    href: mediaservices-content-protection.md
-  - name:    mediaservices-content-protection-mooncake.md
-    href: mediaservices-content-protection-mooncake.md
-  - name:    mediaservices-content-upload-asset-creation.md
-    href: mediaservices-content-upload-asset-creation.md
-  - name:    mediaservices-content-upload-asset-creation-v2.md
-    href: mediaservices-content-upload-asset-creation-v2.md
-  - name:    mediaservices-content-upload-ingest-from-http.md
-    href: mediaservices-content-upload-ingest-from-http.md
-  - name:    mediaservices-content-upload-ingest-from-http-v2.md
-    href: mediaservices-content-upload-ingest-from-http-v2.md
-  - name:    mediaservices-content-upload-to-storage.md
-    href: mediaservices-content-upload-to-storage.md
-  - name:    mediaservices-content-upload-to-storage-v2.md
-    href: mediaservices-content-upload-to-storage-v2.md
-  - name:    mediaservices-content-upload-v2.md
-    href: mediaservices-content-upload-v2.md
-  - name:    mediaservices-drm-and-key-delivery-aes-issues.md
-    href: mediaservices-drm-and-key-delivery-aes-issues.md
-  - name:    mediaservices-drm-and-key-delivery-aes-issues-v2.md
-    href: mediaservices-drm-and-key-delivery-aes-issues-v2.md
-  - name:    mediaservices-drm-and-key-delivery-fairplay-issues.md
-    href: mediaservices-drm-and-key-delivery-fairplay-issues.md
-  - name:    mediaservices-drm-and-key-delivery-fairplay-issues-v2.md
-    href: mediaservices-drm-and-key-delivery-fairplay-issues-v2.md
-  - name:    mediaservices-drm-and-key-delivery-howto.md
-    href: mediaservices-drm-and-key-delivery-howto.md
-  - name:    mediaservices-drm-and-key-delivery-howto-v2.md
-    href: mediaservices-drm-and-key-delivery-howto-v2.md
-  - name:    mediaservices-drm-and-key-delivery-playready-issues.md
-    href: mediaservices-drm-and-key-delivery-playready-issues.md
-  - name:    mediaservices-drm-and-key-delivery-playready-issues-v2.md
-    href: mediaservices-drm-and-key-delivery-playready-issues-v2.md
-  - name:    mediaservices-drm-and-key-delivery-v2.md
-    href: mediaservices-drm-and-key-delivery-v2.md
-  - name:    mediaservices-drm-and-key-delivery-widevine-issues.md
-    href: mediaservices-drm-and-key-delivery-widevine-issues.md
-  - name:    mediaservices-drm-and-key-delivery-widevine-issues-v2.md
-    href: mediaservices-drm-and-key-delivery-widevine-issues-v2.md
-  - name:    mediaservices-encoding-files-errors.md
-    href: mediaservices-encoding-files-errors.md
-  - name:    mediaservices-encoding-files-errors-v2.md
-    href: mediaservices-encoding-files-errors-v2.md
-  - name:    mediaservices-encoding-files-premium-encoder.md
-    href: mediaservices-encoding-files-premium-encoder.md
-  - name:    mediaservices-encoding-files-premium-encoder-v2.md
-    href: mediaservices-encoding-files-premium-encoder-v2.md
-  - name:    mediaservices-encoding-files-profiles.md
-    href: mediaservices-encoding-files-profiles.md
-  - name:    mediaservices-encoding-files-profiles-v2.md
-    href: mediaservices-encoding-files-profiles-v2.md
-  - name:    mediaservices-encoding-files-v2.md
-    href: mediaservices-encoding-files-v2.md
-  - name:    mediaservices-encoding-formats.md
-    href: mediaservices-encoding-formats.md
-  - name:    mediaservices-insights-streamingendpoint-performance.md
-    href: mediaservices-insights-streamingendpoint-performance.md
-  - name:    mediaservices-live-streaming-archiving.md
-    href: mediaservices-live-streaming-archiving.md
-  - name:    mediaservices-live-streaming-archiving-v2.md
-    href: mediaservices-live-streaming-archiving-v2.md
-  - name:    mediaservices-live-streaming-configure-channels-live-events.md
-    href: mediaservices-live-streaming-configure-channels-live-events.md
-  - name:    mediaservices-live-streaming-configure-channels-live-events-v2.md
-    href: mediaservices-live-streaming-configure-channels-live-events-v2.md
-  - name:    mediaservices-live-streaming-live-cloud-encoder.md
-    href: mediaservices-live-streaming-live-cloud-encoder.md
-  - name:    mediaservices-live-streaming-live-cloud-encoder-v2.md
-    href: mediaservices-live-streaming-live-cloud-encoder-v2.md
-  - name:    mediaservices-live-streaming-mooncake.md
-    href: mediaservices-live-streaming-mooncake.md
-  - name:    mediaservices-live-streaming-rtmp-errors.md
-    href: mediaservices-live-streaming-rtmp-errors.md
-  - name:    mediaservices-live-streaming-rtmp-errors-v2.md
-    href: mediaservices-live-streaming-rtmp-errors-v2.md
-  - name:    mediaservices-lva-camera-connection-issue-error-v2.md
-    href: mediaservices-lva-camera-connection-issue-error-v2.md
-  - name:    mediaservices-lva-configuration-management-v2.md
-    href: mediaservices-lva-configuration-management-v2.md
-  - name:    mediaservices-lva-extract-information-using-machine-learning-v2.md
-    href: mediaservices-lva-extract-information-using-machine-learning-v2.md
-  - name:    mediaservices-lva-onboarding-getting-started-v2.md
-    href: mediaservices-lva-onboarding-getting-started-v2.md
-  - name:    mediaservices-player-analytics.md
-    href: mediaservices-player-analytics.md
-  - name:    mediaservices-player-analytics-v2.md
-    href: mediaservices-player-analytics-v2.md
-  - name:    mediaservices-player-browser-closed-captions.md
-    href: mediaservices-player-browser-closed-captions.md
-  - name:    mediaservices-player-browser-closed-captions-v2.md
-    href: mediaservices-player-browser-closed-captions-v2.md
-  - name:    mediaservices-player-browser-compatibility.md
-    href: mediaservices-player-browser-compatibility.md
-  - name:    mediaservices-player-browser-compatibility-v2.md
-    href: mediaservices-player-browser-compatibility-v2.md
-  - name:    mediaservices-player-browser-howto-embed-player.md
-    href: mediaservices-player-browser-howto-embed-player.md
-  - name:    mediaservices-player-browser-howto-embed-player-v2.md
-    href: mediaservices-player-browser-howto-embed-player-v2.md
-  - name:    mediaservices-player-playback-issues.md
-    href: mediaservices-player-playback-issues.md
-  - name:    mediaservices-player-playback-issues-v2.md
-    href: mediaservices-player-playback-issues-v2.md
-  - name:    mediaservices-player-v2.md
-    href: mediaservices-player-v2.md
-  - name:    mediaservices-policies-quotas.md
-    href: mediaservices-policies-quotas.md
-  - name:    mediaservices-policies-quotas-v2.md
-    href: mediaservices-policies-quotas-v2.md
-  - name:    mediaservices-scale-media-reserved-units.md
-    href: mediaservices-scale-media-reserved-units.md
-  - name:    mediaservices-scale-media-reserved-units-v2.md
-    href: mediaservices-scale-media-reserved-units-v2.md
-  - name:    mediaservices-stream-files-howto.md
-    href: mediaservices-stream-files-howto.md
-  - name:    mediaservices-stream-files-howto-v2.md
-    href: mediaservices-stream-files-howto-v2.md
-  - name:    mediaservices-stream-files-performance.md
-    href: mediaservices-stream-files-performance.md
-  - name:    mediaservices-stream-files-performance-v2.md
-    href: mediaservices-stream-files-performance-v2.md
-  - name:    mediaservices-stream-files-streaming-endpoint.md
-    href: mediaservices-stream-files-streaming-endpoint.md
-  - name:    mediaservices-stream-files-streaming-endpoint-v2.md
-    href: mediaservices-stream-files-streaming-endpoint-v2.md
-  - name:    mediaservices-streaming-endpoint-errors.md
-    href: mediaservices-streaming-endpoint-errors.md
-  - name:    mediaservices-streaming-endpoint-errors-v2.md
-    href: mediaservices-streaming-endpoint-errors-v2.md
-  - name:    mediaservices-streaming-endpoints-quotas.md
-    href: mediaservices-streaming-endpoints-quotas.md
-  - name:    mediaservices-streaming-endpoints-quotas-v2.md
-    href: mediaservices-streaming-endpoints-quotas-v2.md
-  - name:    mediaservices-videoindexer-account-connect-to-azure.md
-    href: mediaservices-videoindexer-account-connect-to-azure.md
-  - name:    mediaservices-videoindexer-account-connect-to-azure-v2.md
-    href: mediaservices-videoindexer-account-connect-to-azure-v2.md
-  - name:    mediaservices-videoindexer-account-other.md
-    href: mediaservices-videoindexer-account-other.md
-  - name:    mediaservices-videoindexer-account-other-v2.md
-    href: mediaservices-videoindexer-account-other-v2.md
-  - name:    mediaservices-videoindexer-account-pricing.md
-    href: mediaservices-videoindexer-account-pricing.md
-  - name:    mediaservices-videoindexer-account-pricing-v2.md
-    href: mediaservices-videoindexer-account-pricing-v2.md
-  - name:    mediaservices-videoindexer-account-signup.md
-    href: mediaservices-videoindexer-account-signup.md
-  - name:    mediaservices-videoindexer-account-signup-v2.md
-    href: mediaservices-videoindexer-account-signup-v2.md
-  - name:    mediaservices-videoindexer-api-access-token.md
-    href: mediaservices-videoindexer-api-access-token.md
-  - name:    mediaservices-videoindexer-api-access-token-v2.md
-    href: mediaservices-videoindexer-api-access-token-v2.md
-  - name:    mediaservices-videoindexer-api-how-to.md
-    href: mediaservices-videoindexer-api-how-to.md
-  - name:    mediaservices-videoindexer-api-how-to-v2.md
-    href: mediaservices-videoindexer-api-how-to-v2.md
-  - name:    mediaservices-videoindexer-api-widgets.md
-    href: mediaservices-videoindexer-api-widgets.md
-  - name:    mediaservices-videoindexer-api-widgets-v2.md
-    href: mediaservices-videoindexer-api-widgets-v2.md
-  - name:    mediaservices-videoindexer-insights-audio.md
-    href: mediaservices-videoindexer-insights-audio.md
-  - name:    mediaservices-videoindexer-insights-audio-v2.md
-    href: mediaservices-videoindexer-insights-audio-v2.md
-  - name:    mediaservices-videoindexer-insights-custom-models.md
-    href: mediaservices-videoindexer-insights-custom-models.md
-  - name:    mediaservices-videoindexer-insights-custom-models-v2.md
-    href: mediaservices-videoindexer-insights-custom-models-v2.md
-  - name:    mediaservices-videoindexer-insights-other.md
-    href: mediaservices-videoindexer-insights-other.md
-  - name:    mediaservices-videoindexer-insights-other-v2.md
-    href: mediaservices-videoindexer-insights-other-v2.md
-  - name:    mediaservices-videoindexer-manage-ru.md
-    href: mediaservices-videoindexer-manage-ru.md
-  - name:    mediaservices-videoindexer-manage-ru-v2.md
-    href: mediaservices-videoindexer-manage-ru-v2.md
-  - name:    mediaservices-videoindexer-videos-index.md
-    href: mediaservices-videoindexer-videos-index.md
-  - name:    mediaservices-videoindexer-videos-index-v2.md
-    href: mediaservices-videoindexer-videos-index-v2.md
-  - name:    mediaservices-accounts-create-or-delete.md
-    href: mediaservices-accounts-create-or-delete.md
-  - name:    mediaservices-accounts-create-or-delete-v2.md
-    href: mediaservices-accounts-create-or-delete-v2.md
-  - name:    mediaservices-accounts-error-message.md
-    href: mediaservices-accounts-error-message.md
-  - name:    mediaservices-accounts-error-message-v2.md
-    href: mediaservices-accounts-error-message-v2.md
-  - name:    mediaservices-accounts-generic.md
-    href: mediaservices-accounts-generic.md
-  - name:    mediaservices-accounts-generic-v2.md
-    href: mediaservices-accounts-generic-v2.md
-  - name:    mediaservices-accounts-linking-storage-accts.md
-    href: mediaservices-accounts-linking-storage-accts.md
-  - name:    mediaservices-accounts-linking-storage-accts-v2.md
-    href: mediaservices-accounts-linking-storage-accts-v2.md
-  - name:    mediaservices-accounts-resource-group-moves.md
-    href: mediaservices-accounts-resource-group-moves.md
-  - name:    mediaservices-accounts-resource-group-moves-v2.md
-    href: mediaservices-accounts-resource-group-moves-v2.md
-  - name:    mediaservices-analytics.md
-    href: mediaservices-analytics.md
-  - name:    mediaservices-analytics-mooncake.md
-    href: mediaservices-analytics-mooncake.md
-  - name:    mediaservices-analyzing-and-indexing-how-to.md
-    href: mediaservices-analyzing-and-indexing-how-to.md
-  - name:    mediaservices-analyzing-and-indexing-how-to-v2.md
-    href: mediaservices-analyzing-and-indexing-how-to-v2.md
-  - name:    mediaservices-analyzing-and-indexing-performance.md
-    href: mediaservices-analyzing-and-indexing-performance.md
-  - name:    mediaservices-analyzing-and-indexing-performance-v2.md
-    href: mediaservices-analyzing-and-indexing-performance-v2.md
-  - name:    mediaservices-assets-quotas.md
-    href: mediaservices-assets-quotas.md
-  - name:    mediaservices-assets-quotas-v2.md
-    href: mediaservices-assets-quotas-v2.md
-  - name:    mediaservices-authentication-access-control.md
-    href: mediaservices-authentication-access-control.md
-  - name:    mediaservices-authentication-access-control-v2.md
-    href: mediaservices-authentication-access-control-v2.md
+  - name: mediaservices-billingrelatedquestions.md
+    href: ./selfhelp/mediaservices-billingrelatedquestions.md
+  - name: mediaservices-billingrelatedquestions-mooncake.md
+    href: ./selfhelp/mediaservices-billingrelatedquestions-mooncake.md
+  - name: mediaservices-channels-live-evens-quotas.md
+    href: ./selfhelp/mediaservices-channels-live-evens-quotas.md
+  - name: mediaservices-channels-live-evens-quotas-v2.md
+    href: ./selfhelp/mediaservices-channels-live-evens-quotas-v2.md
+  - name: mediaservices-client-latency.md
+    href: ./selfhelp/mediaservices-client-latency.md
+  - name: mediaservices-client-latency-v2.md
+    href: ./selfhelp/mediaservices-client-latency-v2.md
+  - name: mediaservices-content-management-how-to.md
+    href: ./selfhelp/mediaservices-content-management-how-to.md
+  - name: mediaservices-content-management-how-to-v2.md
+    href: ./selfhelp/mediaservices-content-management-how-to-v2.md
+  - name: mediaservices-content-protection.md
+    href: ./selfhelp/mediaservices-content-protection.md
+  - name: mediaservices-content-protection-mooncake.md
+    href: ./selfhelp/mediaservices-content-protection-mooncake.md
+  - name: mediaservices-content-upload-asset-creation.md
+    href: ./selfhelp/mediaservices-content-upload-asset-creation.md
+  - name: mediaservices-content-upload-asset-creation-v2.md
+    href: ./selfhelp/mediaservices-content-upload-asset-creation-v2.md
+  - name: mediaservices-content-upload-ingest-from-http.md
+    href: ./selfhelp/mediaservices-content-upload-ingest-from-http.md
+  - name: mediaservices-content-upload-ingest-from-http-v2.md
+    href: ./selfhelp/mediaservices-content-upload-ingest-from-http-v2.md
+  - name: mediaservices-content-upload-to-storage.md
+    href: ./selfhelp/mediaservices-content-upload-to-storage.md
+  - name: mediaservices-content-upload-to-storage-v2.md
+    href: ./selfhelp/mediaservices-content-upload-to-storage-v2.md
+  - name: mediaservices-content-upload-v2.md
+    href: ./selfhelp/mediaservices-content-upload-v2.md
+  - name: mediaservices-drm-and-key-delivery-aes-issues.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-aes-issues.md
+  - name: mediaservices-drm-and-key-delivery-aes-issues-v2.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-aes-issues-v2.md
+  - name: mediaservices-drm-and-key-delivery-fairplay-issues.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-fairplay-issues.md
+  - name: mediaservices-drm-and-key-delivery-fairplay-issues-v2.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-fairplay-issues-v2.md
+  - name: mediaservices-drm-and-key-delivery-howto.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-howto.md
+  - name: mediaservices-drm-and-key-delivery-howto-v2.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-howto-v2.md
+  - name: mediaservices-drm-and-key-delivery-playready-issues.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-playready-issues.md
+  - name: mediaservices-drm-and-key-delivery-playready-issues-v2.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-playready-issues-v2.md
+  - name: mediaservices-drm-and-key-delivery-v2.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-v2.md
+  - name: mediaservices-drm-and-key-delivery-widevine-issues.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-widevine-issues.md
+  - name: mediaservices-drm-and-key-delivery-widevine-issues-v2.md
+    href: ./selfhelp/mediaservices-drm-and-key-delivery-widevine-issues-v2.md
+  - name: mediaservices-encoding-files-errors.md
+    href: ./selfhelp/mediaservices-encoding-files-errors.md
+  - name: mediaservices-encoding-files-errors-v2.md
+    href: ./selfhelp/mediaservices-encoding-files-errors-v2.md
+  - name: mediaservices-encoding-files-premium-encoder.md
+    href: ./selfhelp/mediaservices-encoding-files-premium-encoder.md
+  - name: mediaservices-encoding-files-premium-encoder-v2.md
+    href: ./selfhelp/mediaservices-encoding-files-premium-encoder-v2.md
+  - name: mediaservices-encoding-files-profiles.md
+    href: ./selfhelp/mediaservices-encoding-files-profiles.md
+  - name: mediaservices-encoding-files-profiles-v2.md
+    href: ./selfhelp/mediaservices-encoding-files-profiles-v2.md
+  - name: mediaservices-encoding-files-v2.md
+    href: ./selfhelp/mediaservices-encoding-files-v2.md
+  - name: mediaservices-encoding-formats.md
+    href: ./selfhelp/mediaservices-encoding-formats.md
+  - name: mediaservices-insights-streamingendpoint-performance.md
+    href: ./selfhelp/mediaservices-insights-streamingendpoint-performance.md
+  - name: mediaservices-live-streaming-archiving.md
+    href: ./selfhelp/mediaservices-live-streaming-archiving.md
+  - name: mediaservices-live-streaming-archiving-v2.md
+    href: ./selfhelp/mediaservices-live-streaming-archiving-v2.md
+  - name: mediaservices-live-streaming-configure-channels-live-events.md
+    href: ./selfhelp/mediaservices-live-streaming-configure-channels-live-events.md
+  - name: mediaservices-live-streaming-configure-channels-live-events-v2.md
+    href: ./selfhelp/mediaservices-live-streaming-configure-channels-live-events-v2.md
+  - name: mediaservices-live-streaming-live-cloud-encoder.md
+    href: ./selfhelp/mediaservices-live-streaming-live-cloud-encoder.md
+  - name: mediaservices-live-streaming-live-cloud-encoder-v2.md
+    href: ./selfhelp/mediaservices-live-streaming-live-cloud-encoder-v2.md
+  - name: mediaservices-live-streaming-mooncake.md
+    href: ./selfhelp/mediaservices-live-streaming-mooncake.md
+  - name: mediaservices-live-streaming-rtmp-errors.md
+    href: ./selfhelp/mediaservices-live-streaming-rtmp-errors.md
+  - name: mediaservices-live-streaming-rtmp-errors-v2.md
+    href: ./selfhelp/mediaservices-live-streaming-rtmp-errors-v2.md
+  - name: mediaservices-lva-camera-connection-issue-error-v2.md
+    href: ./selfhelp/mediaservices-lva-camera-connection-issue-error-v2.md
+  - name: mediaservices-lva-configuration-management-v2.md
+    href: ./selfhelp/mediaservices-lva-configuration-management-v2.md
+  - name: mediaservices-lva-extract-information-using-machine-learning-v2.md
+    href: ./selfhelp/mediaservices-lva-extract-information-using-machine-learning-v2.md
+  - name: mediaservices-lva-onboarding-getting-started-v2.md
+    href: ./selfhelp/mediaservices-lva-onboarding-getting-started-v2.md
+  - name: mediaservices-player-analytics.md
+    href: ./selfhelp/mediaservices-player-analytics.md
+  - name: mediaservices-player-analytics-v2.md
+    href: ./selfhelp/mediaservices-player-analytics-v2.md
+  - name: mediaservices-player-browser-closed-captions.md
+    href: ./selfhelp/mediaservices-player-browser-closed-captions.md
+  - name: mediaservices-player-browser-closed-captions-v2.md
+    href: ./selfhelp/mediaservices-player-browser-closed-captions-v2.md
+  - name: mediaservices-player-browser-compatibility.md
+    href: ./selfhelp/mediaservices-player-browser-compatibility.md
+  - name: mediaservices-player-browser-compatibility-v2.md
+    href: ./selfhelp/mediaservices-player-browser-compatibility-v2.md
+  - name: mediaservices-player-browser-howto-embed-player.md
+    href: ./selfhelp/mediaservices-player-browser-howto-embed-player.md
+  - name: mediaservices-player-browser-howto-embed-player-v2.md
+    href: ./selfhelp/mediaservices-player-browser-howto-embed-player-v2.md
+  - name: mediaservices-player-playback-issues.md
+    href: ./selfhelp/mediaservices-player-playback-issues.md
+  - name: mediaservices-player-playback-issues-v2.md
+    href: ./selfhelp/mediaservices-player-playback-issues-v2.md
+  - name: mediaservices-player-v2.md
+    href: ./selfhelp/mediaservices-player-v2.md
+  - name: mediaservices-policies-quotas.md
+    href: ./selfhelp/mediaservices-policies-quotas.md
+  - name: mediaservices-policies-quotas-v2.md
+    href: ./selfhelp/mediaservices-policies-quotas-v2.md
+  - name: mediaservices-scale-media-reserved-units.md
+    href: ./selfhelp/mediaservices-scale-media-reserved-units.md
+  - name: mediaservices-scale-media-reserved-units-v2.md
+    href: ./selfhelp/mediaservices-scale-media-reserved-units-v2.md
+  - name: mediaservices-stream-files-howto.md
+    href: ./selfhelp/mediaservices-stream-files-howto.md
+  - name: mediaservices-stream-files-howto-v2.md
+    href: ./selfhelp/mediaservices-stream-files-howto-v2.md
+  - name: mediaservices-stream-files-performance.md
+    href: ./selfhelp/mediaservices-stream-files-performance.md
+  - name: mediaservices-stream-files-performance-v2.md
+    href: ./selfhelp/mediaservices-stream-files-performance-v2.md
+  - name: mediaservices-stream-files-streaming-endpoint.md
+    href: ./selfhelp/mediaservices-stream-files-streaming-endpoint.md
+  - name: mediaservices-stream-files-streaming-endpoint-v2.md
+    href: ./selfhelp/mediaservices-stream-files-streaming-endpoint-v2.md
+  - name: mediaservices-streaming-endpoint-errors.md
+    href: ./selfhelp/mediaservices-streaming-endpoint-errors.md
+  - name: mediaservices-streaming-endpoint-errors-v2.md
+    href: ./selfhelp/mediaservices-streaming-endpoint-errors-v2.md
+  - name: mediaservices-streaming-endpoints-quotas.md
+    href: ./selfhelp/mediaservices-streaming-endpoints-quotas.md
+  - name: mediaservices-streaming-endpoints-quotas-v2.md
+    href: ./selfhelp/mediaservices-streaming-endpoints-quotas-v2.md
+  - name: mediaservices-videoindexer-account-connect-to-azure.md
+    href: ./selfhelp/mediaservices-videoindexer-account-connect-to-azure.md
+  - name: mediaservices-videoindexer-account-connect-to-azure-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-account-connect-to-azure-v2.md
+  - name: mediaservices-videoindexer-account-other.md
+    href: ./selfhelp/mediaservices-videoindexer-account-other.md
+  - name: mediaservices-videoindexer-account-other-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-account-other-v2.md
+  - name: mediaservices-videoindexer-account-pricing.md
+    href: ./selfhelp/mediaservices-videoindexer-account-pricing.md
+  - name: mediaservices-videoindexer-account-pricing-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-account-pricing-v2.md
+  - name: mediaservices-videoindexer-account-signup.md
+    href: ./selfhelp/mediaservices-videoindexer-account-signup.md
+  - name: mediaservices-videoindexer-account-signup-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-account-signup-v2.md
+  - name: mediaservices-videoindexer-api-access-token.md
+    href: ./selfhelp/mediaservices-videoindexer-api-access-token.md
+  - name: mediaservices-videoindexer-api-access-token-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-api-access-token-v2.md
+  - name: mediaservices-videoindexer-api-how-to.md
+    href: ./selfhelp/mediaservices-videoindexer-api-how-to.md
+  - name: mediaservices-videoindexer-api-how-to-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-api-how-to-v2.md
+  - name: mediaservices-videoindexer-api-widgets.md
+    href: ./selfhelp/mediaservices-videoindexer-api-widgets.md
+  - name: mediaservices-videoindexer-api-widgets-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-api-widgets-v2.md
+  - name: mediaservices-videoindexer-insights-audio.md
+    href: ./selfhelp/mediaservices-videoindexer-insights-audio.md
+  - name: mediaservices-videoindexer-insights-audio-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-insights-audio-v2.md
+  - name: mediaservices-videoindexer-insights-custom-models.md
+    href: ./selfhelp/mediaservices-videoindexer-insights-custom-models.md
+  - name: mediaservices-videoindexer-insights-custom-models-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-insights-custom-models-v2.md
+  - name: mediaservices-videoindexer-insights-other.md
+    href: ./selfhelp/mediaservices-videoindexer-insights-other.md
+  - name: mediaservices-videoindexer-insights-other-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-insights-other-v2.md
+  - name: mediaservices-videoindexer-manage-ru.md
+    href: ./selfhelp/mediaservices-videoindexer-manage-ru.md
+  - name: mediaservices-videoindexer-manage-ru-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-manage-ru-v2.md
+  - name: mediaservices-videoindexer-videos-index.md
+    href: ./selfhelp/mediaservices-videoindexer-videos-index.md
+  - name: mediaservices-videoindexer-videos-index-v2.md
+    href: ./selfhelp/mediaservices-videoindexer-videos-index-v2.md
+  - name: mediaservices-accounts-create-or-delete.md
+    href: ./selfhelp/mediaservices-accounts-create-or-delete.md
+  - name: mediaservices-accounts-create-or-delete-v2.md
+    href: ./selfhelp/mediaservices-accounts-create-or-delete-v2.md
+  - name: mediaservices-accounts-error-message.md
+    href: ./selfhelp/mediaservices-accounts-error-message.md
+  - name: mediaservices-accounts-error-message-v2.md
+    href: ./selfhelp/mediaservices-accounts-error-message-v2.md
+  - name: mediaservices-accounts-generic.md
+    href: ./selfhelp/mediaservices-accounts-generic.md
+  - name: mediaservices-accounts-generic-v2.md
+    href: ./selfhelp/mediaservices-accounts-generic-v2.md
+  - name: mediaservices-accounts-linking-storage-accts.md
+    href: ./selfhelp/mediaservices-accounts-linking-storage-accts.md
+  - name: mediaservices-accounts-linking-storage-accts-v2.md
+    href: ./selfhelp/mediaservices-accounts-linking-storage-accts-v2.md
+  - name: mediaservices-accounts-resource-group-moves.md
+    href: ./selfhelp/mediaservices-accounts-resource-group-moves.md
+  - name: mediaservices-accounts-resource-group-moves-v2.md
+    href: ./selfhelp/mediaservices-accounts-resource-group-moves-v2.md
+  - name: mediaservices-analytics.md
+    href: ./selfhelp/mediaservices-analytics.md
+  - name: mediaservices-analytics-mooncake.md
+    href: ./selfhelp/mediaservices-analytics-mooncake.md
+  - name: mediaservices-analyzing-and-indexing-how-to.md
+    href: ./selfhelp/mediaservices-analyzing-and-indexing-how-to.md
+  - name: mediaservices-analyzing-and-indexing-how-to-v2.md
+    href: ./selfhelp/mediaservices-analyzing-and-indexing-how-to-v2.md
+  - name: mediaservices-analyzing-and-indexing-performance.md
+    href: ./selfhelp/mediaservices-analyzing-and-indexing-performance.md
+  - name: mediaservices-analyzing-and-indexing-performance-v2.md
+    href: ./selfhelp/mediaservices-analyzing-and-indexing-performance-v2.md
+  - name: mediaservices-assets-quotas.md
+    href: ./selfhelp/mediaservices-assets-quotas.md
+  - name: mediaservices-assets-quotas-v2.md
+    href: ./selfhelp/mediaservices-assets-quotas-v2.md
+  - name: mediaservices-authentication-access-control.md
+    href: ./selfhelp/mediaservices-authentication-access-control.md
+  - name: mediaservices-authentication-access-control-v2.md
+    href: ./selfhelp/mediaservices-authentication-access-control-v2.md
 
 
 
