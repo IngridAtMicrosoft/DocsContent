@@ -1,27 +1,19 @@
 ---
-title: Welcome to Single Source
-description: This is a repository for a single source prototype.
-author: IngridAtMicrosoft
+title: Media Services aPaaS
+description: Early sample docs for Media Services aPaaS.
+author: jonpayne
 ms.topic: article
-ms.date: 08/05/2022
-ms.author: inhenkel
-ms.reviewer: inhenkel
-ms.lastreviewed: 08/05/2022
+ms.date: 01/01/2023
+ms.author: jopayn
+ms.reviewer: jopayn
+ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
-# Single source introduction -- Jon testgs
+# Media Services aPaaS
 
-This is an experimental repo owned by Ingrid Henkel.
-
-## Experiments
-
-- PlantUML, and reuse of SVG sprites
-- Integration of GitHub, Sharepoint and DITA
-- Interactive SVGs
-- Developing and testing Learn modules.
-- Developing and test video integration for Azure Media Services.
+Early sample docs for Media Services aPaaS.
 
 ## Contact
 
-Contact [inhenkel@microsoft.com](mailto:inhenkel@microsoft.com) if you have questions.
+Contact [jopayn@microsoft.com](mailto:jopayn@microsoft.com) if you have questions.

@@ -1,6 +1,5 @@
-- name: Media Services aPaaS
-  href: index.md
 - name: Managed Accounts
+  href: index.md
   items:
-  - name: start.md
-    href: ./managedaccounts/start.md
+  - name: Account Creation
+    href: ./managedaccounts/account-creation.md
