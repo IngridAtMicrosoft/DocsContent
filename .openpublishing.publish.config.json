@@ -20,7 +20,6 @@
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -33,11 +32,26 @@
       "url": "https://github.com/Azure-Samples/media-services-v3-python",
       "branch": "main",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "main",
+      "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "docs_build_engine": {
-    "name": "docfx_v3"
-  }
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Pdf"
+    ]
+  },
+  "targets": {
+    "pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  },
+  "docs_build_engine": {},
+  "contribution_branch_mappings": {},
+  "need_generate_pdf_url_template": false
 }
