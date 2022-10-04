@@ -1,5 +1,5 @@
 ---
-title: Indexing Videos
+title: Apollo Template
 author: IngridAtMicrosoft
 ms.author: inhenkel
 ms.service: media-services
@@ -52,7 +52,7 @@ For a sequence of tasks, use ordered (numbered) lists.
 Example:
 1. This is a step
 2. This step contains multiple sentences. When a step has multiple complete sentences, use a period to end each sentence.
-3. This is a step with a [link](http://)
+3. This is a step with a [link](http://learn.microsoft.com)
 4. This is a step with inline code: `SELECT name, is_disabled FROM sys.sql_logins`
 5. This is a step with multi-line code:
 
@@ -130,7 +130,7 @@ Description of the video
 Outline steps covered in the video
 
 <!-- Multiple video example -->
-    Description of the videos
+Description of the videos
 
 <!-- Remove html code block markdown -->
 ```html
