@@ -52,7 +52,7 @@ For a sequence of tasks, use ordered (numbered) lists.
 Example:
 1. This is a step
 2. This step contains multiple sentences. When a step has multiple complete sentences, use a period to end each sentence.
-3. This is a step with a [link](http://learn.microsoft.com)
+3. This is a step with a [link](https://learn.microsoft.com)
 4. This is a step with inline code: `SELECT name, is_disabled FROM sys.sql_logins`
 5. This is a step with multi-line code:
 
