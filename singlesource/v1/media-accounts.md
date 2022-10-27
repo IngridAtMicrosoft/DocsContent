@@ -74,6 +74,8 @@ network access is blocked, media may only be streamed using a [private endpoint]
 
 ### Encryption
 
+Data in a media account may be encrypted with a customer provided key.
+
 ### Managed identity
 
 ### Tags

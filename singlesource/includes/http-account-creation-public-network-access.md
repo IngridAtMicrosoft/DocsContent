@@ -20,7 +20,8 @@ Content-Type:application/json
   "tags": {},
   "location": "global",
   "properties": {
-    "dataLocation": "westus"
+    "dataLocation": "westus",
+    "publicNetworkAccess": "Disabled"
   }
 }
 
@@ -37,6 +38,7 @@ Content-Type:application/json; odata.metadata=none
   "properties": {
     "accountId": "00000000-0000-0000-0000-000000000000",
     "dataLocation": "westus",
+    "publicNetworkAccess": "Disabled",
     "provisioningState": "Succeeded"
   }
 }
