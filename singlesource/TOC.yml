@@ -22,3 +22,5 @@
     href: ./v2/media-streams-browser.md
   - name: Integration with Media Services assets
     href: ./v2/media-streams-assets.md
+  - name: Network security
+    href: ./v2/network-security.md

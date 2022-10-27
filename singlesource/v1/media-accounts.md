@@ -35,6 +35,7 @@ Media accounts contain [media streams](media-streams.md) for streaming media con
 Media accounts can be created using the Azure Portal, ARM templates, client SDKs, or using HTTP requests. 
 
 #### [C#](#tab/csharp/)
+
 [!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
 [!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
 
@@ -44,13 +45,7 @@ Media account creation:
 
 #### [HTTP](#tab/http/)
 
-```http
-PUT https://{{armEndpoint}}/subscriptions/{{subscription}}/resourceGroups/{{resourceGroup}}?api-version=2016-09-01
-Authorization: Bearer (token)
-Content-Type: application/json; charset=utf-8
-
-{"tags":{},"location":"westus","properties":{}} }
-```
+[!INCLUDE [<http-account-creation.md](../http-account-creation.md)]
 
 ---
 
