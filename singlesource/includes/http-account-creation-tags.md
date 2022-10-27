@@ -17,16 +17,18 @@ Authorization:REDACTED
 Content-Type:application/json
 
 {
-  "tags": {},
+  "tags": {
+    "department": "studios",
+    "cost-center": "marketing"
+  },
   "location": "global",
   "properties": {
-    "dataLocation": "westus",
-    "publicNetworkAccess": "Disabled"
+    "dataLocation": "westus"
   }
 }
 
 201 Created
-Date:Thu, 27 Oct 2022 23:50:30 GMT
+Date:Thu, 27 Oct 2022 23:50:44 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -34,11 +36,13 @@ Content-Type:application/json; odata.metadata=none
   "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount",
   "type": "Microsoft.Media/mediaAccounts",
   "location": "global",
-  "tags": {},
+  "tags": {
+    "department": "studios",
+    "cost-center": "marketing"
+  },
   "properties": {
-    "accountId": "254219e3-b142-47b3-89af-3fef5b4e8809",
+    "accountId": "283044ba-e315-44b5-95de-3531760642a2",
     "dataLocation": "westus",
-    "publicNetworkAccess": "Disabled",
     "provisioningState": "Succeeded"
   },
   "systemData": {

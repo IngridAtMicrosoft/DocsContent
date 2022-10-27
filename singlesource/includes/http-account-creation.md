@@ -25,7 +25,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Thu, 27 Oct 2022 22:39:03 GMT
+Date:Thu, 27 Oct 2022 23:50:30 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -35,9 +35,17 @@ Content-Type:application/json; odata.metadata=none
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "e529a433-f9b5-477b-925e-1a04ea28bd00",
+    "accountId": "6730a38f-2769-4060-9005-b5921c3cdacf",
     "dataLocation": "westus",
     "provisioningState": "Succeeded"
+  },
+  "systemData": {
+    "createdBy": "00000000-0000-0000-0000-000000000000",
+    "createdByType": "Application",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "lastModifiedBy": "00000000-0000-0000-0000-000000000000",
+    "lastModifiedByType": "Application",
+    "lastModifiedAt": "2023-01-01T00:00:00Z"
   }
 }
 

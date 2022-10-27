@@ -32,7 +32,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Thu, 27 Oct 2022 22:39:03 GMT
+Date:Thu, 27 Oct 2022 23:50:30 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -42,17 +42,25 @@ Content-Type:application/json; odata.metadata=none
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "32740581-34e2-471a-bcf0-61193a49a30e",
+    "accountId": "47138096-a97b-4d91-be0e-d7d7955a4d05",
     "dataLocation": "westus",
     "publicNetworkAccess": "Disabled",
     "provisioningState": "Succeeded"
+  },
+  "systemData": {
+    "createdBy": "00000000-0000-0000-0000-000000000000",
+    "createdByType": "Application",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "lastModifiedBy": "00000000-0000-0000-0000-000000000000",
+    "lastModifiedByType": "Application",
+    "lastModifiedAt": "2023-01-01T00:00:00Z"
   },
   "identity": {
     "type": "UserAssigned",
     "userAssignedIdentities": {
       "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity": {
-        "clientId": "85fffc89-e47f-4be9-9cff-5d554b1b8640",
-        "principalId": "de5d65e1-d37a-4d37-9785-ba474f6e46b6"
+        "clientId": "ce66c7a8-0ae4-46f2-85fd-6f95ee544cd7",
+        "principalId": "daab924e-01d6-44b9-a98c-290a0add0c83"
       }
     }
   }

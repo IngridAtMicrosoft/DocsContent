@@ -74,6 +74,10 @@ network access is blocked, media may only be streamed using a [private endpoint]
 
 ### Managed identity
 
+Media accounts use managed identities to access keys used for account encryption and signing tokens for content protection.
+
+Managed identities are configured using the `identity` property of the media account:
+
 #### [C#](#tab/csharp/)
 
 [!INCLUDE [<csharp-account-creation-managed-identity>](../includes/csharp-account-creation-managed-identity.md)]
@@ -119,6 +123,19 @@ in an account creation or update request:
 ---
 
 ### Tags
+
+Tags can be specified when creating a media account:
+
+#### [C#](#tab/csharp/)
+
+[!INCLUDE [<csharp-account-creation-tags>](../includes/csharp-account-creation-tags.md)]
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-account-creation-tags](../includes/http-account-creation-tags.md)]
+
+---
+
 
 ### System data
 
