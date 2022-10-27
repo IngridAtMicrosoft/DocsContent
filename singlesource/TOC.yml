@@ -1,24 +1,22 @@
 - name: Media Services aPaaS
-  href: index.md
   items:
   - name: Media Accounts
-    href: ./v1/account-creation.md
+    href: ./v1/media-accounts.md
   - name: Media Streams
-    href: ./v1/account-creation.md
+    href: ./v1/media-streams.md
   - name: Media Protection Options
-    href: ./v1/account-creation.md
+    href: ./v1/media-protection-options.md
   - name: Media Stream Tracks
-    href: ./v1/account-creation.md
+    href: ./v1/media-streams-tracks.md
 - name: Media Services aPaaS (future)
-  href: index.md
   items:
   - name: Media Protection Options with DRM
-    href: ./v1/account-creation.md
+    href: ./v2/media-protection-options-drm.md
   - name: Stream Overlays
-    href: ./v1/account-creation.md
+    href: ./v2/media-streams-overlays.md
   - name: Relaying to other services
-    href: ./v1/account-creation.md
+    href: ./v2/media-streams-relays.md
   - name: Streaming on-demand videos
-    href: ./v1/account-creation.md
+    href: ./v2/media-streams-vod.md
   - name: Integration with Media Services assets
-    href: ./v1/account-creation.md
+    href: ./v2/media-streams-assets.md
