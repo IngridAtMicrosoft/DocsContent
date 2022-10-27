@@ -45,7 +45,7 @@ Media account creation:
 
 #### [HTTP](#tab/http/)
 
-[!INCLUDE [<http-account-creation.md](../http-account-creation.md)]
+[!INCLUDE [<http-account-creation.md](../includes/http-account-creation.md)]
 
 ---
 

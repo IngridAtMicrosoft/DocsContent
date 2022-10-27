@@ -11,30 +11,32 @@ ms.service: media-services
 ---
 
 ```http
-PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/test1?api-version=2023-01-01
+PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount?api-version=2023-01-01
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
 
 {
   "tags": {},
-  "location": "westus",
-  "properties": {}
+  "location": "global",
+  "properties": {
+    "dataLocation": "westus"
+  }
 }
 
 201 Created
-Date:Thu, 27 Oct 2022 19:43:29 GMT
+Date:Thu, 27 Oct 2022 19:51:47 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
-  "name": "test1",
-  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/test1",
+  "name": "myaccount",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount",
   "type": "Microsoft.Media/mediaAccounts",
-  "location": "westus",
+  "location": "global",
   "tags": {},
   "properties": {
     "accountId": "00000000-0000-0000-0000-000000000000",
-    "dataLocation": null,
+    "dataLocation": "westus",
     "provisioningState": "Succeeded"
   }
 }

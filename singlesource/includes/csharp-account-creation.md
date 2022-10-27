@@ -13,8 +13,9 @@ ms.service: media-services
 ```csharp
 var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
     WaitUntil.Completed,
-    "test1",
-    new MediaAccountData(AzureLocation.WestUS)
+    "myaccount",
+    new MediaAccountData("global")
     {
+        DataLocation = AzureLocation.WestUS
     });
 ```
