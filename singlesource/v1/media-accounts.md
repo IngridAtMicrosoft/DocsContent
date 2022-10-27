@@ -72,11 +72,51 @@ network access is blocked, media may only be streamed using a [private endpoint]
 
 ---
 
+### Managed identity
+
+#### [C#](#tab/csharp/)
+
+[!INCLUDE [<csharp-account-creation-managed-identity>](../includes/csharp-account-creation-managed-identity.md)]
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-account-creation-managed-identity](../includes/http-account-creation-managed-identity.md)]
+
+---
+
+
 ### Encryption
 
-Data in a media account may be encrypted with a customer provided key.
+A media account may configured to encrypt data using a customer provided key. The customer provided key is used when encrypting
+media content and media content keys (different keys are used when streaming media content to viewers).
 
-### Managed identity
+To encrypt a media account using a customer provided key, a key must be created in a Key Vault:
+
+#### [C#](#tab/csharp/)
+
+[!INCLUDE [<csharp-account-creation-encryption-create-key>](../includes/csharp-account-creation-encryption-create-key.md)]
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-account-creation-encryption-create-key](../includes/http-account-creation-encryption-create-key.md)]
+
+---
+
+A managed identity associated with the media account must be granted access to key. The method for granting access
+depends on the access model configured in the Key Vault.
+
+Once the key has been created and the managed identity has been granted access to the key, the key may be set
+in an account creation or update request:
+
+#### [C#](#tab/csharp/)
+
+[!INCLUDE [<csharp-account-creation-encryption-set-key>](../includes/csharp-account-creation-encryption-set-key.md)]
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-account-creation-encryption-set-key](../includes/http-account-creation-encryption-set-key.md)]
+
+---
 
 ### Tags
 

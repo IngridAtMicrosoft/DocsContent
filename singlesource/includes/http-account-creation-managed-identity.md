@@ -17,10 +17,17 @@ Authorization:REDACTED
 Content-Type:application/json
 
 {
+  "identity": {
+    "type": "UserAssigned",
+    "userAssignedIdentities": {
+      "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity": {}
+    }
+  },
   "tags": {},
   "location": "global",
   "properties": {
-    "dataLocation": "westus"
+    "dataLocation": "westus",
+    "publicNetworkAccess": "Disabled"
   }
 }
 
@@ -35,9 +42,19 @@ Content-Type:application/json; odata.metadata=none
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "e529a433-f9b5-477b-925e-1a04ea28bd00",
+    "accountId": "32740581-34e2-471a-bcf0-61193a49a30e",
     "dataLocation": "westus",
+    "publicNetworkAccess": "Disabled",
     "provisioningState": "Succeeded"
+  },
+  "identity": {
+    "type": "UserAssigned",
+    "userAssignedIdentities": {
+      "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity": {
+        "clientId": "85fffc89-e47f-4be9-9cff-5d554b1b8640",
+        "principalId": "de5d65e1-d37a-4d37-9785-ba474f6e46b6"
+      }
+    }
   }
 }
 
