@@ -28,9 +28,9 @@ Media accounts provide are an alternative to exiting Media Services accounts. Me
 
 Media accounts contain [media streams](media-streams.md) for streaming media content and [media protection options](media-protection-options.md) for protecting media content.
 
-## Creating a Media Account
+## Creating a media account
 
-Media accounts are created using Azure Resource Manager. 
+Media accounts can be created using the Azure Portal, ARM templates, client SDKs, or using HTTP requests. 
 
 #### [C#](#tab/csharp/)
 To use the media accounts API, install the [`Azure.Identity`](https://www.nuget.org/packages/Azure.Identity) and [`Azure.ResourceManager.Media`](https://www.nuget.org/packages/Azure.ResourceManager.Media) NuGet packages.
