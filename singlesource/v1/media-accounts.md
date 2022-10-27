@@ -26,11 +26,30 @@ Media accounts provide are an alternative to exiting Media Services accounts. Me
 | Content protection | Clear key and DRM protection, using user defined token authentication | Clear key protection using simple tokens |
 | API | APIs for managing, streaming, protecting, and encoding media | Simple APIs for streaming live media |
 
+Media accounts contain [media streams](media-streams.md) for streaming media content and [media protection options](media-protection-options.md) for protecting media content.
+
 ## Creating a Media Account
 
 Media accounts are created using Azure Resource Manager. 
 
 #### [C#](#tab/csharp/)
+To use the media accounts API, install the [`Azure.Identity`](https://www.nuget.org/packages/Azure.Identity) and [`Azure.ResourceManager.Media`](https://www.nuget.org/packages/Azure.ResourceManager.Media) NuGet packages.
+
+The Azure resource manager API may be accessed using default credentials:
+
+```csharp
+const string SubscriptionId = "00000000-0000-0000-0000-000000000000";
+const string ResourceGroupName = "myResources";
+
+var credential = new DefaultAzureCredential();
+var armClient = new ArmClient(credential);
+
+var resourceGroup = armClient.GetResourceGroupResource(ResourceGroupResource.CreateResourceIdentifier(
+    SubscriptionId,
+    ResourceGroupName));
+```
+
+Media account creation:
 
 ```csharp
 var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
@@ -40,8 +59,6 @@ var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
     {
     });
 ```
-
-NuGet package `Azure.ResourceManager.Media`, version 2.x.x or later is required to create media accounts.
 
 #### [HTTP](#tab/http/)
 
@@ -53,6 +70,22 @@ Content-Type: application/json; charset=utf-8
 {"tags":{},"location":"westus","properties":{}} }
 ```
 
-The `jq` utility is available in many cases, but not all. If the `jq` utility is missing, use `| python -m json.tool` instead.
-
 ---
+
+## Media account options
+
+### Data location
+
+### Public network access
+
+### Encryption
+
+### Managed identity
+
+### Tags
+
+### System data
+
+## Media account limits and billing
+
+An Azure subscription may contain up to five media accounts. There is no charge for media accounts (but resources within the media account are billed).

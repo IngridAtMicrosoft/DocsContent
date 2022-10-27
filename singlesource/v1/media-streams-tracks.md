@@ -1,5 +1,5 @@
 ---
-title: Managed Account Creation
+title: Media Stream Tracks
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -10,6 +10,6 @@ ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
-# Managed Account Creation
+# Media Stream Tracks
 
 Start
