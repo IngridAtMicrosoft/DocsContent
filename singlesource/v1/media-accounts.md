@@ -45,7 +45,7 @@ Media account creation:
 
 #### [HTTP](#tab/http/)
 
-[!INCLUDE [<http-account-creation.md](../includes/http-account-creation.md)]
+[!INCLUDE [<http-account-creation](../includes/http-account-creation.md)]
 
 ---
 
@@ -53,7 +53,24 @@ Media account creation:
 
 ### Data location
 
+Media accounts are a global Azure resource and media may be processed and cached in any Azure region. Media content is stored in the
+location when the account is created using the `dataLocation` property. The data location of an account may not be changed after the
+account has been created.
+
 ### Public network access
+
+Media accounts can be configured to block all requests from public networks using the `publicNetworkAccess` property. When public
+network access is blocked, media may only be streamed using a [private endpoint](../v2/network-security.md).
+
+#### [C#](#tab/csharp/)
+
+[!INCLUDE [<csharp-account-creation-public-network-access>](../includes/csharp-account-creation-public-network-access.md)]
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-account-creation-public-network-access](../includes/http-account-creation-public-network-access.md)]
+
+---
 
 ### Encryption
 
