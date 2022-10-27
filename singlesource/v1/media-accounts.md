@@ -1,5 +1,5 @@
 ---
-title: Managed Account Creation
+title: Media Accounts
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -10,28 +10,47 @@ ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
-# Managed Account Creation
+# Media Accounts
 
-Start
+Media accounts provide a simple, scalable, and reliable way to manage media using Azure. Media accounts can be used to stream live events to audiances of any size.
 
-#### [Windows](#tab/windows/)
+![Media Services resources](../media/resources.png)
 
-```powershell
-Invoke-RestMethod -Headers @{"Metadata"="true"} -Method GET -NoProxy -Uri "http://169.254.169.254/metadata/instance?api-version=2021-02-01" | ConvertTo-Json -Depth 64
+Media accounts provide are an alternative to exiting Media Services accounts. Media accounts make streaming media simple, but do not provide as much flexalbity as Media Services accounts.
+
+| Feature | Media Services | Media accounts |
+|:---|:---|:---|
+| Account location | Any one of 50+ Azure regions | Global |
+| Data storage | Media data is stored in one or more Azure Storage accounts, managed by the account owner | Service managed storage |
+| Streaming scale | Optional CDN integration, configured by the account owner | Service managed high-scale streaming |
+| Content protection | Clear key and DRM protection, using user defined token authentication | Clear key protection using simple tokens |
+| API | APIs for managing, streaming, protecting, and encoding media | Simple APIs for streaming live media |
+
+## Creating a Media Account
+
+Media accounts are created using Azure Resource Manager. 
+
+#### [C#](#tab/csharp/)
+
+```csharp
+var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
+    WaitUntil.Completed,
+    "test1",
+    new MediaAccountData(AzureLocation.WestUS)
+    {
+    });
 ```
 
-`-NoProxy` requires PowerShell V6 or greater. See our [samples repository](https://github.com/microsoft/azureimds) for examples with older PowerShell versions.
+NuGet package `Azure.ResourceManager.Media`, version 2.x.x or later is required to create media accounts.
 
-#### [Linux](#tab/linux/)
+#### [HTTP](#tab/http/)
 
 ```http
 PUT https://{{armEndpoint}}/subscriptions/{{subscription}}/resourceGroups/{{resourceGroup}}?api-version=2016-09-01
 Authorization: Bearer (token)
 Content-Type: application/json; charset=utf-8
 
-{
-    "location": "{{location}}xxx"
-}
+{"tags":{},"location":"westus","properties":{}} }
 ```
 
 The `jq` utility is available in many cases, but not all. If the `jq` utility is missing, use `| python -m json.tool` instead.
