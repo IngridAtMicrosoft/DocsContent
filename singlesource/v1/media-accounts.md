@@ -10,13 +10,15 @@ ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
+[!INCLUDE [<prerelease-api>](../includes/prerelease-api.md)]
+
 # Media Accounts
 
-Media accounts provide a simple, scalable, and reliable way to manage media using Azure. Media accounts can be used to stream live events to audiances of any size.
+Media accounts provide a simple, scalable, and reliable way to manage media using Azure. Media accounts can be used to stream live events to audiences of any size.
 
 ![Media Services resources](../media/resources.png)
 
-Media accounts provide are an alternative to exiting Media Services accounts. Media accounts make streaming media simple, but do not provide as much flexalbity as Media Services accounts.
+Media accounts provide are an alternative to exiting Media Services accounts. Media accounts make streaming media simple, but do not provide as much flexibility as Media Services accounts.
 
 | Feature | Media Services | Media accounts |
 |:---|:---|:---|
@@ -44,9 +46,8 @@ const string ResourceGroupName = "myResources";
 var credential = new DefaultAzureCredential();
 var armClient = new ArmClient(credential);
 
-var resourceGroup = armClient.GetResourceGroupResource(ResourceGroupResource.CreateResourceIdentifier(
-    SubscriptionId,
-    ResourceGroupName));
+var resourceGroup = armClient.GetResourceGroupResource(
+    ResourceGroupResource.CreateResourceIdentifier(SubscriptionId, ResourceGroupName));
 ```
 
 Media account creation:
@@ -54,7 +55,7 @@ Media account creation:
 ```csharp
 var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
     WaitUntil.Completed,
-    "test1",
+    "myMedia",
     new MediaAccountData(AzureLocation.WestUS)
     {
     });
