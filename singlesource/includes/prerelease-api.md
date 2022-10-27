@@ -10,6 +10,5 @@ ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
-To use the media accounts API, install the [`Azure.Identity`](https://www.nuget.org/packages/Azure.Identity) and [`Azure.ResourceManager.Media`](https://www.nuget.org/packages/Azure.ResourceManager.Media) NuGet packages.
-
-The Azure resource manager API may be accessed using default credentials:
+> [!NOTE]
+> These pages describe a future Media Services API. This API is still in development and is likely to change before being made available to customers.
