@@ -4,10 +4,10 @@
     href: ./v1/media-accounts.md
   - name: Media Streams
     href: ./v1/media-streams.md
-  - name: Media Protection Options
-    href: ./v1/media-protection-options.md
   - name: Media Stream Tracks
     href: ./v1/media-streams-tracks.md
+  - name: Media Protection Options
+    href: ./v1/media-protection-options.md
 - name: Media Services aPaaS (future)
   items:
   - name: Media Protection Options with DRM
@@ -18,5 +18,7 @@
     href: ./v2/media-streams-relays.md
   - name: Streaming on-demand videos
     href: ./v2/media-streams-vod.md
+  - name: Streaming from browsers
+    href: ./v2/media-streams-browser.md
   - name: Integration with Media Services assets
     href: ./v2/media-streams-assets.md

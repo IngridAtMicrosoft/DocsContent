@@ -10,9 +10,9 @@ ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
-[!INCLUDE [<prerelease-api>](../includes/prerelease-api.md)]
-
 # Media Accounts
+
+[!INCLUDE [<prerelease-api>](../includes/prerelease-api.md)]
 
 Media accounts provide a simple, scalable, and reliable way to manage media using Azure. Media accounts can be used to stream live events to audiences of any size.
 
@@ -21,8 +21,8 @@ Media accounts provide a simple, scalable, and reliable way to manage media usin
 Media accounts provide are an alternative to exiting Media Services accounts. Media accounts make streaming media simple, but do not provide as much flexibility as Media Services accounts.
 
 | Feature | Media Services | Media accounts |
-|:---|:---|:---|
-| Account location | Any one of 50+ Azure regions | Global |
+|---|---|---|
+| Account location | Any of 50+ Azure regions | Global |
 | Data storage | Media data is stored in one or more Azure Storage accounts, managed by the account owner | Service managed storage |
 | Streaming scale | Optional CDN integration, configured by the account owner | Service managed high-scale streaming |
 | Content protection | Clear key and DRM protection, using user defined token authentication | Clear key protection using simple tokens |
@@ -35,31 +35,12 @@ Media accounts contain [media streams](media-streams.md) for streaming media con
 Media accounts can be created using the Azure Portal, ARM templates, client SDKs, or using HTTP requests. 
 
 #### [C#](#tab/csharp/)
-To use the media accounts API, install the [`Azure.Identity`](https://www.nuget.org/packages/Azure.Identity) and [`Azure.ResourceManager.Media`](https://www.nuget.org/packages/Azure.ResourceManager.Media) NuGet packages.
-
-The Azure resource manager API may be accessed using default credentials:
-
-```csharp
-const string SubscriptionId = "00000000-0000-0000-0000-000000000000";
-const string ResourceGroupName = "myResources";
-
-var credential = new DefaultAzureCredential();
-var armClient = new ArmClient(credential);
-
-var resourceGroup = armClient.GetResourceGroupResource(
-    ResourceGroupResource.CreateResourceIdentifier(SubscriptionId, ResourceGroupName));
-```
+[!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
+[!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
 
 Media account creation:
 
-```csharp
-var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
-    WaitUntil.Completed,
-    "myMedia",
-    new MediaAccountData(AzureLocation.WestUS)
-    {
-    });
-```
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-creation.md)]
 
 #### [HTTP](#tab/http/)
 

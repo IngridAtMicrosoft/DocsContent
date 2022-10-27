@@ -1,5 +1,5 @@
 ---
-title: Media Stream Relays
+title: Relaying to other services
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -10,6 +10,6 @@ ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
-# Media Stream Relays
+# Relaying to other services
 
 **TODO**

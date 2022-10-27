@@ -1,5 +1,5 @@
 ---
-title: Media Streams using Media Services Assets
+title: Integration with Media Services assets
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -10,6 +10,6 @@ ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
-# Media Streams using Media Services Assets
+# Integration with Media Services assets
 
 **TODO**

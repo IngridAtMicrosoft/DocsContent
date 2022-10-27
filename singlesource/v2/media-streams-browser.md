@@ -1,5 +1,5 @@
 ---
-title: Streaming on-demand videos
+title: Streaming from browsers
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -10,6 +10,6 @@ ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
-# Streaming on-demand videos
+# Streaming from browsers
 
 **TODO**
