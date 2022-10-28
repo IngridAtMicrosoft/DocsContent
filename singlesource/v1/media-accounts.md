@@ -124,7 +124,7 @@ in an account creation or update request:
 
 ### Tags
 
-Tags can be specified when creating a media account:
+Tags can be specified when creating or updating a media account:
 
 #### [C#](#tab/csharp/)
 
@@ -135,9 +135,6 @@ Tags can be specified when creating a media account:
 [!INCLUDE [<http-account-creation-tags](../includes/http-account-creation-tags.md)]
 
 ---
-
-
-### System data
 
 ## Media account limits and billing
 

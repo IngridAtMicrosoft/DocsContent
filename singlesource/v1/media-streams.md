@@ -13,3 +13,7 @@ ms.service: media-services
 # Media Streams
 
 **TODO**
+
+- used to stream video
+- outputs define ways of streaming videos
+- example using rtmp source

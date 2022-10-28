@@ -31,7 +31,7 @@ var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
             {
                 KeyIdentifier = keyUri,
             },
-            Identity = new ResourceIdentity(useSystemAssignedIdentity: true)
+            Identity = new ResourceIdentity(useSystemAssignedIdentity: false)
             {
                 UserAssignedIdentity = managedIdentity
             }

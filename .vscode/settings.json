@@ -1,5 +1,8 @@
 {
     "plantuml.exportFormat": "svg",
     "plantuml.exportOutDir": "diagrams",
-    "plantuml.exportSubFolder": false
+    "plantuml.exportSubFolder": false,
+    "cSpell.words": [
+        "lastreviewed"
+    ]
 }

@@ -34,14 +34,14 @@ Content-Type:application/json
       },
       "identity": {
         "userAssignedIdentity": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity",
-        "useSystemAssignedIdentity": true
+        "useSystemAssignedIdentity": false
       }
     }
   }
 }
 
 201 Created
-Date:Thu, 27 Oct 2022 23:50:44 GMT
+Date:Fri, 28 Oct 2022 17:25:38 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -51,7 +51,7 @@ Content-Type:application/json; odata.metadata=none
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "ac7a45cc-34ac-4664-ba1d-12cd861248ee",
+    "accountId": "6cddfd3b-fef5-4f6b-b8eb-b1364bb3599f",
     "dataLocation": "westus",
     "provisioningState": "Succeeded",
     "encryption": {
@@ -62,7 +62,7 @@ Content-Type:application/json; odata.metadata=none
       },
       "identity": {
         "userAssignedIdentity": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity",
-        "useSystemAssignedIdentity": true
+        "useSystemAssignedIdentity": false
       }
     }
   },
@@ -78,8 +78,8 @@ Content-Type:application/json; odata.metadata=none
     "type": "UserAssigned",
     "userAssignedIdentities": {
       "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity": {
-        "clientId": "59144137-0abc-41d6-91b1-cbfa5d4c7049",
-        "principalId": "fe07c0b7-f284-4d3d-92a2-cc13c97ba1ed"
+        "clientId": "ca04c705-610f-41dc-a686-fc1d3d5a0ca1",
+        "principalId": "c87f1321-0200-484c-8c04-bd9b8008a012"
       }
     }
   }
