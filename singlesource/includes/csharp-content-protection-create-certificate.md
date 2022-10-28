@@ -13,7 +13,8 @@ ms.service: media-services
 ```csharp
 var keyVaultCertificates = new CertificateClient(
     new Uri("https://mykeys.vault.azure.net/"),
-    new DefaultAzureCredential());
+    new DefaultAzureCredential(),
+    new CertificateClientOptions { Diagnostics = { IsLoggingContentEnabled = true } });
 
 var certificateOperation = await keyVaultCertificates.StartCreateCertificateAsync(
     "content-protection-token-certificate",

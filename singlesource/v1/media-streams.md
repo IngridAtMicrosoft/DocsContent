@@ -17,3 +17,5 @@ ms.service: media-services
 - used to stream video
 - outputs define ways of streaming videos
 - example using rtmp source
+- storage managed by media services
+- streaming endpoint and cdn managed by media services

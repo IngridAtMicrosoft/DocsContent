@@ -16,9 +16,6 @@ ms.service: media-services
 
 #### [C#](#tab/csharp/)
 
-[!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
-[!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
-
 Creating a certificate for token validation:
 
 [!INCLUDE [<csharp-content-protection-create-certificate>](../includes/csharp-content-protection-create-certificate.md)]
@@ -31,7 +28,10 @@ Creating a certificate for token validation:
 
 #### [C#](#tab/csharp/)
 
-Creating a certificate for token validation:
+[!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
+[!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
+
+Creating a media protection option:
 
 [!INCLUDE [<csharp-content-protection-option-create>](../includes/csharp-content-protection-option-create.md)]
 
