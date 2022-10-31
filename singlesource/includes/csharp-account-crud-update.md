@@ -11,12 +11,9 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaAccount = (await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
-    WaitUntil.Completed,
-    "myaccount",
+await mediaAccount.UpdateAsync(
     new MediaAccountData("global")
     {
-        DataLocation = AzureLocation.WestUS,
-        PublicNetworkAccess = PublicNetworkAccess.Disabled
-    })).Value;
+        PublicNetworkAccess = PublicNetworkAccess.Disabled,
+    });
 ```

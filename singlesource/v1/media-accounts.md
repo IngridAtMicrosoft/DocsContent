@@ -41,11 +41,11 @@ Media accounts can be created using the Azure Portal, ARM templates, client SDKs
 
 Media account creation:
 
-[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-creation.md)]
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-create.md)]
 
 #### [HTTP](#tab/http/)
 
-[!INCLUDE [<http-account-creation](../includes/http-account-creation.md)]
+[!INCLUDE [<http-account-creation](../includes/http-account-crud-create.md)]
 
 ---
 
@@ -133,6 +133,59 @@ Tags can be specified when creating or updating a media account:
 #### [HTTP](#tab/http/)
 
 [!INCLUDE [<http-account-creation-tags](../includes/http-account-creation-tags.md)]
+
+---
+
+## Media account operations
+
+### Updating a media account
+
+The public network access, encryption properties, identity, and tags of an existing media account may be updated. After a media account has been created, the
+location and data location properties may not be updated.
+
+> [!CAUTION]
+> Updating the identity properties of a media account may prevent Media Services from accessing account encryption keys and token signing keys stored
+in Azure Key Vault. The media account will be disabled if the account encryption key cannot be accessed. Streams that depend on a token signing key will
+fail to play.
+
+#### [C#](#tab/csharp/)
+
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-update.md)]
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-account-creation](../includes/http-account-crud-update.md)]
+
+---
+
+### Listing media accounts
+
+Media accounts may be listed using the service API.
+
+#### [C#](#tab/csharp/)
+
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-list.md)]
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-account-creation](../includes/http-account-crud-list.md)]
+
+---
+
+### Deleting a media account
+
+Media accounts may be deleted. When an account is deleted, all media content and service configuration is removed.
+
+> [!CAUTION]
+> It may not be possible to recover deleted media accounts. Consider using Azure resource locks to prevent accidental resource deletion.
+
+#### [C#](#tab/csharp/)
+
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-delete.md)]
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-account-creation](../includes/http-account-crud-delete.md)]
 
 ---
 

@@ -23,7 +23,7 @@ var account = await mediaAccount.GetMediaProtectionOptions().CreateOrUpdateAsync
         TokenValidation = new TokenRestriction
         {
             TokenSigningCertificateIdentifier = certificateUri,
-            Identity = new ResourceIdentity(useSystemAssignedIdentity: true)
+            Identity = new ResourceIdentity(useSystemAssignedIdentity: false)
             {
                 UserAssignedIdentity = managedIdentity
             }

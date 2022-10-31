@@ -40,3 +40,32 @@ Creating a media protection option:
 [!INCLUDE [<http-content-protection-option-create](../includes/http-content-protection-option-create.md)]
 
 ---
+
+
+---
+
+#### [C#](#tab/csharp/)
+
+```csharp
+var signingCertificate = GetSigningCertificate();
+
+var token = new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
+{
+    Claims = new Dictionary<string, object>
+    {
+        {
+            "urn:microsoft:azure:mediaservices:contentkeyidentifier",
+            "c10a564b-c70d-4f77-9d48-1f7f870e90c9"
+        }
+    },
+    Expires = DateTime.UtcNow.AddHours(4),
+    Audience = "urn:microsoft:azure:mediaservices",
+    SigningCredentials = new X509SigningCredentials(signingCertificate),
+});
+```
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-content-protection-option-create](../includes/http-content-protection-option-create.md)]
+
+---

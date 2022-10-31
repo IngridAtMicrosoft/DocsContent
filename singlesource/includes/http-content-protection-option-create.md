@@ -22,7 +22,7 @@ Content-Type:application/json
       "tokenSigningCertificateIdentifier": "https://mykeys.vault.azure.net/certificates/content-protection-token-certificate",
       "identity": {
         "userAssignedIdentity": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity",
-        "useSystemAssignedIdentity": true
+        "useSystemAssignedIdentity": false
       }
     },
     "clearKey": {
@@ -32,7 +32,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Fri, 28 Oct 2022 17:47:38 GMT
+Date:Mon, 31 Oct 2022 20:52:42 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -46,7 +46,7 @@ Content-Type:application/json; odata.metadata=none
       "currentTokenSigningCertificateIdentifier": "https://mykeys.vault.azure.net/certificates/content-protection-token-certificate/00000000000000000000000000000000",
       "identity": {
         "userAssignedIdentity": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity",
-        "useSystemAssignedIdentity": true
+        "useSystemAssignedIdentity": false
       }
     },
     "clearKey": {

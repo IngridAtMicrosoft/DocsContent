@@ -17,22 +17,15 @@ Authorization:REDACTED
 Content-Type:application/json
 
 {
-  "identity": {
-    "type": "UserAssigned",
-    "userAssignedIdentities": {
-      "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity": {}
-    }
-  },
   "tags": {},
   "location": "global",
   "properties": {
-    "dataLocation": "westus",
-    "publicNetworkAccess": "Disabled"
+    "dataLocation": "westus"
   }
 }
 
 201 Created
-Date:Mon, 31 Oct 2022 20:52:06 GMT
+Date:Mon, 31 Oct 2022 20:52:42 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -42,9 +35,8 @@ Content-Type:application/json; odata.metadata=none
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "e667a435-a05a-4d6d-a1a7-c737ed5a840a",
+    "accountId": "a66eaf37-539f-48dc-9585-91ca2c5d3c56",
     "dataLocation": "westus",
-    "publicNetworkAccess": "Disabled",
     "provisioningState": "Succeeded"
   },
   "systemData": {
@@ -54,15 +46,6 @@ Content-Type:application/json; odata.metadata=none
     "lastModifiedBy": "00000000-0000-0000-0000-000000000000",
     "lastModifiedByType": "Application",
     "lastModifiedAt": "2023-01-01T00:00:00Z"
-  },
-  "identity": {
-    "type": "UserAssigned",
-    "userAssignedIdentities": {
-      "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity": {
-        "clientId": "44532e0f-5d53-478d-b41f-fd89938beac5",
-        "principalId": "c2139954-a529-49a3-ba70-6092ebba771c"
-      }
-    }
   }
 }
 

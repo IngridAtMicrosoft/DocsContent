@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
+var mediaAccount = (await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "myaccount",
     new MediaAccountData("global")
@@ -22,5 +22,7 @@ var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
             { "department", "studios" },
             { "cost-center", "marketing" }
         }
-    });
+    })).Value;
+
+// TODO: await mediaAccount.AddTagAsync("project", "cosmic");
 ```

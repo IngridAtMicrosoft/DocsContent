@@ -19,3 +19,5 @@ ms.service: media-services
 - example using rtmp source
 - storage managed by media services
 - streaming endpoint and cdn managed by media services
+- includes transcoding
+- managed codecs and bitrates

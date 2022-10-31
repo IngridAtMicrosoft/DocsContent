@@ -15,7 +15,7 @@ var managedIdentity = new ResourceIdentifier(
     "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources" +
     "/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity");
 
-var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
+var mediaAccount = (await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "myaccount",
     new MediaAccountData("global")
@@ -26,5 +26,5 @@ var account = await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
         },
         DataLocation = AzureLocation.WestUS,
         PublicNetworkAccess = PublicNetworkAccess.Disabled
-    });
+    })).Value;
 ```
