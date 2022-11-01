@@ -11,5 +11,5 @@ ms.service: media-services
 ---
 
 ```csharp
-await mediaAccount.DeleteAsync(WaitUntil.Completed);
+await mediaStream.DeleteAsync(WaitUntil.Completed);
 ```
