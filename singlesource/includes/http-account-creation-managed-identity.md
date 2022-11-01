@@ -3,10 +3,10 @@ title: include file
 description: include file
 author: jonpayne
 ms.topic: include
-ms.date: 12/01/2022
+ms.date: 01/01/2023
 ms.author: jopayn
 ms.reviewer: jopayn
-ms.lastreviewed: 12/01/2022
+ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
@@ -32,7 +32,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Tue, 01 Nov 2022 15:43:28 GMT
+Date:Tue, 01 Nov 2022 16:35:49 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -42,7 +42,7 @@ Content-Type:application/json; odata.metadata=none
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "dbf8e270-effe-49e8-b333-954e1aacd23b",
+    "accountId": "e54a982c-e543-4f9f-be14-d71acd335388",
     "dataLocation": "westus",
     "publicNetworkAccess": "Disabled",
     "provisioningState": "Succeeded"
@@ -59,8 +59,8 @@ Content-Type:application/json; odata.metadata=none
     "type": "UserAssigned",
     "userAssignedIdentities": {
       "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity": {
-        "clientId": "38e72cdc-83aa-4009-80eb-ff7d9f259a92",
-        "principalId": "d10384d4-fa3b-41b8-9526-2e120e1edf6e"
+        "clientId": "67ea4320-fe04-4529-8ff6-31ea5baf1122",
+        "principalId": "4a3385b8-d741-4903-987b-27572ee8b0fc"
       }
     }
   }

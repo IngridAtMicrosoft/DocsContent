@@ -14,19 +14,19 @@ ms.service: media-services
 
 **TODO**
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 Creating a certificate for token validation:
 
 [!INCLUDE [<csharp-content-protection-create-certificate>](../includes/csharp-content-protection-create-certificate.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-content-protection-create-certificate](../includes/http-content-protection-create-certificate.md)]
 
 ---
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
 [!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
@@ -35,7 +35,7 @@ Creating a media protection option:
 
 [!INCLUDE [<csharp-content-protection-option-create>](../includes/csharp-content-protection-option-create.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-content-protection-option-create](../includes/http-content-protection-option-create.md)]
 
@@ -44,7 +44,7 @@ Creating a media protection option:
 
 ---
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 ```csharp
 var signingCertificate = GetSigningCertificate();
@@ -64,7 +64,7 @@ var token = new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
 });
 ```
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-content-protection-option-create](../includes/http-content-protection-option-create.md)]
 

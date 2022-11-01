@@ -3,15 +3,19 @@ title: include file
 description: include file
 author: jonpayne
 ms.topic: include
-ms.date: 12/01/2022
+ms.date: 01/01/2023
 ms.author: jopayn
 ms.reviewer: jopayn
-ms.lastreviewed: 12/01/2022
+ms.lastreviewed: 01/01/2023
 ms.service: media-services
 ---
 
 ```csharp
-var rtmpIngestResponse = (await mediaStream.StartRtmpIngestAsync(new StartRtmpIngestContent { Foo = "asdf" })).Value;
+var startRtmpIngestResponse = (await mediaStream.StartRtmpIngestAsync(
+    new StartRtmpIngestContent
+    {
+        AutoStopDelay = TimeSpan.FromMinutes(5)
+    })).Value;
     
-Console.WriteLine(rtmpIngestResponse.IngestUri);
+Console.WriteLine(startRtmpIngestResponse.IngestUri);
 ```

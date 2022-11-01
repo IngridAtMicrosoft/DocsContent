@@ -11,5 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-await mediaAccount.DeleteAsync(WaitUntil.Completed);
+mediaStream = await mediaStream.GetAsync();
+
+Console.WriteLine(mediaStream.Data.StreamState); // prints "Live" when the media stream is receiving RTMP data
 ```

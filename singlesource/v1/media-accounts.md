@@ -34,7 +34,7 @@ Media accounts contain [media streams](media-streams.md) for streaming media con
 
 Media accounts can be created using the Azure Portal, ARM templates, client SDKs, or using HTTP requests. 
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
 [!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
@@ -43,7 +43,7 @@ Media account creation:
 
 [!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-create.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-account-creation](../includes/http-account-crud-create.md)]
 
@@ -62,11 +62,11 @@ account has been created.
 Media accounts can be configured to block all requests from public networks using the `publicNetworkAccess` property. When public
 network access is blocked, media may only be streamed using a [private endpoint](../v2/network-security.md).
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<csharp-account-creation-public-network-access>](../includes/csharp-account-creation-public-network-access.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-account-creation-public-network-access](../includes/http-account-creation-public-network-access.md)]
 
@@ -78,11 +78,11 @@ Media accounts use managed identities to access keys used for account encryption
 
 Managed identities are configured using the `identity` property of the media account:
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<csharp-account-creation-managed-identity>](../includes/csharp-account-creation-managed-identity.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-account-creation-managed-identity](../includes/http-account-creation-managed-identity.md)]
 
@@ -96,11 +96,11 @@ media content and media content keys (different keys are used when streaming med
 
 To encrypt a media account using a customer provided key, a key must be created in a Key Vault:
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<csharp-account-creation-encryption-create-key>](../includes/csharp-account-creation-encryption-create-key.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-account-creation-encryption-create-key](../includes/http-account-creation-encryption-create-key.md)]
 
@@ -112,11 +112,11 @@ depends on the access model configured in the Key Vault.
 Once the key has been created and the managed identity has been granted access to the key, the key may be set
 in an account creation or update request:
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<csharp-account-creation-encryption-set-key>](../includes/csharp-account-creation-encryption-set-key.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-account-creation-encryption-set-key](../includes/http-account-creation-encryption-set-key.md)]
 
@@ -126,11 +126,11 @@ in an account creation or update request:
 
 Tags can be specified when creating or updating a media account:
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<csharp-account-creation-tags>](../includes/csharp-account-creation-tags.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-account-creation-tags](../includes/http-account-creation-tags.md)]
 
@@ -148,11 +148,11 @@ location and data location properties may not be updated.
 in Azure Key Vault. The media account will be disabled if the account encryption key cannot be accessed. Streams that depend on a token signing key will
 fail to play.
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-update.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-account-creation](../includes/http-account-crud-update.md)]
 
@@ -162,11 +162,11 @@ fail to play.
 
 Media accounts may be listed using the service API.
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-list.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-account-creation](../includes/http-account-crud-list.md)]
 
@@ -179,11 +179,11 @@ Media accounts may be deleted. When an account is deleted, all media content and
 > [!CAUTION]
 > It may not be possible to recover deleted media accounts. Consider using Azure resource locks to prevent accidental resource deletion.
 
-#### [C#](#tab/csharp/)
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-delete.md)]
 
-#### [HTTP](#tab/http/)
+#### [HTTP](#tab/http)
 
 [!INCLUDE [<http-account-creation](../includes/http-account-crud-delete.md)]
 
