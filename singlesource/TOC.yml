@@ -4,8 +4,8 @@
     href: ./v1/media-accounts.md
   - name: Media Streams
     href: ./v1/media-streams.md
-  - name: Media Stream Tracks
-    href: ./v1/media-streams-tracks.md
+  - name: Media Tracks
+    href: ./v1/media-tracks.md
   - name: Media Protection Options
     href: ./v1/media-protection-options.md
 - name: Media Services aPaaS (future)
