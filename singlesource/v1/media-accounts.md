@@ -10,7 +10,7 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Media Accounts
+# Media Accounts (t1)
 
 [!INCLUDE [<prerelease-api>](../includes/prerelease-api.md)]
 
@@ -150,11 +150,11 @@ fail to play.
 
 #### [C#](#tab/csharp)
 
-[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-update.md)]
+[!INCLUDE [<csharp-account-crud-update>](../includes/csharp-account-crud-update.md)]
 
 #### [HTTP](#tab/http)
 
-[!INCLUDE [<http-account-creation](../includes/http-account-crud-update.md)]
+[!INCLUDE [<http-account-crud-update](../includes/http-account-crud-update.md)]
 
 ---
 
@@ -164,11 +164,11 @@ Media accounts may be listed using the service API.
 
 #### [C#](#tab/csharp)
 
-[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-list.md)]
+[!INCLUDE [<csharp-account-crud-list>](../includes/csharp-account-crud-list.md)]
 
 #### [HTTP](#tab/http)
 
-[!INCLUDE [<http-account-creation](../includes/http-account-crud-list.md)]
+[!INCLUDE [<http-account-crud-list](../includes/http-account-crud-list.md)]
 
 ---
 
@@ -181,11 +181,11 @@ Media accounts may be deleted. When an account is deleted, all media content and
 
 #### [C#](#tab/csharp)
 
-[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-delete.md)]
+[!INCLUDE [<csharp-account-crud-delete>](../includes/csharp-account-crud-delete.md)]
 
 #### [HTTP](#tab/http)
 
-[!INCLUDE [<http-account-creation](../includes/http-account-crud-delete.md)]
+[!INCLUDE [<http-account-crud-delete](../includes/http-account-crud-delete.md)]
 
 ---
 

@@ -139,8 +139,58 @@ view to video playback mode.
 
 ![player](../media/player-ondemand.png)
 
+## Media stream operations
 
-- outputs define ways of streaming videos
-- example using rtmp source
-- no support for queries
+### Updating a media stream
 
+Media streams can be updated to add or remove outputs. The enabled property of outputs may also be updated.
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-update.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-account-creation](../includes/http-account-crud-update.md)]
+
+---
+
+### Listing media accounts
+
+Media streams may be listed using the service API.
+
+> [!NOTE]
+> The API does not provide support for filtering or sorting lists of media streams. If your application requires a large number
+of media streams, consider using a database to store information media streams.
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-list.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-account-creation](../includes/http-account-crud-list.md)]
+
+---
+
+### Deleting a media account
+
+Media accounts may be deleted. When an account is deleted, all media content and service configuration is removed.
+
+> [!CAUTION]
+> It may not be possible to recover deleted media accounts. Consider using Azure resource locks to prevent accidental resource deletion.
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-delete.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-account-creation](../includes/http-account-crud-delete.md)]
+
+---
+
+## Media account limits and billing
+
+An Azure subscription may contain up to five media accounts. While there is no charge for a media accounts, resources within a media account
+are billed.
