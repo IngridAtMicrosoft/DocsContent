@@ -52,11 +52,31 @@ After creating a media stream, you can stream media to the stream using RTMP.
 
 #### [C#](#tab/csharp/)
 
-[!INCLUDE [<csharp-account-creation>](../includes/csharp-media-stream-rtmp-ingest.md)]
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-media-stream-start-rtmp-ingest.md)]
 
 #### [HTTP](#tab/http/)
 
-[!INCLUDE [<http-account-creation](../includes/http-media-stream-rtmp-ingest.md)]
+[!INCLUDE [<http-account-creation](../includes/http-media-stream-start-rtmp-ingest.md)]
+
+---
+
+The response from the service contains the RTMP ingest URL. This can be used with source encoders to
+stream to the media stream.
+
+#### [Streaming with OBS]
+
+![Media Services resources](../media/obs.png)
+
+#### [Streaming with ffmpeg]
+
+```cmd
+ffmpeg `
+  -re `
+  -i myvideo.mp4 `
+  -c:v libx264 `
+  -c:v aac `
+  -f flv rtmps://rtmp.ingest.azure.media.net/a15e2ed0-8524-41e6-b074-1b759177ce22?key=b4e3567447a3219c7313
+```
 
 ---
 
