@@ -160,7 +160,7 @@ Media streams may be listed using the service API.
 
 > [!NOTE]
 > The API does not provide support for filtering or sorting lists of media streams. If your application requires a large number
-of media streams, consider using a database to store information media streams.
+of media streams, consider using a database to store media stream metadata.
 
 #### [C#](#tab/csharp)
 

@@ -32,7 +32,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Tue, 01 Nov 2022 21:31:47 GMT
+Date:Tue, 01 Nov 2022 21:55:15 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -42,7 +42,7 @@ Content-Type:application/json; odata.metadata=none
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "76ea5ffa-890e-4283-be36-3124603a8a50",
+    "accountId": "a01b1db1-c5ad-425f-89b7-f2e74fa7e885",
     "dataLocation": "westus",
     "publicNetworkAccess": "Disabled",
     "provisioningState": "Succeeded"
@@ -59,8 +59,8 @@ Content-Type:application/json; odata.metadata=none
     "type": "UserAssigned",
     "userAssignedIdentities": {
       "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity": {
-        "clientId": "e43ffa00-9867-4766-8584-28fd67bb0a35",
-        "principalId": "b24091cf-e12b-492b-9814-85ab0e292315"
+        "clientId": "b99c55ef-1c60-4a78-b572-7d3b91fa472a",
+        "principalId": "c4b5acd4-43c7-4e17-8e78-518d37c9d64e"
       }
     }
   }

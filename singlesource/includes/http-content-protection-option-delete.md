@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-DELETE https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount?api-version=2023-01-01
+DELETE https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions/protection-option-1?api-version=2023-01-01
 Accept:application/json
 Authorization:REDACTED
 

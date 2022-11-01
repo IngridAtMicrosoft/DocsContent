@@ -16,7 +16,7 @@ Accept:application/json
 Authorization:REDACTED
 
 200 OK
-Date:Tue, 01 Nov 2022 20:34:02 GMT
+Date:Tue, 01 Nov 2022 21:55:51 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -29,6 +29,7 @@ Content-Type:application/json; odata.metadata=none
     "outputs": {
       "output1": {
         "enabled": true,
+        "contentKeyId": "00000000-0000-0000-0000-000000000000",
         "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a"
       }
     }

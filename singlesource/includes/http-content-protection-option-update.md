@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions/protection-option-1?api-version=2023-01-01
+PATCH https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions/protection-option-1?api-version=2023-01-01
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
@@ -19,19 +19,12 @@ Content-Type:application/json
 {
   "properties": {
     "tokenValidation": {
-      "tokenSigningCertificateIdentifier": "https://mykeys.vault.azure.net/certificates/content-protection-token-certificate",
-      "identity": {
-        "userAssignedIdentity": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity",
-        "useSystemAssignedIdentity": false
-      }
-    },
-    "clearKey": {
-      "enabled": true
+      "tokenSigningCertificateIdentifier": "https://mykeys.vault.azure.net/certificates/content-protection-token-certificate-2"
     }
   }
 }
 
-201 Created
+200 OK
 Date:Tue, 01 Nov 2022 21:55:51 GMT
 Content-Type:application/json; odata.metadata=none
 
@@ -42,7 +35,7 @@ Content-Type:application/json; odata.metadata=none
   "properties": {
     "provisioningState": "Succeeded",
     "tokenValidation": {
-      "tokenSigningCertificateIdentifier": "https://mykeys.vault.azure.net/certificates/content-protection-token-certificate",
+      "tokenSigningCertificateIdentifier": "https://mykeys.vault.azure.net/certificates/content-protection-token-certificate-2",
       "currentTokenSigningCertificateIdentifier": "https://mykeys.vault.azure.net/certificates/content-protection-token-certificate/00000000000000000000000000000000",
       "identity": {
         "userAssignedIdentity": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity",

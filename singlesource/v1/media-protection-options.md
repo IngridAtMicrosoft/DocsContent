@@ -43,6 +43,10 @@ the token protection certificate, and the managed identity that should be used t
 The managed identity must be associated with the media account and must be granted the `Sign` permission for the Key Vault
 certificate.
 
+The token signing certificate may either be specified as a Key Vault certificate URI with a version identifier or a URI without
+version information. When version information is not provided, Media Services will accept tokens signed with any matching, valid,
+and enabled certificate.
+
 #### [C#](#tab/csharp)
 
 [!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
@@ -144,3 +148,57 @@ page can render a player with a content key token.
 </video>
 
 ```
+
+## Media protection options operations
+
+### Updating a media protection option
+
+Media streams can be updated to add or remove outputs. The enabled property of outputs may also be updated.
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<csharp-content-protection-option-update>](../includes/csharp-content-protection-option-update.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-content-protection-option-update](../includes/http-content-protection-option-update.md)]
+
+---
+
+### Listing media protection options
+
+Media protection options may be listed using the service API.
+
+> [!NOTE]
+> The API does not provide support for filtering or sorting lists of media protection options. If your application requires
+a large number of media protection options, consider using a database to store media protection options metadata.
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<csharp-content-protection-option-list>](../includes/csharp-content-protection-option-list.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-content-protection-option-list](../includes/http-content-protection-option-list.md)]
+
+---
+
+### Deleting a media protection option
+
+A media protection option may be deleted if it is not used by any media stream output. If any media stream output
+is using a media protection option, requests to delete the media protection option will fail.
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<csharp-content-protection-option-delete>](../includes/csharp-content-protection-option-delete.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-content-protection-option-delete](../includes/http-content-protection-option-delete.md)]
+
+---
+
+## Media protection options limits and billing
+
+A media account may have up to one thousand media protection options. There is no charge for creating a media protection
+option. Requests to access keys using a media protection option are billed.
