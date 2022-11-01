@@ -15,7 +15,7 @@ var managedIdentity = new ResourceIdentifier(
     "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources" +
     "/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity");
     
-var account = await mediaAccount.GetMediaProtectionOptions().CreateOrUpdateAsync(
+var mediaProtectionOption = (await mediaAccount.GetMediaProtectionOptions().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "protection-option-1",
     new MediaProtectionOptionData
@@ -29,5 +29,5 @@ var account = await mediaAccount.GetMediaProtectionOptions().CreateOrUpdateAsync
             }
         },
         ClearKeyEnabled = true
-    });
+    })).Value;
 ```

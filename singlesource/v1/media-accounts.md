@@ -191,4 +191,5 @@ Media accounts may be deleted. When an account is deleted, all media content and
 
 ## Media account limits and billing
 
-An Azure subscription may contain up to five media accounts. There is no charge for media accounts (but resources within the media account are billed).
+An Azure subscription may contain up to five media accounts. While there is no charge for a media accounts, resources within a media account
+are billed.

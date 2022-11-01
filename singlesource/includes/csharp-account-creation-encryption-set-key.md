@@ -29,7 +29,7 @@ var mediaAccount = (await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
         {
             KeyVaultProperties = new KeyVaultProperties
             {
-                KeyIdentifier = keyUri,
+                KeyIdentifier = keyUri
             },
             Identity = new ResourceIdentity(useSystemAssignedIdentity: false)
             {
