@@ -24,7 +24,7 @@ conditions.
 [!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
 [!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
 
-Listing media tracks for a media stream:
+Listing media tracks in a media stream:
 
 [!INCLUDE [<csharp-media-tracks-list>](../includes/csharp-media-tracks-list.md)]
 
