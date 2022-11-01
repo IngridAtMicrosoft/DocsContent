@@ -28,6 +28,37 @@ outputs if different groups of viewers access the stream in different ways (for 
 
 ## Creating a media stream
 
+Media streams can be created using the Azure Portal, ARM templates, client SDKs, or using HTTP requests. The request to create a media
+stream specifies the outputs for the stream; the media stream creation response includes the streaming URLs for each output.
+
+#### [C#](#tab/csharp/)
+
+[!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
+[!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
+
+Media stream creation:
+
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-media-stream-rtmp-create.md)]
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-account-creation](../includes/http-media-stream-rtmp-create.md)]
+
+---
+
+## Streaming media to a media stream using RTMP
+
+After creating a media stream, you can stream media to the stream using RTMP.
+
+#### [C#](#tab/csharp/)
+
+[!INCLUDE [<csharp-account-creation>](../includes/csharp-media-stream-rtmp-ingest.md)]
+
+#### [HTTP](#tab/http/)
+
+[!INCLUDE [<http-account-creation](../includes/http-media-stream-rtmp-ingest.md)]
+
+---
 
 
 - outputs define ways of streaming videos

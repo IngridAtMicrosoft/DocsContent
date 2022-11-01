@@ -19,7 +19,7 @@ var mediaAccount = armClient.GetMediaAccountResource(
 
 var mediaStream = (await mediaAccount.GetMediaStreams().CreateOrUpdateAsync(
     WaitUntil.Completed,
-    "my-movie",
+    "mymovie",
     new MediaStreamData
     {
         Outputs =
