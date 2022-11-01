@@ -109,10 +109,9 @@ The live stream can be viewed using a player. Media can be streamed in a web pag
 </head>
 
 <body>
-  <video class="azuremediaplayer" autoplay controls>
-    <source src="//stream.azure.media.net/a15e2ed0-8524-41e6-b074-1b759177ce22"
-      type="application/vnd.ms-sstr+xml" />
-  </video>
+  <video class="azuremediaplayer amp-default-skin" autoplay controls width="640" height="400">
+    <source src="//stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a" type="application/vnd.ms-sstr+xml" />
+</video>
 </body>
 
 </html>
@@ -175,10 +174,8 @@ of media streams, consider using a database to store information media streams.
 
 ### Deleting a media stream
 
-Media accounts may be deleted. When an account is deleted, all media content and service configuration is removed.
-
-> [!CAUTION]
-> It may not be possible to recover deleted media accounts. Consider using Azure resource locks to prevent accidental resource deletion.
+Deleting a media stream deletes the media associated with the stream, stops any RTMP input, and disables streaming from
+each of the outputs defined in the media stream.
 
 #### [C#](#tab/csharp)
 
@@ -192,5 +189,5 @@ Media accounts may be deleted. When an account is deleted, all media content and
 
 ## Media stream limits and billing
 
-An Azure subscription may contain up to five media accounts. While there is no charge for a media accounts, resources within a media account
-are billed.
+A media account may have up to one million media streams. Media streams are billed for the number of minutes of content stored,
+the number of minutes of ingest, and the number of minutes of content streamed.
