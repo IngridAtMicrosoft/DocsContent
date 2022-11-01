@@ -147,15 +147,15 @@ Media streams can be updated to add or remove outputs. The enabled property of o
 
 #### [C#](#tab/csharp)
 
-[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-update.md)]
+[!INCLUDE [<csharp-media-stream-update>](../includes/csharp-media-stream-update.md)]
 
 #### [HTTP](#tab/http)
 
-[!INCLUDE [<http-account-creation](../includes/http-account-crud-update.md)]
+[!INCLUDE [<http-media-stream-update](../includes/http-media-stream-update.md)]
 
 ---
 
-### Listing media accounts
+### Listing media streams
 
 Media streams may be listed using the service API.
 
@@ -165,15 +165,15 @@ of media streams, consider using a database to store information media streams.
 
 #### [C#](#tab/csharp)
 
-[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-list.md)]
+[!INCLUDE [<csharp-media-stream-list>](../includes/csharp-media-stream-list.md)]
 
 #### [HTTP](#tab/http)
 
-[!INCLUDE [<http-account-creation](../includes/http-account-crud-list.md)]
+[!INCLUDE [<http-media-stream-list](../includes/http-media-stream-list.md)]
 
 ---
 
-### Deleting a media account
+### Deleting a media stream
 
 Media accounts may be deleted. When an account is deleted, all media content and service configuration is removed.
 
@@ -182,15 +182,15 @@ Media accounts may be deleted. When an account is deleted, all media content and
 
 #### [C#](#tab/csharp)
 
-[!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-delete.md)]
+[!INCLUDE [<csharp-media-stream-delete>](../includes/csharp-media-stream-delete.md)]
 
 #### [HTTP](#tab/http)
 
-[!INCLUDE [<http-account-creation](../includes/http-account-crud-delete.md)]
+[!INCLUDE [<http-media-stream-delete](../includes/http-media-stream-delete.md)]
 
 ---
 
-## Media account limits and billing
+## Media stream limits and billing
 
 An Azure subscription may contain up to five media accounts. While there is no charge for a media accounts, resources within a media account
 are billed.

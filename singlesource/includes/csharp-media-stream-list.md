@@ -11,5 +11,10 @@ ms.service: media-services
 ---
 
 ```csharp
-await mediaStream.DeleteAsync(WaitUntil.Completed);
+var mediaStreams = mediaAccount.GetMediaStreams().GetAllAsync();
+
+await foreach (var m in mediaStreams)
+{
+    Console.WriteLine(m.Id);
+}
 ```

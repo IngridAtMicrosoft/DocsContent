@@ -10,7 +10,7 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Media Accounts (t1)
+# Media Accounts
 
 [!INCLUDE [<prerelease-api>](../includes/prerelease-api.md)]
 
