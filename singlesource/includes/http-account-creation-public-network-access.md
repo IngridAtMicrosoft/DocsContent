@@ -26,7 +26,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Tue, 01 Nov 2022 16:35:49 GMT
+Date:Tue, 01 Nov 2022 21:31:47 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -36,7 +36,7 @@ Content-Type:application/json; odata.metadata=none
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "d060aef7-a13d-43e2-9466-c6725c2439ad",
+    "accountId": "a40ba96d-9740-46a6-a430-d45f0526d4f5",
     "dataLocation": "westus",
     "publicNetworkAccess": "Disabled",
     "provisioningState": "Succeeded"

@@ -28,5 +28,5 @@ var mediaStream = (await mediaAccount.GetMediaStreams().CreateOrUpdateAsync(
         }
     })).Value;
 
-Console.WriteLine(mediaStream.Data.Outputs["output1"].StreamingUri);
+Console.WriteLine(mediaStream.Data.Outputs["output1"].ContentKeyId);
 ```
