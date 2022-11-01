@@ -85,8 +85,6 @@ To playback media using media protection option, the player must request the con
 Tokens must have an audience of `urn:microsoft:azure:mediaservices` and a `urn:microsoft:azure:mediaservices:contentkeyidentifier`
 claim containing the content key of the output. Tokens must be signed using the token signing certificate.
 
-#### [C#](#tab/csharp)
-
 ```csharp
 var signingCertificate = GetSigningCertificate(); // read the token signing certificate from Key Vault
 
@@ -104,7 +102,6 @@ var token = new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
     SigningCredentials = new X509SigningCredentials(signingCertificate),
 });
 ```
----
 
 ## Media playback using tokens
 
