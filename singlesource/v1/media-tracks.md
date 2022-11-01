@@ -16,14 +16,15 @@ The media tracks resource lists each of the tracks in a media stream.
 
 > [!NOTE]
 > The media tracks API lists the primary tracks within a media stream. When a stream is viewed, Media Services
-may generate video and audio tracks with different bit rates.
+derives new tracks from the primary tracks to match the capabilities of the player and the viewer's network
+conditions.
 
 #### [C#](#tab/csharp)
 
 [!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
 [!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
 
-Media stream creation:
+Listing media tracks for a media stream:
 
 [!INCLUDE [<csharp-media-tracks-list>](../includes/csharp-media-tracks-list.md)]
 
@@ -32,3 +33,7 @@ Media stream creation:
 [!INCLUDE [<http-media-tracks-list](../includes/http-media-tracks-list.md)]
 
 ---
+
+## Media track and billing
+
+There is no charge for accessing media tracks.

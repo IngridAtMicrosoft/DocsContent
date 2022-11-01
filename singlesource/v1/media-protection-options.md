@@ -12,11 +12,20 @@ ms.service: media-services
 
 # Media Protection Options
 
-**TODO**
+Access to media streams can be restricted by setting a media protection option for a media stream output.
+Each media stream output with media protection enabled is encrypted with a different content keys. Viewers
+can access the content key required to view an output by presenting a valid token to the content key server.
 
-#### [C#](#tab/csharp)
+Tokens used to request content keys are encrypted with a token signing key, stored in Azure Key Vault. The token
+signing key is accessed a Managed Identity of the media account.
+
+## Creating a token validation certificate
+
+Each media protection option requires a token signing certificate, stored in an Azure Key Vault.
 
 Creating a certificate for token validation:
+
+#### [C#](#tab/csharp)
 
 [!INCLUDE [<csharp-content-protection-create-certificate>](../includes/csharp-content-protection-create-certificate.md)]
 
@@ -25,6 +34,14 @@ Creating a certificate for token validation:
 [!INCLUDE [<http-content-protection-create-certificate](../includes/http-content-protection-create-certificate.md)]
 
 ---
+
+## Creating a media protection option
+
+To create a token protection option, specify the enabled content protection methods (currently only clear key is supported),
+the token protection certificate, and the managed identity that should be used to access the token protection certificate.
+
+The managed identity must be associated with the media account and must be granted the `Sign` permission for the Key Vault
+certificate.
 
 #### [C#](#tab/csharp)
 
@@ -41,13 +58,33 @@ Creating a media protection option:
 
 ---
 
+## Using a media protection option in a media stream
+
+Each output of a media stream may have a media protection option. When a media protection option is set
+for a media stream output, a content key will be generated for the output and the output properties
+will contain the ID of the content key.
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<csharp-media-stream-with-media-protection-options>](../includes/media-stream-with-media-protection-options.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-media-stream-with-media-protection-options](../includes/http-media-stream-with-media-protection-options.md)]
 
 ---
+
+## Media protection tokens
+
+To playback media using media protection option, the player must request the content key using a token.
+
+Tokens must have an audience of `urn:microsoft:azure:mediaservices` and a `urn:microsoft:azure:mediaservices:contentkeyidentifier`
+claim containing the content key of the output. Tokens must be signed using the token signing certificate.
 
 #### [C#](#tab/csharp)
 
 ```csharp
-var signingCertificate = GetSigningCertificate();
+var signingCertificate = GetSigningCertificate(); // read the token signing certificate from Key Vault
 
 var token = new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
 {
@@ -55,7 +92,7 @@ var token = new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
     {
         {
             "urn:microsoft:azure:mediaservices:contentkeyidentifier",
-            "c10a564b-c70d-4f77-9d48-1f7f870e90c9"
+            "47f91083-74b4-455a-8d9b-86efbc86e0b0"
         }
     },
     Expires = DateTime.UtcNow.AddHours(4),
@@ -63,9 +100,47 @@ var token = new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
     SigningCredentials = new X509SigningCredentials(signingCertificate),
 });
 ```
-
-#### [HTTP](#tab/http)
-
-[!INCLUDE [<http-content-protection-option-create](../includes/http-content-protection-option-create.md)]
-
 ---
+
+## Media playback using tokens
+
+Tokens may be embedded in HTML pages by a web server. The following example shows how a ASP.NET Core Razor
+page can render a player with a content key token.
+
+```csharp
+
+@page
+@using System.Security.Claims
+@using Microsoft.IdentityModel.JsonWebTokens
+@using Microsoft.IdentityModel.Tokens
+
+@{
+    var signingCertificate = GetSigningCertificate();
+
+    var token = new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
+    {
+        Claims = new Dictionary<string, object>
+        {
+            {
+                "urn:microsoft:azure:mediaservices:contentkeyidentifier",
+                "47f91083-74b4-455a-8d9b-86efbc86e0b0"
+            }
+        },
+        Expires = DateTime.UtcNow.AddHours(4),
+        Audience = "urn:microsoft:azure:mediaservices",
+        SigningCredentials = new X509SigningCredentials(signingCertificate),
+    });
+}
+
+<HeadContent>
+  <link href="//amp.azure.net/libs/amp/latest/skins/amp-default/azuremediaplayer.min.css" rel="stylesheet">
+  <script src="//amp.azure.net/libs/amp/latest/azuremediaplayer.min.js"></script>
+</HeadContent>
+
+<video class="azuremediaplayer" autoplay controls>
+  <source src="//stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a"
+    type="application/vnd.ms-sstr+xml"
+    data-setup='{"protectionInfo": [{"type": "AES", "authenticationToken": "Bearer=@token"}]}' />
+</video>
+
+```
