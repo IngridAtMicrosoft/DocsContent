@@ -3,10 +3,10 @@ title: Media Streams
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
-ms.date: 01/01/2023
+ms.date: 12/01/2022
 ms.author: jopayn
 ms.reviewer: jopayn
-ms.lastreviewed: 01/01/2023
+ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
@@ -65,11 +65,11 @@ stream to the media stream.
 
 #### [Streaming with OBS]
 
-![Media Services resources](../media/obs.png)
+![OBS stream setup](../media/obs.png)
 
 #### [Streaming with ffmpeg]
 
-```cmd
+```powershell
 ffmpeg `
   -re `
   -i myvideo.mp4 `
