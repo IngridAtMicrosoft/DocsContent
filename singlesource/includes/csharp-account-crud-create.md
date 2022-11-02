@@ -16,6 +16,6 @@ var mediaAccount = (await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
     "myaccount",
     new MediaAccountData("global")
     {
-        DataLocation = AzureLocation.WestUS
+        DataLocation = "United States"
     })).Value;
 ```

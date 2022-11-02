@@ -14,16 +14,16 @@ ms.service: media-services
 
 [!INCLUDE [<prerelease-api>](../includes/prerelease-api.md)]
 
-Media accounts provide a simple, scalable, and reliable way to manage media using Azure. Media accounts can be used to stream live events to audiences of any size.
+**Media accounts** provide a simple, scalable, and reliable way to manage media using Azure. Media accounts can be used to stream live events to audiences of any size.
 
 ![Media Services resources](../media/resources.png)
 
-Media accounts provide are an alternative to exiting Media Services accounts. Media accounts make streaming media simple, but do not provide as much flexibility as Media Services accounts.
+Media accounts are an alternative to Media Services accounts. Media accounts make streaming media simple, but do not provide as much flexibility as Media Services accounts.
 
 | Feature | Media Services | Media accounts |
 |---|---|---|
 | Account location | Any of 50+ Azure regions | Global |
-| Data storage | Media data is stored in one or more Azure Storage accounts, managed by the account owner | Service managed storage |
+| Data storage | Media data is stored in one or more Azure Storage accounts, managed by the account owner | Storage for media data is managed by Media Services |
 | Streaming scale | Optional CDN integration, configured by the account owner | Service managed high-scale streaming |
 | Content protection | Clear key and DRM protection, using user defined token authentication | Clear key protection using simple tokens |
 | API | APIs for managing, streaming, protecting, and encoding media | Simple APIs for streaming live media |
@@ -54,8 +54,9 @@ Media account creation:
 ### Data location
 
 Media accounts are a global Azure resource and media may be processed and cached in any Azure region. Media content is stored in the
-location when the account is created using the `dataLocation` property. The data location of an account may not be changed after the
-account has been created.
+location specified when the account is created using the `dataLocation` property. `dataLocation` is set to an Azure geography, for example
+`United States` or `Europe`, data may be stored within any Azure region in the geography. The data location of an account may not be
+changed after the account has been created.
 
 ### Public network access
 
@@ -74,7 +75,7 @@ network access is blocked, media may only be streamed using a [private endpoint]
 
 ### Managed identity
 
-Media accounts use managed identities to access keys used for account encryption and signing tokens for content protection.
+Media accounts use managed identities to access keys used for account encryption and certificates for content key token signing.
 
 Managed identities are configured using the `identity` property of the media account:
 
@@ -91,8 +92,8 @@ Managed identities are configured using the `identity` property of the media acc
 
 ### Encryption
 
-A media account may configured to encrypt data using a customer provided key. The customer provided key is used when encrypting
-media content and media content keys (different keys are used when streaming media content to viewers).
+A media account may configured to encrypt data using a customer provided key. The customer provided key is used to encrypt
+media content and media content keys when stored by the service (different keys are used when streaming media content to viewers).
 
 To encrypt a media account using a customer provided key, a key must be created in a Key Vault:
 
@@ -107,9 +108,9 @@ To encrypt a media account using a customer provided key, a key must be created 
 ---
 
 A managed identity associated with the media account must be granted access to key. The method for granting access
-depends on the access model configured in the Key Vault.
+depends on the access model configured for the Key Vault.
 
-Once the key has been created and the managed identity has been granted access to the key, the key may be set
+Once a key has been created and the managed identity has been granted access to the key, the key may be set
 in an account creation or update request:
 
 #### [C#](#tab/csharp)
@@ -144,9 +145,10 @@ The public network access, encryption properties, identity, and tags of an exist
 location and data location properties may not be updated.
 
 > [!CAUTION]
-> Updating the identity properties of a media account may prevent Media Services from accessing account encryption keys and token signing keys stored
-in Azure Key Vault. The media account will be disabled if the account encryption key cannot be accessed. Streams that depend on a token signing key will
-fail to play.
+> Updating the identity properties of a media account may prevent Media Services from accessing account encryption keys
+and token signing certificates stored in Azure Key Vault. The media account will be disabled if the account encryption
+key cannot be accessed. Streams that depend on a token signing certificate will fail to play if the certificate cannot be
+accessed.
 
 #### [C#](#tab/csharp)
 

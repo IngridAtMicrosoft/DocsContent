@@ -17,7 +17,7 @@ The media tracks resource lists each of the tracks in a media stream.
 > [!NOTE]
 > The media tracks API lists the primary tracks within a media stream. When a stream is viewed, Media Services
 derives new tracks from the primary tracks to match the capabilities of the player and the viewer's network
-conditions.
+conditions -- derived tracks are not included in the list tracks API response.
 
 #### [C#](#tab/csharp)
 

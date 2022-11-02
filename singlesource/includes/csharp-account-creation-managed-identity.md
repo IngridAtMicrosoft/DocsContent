@@ -24,7 +24,7 @@ var mediaAccount = (await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
         {
             UserAssignedIdentities = { { managedIdentity, new UserAssignedIdentity() } }
         },
-        DataLocation = AzureLocation.WestUS,
+        DataLocation = "United States",
         PublicNetworkAccess = PublicNetworkAccess.Disabled
     })).Value;
 ```

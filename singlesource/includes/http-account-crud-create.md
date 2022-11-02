@@ -20,12 +20,12 @@ Content-Type:application/json
   "tags": {},
   "location": "global",
   "properties": {
-    "dataLocation": "westus"
+    "dataLocation": "United States"
   }
 }
 
 201 Created
-Date:Tue, 01 Nov 2022 21:55:51 GMT
+Date:Tue, 01 Nov 2022 23:11:00 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -35,8 +35,8 @@ Content-Type:application/json; odata.metadata=none
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "91cbe840-65af-4fdc-a473-7d72b21288f2",
-    "dataLocation": "westus",
+    "accountId": "b9addd46-226d-48af-afc6-713d312c7ff2",
+    "dataLocation": "United States",
     "provisioningState": "Succeeded"
   },
   "systemData": {

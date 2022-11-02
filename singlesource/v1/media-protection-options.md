@@ -12,18 +12,18 @@ ms.service: media-services
 
 # Media Protection Options
 
-Viewing media stream outputs can be restricted using media protection options. Each media stream output with
-media protection option is encrypted with a content keys. Viewers can access the content key required to
-view an output by presenting a valid token to the content key server.
+Media stream outputs can protected using media protection options. Each media stream output with
+media protection option is encrypted with a content key. Authorized viewers can use tokens
+to access the content key for a media stream output.
 
-Tokens used to request content keys are encrypted with a token signing key, stored in Azure Key Vault. The token
-signing key is accessed a Managed Identity of the media account.
+Tokens used in request media content key requests are signed with a token signing certificate, stored in
+Azure Key Vault. The token signing certificate is accessed a managed identity associated with the media account.
 
-## Creating a token validation certificate
+## Creating a token signing certificate
 
 Each media protection option requires a token signing certificate, stored in an Azure Key Vault.
 
-Creating a certificate for token validation:
+Creating a token signing certificate:
 
 #### [C#](#tab/csharp)
 
@@ -116,7 +116,7 @@ page can render a player with a content key token.
 @using Microsoft.IdentityModel.Tokens
 
 @{
-    var signingCertificate = GetSigningCertificate();
+    var signingCertificate = GetSigningCertificate(); // read the token signing certificate from Key Vault
 
     var token = new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
     {
@@ -150,7 +150,7 @@ page can render a player with a content key token.
 
 ### Updating a media protection option
 
-Media streams can be updated to add or remove outputs. The enabled property of outputs may also be updated.
+Media protection options may be updated to change the token signing key.
 
 #### [C#](#tab/csharp)
 

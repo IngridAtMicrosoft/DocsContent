@@ -23,12 +23,12 @@ Content-Type:application/json
   },
   "location": "global",
   "properties": {
-    "dataLocation": "westus"
+    "dataLocation": "United States"
   }
 }
 
 201 Created
-Date:Tue, 01 Nov 2022 21:55:23 GMT
+Date:Tue, 01 Nov 2022 23:10:31 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -41,8 +41,8 @@ Content-Type:application/json; odata.metadata=none
     "cost-center": "marketing"
   },
   "properties": {
-    "accountId": "19988f26-c6dc-46f2-bea2-22fa3dbe82fb",
-    "dataLocation": "westus",
+    "accountId": "5f68b047-cb2b-4aa2-84c9-2c32a398af15",
+    "dataLocation": "United States",
     "provisioningState": "Succeeded"
   },
   "systemData": {
