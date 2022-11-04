@@ -11,12 +11,12 @@ ms.service: media-services
 ---
 
 ```http
-GET https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions?api-version=2023-01-01
+GET https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions?api-version=2023-03-03
 Accept:application/json
 Authorization:REDACTED
 
 200 OK
-Date:Tue, 01 Nov 2022 23:11:00 GMT
+Date:Fri, 04 Nov 2022 16:41:30 GMT
 Content-Type:application/json; odata.metadata=none
 
 {

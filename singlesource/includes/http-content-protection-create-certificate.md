@@ -32,7 +32,7 @@ Content-Type:application/json
 }
 
 202 Accepted
-Date:Tue, 01 Nov 2022 23:10:39 GMT
+Date:Fri, 04 Nov 2022 16:41:06 GMT
 Content-Type:application/json; charset=utf-8
 
 {
@@ -40,11 +40,11 @@ Content-Type:application/json; charset=utf-8
   "issuer": {
     "name": "Self"
   },
-  "csr": "MIIBNDCB3AIBADAvMS0wKwYDVQQDEyRjb250ZW50LXByb3RlY3Rpb24tdG9rZW4tY2VydGlmaWNhdGUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARJJCZtNcfLOB6m+N2iIJ7vLXPZjqi3+tBdRu/NpKr6i8x3kKwp4If/e0/5lmSlSTBLUJY+zH7DDyyMHcD3kkQUoEswSQYJKoZIhvcNAQkOMTwwOjAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAkGA1UdEwQCMAAwCgYIKoZIzj0EAwIDRwAwRAIgYBlEmKXhRdTJpdekhtF9UFNWd3pYRXrGCSaUySWxiGACIDUx3CGmNE5fGy+lLzrhIRNO5xQzCtKBTCF+HbcJQkUh",
+  "csr": "MIIBNTCB3AIBADAvMS0wKwYDVQQDEyRjb250ZW50LXByb3RlY3Rpb24tdG9rZW4tY2VydGlmaWNhdGUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATKpKok52o8GIX4C7ErqRgthB0tN0Y1BimuWu8bGKLBXPtf7cAiKaHpmILmpFjPp7Xufe3vLgrEgwxKQN/Jae7poEswSQYJKoZIhvcNAQkOMTwwOjAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAkGA1UdEwQCMAAwCgYIKoZIzj0EAwIDSAAwRQIhAOZqwdJVmlJv+OHgY77SQIMszwCpIbQizhqofzRnj5X3AiAmJd1UI7Ojb4dAg5UfA5yCOwqBW7pIiYQW35ton3sY/w==",
   "cancellation_requested": false,
   "status": "inProgress",
   "status_details": "Pending certificate created. Certificate request is in progress. This may take some time based on the issuer provider. Please check again later.",
-  "request_id": "521ef2d1d9024c4f8ec004c7b0fbd971"
+  "request_id": "e05aaeba950d42a6ad43aa106bd4e30d"
 }
 
 GET https://mykeys.vault.azure.net/certificates/content-protection-token-certificate?api-version=7.3
@@ -53,21 +53,21 @@ Authorization:REDACTED
 Content-Type:application/json
 
 200 OK
-Date:Tue, 01 Nov 2022 23:10:59 GMT
+Date:Fri, 04 Nov 2022 16:41:28 GMT
 Content-Type:application/json; charset=utf-8
 
 {
-  "id": "https://mykeys.vault.azure.net/certificates/content-protection-token-certificate/cde6f539d4f74d479f73d1a67f517f31",
-  "kid": "https://mykeys.vault.azure.net/keys/content-protection-token-certificate/cde6f539d4f74d479f73d1a67f517f31",
-  "sid": "https://mykeys.vault.azure.net/secrets/content-protection-token-certificate/cde6f539d4f74d479f73d1a67f517f31",
-  "x5t": "rM4pTxFBxCJGk9hhiBj5dVaq0A4",
-  "cer": "MIIB1zCCAX6gAwIBAgIQXV3Z7NbNTFqAkpoJXhn4dDAKBggqhkjOPQQDAjAvMS0wKwYDVQQDEyRjb250ZW50LXByb3RlY3Rpb24tdG9rZW4tY2VydGlmaWNhdGUwHhcNMjIxMTAxMjMwMDUyWhcNMjMxMTAxMjMxMDUyWjAvMS0wKwYDVQQDEyRjb250ZW50LXByb3RlY3Rpb24tdG9rZW4tY2VydGlmaWNhdGUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARJJCZtNcfLOB6m+N2iIJ7vLXPZjqi3+tBdRu/NpKr6i8x3kKwp4If/e0/5lmSlSTBLUJY+zH7DDyyMHcD3kkQUo3wwejAOBgNVHQ8BAf8EBAMCB4AwCQYDVR0TBAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAU/sQPmh3EvWfL7RCP6ZxlOKTeGR4wHQYDVR0OBBYEFP7ED5odxL1ny+0Qj+mcZTik3hkeMAoGCCqGSM49BAMCA0cAMEQCIEFtgzrf2t2YV1C88ptpG4xrqUCUTD2+mTjcGiGLgaQHAiArmttN46+srhvhVqUsExkqQ3H3GeIH8yvVDWLly5N07A==",
+  "id": "https://mykeys.vault.azure.net/certificates/content-protection-token-certificate/54d36f2bad42450b9afb8c1df912786f",
+  "kid": "https://mykeys.vault.azure.net/keys/content-protection-token-certificate/54d36f2bad42450b9afb8c1df912786f",
+  "sid": "https://mykeys.vault.azure.net/secrets/content-protection-token-certificate/54d36f2bad42450b9afb8c1df912786f",
+  "x5t": "QqUeBRViCdN5tyYU1Gjrj9Wd2hA",
+  "cer": "MIIB2DCCAX6gAwIBAgIQZb/LyCXPT1eK6GDP2Mi0vjAKBggqhkjOPQQDAjAvMS0wKwYDVQQDEyRjb250ZW50LXByb3RlY3Rpb24tdG9rZW4tY2VydGlmaWNhdGUwHhcNMjIxMTA0MTYzMTE5WhcNMjMxMTA0MTY0MTE5WjAvMS0wKwYDVQQDEyRjb250ZW50LXByb3RlY3Rpb24tdG9rZW4tY2VydGlmaWNhdGUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATKpKok52o8GIX4C7ErqRgthB0tN0Y1BimuWu8bGKLBXPtf7cAiKaHpmILmpFjPp7Xufe3vLgrEgwxKQN/Jae7po3wwejAOBgNVHQ8BAf8EBAMCB4AwCQYDVR0TBAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0jBBgwFoAUcO7fVb3CssFU9TYiqHz3ED2Q7NMwHQYDVR0OBBYEFHDu31W9wrLBVPU2Iqh89xA9kOzTMAoGCCqGSM49BAMCA0gAMEUCIFj5cZRXRh200hkHF8eaCHnj6EeO37eN96BfMnha6+gQAiEA7qq6KP+LnmlN74jjekZxu8EJk0jNYRD3mg9ghG30S2c=",
   "attributes": {
     "enabled": true,
-    "nbf": 1667343652,
-    "exp": 1698880252,
-    "created": 1667344252,
-    "updated": 1667344252,
+    "nbf": 1667579479,
+    "exp": 1699116079,
+    "created": 1667580080,
+    "updated": 1667580080,
     "recoveryLevel": "Recoverable",
     "recoverableDays": 90
   },
@@ -113,7 +113,7 @@ Content-Type:application/json; charset=utf-8
     "attributes": {
       "enabled": true,
       "created": 1666977950,
-      "updated": 1667344240
+      "updated": 1667580067
     }
   },
   "pending": {
