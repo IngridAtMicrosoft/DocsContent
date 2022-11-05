@@ -12,7 +12,7 @@ ms.service: media-services
 
 # Integration with Media Services assets
 
-[!INCLUDE [<prerelease-api>](../includes/prerelease-api.md)]
+[!INCLUDE [<prerelease-api>](../includes/future-api.md)]
 
 Media streams can be created from Media Services assets. When a Media Services asset is used for the source of a media stream, the
 media data is copied and converted into format that can be streamed.
@@ -65,10 +65,35 @@ When the media stream is ready to be viewed, the media stream state will be `OnD
 
 #### [C#](#tab/csharp)
 
-[!INCLUDE [<csharp-media-stream-asset-get-1>](../includes/csharp-media-stream-asset-get-2.md)]
+[!INCLUDE [<csharp-media-stream-asset-get-2>](../includes/csharp-media-stream-asset-get-2.md)]
 
 #### [HTTP](#tab/http)
 
-[!INCLUDE [<http-media-stream-asset-get-1](../includes/http-media-stream-asset-get-2.md)]
+[!INCLUDE [<http-media-stream-asset-get-2](../includes/http-media-stream-asset-get-2.md)]
 
 ---
+
+## Viewing the media stream
+
+Once the media content has been processed, it may be viewed using a player. Media can be streamed in a web page using Azure Media Player:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Playback</title>
+  <link href="//amp.azure.net/libs/amp/latest/skins/amp-default/azuremediaplayer.min.css" rel="stylesheet">
+  <script src="//amp.azure.net/libs/amp/latest/azuremediaplayer.min.js"></script>
+</head>
+
+<body>
+  <video class="azuremediaplayer amp-default-skin" autoplay controls width="640" height="400">
+    <source src="//stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a" type="application/vnd.ms-sstr+xml" />
+</video>
+</body>
+
+</html>
+```
+
+![player](../media/player-ondemand.png)

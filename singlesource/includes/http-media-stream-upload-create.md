@@ -11,12 +11,23 @@ ms.service: media-services
 ---
 
 ```http
-GET https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie?api-version=2023-03-03
+PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie?api-version=2023-03-03
 Accept:application/json
 Authorization:REDACTED
+Content-Type:application/json
 
-200 OK
-Date:Sat, 05 Nov 2022 00:12:09 GMT
+{
+  "properties": {
+    "outputs": {
+      "output1": {
+        "enabled": true
+      }
+    }
+  }
+}
+
+201 Created
+Date:Sat, 05 Nov 2022 00:37:41 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -25,7 +36,7 @@ Content-Type:application/json; odata.metadata=none
   "type": "Microsoft.Media/mediaAccounts/mediaStreams",
   "properties": {
     "provisioningState": "Succeeded",
-    "streamState": "Processing",
+    "streamState": "Idle",
     "outputs": {
       "output1": {
         "enabled": true,

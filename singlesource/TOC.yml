@@ -10,17 +10,17 @@
     href: ./v1/media-protection-options.md
 - name: Media Services aPaaS (future)
   items:
+  - name: Streaming on-demand videos
+    href: ./v2/media-streams-vod.md
+  - name: Streaming from browsers
+    href: ./v2/media-streams-browser.md
+  - name: Streaming Media Services assets
+    href: ./v2/media-streams-assets.md
   - name: Media Protection Options with DRM
     href: ./v2/media-protection-options-drm.md
   - name: Stream Overlays
     href: ./v2/media-streams-overlays.md
   - name: Relaying to other services
     href: ./v2/media-streams-relays.md
-  - name: Streaming on-demand videos
-    href: ./v2/media-streams-vod.md
-  - name: Streaming from browsers
-    href: ./v2/media-streams-browser.md
-  - name: Integration with Media Services assets
-    href: ./v2/media-streams-assets.md
   - name: Network security
     href: ./v2/network-security.md
