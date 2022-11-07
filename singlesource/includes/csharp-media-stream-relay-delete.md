@@ -11,5 +11,5 @@ ms.service: media-services
 ---
 
 ```csharp
-var stopRtmpIngestResponse = (await mediaStream.StopRtmpIngestAsync(new StopRtmpIngestContent { })).Value;
+await mediaStream.DeleteAsync(WaitUntil.Completed);
 ```

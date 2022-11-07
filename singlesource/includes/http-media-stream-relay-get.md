@@ -11,23 +11,12 @@ ms.service: media-services
 ---
 
 ```http
-PATCH https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie?api-version=2023-01-01
+GET https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie?api-version=2023-03-03
 Accept:application/json
 Authorization:REDACTED
-Content-Type:application/json
-
-{
-  "properties": {
-    "outputs": {
-      "output2": {
-        "enabled": true
-      }
-    }
-  }
-}
 
 200 OK
-Date:Mon, 07 Nov 2022 18:06:22 GMT
+Date:Mon, 07 Nov 2022 18:12:47 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -36,15 +25,25 @@ Content-Type:application/json; odata.metadata=none
   "type": "Microsoft.Media/mediaAccounts/mediaStreams",
   "properties": {
     "provisioningState": "Succeeded",
-    "streamState": "OnDemand",
+    "streamState": "Processing",
     "outputs": {
-      "output2": {
-        "enabled": true,
-        "streamingUri": "https://stream.azure.media.net/0b8d316b-e1d6-4a35-a865-1edecec7b28d"
-      },
       "output1": {
         "enabled": true,
         "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a"
+      },
+      "outputRelayToSocialMedia": {
+        "enabled": true,
+        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a",
+        "streamRelay": {
+          "relayUri": "rtmps://rtmp.socialmedia.example.com/ingest/abcabcabc"
+        }
+      },
+      "outputRelayToContentAnalyzer": {
+        "enabled": true,
+        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a",
+        "streamRelay": {
+          "relayUri": "rtmps://rtmp.contentanalyzer.example.com/ingest/abcabcabc"
+        }
       }
     }
   },
