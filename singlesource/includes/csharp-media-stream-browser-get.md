@@ -11,5 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-var stopRtmpIngestResponse = (await mediaStream.StopWebIngestAsync(new StopWebIngestContent { })).Value;
+mediaStream = await mediaStream.GetAsync();
+
+Console.WriteLine(mediaStream.Data.StreamState); // prints "Live" when the media stream is receiving RTMP data
 ```
