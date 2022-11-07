@@ -13,5 +13,5 @@ ms.service: media-services
 ```csharp
 mediaStream = await mediaStream.GetAsync();
 
-Console.WriteLine(mediaStream.Data.StreamState); // prints "Processing" while the media data is converted
+Console.WriteLine(mediaStream.Data.StreamState); // prints "OnDemand" when the media is ready to be streamed
 ```

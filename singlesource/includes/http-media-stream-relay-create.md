@@ -39,7 +39,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Mon, 07 Nov 2022 18:33:36 GMT
+Date:Mon, 07 Nov 2022 23:39:50 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -50,6 +50,10 @@ Content-Type:application/json; odata.metadata=none
     "provisioningState": "Succeeded",
     "streamState": "Idle",
     "outputs": {
+      "output1": {
+        "enabled": true,
+        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a"
+      },
       "outputRelayToSocialMedia": {
         "enabled": true,
         "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a",
@@ -63,10 +67,6 @@ Content-Type:application/json; odata.metadata=none
         "streamRelay": {
           "relayUri": "rtmps://rtmp.contentanalyzer.example.com/ingest/abcabcabc"
         }
-      },
-      "output1": {
-        "enabled": true,
-        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a"
       }
     }
   },

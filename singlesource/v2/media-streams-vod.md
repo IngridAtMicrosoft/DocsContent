@@ -14,7 +14,8 @@ ms.service: media-services
 
 [!INCLUDE [<prerelease-api>](../includes/future-api.md)]
 
-Media data can be uploaded to media stream. When data is uploaded, the media content is copied and converted into format that can be streamed.
+Media content can be uploaded to media stream for on-demand streaming. When data is uploaded, the media content is copied
+and converted into format that can be streamed.
 
 ## Creating a media stream by uploading files
 
@@ -44,6 +45,18 @@ After creating a media stream, an upload URL can be requested:
 #### [HTTP](#tab/http)
 
 [!INCLUDE [<http-media-stream-start-upload-ingest](../includes/http-media-stream-start-upload-ingest.md)]
+
+---
+
+Media content can be uploaded to the URL using the Azure Storage API:
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<csharp-media-stream-vod-upload>](../includes/csharp-media-stream-vod-upload.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-media-stream-vod-upload](../includes/http-media-stream-vod-upload.md)]
 
 ---
 

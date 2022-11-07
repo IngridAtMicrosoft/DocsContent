@@ -11,7 +11,8 @@ ms.service: media-services
 ---
 
 ```csharp
-mediaStream = await mediaStream.GetAsync();
+var containerClient = new BlobContainerClient(startRtmpIngestResponse.IngestUri);
 
-Console.WriteLine(mediaStream.Data.StreamState); // prints "Processing" while the media data is converted
+var blobClient = containerClient.GetBlobClient("video.mp4");
+await blobClient.UploadAsync(@"c:\media\video.mp4", overwrite: true);
 ```

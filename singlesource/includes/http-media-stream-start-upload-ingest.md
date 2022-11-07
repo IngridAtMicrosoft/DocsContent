@@ -19,11 +19,11 @@ Content-Type:application/json
 {}
 
 200 OK
-Date:Mon, 07 Nov 2022 18:33:03 GMT
+Date:Mon, 07 Nov 2022 23:39:19 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
-  "uploadUri": "..."
+  "uploadUri": "https://mediastore.blob.core.windows.net/asset-100?sp=cw&st=2022-11-01T00:00:00Z&se=2022-11-01T02:00:00Z&spr=https&sv=2021-06-08&sr=c&sig=REDACTED"
 }
 
 ```
