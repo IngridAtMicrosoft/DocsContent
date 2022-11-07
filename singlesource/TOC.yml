@@ -24,3 +24,5 @@
     href: ./v2/media-protection-options-drm.md
   - name: Network security
     href: ./v2/network-security.md
+  - name: Monitoring media accounts
+    href: ./v2/monitoring.md

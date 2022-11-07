@@ -10,7 +10,7 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Integration with Media Services assets
+# Streaming Media Services assets
 
 [!INCLUDE [<prerelease-api>](../includes/future-api.md)]
 
