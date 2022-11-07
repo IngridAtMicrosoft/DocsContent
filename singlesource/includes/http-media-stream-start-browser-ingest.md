@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-POST https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie/startRtmpIngest?api-version=2023-01-01
+POST https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie/startWebIngest?api-version=2023-03-03
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
@@ -21,11 +21,11 @@ Content-Type:application/json
 }
 
 200 OK
-Date:Mon, 07 Nov 2022 17:39:38 GMT
+Date:Mon, 07 Nov 2022 17:43:17 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
-  "ingestUri": "rtmps://rtmp.ingest.azure.media.net/a15e2ed0-8524-41e6-b074-1b759177ce22?key=b4e3567447a3219c7313"
+  "ingestUri": "https://webrtc.ingest.azure.media.net/a15e2ed0-8524-41e6-b074-1b759177ce22?key=b4e3567447a3219c7313"
 }
 
 ```

@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-POST https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie/stopRtmpIngest?api-version=2023-01-01
+POST https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie/stopWebIngest?api-version=2023-03-03
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
@@ -19,7 +19,7 @@ Content-Type:application/json
 {}
 
 200 OK
-Date:Mon, 07 Nov 2022 17:39:38 GMT
+Date:Mon, 07 Nov 2022 17:43:17 GMT
 Content-Type:application/json; odata.metadata=none
 
 {}
