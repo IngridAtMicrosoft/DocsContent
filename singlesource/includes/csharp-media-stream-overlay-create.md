@@ -36,7 +36,7 @@ var mediaStream = (await mediaStreamAccount.GetMediaStreams().CreateOrUpdateAsyn
                 {
                     StreamOverlay = new Overlay
                     {
-                        Image = "freetrial.jpg",
+                        Image = "free-trial.jpg",
                         Position = new Rectangle(left: 0, top: 0, width: 1920, height: 1080)
                     }
                 }
