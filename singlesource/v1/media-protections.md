@@ -139,7 +139,7 @@ page can render a player with a content key token.
 </HeadContent>
 
 <video class="azuremediaplayer" autoplay controls>
-  <source src="//stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a"
+  <source src="//stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
     type="application/vnd.ms-sstr+xml"
     data-setup='{"protectionInfo": [{"type": "AES", "authenticationToken": "Bearer=@token"}]}' />
 </video>

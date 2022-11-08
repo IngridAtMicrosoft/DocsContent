@@ -60,6 +60,18 @@ Media content can be uploaded to the URL using the Azure Storage API:
 
 ---
 
+Once the media files have been uploaded, the complete update API must be called:
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<csharp-media-stream-complete-upload-ingest>](../includes/csharp-media-stream-complete-upload-ingest.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-media-stream-complete-upload-ingest](../includes/http-media-stream-complete-upload-ingest.md)]
+
+---
+
 Media Services may need to process the content before it can be streamed. While the content is being processed, the
 media stream state will be `Processing`:
 
@@ -106,7 +118,7 @@ Once the media content has been processed, it may be viewed using a player. Medi
 
 <body>
   <video class="azuremediaplayer amp-default-skin" autoplay controls width="640" height="400">
-    <source src="//stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a" type="application/vnd.ms-sstr+xml" />
+    <source src="//stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30" type="application/vnd.ms-sstr+xml" />
 </video>
 </body>
 

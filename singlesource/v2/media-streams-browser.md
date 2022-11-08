@@ -51,10 +51,29 @@ After creating a media stream, you can stream media to the stream from a browser
 
 ---
 
-The response from the service contains the WebRTC ingest URL. This can be used with the Media Services Studio
-to stream media directly from a web browser.
+The response from the service contains the WebRTC ingest URL. This can be used with the Media Services Studio to stream media directly from a web browser.
 
-**TODO**
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Playback</title>
+  <link href="//studio.azure.net/libs/studio/latest/skins/studio-default/studio.min.css" rel="stylesheet">
+  <script src="//studio.azure.net/libs/studio/latest/studio.min.js"></script>
+</head>
+
+<body>
+  <script>
+    embedStudio("https://webrtc.ingest.azure.media.net/a15e2ed0-8524-41e6-b074-1b759177ce22?key=b4e3567447a3219c7313");
+</script>
+</body>
+
+</html>
+```
+
+![player](../media/studio.png)
+
 
 ## Getting the media stream status
 

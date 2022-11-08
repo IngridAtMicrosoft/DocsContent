@@ -16,7 +16,7 @@ Accept:application/json
 Authorization:REDACTED
 
 200 OK
-Date:Tue, 08 Nov 2022 19:17:08 GMT
+Date:Tue, 08 Nov 2022 19:51:13 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -27,6 +27,10 @@ Content-Type:application/json; odata.metadata=none
     "provisioningState": "Succeeded",
     "streamState": "Processing",
     "outputs": {
+      "output1": {
+        "enabled": true,
+        "streamingUri": "https://stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
+      },
       "outputRelayToSocialMedia": {
         "enabled": true,
         "streamRelay": {
@@ -38,10 +42,6 @@ Content-Type:application/json; odata.metadata=none
         "streamRelay": {
           "relayUri": "rtmps://rtmp.contentanalyzer.example.com/ingest/abcabcabc"
         }
-      },
-      "output1": {
-        "enabled": true,
-        "streamingUri": "https://stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
       }
     }
   },

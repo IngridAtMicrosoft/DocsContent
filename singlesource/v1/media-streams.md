@@ -110,7 +110,7 @@ The live stream can be viewed using a player. Media can be streamed in a web pag
 
 <body>
   <video class="azuremediaplayer amp-default-skin" autoplay controls width="640" height="400">
-    <source src="//stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a" type="application/vnd.ms-sstr+xml" />
+    <source src="//stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30" type="application/vnd.ms-sstr+xml" />
 </video>
 </body>
 

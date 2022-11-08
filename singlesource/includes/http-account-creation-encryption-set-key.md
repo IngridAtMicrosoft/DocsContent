@@ -41,7 +41,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Tue, 08 Nov 2022 19:15:45 GMT
+Date:Tue, 08 Nov 2022 19:49:39 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -51,7 +51,7 @@ Content-Type:application/json; odata.metadata=none
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "d1386c87-5bba-4f48-b53b-82fc6961157e",
+    "accountId": "ceec671e-b803-4fc3-b0fe-66ceda190a78",
     "dataLocation": "United States",
     "provisioningState": "Succeeded",
     "encryption": {
@@ -78,8 +78,8 @@ Content-Type:application/json; odata.metadata=none
     "type": "UserAssigned",
     "userAssignedIdentities": {
       "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity": {
-        "clientId": "38e90d1e-216c-4193-abdb-672414936b76",
-        "principalId": "45798447-5017-4159-a948-9c497e3edcc0"
+        "clientId": "d2794670-c7cd-42a1-a102-0152ff0e0667",
+        "principalId": "8750f1d6-3cfc-43dc-a8cc-6c80092100b7"
       }
     }
   }
