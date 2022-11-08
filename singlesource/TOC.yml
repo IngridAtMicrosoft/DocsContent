@@ -7,7 +7,7 @@
   - name: Media Tracks
     href: ./v1/media-tracks.md
   - name: Media Protection Options
-    href: ./v1/media-protection-options.md
+    href: ./v1/media-protections.md
 - name: Media Services aPaaS (future)
   items:
   - name: Streaming on-demand videos
