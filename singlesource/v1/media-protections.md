@@ -70,11 +70,11 @@ will contain the ID of the content key.
 
 #### [C#](#tab/csharp)
 
-[!INCLUDE [<csharp-media-stream-with-media-protection-options>](../includes/csharp-media-stream-with-media-protections.md)]
+[!INCLUDE [<csharp-media-stream-with-media-protection-options>](../includes/csharp-media-stream-with-media-protection-options.md)]
 
 #### [HTTP](#tab/http)
 
-[!INCLUDE [<http-media-stream-with-media-protection-options](../includes/http-media-stream-with-media-protections.md)]
+[!INCLUDE [<http-media-stream-with-media-protection-options](../includes/http-media-stream-with-media-protection-options.md)]
 
 ---
 
