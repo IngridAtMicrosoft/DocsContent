@@ -35,12 +35,12 @@ Content-Type:application/json
       "outputWithPreviewTextOverlay": {
         "enabled": true,
         "streamOverlay": {
-          "image": "logo.jpg",
+          "image": "freetrial.jpg",
           "position": {
-            "left": 50,
-            "top": 50,
-            "width": 200,
-            "height": 90
+            "left": 0,
+            "top": 0,
+            "width": 1920,
+            "height": 1080
           }
         }
       }
@@ -49,7 +49,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Mon, 07 Nov 2022 23:39:50 GMT
+Date:Tue, 08 Nov 2022 18:02:16 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -60,9 +60,11 @@ Content-Type:application/json; odata.metadata=none
     "provisioningState": "Succeeded",
     "streamState": "Idle",
     "outputs": {
-      "outputWithPreviewTextOverlay": {
+      "outputWithLogoOverlay": {
         "enabled": true,
-        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a",
+        "mediaProtectionOptionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions/protection-option-subscriber",
+        "contentKeyId": "0cf9b8d1-a3e1-ac8e-aff4-9b43eb0e68a8",
+        "streamingUri": "https://stream.azure.media.net/15cbc6b7-a668-7e18-bce5-c02000a1c5a0",
         "streamOverlay": {
           "image": "logo.jpg",
           "position": {
@@ -73,18 +75,16 @@ Content-Type:application/json; odata.metadata=none
           }
         }
       },
-      "outputWithLogoOverlay": {
+      "outputWithPreviewTextOverlay": {
         "enabled": true,
-        "mediaProtectionOptionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions/protection-option-subscriber",
-        "contentKeyId": "47f91083-74b4-455a-8d9b-86efbc86e0b0",
-        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a",
+        "streamingUri": "https://stream.azure.media.net/919de0bf-73de-48d5-8118-53b007a41d6f",
         "streamOverlay": {
-          "image": "logo.jpg",
+          "image": "freetrial.jpg",
           "position": {
-            "left": 50,
-            "top": 50,
-            "width": 200,
-            "height": 90
+            "left": 0,
+            "top": 0,
+            "width": 1920,
+            "height": 1080
           }
         }
       }

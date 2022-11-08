@@ -27,7 +27,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Mon, 07 Nov 2022 23:39:19 GMT
+Date:Tue, 08 Nov 2022 18:01:58 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -40,7 +40,7 @@ Content-Type:application/json; odata.metadata=none
     "outputs": {
       "output1": {
         "enabled": true,
-        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a"
+        "streamingUri": "https://stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
       }
     }
   },

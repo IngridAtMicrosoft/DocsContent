@@ -16,7 +16,7 @@ Accept:application/json
 Authorization:REDACTED
 
 200 OK
-Date:Mon, 07 Nov 2022 23:39:50 GMT
+Date:Tue, 08 Nov 2022 18:02:16 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -27,23 +27,21 @@ Content-Type:application/json; odata.metadata=none
     "provisioningState": "Succeeded",
     "streamState": "Processing",
     "outputs": {
-      "output1": {
+      "outputRelayToContentAnalyzer": {
         "enabled": true,
-        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a"
+        "streamRelay": {
+          "relayUri": "rtmps://rtmp.contentanalyzer.example.com/ingest/abcabcabc"
+        }
       },
       "outputRelayToSocialMedia": {
         "enabled": true,
-        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a",
         "streamRelay": {
           "relayUri": "rtmps://rtmp.socialmedia.example.com/ingest/abcabcabc"
         }
       },
-      "outputRelayToContentAnalyzer": {
+      "output1": {
         "enabled": true,
-        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a",
-        "streamRelay": {
-          "relayUri": "rtmps://rtmp.contentanalyzer.example.com/ingest/abcabcabc"
-        }
+        "streamingUri": "https://stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
       }
     }
   },

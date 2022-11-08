@@ -28,7 +28,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Mon, 07 Nov 2022 23:39:19 GMT
+Date:Tue, 08 Nov 2022 18:01:57 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -42,8 +42,8 @@ Content-Type:application/json; odata.metadata=none
       "output1": {
         "enabled": true,
         "mediaProtectionOptionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions/protection-option-1",
-        "contentKeyId": "47f91083-74b4-455a-8d9b-86efbc86e0b0",
-        "streamingUri": "https://stream.azure.media.net/2ddc6abd-2d3d-4b30-a696-754bb90d3a8a"
+        "contentKeyId": "9b9b0da7-3b03-a65a-ee49-730f5d658687",
+        "streamingUri": "https://stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
       }
     }
   },
