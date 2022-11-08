@@ -17,7 +17,7 @@ media protection option is encrypted with a content key. Authorized viewers can 
 to access the content key for a media stream output.
 
 Tokens used in request media content key requests are signed with a token signing certificate, stored in
-Azure Key Vault. The token signing certificate is accessed a managed identity associated with the media account.
+Azure Key Vault. The token signing certificate is accessed a managed identity associated with the media stream account.
 
 ## Creating a token signing certificate
 
@@ -40,7 +40,7 @@ Creating a token signing certificate:
 To create a token protection option, specify the enabled content protection methods (currently only clear key is supported),
 the token protection certificate, and the managed identity that should be used to access the token protection certificate.
 
-The managed identity must be associated with the media account and must be granted the `Sign` permission for the Key Vault
+The managed identity must be associated with the media stream account and must be granted the `Sign` permission for the Key Vault
 certificate.
 
 The token signing certificate may either be specified as a Key Vault certificate URI with a version identifier or a URI without
@@ -197,5 +197,5 @@ is using a media protection option, requests to delete the media protection opti
 
 ## Media protection options limits and billing
 
-A media account may have up to one thousand media protection options. There is no charge for creating a media protection
+A media stream account may have up to one thousand media protection options. There is no charge for creating a media protection
 option. Requests to access keys using a media protection option are billed.

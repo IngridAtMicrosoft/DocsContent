@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaAccounts = resourceGroup.GetMediaAccounts().GetAllAsync();
+var mediaAccounts = resourceGroup.GetMediaStreamAccounts().GetAllAsync();
 
 await foreach (var m in mediaAccounts)
 {

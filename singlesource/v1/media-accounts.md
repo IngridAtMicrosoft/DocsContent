@@ -1,5 +1,5 @@
 ---
-title: Media Accounts
+title: Media Stream Accounts
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -10,7 +10,7 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Media Accounts
+# Media Stream Accounts
 
 [!INCLUDE [<prerelease-api>](../includes/prerelease-api.md)]
 
@@ -30,7 +30,7 @@ Media accounts are an alternative to Media Services accounts. Media accounts mak
 
 Media accounts contain [media streams](media-streams.md) for streaming media content and [media protection options](media-protection-options.md) for protecting media content.
 
-## Creating a media account
+## Creating a media stream account
 
 Media accounts can be created using the Azure Portal, ARM templates, client SDKs, or using HTTP requests. 
 
@@ -77,7 +77,7 @@ network access is blocked, media may only be streamed using a [private endpoint]
 
 Media accounts use managed identities to access keys used for account encryption and certificates for content key token signing.
 
-Managed identities are configured using the `identity` property of the media account:
+Managed identities are configured using the `identity` property of the media stream account:
 
 #### [C#](#tab/csharp)
 
@@ -92,10 +92,10 @@ Managed identities are configured using the `identity` property of the media acc
 
 ### Encryption
 
-A media account may configured to encrypt data using a customer provided key. The customer provided key is used to encrypt
+A media stream account may configured to encrypt data using a customer provided key. The customer provided key is used to encrypt
 media content and media content keys when stored by the service (different keys are used when streaming media content to viewers).
 
-To encrypt a media account using a customer provided key, a key must be created in a Key Vault:
+To encrypt a media stream account using a customer provided key, a key must be created in a Key Vault:
 
 #### [C#](#tab/csharp)
 
@@ -107,7 +107,7 @@ To encrypt a media account using a customer provided key, a key must be created 
 
 ---
 
-A managed identity associated with the media account must be granted access to key. The method for granting access
+A managed identity associated with the media stream account must be granted access to key. The method for granting access
 depends on the access model configured for the Key Vault.
 
 Once a key has been created and the managed identity has been granted access to the key, the key may be set
@@ -125,7 +125,7 @@ in an account creation or update request:
 
 ### Tags
 
-Tags can be specified when creating or updating a media account:
+Tags can be specified when creating or updating a media stream account:
 
 #### [C#](#tab/csharp)
 
@@ -139,14 +139,14 @@ Tags can be specified when creating or updating a media account:
 
 ## Media account operations
 
-### Updating a media account
+### Updating a media stream account
 
-The public network access, encryption properties, identity, and tags of an existing media account may be updated. After a media account has been created, the
+The public network access, encryption properties, identity, and tags of an existing media stream account may be updated. After a media stream account has been created, the
 location and data location properties may not be updated.
 
 > [!CAUTION]
-> Updating the identity properties of a media account may prevent Media Services from accessing account encryption keys
-and token signing certificates stored in Azure Key Vault. The media account will be disabled if the account encryption
+> Updating the identity properties of a media stream account may prevent Media Services from accessing account encryption keys
+and token signing certificates stored in Azure Key Vault. The media stream account will be disabled if the account encryption
 key cannot be accessed. Streams that depend on a token signing certificate will fail to play if the certificate cannot be
 accessed.
 
@@ -160,7 +160,7 @@ accessed.
 
 ---
 
-### Listing media accounts
+### Listing media stream accounts
 
 Media accounts may be listed using the service API.
 
@@ -174,12 +174,12 @@ Media accounts may be listed using the service API.
 
 ---
 
-### Deleting a media account
+### Deleting a media stream account
 
 Media accounts may be deleted. When an account is deleted, all media content and service configuration is removed.
 
 > [!CAUTION]
-> It may not be possible to recover deleted media accounts. Consider using Azure resource locks to prevent accidental resource deletion.
+> It may not be possible to recover deleted media stream accounts. Consider using Azure resource locks to prevent accidental resource deletion.
 
 #### [C#](#tab/csharp)
 
@@ -193,5 +193,5 @@ Media accounts may be deleted. When an account is deleted, all media content and
 
 ## Media account limits and billing
 
-An Azure subscription may contain up to five media accounts. While there is no charge for a media accounts, resources within a media account
+An Azure subscription may contain up to five media stream accounts. While there is no charge for a media stream accounts, resources within a media stream account
 are billed.

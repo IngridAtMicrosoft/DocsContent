@@ -11,10 +11,10 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaAccount = (await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
+var mediaAccount = (await resourceGroup.GetMediaStreamAccounts().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "myaccount",
-    new MediaAccountData("global")
+    new MediaStreamAccountData("global")
     {
         DataLocation = "United States"
     })).Value;

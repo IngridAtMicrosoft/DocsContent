@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaStream = (await mediaAccount.GetMediaStreams().CreateOrUpdateAsync(
+var mediaStream = (await mediaStreamAccount.GetMediaStreams().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "mymovie",
     new MediaStreamData
@@ -27,7 +27,7 @@ var mediaStream = (await mediaAccount.GetMediaStreams().CreateOrUpdateAsync(
                         Image = "logo.jpg",
                         Position = new Rectangle(left: 50, top: 50, width: 200, height: 90)
                     },
-                    MediaProtectionOptionId = mediaProtectionOption.Id
+                    MediaProtectionId = mediaProtection.Id
                 }
             },
             {

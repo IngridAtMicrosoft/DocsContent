@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaStream = (await mediaAccount.GetMediaStreams().CreateOrUpdateAsync(
+var mediaStream = (await mediaStreamAccount.GetMediaStreams().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "mymovie",
     new MediaStreamData
@@ -22,7 +22,7 @@ var mediaStream = (await mediaAccount.GetMediaStreams().CreateOrUpdateAsync(
                 "output1",
                 new MediaStreamOutput(enabled: true)
                 {
-                    MediaProtectionOptionId = mediaProtectionOption.Id
+                    MediaProtectionId = mediaProtection.Id
                 }
             }
         }

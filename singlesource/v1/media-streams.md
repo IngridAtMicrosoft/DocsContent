@@ -13,7 +13,7 @@ ms.service: media-services
 # Media Streams
 
 Media streams can be used to stream live and recorded media. Media Services manages the storage and streaming resources for streaming.
-A media account may contain up to one million media stream resources.
+A media stream account may contain up to one million media stream resources.
 
 > [!NOTE]
 > Media streams combine the Media Services asset, streaming locator, streaming endpoint, and live event resources. Unlike Media Services
@@ -189,5 +189,5 @@ each of the outputs defined in the media stream.
 
 ## Media stream limits and billing
 
-A media account may have up to one million media streams. Media streams are billed for the number of minutes of content stored,
+A media stream account may have up to one million media streams. Media streams are billed for the number of minutes of content stored,
 the number of minutes of ingest, and the number of minutes of content streamed.

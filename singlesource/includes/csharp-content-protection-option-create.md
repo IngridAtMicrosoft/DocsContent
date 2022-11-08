@@ -15,10 +15,10 @@ var managedIdentity = new ResourceIdentifier(
     "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources" +
     "/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity");
 
-var mediaProtectionOption = (await mediaAccount.GetMediaProtectionOptions().CreateOrUpdateAsync(
+var mediaProtection = (await mediaStreamAccount.GetMediaProtections().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "protection-option-1",
-    new MediaProtectionOptionData
+    new MediaProtectionData
     {
         TokenValidation = new TokenRestriction
         {

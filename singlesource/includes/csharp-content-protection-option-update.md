@@ -11,8 +11,8 @@ ms.service: media-services
 ---
 
 ```csharp
-await mediaProtectionOption.UpdateAsync(
-    new MediaProtectionOptionData
+await mediaProtection.UpdateAsync(
+    new MediaProtectionData
     {
         TokenValidation = new TokenRestriction
         {

@@ -1,6 +1,6 @@
 - name: Media Services aPaaS
   items:
-  - name: Media Accounts
+  - name: Media Stream Accounts
     href: ./v1/media-accounts.md
   - name: Media Streams
     href: ./v1/media-streams.md
@@ -24,5 +24,5 @@
     href: ./v2/media-protection-options-drm.md
   - name: Network security
     href: ./v2/network-security.md
-  - name: Monitoring media accounts
+  - name: Monitoring media stream accounts
     href: ./v2/monitoring.md

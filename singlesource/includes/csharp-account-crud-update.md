@@ -12,7 +12,7 @@ ms.service: media-services
 
 ```csharp
 await mediaAccount.UpdateAsync(
-    new MediaAccountData("global")
+    new MediaStreamAccountData("global")
     {
         PublicNetworkAccess = PublicNetworkAccess.Disabled,
     });

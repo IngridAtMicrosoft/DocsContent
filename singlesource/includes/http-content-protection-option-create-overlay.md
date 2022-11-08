@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions/protection-option-subscriber?api-version=2023-03-03
+PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-subscriber?api-version=2023-03-03
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
@@ -32,13 +32,13 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Tue, 08 Nov 2022 18:02:16 GMT
+Date:Tue, 08 Nov 2022 18:33:00 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
   "name": "protection-option-subscriber",
-  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions/protection-option-subscriber",
-  "type": "Microsoft.Media/mediaAccounts/mediaProtectionOptions",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-subscriber",
+  "type": "Microsoft.Media/mediaAccounts/mediaProtections",
   "properties": {
     "provisioningState": "Succeeded",
     "tokenValidation": {

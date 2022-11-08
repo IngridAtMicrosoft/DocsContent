@@ -14,7 +14,7 @@ ms.service: media-services
 var mediaStream = armClient.GetMediaStreamResource(MediaStreamResource.CreateResourceIdentifier(
     subscriptionId: "00000000-0000-0000-0000-000000000000",
     resourceGroupName: "myResources",
-    mediaAccountName: "myaccount",
+    mediaStreamAccountName: "myaccount",
     mediaStreamName: "mymovie"));
 
 var mediaTracks = mediaStream.GetMediaTracks();

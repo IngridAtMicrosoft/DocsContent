@@ -13,3 +13,10 @@ ms.service: media-services
 # Monitoring
 
 **TODO**
+
+- Describe the Event Grid events raised by a media stream account
+- Describe audit logs
+- Describe metrics
+- Show how audit logs, metrics, and Event Grid events can be used to monitor an account
+- Show how to build a dashboard for monitoring an account
+- Show how to generate alerts when things are not working correctly

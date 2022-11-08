@@ -11,13 +11,13 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaAccount = armClient.GetMediaAccountResource(
-    MediaAccountResource.CreateResourceIdentifier(
+var mediaStreamAccount = armClient.GetMediaStreamAccountResource(
+    MediaStreamAccountResource.CreateResourceIdentifier(
         subscriptionId: "00000000-0000-0000-0000-000000000000",
         resourceGroupName: "myResources",
-        mediaAccountName: "myaccount"));
+        mediaStreamAccountName: "myaccount"));
 
-var mediaStream = (await mediaAccount.GetMediaStreams().CreateOrUpdateAsync(
+var mediaStream = (await mediaStreamAccount.GetMediaStreams().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "mymovie",
     new MediaStreamData

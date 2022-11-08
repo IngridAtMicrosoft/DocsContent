@@ -21,7 +21,7 @@ Content-Type:application/json
     "outputs": {
       "outputWithLogoOverlay": {
         "enabled": true,
-        "mediaProtectionOptionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions/protection-option-subscriber",
+        "mediaProtectionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-subscriber",
         "streamOverlay": {
           "image": "logo.jpg",
           "position": {
@@ -49,7 +49,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Tue, 08 Nov 2022 18:02:16 GMT
+Date:Tue, 08 Nov 2022 18:33:00 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -60,21 +60,6 @@ Content-Type:application/json; odata.metadata=none
     "provisioningState": "Succeeded",
     "streamState": "Idle",
     "outputs": {
-      "outputWithLogoOverlay": {
-        "enabled": true,
-        "mediaProtectionOptionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtectionOptions/protection-option-subscriber",
-        "contentKeyId": "0cf9b8d1-a3e1-ac8e-aff4-9b43eb0e68a8",
-        "streamingUri": "https://stream.azure.media.net/15cbc6b7-a668-7e18-bce5-c02000a1c5a0",
-        "streamOverlay": {
-          "image": "logo.jpg",
-          "position": {
-            "left": 50,
-            "top": 50,
-            "width": 200,
-            "height": 90
-          }
-        }
-      },
       "outputWithPreviewTextOverlay": {
         "enabled": true,
         "streamingUri": "https://stream.azure.media.net/919de0bf-73de-48d5-8118-53b007a41d6f",
@@ -85,6 +70,21 @@ Content-Type:application/json; odata.metadata=none
             "top": 0,
             "width": 1920,
             "height": 1080
+          }
+        }
+      },
+      "outputWithLogoOverlay": {
+        "enabled": true,
+        "mediaProtectionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-subscriber",
+        "contentKeyId": "0cf9b8d1-a3e1-ac8e-aff4-9b43eb0e68a8",
+        "streamingUri": "https://stream.azure.media.net/15cbc6b7-a668-7e18-bce5-c02000a1c5a0",
+        "streamOverlay": {
+          "image": "logo.jpg",
+          "position": {
+            "left": 50,
+            "top": 50,
+            "width": 200,
+            "height": 90
           }
         }
       }

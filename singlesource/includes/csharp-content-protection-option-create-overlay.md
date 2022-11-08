@@ -11,20 +11,20 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaAccount = armClient.GetMediaAccountResource(
-    MediaAccountResource.CreateResourceIdentifier(
+var mediaStreamAccount = armClient.GetMediaStreamAccountResource(
+    MediaStreamAccountResource.CreateResourceIdentifier(
         subscriptionId: "00000000-0000-0000-0000-000000000000",
         resourceGroupName: "myResources",
-        mediaAccountName: "myaccount"));
+        mediaStreamAccountName: "myaccount"));
 
 var managedIdentity = new ResourceIdentifier(
     "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources" +
     "/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity");
 
-var mediaProtectionOption = (await mediaAccount.GetMediaProtectionOptions().CreateOrUpdateAsync(
+var mediaProtection = (await mediaStreamAccount.GetMediaProtections().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "protection-option-subscriber",
-    new MediaProtectionOptionData
+    new MediaProtectionData
     {
         TokenValidation = new TokenRestriction
         {

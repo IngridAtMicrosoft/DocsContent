@@ -11,5 +11,5 @@ ms.service: media-services
 ---
 
 ```csharp
-await mediaProtectionOption.DeleteAsync(WaitUntil.Completed);
+await mediaProtection.DeleteAsync(WaitUntil.Completed);
 ```
