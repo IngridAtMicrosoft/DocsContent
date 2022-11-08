@@ -1,5 +1,5 @@
 ---
-title: Media Protection Options with DRM
+title: Media Protections with DRM
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -10,6 +10,6 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Media Protection Options with DRM
+# Media Protections with DRM
 
 **TODO**

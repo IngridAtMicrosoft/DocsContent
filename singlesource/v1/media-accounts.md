@@ -28,7 +28,7 @@ Media stream accounts are an alternative to Media Services accounts. Media strea
 | Content protection | Clear key and DRM protection, using user defined token authentication | Clear key protection using simple tokens |
 | API | APIs for managing, streaming, protecting, and encoding media | Simple APIs for streaming live media |
 
-Media stream accounts contain [media streams](media-streams.md) for streaming media content and [media protection options](media-protections.md) for protecting media content.
+Media stream accounts contain [media streams](media-streams.md) for streaming media content and [media protections](media-protections.md) for protecting media content.
 
 ## Creating a media stream account
 

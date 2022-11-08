@@ -1,5 +1,5 @@
 ---
-title: Media Protection Options
+title: Media Protections
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -10,9 +10,9 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Media Protection Options
+# Media Protections
 
-Media stream outputs can protected using media protection options. Each media stream output with
+Media stream outputs can protected using media protections. Each media stream output with
 media protection option is encrypted with a content key. Authorized viewers can use tokens
 to access the content key for a media stream output.
 
@@ -162,13 +162,13 @@ Media protection options may be updated to change the token signing key.
 
 ---
 
-### Listing media protection options
+### Listing media protections
 
 Media protection options may be listed using the service API.
 
 > [!NOTE]
-> The API does not provide support for filtering or sorting lists of media protection options. If your application requires
-a large number of media protection options, consider using a database to store media protection options metadata.
+> The API does not provide support for filtering or sorting lists of media protections. If your application requires
+a large number of media protections, consider using a database to store media protections metadata.
 
 #### [C#](#tab/csharp)
 
@@ -197,5 +197,5 @@ is using a media protection option, requests to delete the media protection opti
 
 ## Media protection options limits and billing
 
-A media stream account may have up to one thousand media protection options. There is no charge for creating a media protection
+A media stream account may have up to one thousand media protections. There is no charge for creating a media protection
 option. Requests to access keys using a media protection option are billed.
