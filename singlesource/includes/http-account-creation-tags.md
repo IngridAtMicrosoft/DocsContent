@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount?api-version=2023-01-01
+PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount?api-version=2023-01-01
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
@@ -28,20 +28,20 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Tue, 08 Nov 2022 18:31:36 GMT
+Date:Tue, 08 Nov 2022 19:15:45 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
   "name": "myaccount",
-  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount",
-  "type": "Microsoft.Media/mediaAccounts",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount",
+  "type": "Microsoft.Media/mediaStreamAccounts",
   "location": "global",
   "tags": {
     "department": "studios",
     "cost-center": "marketing"
   },
   "properties": {
-    "accountId": "1a1d0659-8eb7-453e-9d60-33061500d393",
+    "accountId": "591056b3-b82e-48fe-afa3-39901700b090",
     "dataLocation": "United States",
     "provisioningState": "Succeeded"
   },

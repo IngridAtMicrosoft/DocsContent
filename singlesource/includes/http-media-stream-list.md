@@ -11,31 +11,31 @@ ms.service: media-services
 ---
 
 ```http
-GET https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams?api-version=2023-01-01
+GET https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams?api-version=2023-01-01
 Accept:application/json
 Authorization:REDACTED
 
 200 OK
-Date:Tue, 08 Nov 2022 18:31:56 GMT
+Date:Tue, 08 Nov 2022 19:16:14 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
   "value": [
     {
       "name": "mymovie",
-      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie",
-      "type": "Microsoft.Media/mediaAccounts/mediaStreams",
+      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie",
+      "type": "Microsoft.Media/mediaStreamAccounts/mediaStreams",
       "properties": {
         "provisioningState": "Succeeded",
         "streamState": "OnDemand",
         "outputs": {
-          "output2": {
-            "enabled": true,
-            "streamingUri": "https://stream.azure.media.net/0b8d316b-e1d6-4a35-a865-1edecec7b28d"
-          },
           "output1": {
             "enabled": true,
             "streamingUri": "https://stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
+          },
+          "output2": {
+            "enabled": true,
+            "streamingUri": "https://stream.azure.media.net/1db9df34-899c-bf6f-b419-2e4111a8135a"
           }
         }
       },

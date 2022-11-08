@@ -12,4 +12,6 @@ ms.service: media-services
 
 # Media Protections with DRM
 
-**TODO**
+[!INCLUDE [<prerelease-api>](../includes/future-api.md)]
+
+- Show how the media protections entity can be extended to set DRM options

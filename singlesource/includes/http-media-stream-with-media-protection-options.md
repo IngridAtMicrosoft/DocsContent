@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie?api-version=2023-03-03
+PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie?api-version=2023-03-03
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
@@ -21,27 +21,27 @@ Content-Type:application/json
     "outputs": {
       "output1": {
         "enabled": true,
-        "mediaProtectionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-1"
+        "mediaProtectionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaProtections/protection-option-1"
       }
     }
   }
 }
 
 201 Created
-Date:Tue, 08 Nov 2022 18:32:30 GMT
+Date:Tue, 08 Nov 2022 19:16:38 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
   "name": "mymovie",
-  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie",
-  "type": "Microsoft.Media/mediaAccounts/mediaStreams",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie",
+  "type": "Microsoft.Media/mediaStreamAccounts/mediaStreams",
   "properties": {
     "provisioningState": "Succeeded",
     "streamState": "Idle",
     "outputs": {
       "output1": {
         "enabled": true,
-        "mediaProtectionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-1",
+        "mediaProtectionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaProtections/protection-option-1",
         "contentKeyId": "9b9b0da7-3b03-a65a-ee49-730f5d658687",
         "streamingUri": "https://stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
       }

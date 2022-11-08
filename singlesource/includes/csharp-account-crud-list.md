@@ -11,10 +11,10 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaAccounts = resourceGroup.GetMediaStreamAccounts().GetAllAsync();
+var mediaStreamAccounts = resourceGroup.GetMediaStreamAccounts().GetAllAsync();
 
-await foreach (var m in mediaAccounts)
+await foreach (var mediaStreamAccount in mediaStreamAccounts)
 {
-    Console.WriteLine(m.Id);
+    Console.WriteLine(mediaStreamAccount.Id);
 }
 ```

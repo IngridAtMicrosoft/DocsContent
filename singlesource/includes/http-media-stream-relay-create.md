@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie?api-version=2023-03-03
+PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie?api-version=2023-03-03
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
@@ -39,27 +39,27 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Tue, 08 Nov 2022 18:33:00 GMT
+Date:Tue, 08 Nov 2022 19:17:08 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
   "name": "mymovie",
-  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie",
-  "type": "Microsoft.Media/mediaAccounts/mediaStreams",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie",
+  "type": "Microsoft.Media/mediaStreamAccounts/mediaStreams",
   "properties": {
     "provisioningState": "Succeeded",
     "streamState": "Idle",
     "outputs": {
-      "outputRelayToContentAnalyzer": {
-        "enabled": true,
-        "streamRelay": {
-          "relayUri": "rtmps://rtmp.contentanalyzer.example.com/ingest/abcabcabc"
-        }
-      },
       "outputRelayToSocialMedia": {
         "enabled": true,
         "streamRelay": {
           "relayUri": "rtmps://rtmp.socialmedia.example.com/ingest/abcabcabc"
+        }
+      },
+      "outputRelayToContentAnalyzer": {
+        "enabled": true,
+        "streamRelay": {
+          "relayUri": "rtmps://rtmp.contentanalyzer.example.com/ingest/abcabcabc"
         }
       },
       "output1": {

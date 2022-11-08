@@ -21,7 +21,7 @@
   - name: Relaying to other services
     href: ./v2/media-streams-relays.md
   - name: Media Protections with DRM
-    href: ./v2/media-protection-options-drm.md
+    href: ./v2/media-protections-drm.md
   - name: Network security
     href: ./v2/network-security.md
   - name: Monitoring media stream accounts

@@ -14,6 +14,6 @@ ms.service: media-services
 await mediaAccount.UpdateAsync(
     new MediaStreamAccountData("global")
     {
-        PublicNetworkAccess = PublicNetworkAccess.Disabled,
+        PublicNetworkAccess = PublicNetworkAccess.Disabled
     });
 ```

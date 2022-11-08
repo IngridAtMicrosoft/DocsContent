@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-PATCH https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-1?api-version=2023-03-03
+PATCH https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaProtections/protection-option-1?api-version=2023-03-03
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
@@ -25,13 +25,13 @@ Content-Type:application/json
 }
 
 200 OK
-Date:Tue, 08 Nov 2022 18:32:30 GMT
+Date:Tue, 08 Nov 2022 19:16:38 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
   "name": "protection-option-1",
-  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-1",
-  "type": "Microsoft.Media/mediaAccounts/mediaProtections",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaProtections/protection-option-1",
+  "type": "Microsoft.Media/mediaStreamAccounts/mediaProtections",
   "properties": {
     "provisioningState": "Succeeded",
     "tokenValidation": {

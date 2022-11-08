@@ -12,6 +12,8 @@ ms.service: media-services
 
 # Monitoring
 
+[!INCLUDE [<prerelease-api>](../includes/future-api.md)]
+
 **TODO**
 
 - Describe the Event Grid events raised by a media stream account

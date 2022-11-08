@@ -13,7 +13,7 @@ ms.service: media-services
 # Media Protections
 
 Media stream outputs can protected using media protections. Each media stream output with
-media protection option is encrypted with a content key. Authorized viewers can use tokens
+media protection is encrypted with a content key. Authorized viewers can use tokens
 to access the content key for a media stream output.
 
 Tokens used in request media content key requests are signed with a token signing certificate, stored in
@@ -21,7 +21,7 @@ Azure Key Vault. The token signing certificate is accessed a managed identity as
 
 ## Creating a token signing certificate
 
-Each media protection option requires a token signing certificate, stored in an Azure Key Vault.
+Each media protection requires a token signing certificate, stored in an Azure Key Vault.
 
 Creating a token signing certificate:
 
@@ -35,7 +35,7 @@ Creating a token signing certificate:
 
 ---
 
-## Creating a media protection option
+## Creating a media protection
 
 To create a token protection option, specify the enabled content protection methods (currently only clear key is supported),
 the token protection certificate, and the managed identity that should be used to access the token protection certificate.
@@ -52,7 +52,7 @@ and enabled certificate.
 [!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
 [!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
 
-Creating a media protection option:
+Creating a media protection:
 
 [!INCLUDE [<csharp-content-protection-option-create>](../includes/csharp-content-protection-option-create.md)]
 
@@ -62,9 +62,9 @@ Creating a media protection option:
 
 ---
 
-## Using a media protection option in a media stream
+## Using a media protection in a media stream
 
-Each output of a media stream may have a media protection option. When a media protection option is set
+Each output of a media stream may have a media protection. When a media protection is set
 for a media stream output, a content key will be generated for the output and the output properties
 will contain the ID of the content key.
 
@@ -80,7 +80,7 @@ will contain the ID of the content key.
 
 ## Media protection tokens
 
-To playback media using media protection option, the player must request the content key using a token.
+To playback media using media protection, the player must request the content key using a token.
 
 Tokens must have an audience of `urn:microsoft:azure:mediaservices` and a `urn:microsoft:azure:mediaservices:contentkeyidentifier`
 claim containing the content key of the output. Tokens must be signed using the token signing certificate.
@@ -94,7 +94,7 @@ var token = new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
     {
         {
             "urn:microsoft:azure:mediaservices:contentkeyidentifier",
-            "47f91083-74b4-455a-8d9b-86efbc86e0b0"
+            "9b9b0da7-3b03-a65a-ee49-730f5d658687"
         }
     },
     Expires = DateTime.UtcNow.AddHours(4),
@@ -124,7 +124,7 @@ page can render a player with a content key token.
         {
             {
                 "urn:microsoft:azure:mediaservices:contentkeyidentifier",
-                "47f91083-74b4-455a-8d9b-86efbc86e0b0"
+                "9b9b0da7-3b03-a65a-ee49-730f5d658687"
             }
         },
         Expires = DateTime.UtcNow.AddHours(4),
@@ -148,7 +148,7 @@ page can render a player with a content key token.
 
 ## Media protection options operations
 
-### Updating a media protection option
+### Updating a media protection
 
 Media protection options may be updated to change the token signing key.
 
@@ -180,10 +180,10 @@ a large number of media protections, consider using a database to store media pr
 
 ---
 
-### Deleting a media protection option
+### Deleting a media protection
 
-A media protection option may be deleted if it is not used by any media stream output. If any media stream output
-is using a media protection option, requests to delete the media protection option will fail.
+A media protection may be deleted if it is not used by any media stream output. If any media stream output
+is using a media protection, requests to delete the media protection will fail.
 
 #### [C#](#tab/csharp)
 
@@ -198,4 +198,4 @@ is using a media protection option, requests to delete the media protection opti
 ## Media protection options limits and billing
 
 A media stream account may have up to one thousand media protections. There is no charge for creating a media protection
-option. Requests to access keys using a media protection option are billed.
+option. Requests to access keys using a media protection are billed.

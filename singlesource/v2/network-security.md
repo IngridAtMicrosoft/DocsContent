@@ -12,6 +12,8 @@ ms.service: media-services
 
 # Network security
 
+[!INCLUDE [<prerelease-api>](../includes/future-api.md)]
+
 **TODO**
 
 - Describe how private link can be used with a Media Stream Account

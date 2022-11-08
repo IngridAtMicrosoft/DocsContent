@@ -11,20 +11,20 @@ ms.service: media-services
 ---
 
 ```http
-GET https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie/mediaTracks?api-version=2023-01-01
+GET https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie/mediaTracks?api-version=2023-01-01
 Accept:application/json
 Authorization:REDACTED
 
 200 OK
-Date:Tue, 08 Nov 2022 18:31:57 GMT
+Date:Tue, 08 Nov 2022 19:16:14 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
   "value": [
     {
       "name": "video",
-      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie/mediaTracks/video",
-      "type": "Microsoft.Media/mediaAccounts/mediaStreams/mediaTracks",
+      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie/mediaTracks/video",
+      "type": "Microsoft.Media/mediaStreamAccounts/mediaStreams/mediaTracks",
       "properties": {
         "provisioningState": "Succeeded",
         "videoTrack": {
@@ -34,8 +34,8 @@ Content-Type:application/json; odata.metadata=none
     },
     {
       "name": "audio-en",
-      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie/mediaTracks/audio-en",
-      "type": "Microsoft.Media/mediaAccounts/mediaStreams/mediaTracks",
+      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie/mediaTracks/audio-en",
+      "type": "Microsoft.Media/mediaStreamAccounts/mediaStreams/mediaTracks",
       "properties": {
         "provisioningState": "Succeeded",
         "audioTrack": {
@@ -48,8 +48,8 @@ Content-Type:application/json; odata.metadata=none
     },
     {
       "name": "audio-es",
-      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie/mediaTracks/audio-es",
-      "type": "Microsoft.Media/mediaAccounts/mediaStreams/mediaTracks",
+      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie/mediaTracks/audio-es",
+      "type": "Microsoft.Media/mediaStreamAccounts/mediaStreams/mediaTracks",
       "properties": {
         "provisioningState": "Succeeded",
         "audioTrack": {
@@ -62,8 +62,8 @@ Content-Type:application/json; odata.metadata=none
     },
     {
       "name": "text-en",
-      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie/mediaTracks/text-en",
-      "type": "Microsoft.Media/mediaAccounts/mediaStreams/mediaTracks",
+      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie/mediaTracks/text-en",
+      "type": "Microsoft.Media/mediaStreamAccounts/mediaStreams/mediaTracks",
       "properties": {
         "provisioningState": "Succeeded",
         "textTrack": {
@@ -75,8 +75,8 @@ Content-Type:application/json; odata.metadata=none
     },
     {
       "name": "text-es",
-      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie/mediaTracks/text-es",
-      "type": "Microsoft.Media/mediaAccounts/mediaStreams/mediaTracks",
+      "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie/mediaTracks/text-es",
+      "type": "Microsoft.Media/mediaStreamAccounts/mediaStreams/mediaTracks",
       "properties": {
         "provisioningState": "Succeeded",
         "textTrack": {
