@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-var containerClient = new BlobContainerClient(startRtmpIngestResponse.IngestUri);
+var containerClient = new BlobContainerClient(startUploadResponse.IngestUri);
 
 await containerClient.GetBlobClient("logo.jpg")
     .UploadAsync(@"c:\media\logo.jpg", overwrite: true);
