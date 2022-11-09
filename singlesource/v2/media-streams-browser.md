@@ -1,5 +1,5 @@
 ---
-title: Streaming from browsers
+title: Streaming to a media stream from a web browser
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -10,7 +10,7 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Streaming from browsers
+# Streaming to a media stream from a web browser
 
 [!INCLUDE [<prerelease-api>](../includes/future-api.md)]
 

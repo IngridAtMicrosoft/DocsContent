@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-var startRtmpIngestResponse = (await mediaStream.StartUploadAsync(new StartUploadContent())).Value;
+var startUploadResponse = (await mediaStream.StartUploadAsync(new StartUploadContent())).Value;
 
-Console.WriteLine(startRtmpIngestResponse.UploadUri);
+Console.WriteLine(startUploadResponse.UploadUri);
 ```
