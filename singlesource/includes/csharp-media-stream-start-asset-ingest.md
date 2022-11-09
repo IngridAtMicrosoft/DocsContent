@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-var startRtmpIngestResponse = (await mediaStream.IngestAssetAsync(
+var startAssetIngestResponse = (await mediaStream.IngestAssetAsync(
     new IngestAssetContent
     {
         AssetId = "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaservices/mymedia/assets/asset1"

@@ -11,11 +11,11 @@ ms.service: media-services
 ---
 
 ```csharp
-var startRtmpIngestResponse = (await mediaStream.StartWebIngestAsync(
+var startUploadResponse = (await mediaStream.StartWebIngestAsync(
     new StartWebIngestContent
     {
         AutoStopDelay = TimeSpan.FromMinutes(5)
     })).Value;
 
-Console.WriteLine(startRtmpIngestResponse.IngestUri);
+Console.WriteLine(startUploadResponse.IngestUri);
 ```

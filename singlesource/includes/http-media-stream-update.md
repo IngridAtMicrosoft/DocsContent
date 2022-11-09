@@ -27,7 +27,7 @@ Content-Type:application/json
 }
 
 200 OK
-Date:Tue, 08 Nov 2022 19:50:20 GMT
+Date:Wed, 09 Nov 2022 17:30:27 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -38,13 +38,13 @@ Content-Type:application/json; odata.metadata=none
     "provisioningState": "Succeeded",
     "streamState": "OnDemand",
     "outputs": {
-      "output1": {
-        "enabled": true,
-        "streamingUri": "https://stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
-      },
       "output2": {
         "enabled": true,
         "streamingUri": "https://stream.azure.media.net/1db9df34-899c-bf6f-b419-2e4111a8135a"
+      },
+      "output1": {
+        "enabled": true,
+        "streamingUri": "https://stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
       }
     }
   },

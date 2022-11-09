@@ -35,7 +35,7 @@ Content-Type:application/json
       "outputWithPreviewTextOverlay": {
         "enabled": true,
         "streamOverlay": {
-          "image": "freetrial.jpg",
+          "image": "free-trial.jpg",
           "position": {
             "left": 0,
             "top": 0,
@@ -49,7 +49,7 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Tue, 08 Nov 2022 19:51:13 GMT
+Date:Wed, 09 Nov 2022 17:31:24 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -60,19 +60,6 @@ Content-Type:application/json; odata.metadata=none
     "provisioningState": "Succeeded",
     "streamState": "Idle",
     "outputs": {
-      "outputWithPreviewTextOverlay": {
-        "enabled": true,
-        "streamingUri": "https://stream.azure.media.net/919de0bf-73de-48d5-8118-53b007a41d6f",
-        "streamOverlay": {
-          "image": "freetrial.jpg",
-          "position": {
-            "left": 0,
-            "top": 0,
-            "width": 1920,
-            "height": 1080
-          }
-        }
-      },
       "outputWithLogoOverlay": {
         "enabled": true,
         "mediaProtectionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaProtections/protection-option-subscriber",
@@ -85,6 +72,19 @@ Content-Type:application/json; odata.metadata=none
             "top": 50,
             "width": 200,
             "height": 90
+          }
+        }
+      },
+      "outputWithPreviewTextOverlay": {
+        "enabled": true,
+        "streamingUri": "https://stream.azure.media.net/919de0bf-73de-48d5-8118-53b007a41d6f",
+        "streamOverlay": {
+          "image": "free-trial.jpg",
+          "position": {
+            "left": 0,
+            "top": 0,
+            "width": 1920,
+            "height": 1080
           }
         }
       }
