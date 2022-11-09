@@ -193,5 +193,4 @@ Media stream accounts may be deleted. When an account is deleted, all media cont
 
 ## Media stream account limits and billing
 
-An Azure subscription may contain up to five media stream accounts. While there is no charge for a media stream accounts, resources within a media stream account
-are billed.
+By default, an Azure subscription may contain up to fifty media stream accounts. While there is no charge for a media stream accounts, resources within a media stream account are billed.
