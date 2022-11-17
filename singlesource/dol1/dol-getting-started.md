@@ -14,8 +14,7 @@ ms.service: media-services
 
 ## Overview
 
-This hands-on lab will show you how to use Media Services for encoding, streaming, and content protection. By the end of the lab, you
-will have built web site containing a video you created, with content protection to restrict who can view the video.
+This hands-on lab will show you how to use Media Services for encoding, streaming, and content protection. By the end of the lab, you will have built web site containing a video you created, with content protection to restrict who can view the video.
 
 Feel free to adapt this lab to things that you want to learn. If you want to follow along using Java instead of C#, that's fine.
 
@@ -36,7 +35,7 @@ You will also need a Media Services account to complete this lab. To create an a
 1. In the search box, enter `Media Services` and then select Media Services from the options
 1. Select `Create` on the first page, on the second page:
    - Select a subscription *(ping Jon Payne using Teams if your not sure which subscription to use)*
-   - Click the `Create new` text for the Resource Group and pick a name, for example `your-alias}rg`
+   - Click the `Create new` text for the Resource Group and pick a name, for example `{your-alias}rg`
    - Enter a Media Services account name, for example `{your-alias}media`
    - Pick a Location, for example `West US 2`
    - Click the `Create a new storage account` text and pick a name, for example "{your-alias}store" (the other options are fine)
