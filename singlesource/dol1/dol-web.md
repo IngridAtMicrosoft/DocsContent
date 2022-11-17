@@ -1,5 +1,5 @@
 ---
-title: Building a web site
+title: Building a Web Site
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -10,7 +10,9 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Building a web site
+# Building a Web Site
+
+[!INCLUDE [<get-help>](includes/get-help.md)]
 
 Next we will build a web site where Microsoft employees can view the video.
 
@@ -125,5 +127,7 @@ Publish the web site:
 1. When the publish process is complete, click `Open site`
 1. Log in to the site and grant the site permission to read your Azure Active Directory account name
 1. Play your video!
+
+If you want to, share your web site address in the meeting Teams chat.
 
 *Continue to [Cleanup](dol-cleanup.md) -->*

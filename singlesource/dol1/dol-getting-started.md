@@ -14,7 +14,7 @@ ms.service: media-services
 
 ## Overview
 
-This hands-on lab shows how to use Media Services for encoding, streaming, and content protection. By the end of the lab, you
+This hands-on lab will show you how to use Media Services for encoding, streaming, and content protection. By the end of the lab, you
 will have built web site containing a video you created, with content protection to restrict who can view the video.
 
 Feel free to adapt this lab to things that you want to learn. If you want to follow along using Java instead of C#, that's fine.
@@ -25,7 +25,7 @@ Feel free to adapt this lab to things that you want to learn. If you want to fol
 
 For this lab, you will need Visual Studio (any recent version should be fine). You can download Visual Studio from the [Visual Studio web site](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise).
 
-When installing Visual Studio, ensure the `Azure Development` option is checked. While Visual Studio is being installed, continue to the next step.
+When installing Visual Studio, ensure the `Azure Development` option is checked. While Visual Studio is installing, continue to the next step.
 
 ## Creating a Media Services account
 
@@ -35,7 +35,7 @@ You will also need a Media Services account to complete this lab. To create an a
 1. Select the hamburger (three horizontal lines) icon in the top left corner of the page, then pick the first option, "Create a resource"
 1. In the search box, enter `Media Services` and then select Media Services from the options
 1. Select `Create` on the first page, on the second page:
-   - Select a subscription *(ping Jon Payne if your not sure what subscription to use)*
+   - Select a subscription *(ping Jon Payne using Teams if your not sure which subscription to use)*
    - Click the `Create new` text for the Resource Group and pick a name, for example `your-alias}rg`
    - Enter a Media Services account name, for example `{your-alias}media`
    - Pick a Location, for example `West US 2`
