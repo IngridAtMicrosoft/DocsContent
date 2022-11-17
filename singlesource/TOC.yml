@@ -26,3 +26,15 @@
     href: ./v2/network-security.md
   - name: Monitoring media stream accounts
     href: ./v2/monitoring.md
+- name: Day of Learning 1
+  items:
+  - name: Getting started
+    href: ./dol1/dol-getting-started.md
+  - name: Connecting
+    href: ./dol1/dol-connecting.md
+  - name: Encoding and Streaming
+    href: ./dol1/dol-encoding-and-streaming.md
+  - name: Content Protection
+    href: ./dol1/dol-content-protection.md
+  - name: Cleanup
+    href: ./dol1/dol-cleanup.md

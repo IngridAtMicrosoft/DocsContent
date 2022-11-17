@@ -10,7 +10,9 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Connecting to Media Services using .NET
+# Connecting
+
+## Connecting to Media Services using .NET
 
 Next we will encode the video file using .NET code, so we can see a typical customer work flow.
 

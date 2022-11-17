@@ -12,6 +12,8 @@ ms.service: media-services
 
 # Content Protection
 
+## Content Protection configuration
+
 Next, we will configure Media Services to encrypt and only provide the decryption key to users with a valid token.
 
 We will configure Media Services to only give viewers access to the content key that can decrypt media if they have a valid JWT token. Tokens provided by viewers must have:
@@ -105,7 +107,7 @@ var streamingLocator = await CreateStreamingLocatorAsync(mediaServices, outputAs
 Console.WriteLine($"Playback token: {CreateToken(password)}");
 ```
 
-# Watching the video
+## Watching the video
 
 Run the application and try playing the video using the player link provided. The video should fail to play as the player does not have a token.
 

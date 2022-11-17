@@ -10,7 +10,9 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Overview
+# Getting Started
+
+## Overview
 
 This hands-on lab shows how to use Media Services for encoding, streaming, and content protection. By the end of the lab, you
 will have a web site for a video you created, with content protection.
@@ -19,13 +21,13 @@ Feel free to adapt this lab to things that you want to learn. If you want to fol
 
 [!INCLUDE [<get-help>](includes/get-help.md)]
 
-# Setup
+## Setup
 
 For this lab, you will need Visual Studio (any recent version should be fine). You can download it from the [Visual Studio web site](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Enterprise).
 
 When installing Visual Studio, ensure the `Azure Development` option is checked. While Visual Studio is being installed, continue to the next step.
 
-# Creating a Media Services account
+## Creating a Media Services account
 
 You will also need a Media Services account to complete this lab. To create an account:
 
@@ -46,7 +48,7 @@ Make a note of the resource group name and account name. You will also need the 
 
 While the Media Services account is being created, continue to the next step.
 
-# Create a video
+## Create a video
 
 Using your cell phone or webcam, record a 30 second video and copy it to your PC (on iPhones, click share, then `Copy iCloudLink`, then email the link to yourself).
 

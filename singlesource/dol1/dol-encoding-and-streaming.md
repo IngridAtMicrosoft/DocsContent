@@ -10,7 +10,9 @@ ms.lastreviewed: 12/01/2022
 ms.service: media-services
 ---
 
-# Creating a Transform
+# Encoding and Streaming
+
+## Creating a Transform
 
 To prepare a media file for streaming, we have a Transform resource that tells Media Services how the source video should be transformed into a streaming video. For this example we will use a Transform with the built-in Content Aware Encoding preset. This transform will convert our single bitrate input file into a multi bitrate output that can stream on a wide variety of devices and network conditions.
 
@@ -50,7 +52,7 @@ var transform = await CreateTransformAsync(mediaServices);
 
 If you run the project now, the transform will be created.
 
-# Running an encoding Job
+## Running an encoding Job
 
 Next we need to upload our video and run a Job using the Transform we created. To do this, add the following code:
 
@@ -122,7 +124,7 @@ This code:
 
 Uncomment the line containing `await EncodeFileAsync` line and run the project again. The source file should be encoded.
 
-# Starting the Streaming Endpoint
+## Starting the Streaming Endpoint
 
 Before streaming the Asset, we must start a Streaming Endpoint.
 
@@ -147,7 +149,7 @@ static async Task<StreamingEndpointResource> StartStreamingEndpointAsync(
 
 Uncomment the line containing `await StartStreamingEndpointAsync` line and run the project again. The Streaming Endpoint should be started.
 
-# Creating a Streaming Locator
+## Creating a Streaming Locator
 
 Finally, we need to create a Streaming Locator to tell the Streaming Endpoint how the Asset should be streamed.
 
@@ -173,7 +175,7 @@ static async Task<StreamingLocatorResource> CreateStreamingLocatorAsync(
 
 Uncomment all the remaining lines and run the project again.
 
-# Watching the video
+## Watching the video
 
 If everything worked, the application should print out a URL that allows you to watch the video.
 
