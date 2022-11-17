@@ -16,7 +16,7 @@ ms.service: media-services
 
 ## Creating a Transform
 
-To prepare media content for streaming, we use a Transform resource that tells Media Services how the source video should be transformed into a streaming video. For this example we will use a Transform with the built-in Content Aware Encoding preset. This transform will convert our single bitrate input file into a multi-bitrate output that can stream on a wide variety of devices and over a variety of network conditions.
+To prepare media content for streaming, we use a Transform resource that tells Media Services how the source video should be transformed into a streaming video. For this example we will use a Transform with the built-in Content Aware Encoding preset. This transform will convert the video you recorded into a multi-bitrate output that can stream on a wide variety of devices and over a variety of network conditions.
 
 Add the following code to the end of the file:
 ```csharp
@@ -56,7 +56,7 @@ If you run the project now, the transform will be created.
 
 ## Running an encoding Job
 
-Next we need to upload our video and run a Job using the Transform we created. To do this, add the following code:
+Next we need to upload our video and run a Job using the Transform we created. To do this, add the following code at the end of the file:
 
 ```csharp
 static async Task<MediaAssetResource> EncodeFileAsync(
@@ -104,7 +104,7 @@ static async Task<MediaAssetResource> EncodeFileAsync(
         job.Data.State == MediaJobState.Queued ||
         job.Data.State == MediaJobState.Scheduled)
     {
-        Console.WriteLine($"Waiting for job to complete... {job.Data.State} {job.Data.Outputs.First().Progress}% complete");
+        Console.WriteLine($"Waiting for job to complete... {job.Data.State}, {job.Data.Outputs.First().Progress}% complete");
         await Task.Delay(TimeSpan.FromSeconds(10));
 
         job = await transform.GetMediaJobAsync(job.Data.Name);
@@ -124,7 +124,7 @@ This code:
 - Starts an encoding Job
 - Waits for the Job to complete
 
-Uncomment the line containing `await EncodeFileAsync` line and run the project again. The source file should be encoded.
+Uncomment the line containing `await EncodeFileAsync` line and run the project again. The application should now upload and encode the video.
 
 ## Starting the Streaming Endpoint
 
@@ -176,7 +176,7 @@ static async Task<StreamingLocatorResource> CreateStreamingLocatorAsync(
 }
 ```
 
-Uncomment all the remaining lines and run the project again.
+Uncomment the remaining commented out code and run the project again.
 
 ## Watching the video
 
@@ -184,7 +184,7 @@ If everything worked, the application should print out a URL that allows you to 
 
 This is a lot of work to watch one video, but there are some good points:
 - It is now trivial to enable a CDN for the Streaming Endpoint, allowing the video to be streamed to global audiences of almost any size
-- We can add content protection to the video to restrict who can watch the video
 - The video should play back on almost any device under a wide range of network conditions
+- We can add content protection to the video to restrict who can watch the video
 
 *Continue to [Content Protection](dol-content-protection.md) -->*

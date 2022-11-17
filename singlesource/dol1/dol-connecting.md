@@ -88,7 +88,7 @@ Now we need to connect to Media Services:
 1. Update `videoPath` to the location of video you recorded
 1. Click the hollow green play button in the toolbar to run the project
 
-If everything works, the code should run and print the ID of the Media Services account. You may be asked to sign in to Azure to when you run this application. To avoid having to sign in each time, in Visual Studio select `File` -> `Account Settings` then sign in to your account using Visual Studio.
+If everything works, the code should run and print the ID of the Media Services account. You may be asked to sign in to Azure to when you run this application. To avoid signing in each time the application is run, in Visual Studio select `File` -> `Account Settings` then enter your account details.
 
 So far, the application can:
 - Get a token to connect to Azure Resource Manager

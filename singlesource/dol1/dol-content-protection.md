@@ -16,9 +16,9 @@ ms.service: media-services
 
 ## Content Protection configuration
 
-Next, we will configure Media Services to encrypt the media content and to only provide the decryption key to users with a valid token.
+Next, we will configure Media Services to encrypt the media content. The key to decrypt the content will only be given to viewers with a valid token.
 
-Only give viewers access to the content key that can decrypt media if they have a valid JWT token. Tokens provided by viewers must have:
+To decrypt the content, viewers must have a valid JWT token with:
 - An issuer claim with the value `urn:microsoft:azure:mediaservices`
 - An audience claim with the value `urn:microsoft:azure:mediaservices`
 - The token must not be expired
