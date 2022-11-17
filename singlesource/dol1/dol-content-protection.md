@@ -69,7 +69,7 @@ static string CreateToken(string password)
 
 static byte[] DeriveKey(string password)
 {
-    return SHA256.HashData(Encoding.UTF8.GetBytes(password)).Take(16).ToArray();
+    return SHA256.HashData(Encoding.UTF8.GetBytes(password))[..16];
 }
 ```
 
@@ -105,8 +105,10 @@ Finally, replace the line containing `await CreateStreamingLocatorAsync` with th
 ```csharp
 var contentKeyPolicy = await CreateContentKeyPolicyAsync(mediaServices, password, runIndex);
 var streamingLocator = await CreateStreamingLocatorAsync(mediaServices, outputAsset, contentKeyPolicy, runIndex);
+Console.WriteLine();
 
 Console.WriteLine($"Playback token: {CreateToken(password)}");
+Console.WriteLine();
 ```
 
 ## Watching the video

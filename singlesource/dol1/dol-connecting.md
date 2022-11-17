@@ -44,6 +44,8 @@ Now we need to connect to Media Services:
     using Azure.ResourceManager.Media;
     using Azure.ResourceManager.Media.Models;
     using Azure.Storage.Blobs;
+    using Microsoft.IdentityModel.JsonWebTokens;
+    using Microsoft.IdentityModel.Tokens;
     using System.Security.Cryptography;
     using System.Text;
 
@@ -59,8 +61,8 @@ Now we need to connect to Media Services:
     var credential = new DefaultAzureCredential(
         new DefaultAzureCredentialOptions
         {
-            ExcludeManagedIdentityCredential = true,
-            ExcludeInteractiveBrowserCredential = false
+            ExcludeManagedIdentityCredential = true,    // skip managed identity credentials as the code is not running in Azure
+            ExcludeInteractiveBrowserCredential = false // allow the code to popup a browser window to request credentials
         });
 
     var armClient = new ArmClient(credential);
@@ -74,6 +76,7 @@ Now we need to connect to Media Services:
     //var outputAsset = await EncodeFileAsync(mediaServices, transform, videoPath, runIndex);
     //var streamingEndpoint = await StartStreamingEndpointAsync(mediaServices);
     //var streamingLocator = await CreateStreamingLocatorAsync(mediaServices, outputAsset, runIndex);
+    //Console.WriteLine();
 
     //var streamingUri = $"https://{streamingEndpoint.Data.HostName}/{streamingLocator.Data.StreamingLocatorId}/input.ism/manifest";
 
