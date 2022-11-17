@@ -38,8 +38,8 @@ You will also need a Media Services account to complete this lab. To create an a
    - Click the `Create new` text for the Resource Group and pick a name, for example `{your-alias}rg`
    - Enter a Media Services account name, for example `{your-alias}media`
    - Pick a Location, for example `West US 2`
-   - Click the `Create a new storage account` text and pick a name, for example "{your-alias}store" (the other options are fine)
-   - Do not check the `Enable classic API` option
+   - Click the `Create a new storage account` text and pick a name, for example `{your-alias}store` (the other options are fine)
+   - Leave the `Enable classic API` option unchecked
    - Click `Create a new user-assigned managed identity` option and pick a name, for example `{your-alias}id`
    - Finally tick the "I have all the rights..." option, then press `Review + Create`
 
