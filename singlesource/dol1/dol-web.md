@@ -46,74 +46,74 @@ We now need to create a web application:
 1. Set the framework to `.NET 6.0 (Long Term Support)` and press `Create`
 1. From the menu, select `Tools` -> `NuGet Package Manager` -> `Package Manager Console`
 1. In the Package Manager window, enter these commands:
-```powershell
-NuGet\Install-Package Microsoft.IdentityModel.JsonWebTokens
-```
+  ```powershell
+  NuGet\Install-Package Microsoft.IdentityModel.JsonWebTokens
+  ```
 1. Replace the contents of `Program.cs` with the following code:
-```csharp
-var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddRazorPages();
-var app = builder.Build();
+  ```csharp
+  var builder = WebApplication.CreateBuilder(args);
+  builder.Services.AddRazorPages();
+  var app = builder.Build();
 
-app.UseRouting();
-app.MapRazorPages();
-app.Run();
-```
+  app.UseRouting();
+  app.MapRazorPages();
+  app.Run();
+  ```
 1. Right click on the web application project in the Solution Explorer window and select `Add` -> `New Folder`
 1. Name the folder `Pages`
 1. Right click on the `Pages` folder and select `Add` -> `Razor Page`, then select `Razor Page - Empty`, then press `Add`
 1. Name the page `Index.cshtml` and press `Add`
 1. Replace the contents of `Index.cshtml` with the following code:
-```csharp
-@page
-@using System.Security.Claims
-@using System.Security.Cryptography;
-@using System.Text;
-@using Microsoft.IdentityModel.JsonWebTokens
-@using Microsoft.IdentityModel.Tokens
+  ```csharp
+  @page
+  @using System.Security.Claims
+  @using System.Security.Cryptography;
+  @using System.Text;
+  @using Microsoft.IdentityModel.JsonWebTokens
+  @using Microsoft.IdentityModel.Tokens
 
-<!DOCTYPE html>
-<html lang="en">
+  <!DOCTYPE html>
+  <html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <title>Azure Media Demo</title>
-  <link href="//amp.azure.net/libs/amp/latest/skins/amp-default/azuremediaplayer.min.css" rel="stylesheet">
-  <script src="//amp.azure.net/libs/amp/latest/azuremediaplayer.min.js"></script>
-</head>
+  <head>
+    <meta charset="utf-8">
+    <title>Azure Media Demo</title>
+    <link href="//amp.azure.net/libs/amp/latest/skins/amp-default/azuremediaplayer.min.css" rel="stylesheet">
+    <script src="//amp.azure.net/libs/amp/latest/azuremediaplayer.min.js"></script>
+  </head>
 
-@{
-    static string CreateToken(string password)
-    {
-        var tokenKey = new SymmetricSecurityKey(DeriveKey(password));
+  @{
+      static string CreateToken(string password)
+      {
+          var tokenKey = new SymmetricSecurityKey(DeriveKey(password));
 
-        return new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
-        {
-            Expires = DateTime.UtcNow.AddHours(4),
-            Issuer = "urn:microsoft:azure:mediaservices",
-            Audience = "urn:microsoft:azure:mediaservices",
-            SigningCredentials = new SigningCredentials(tokenKey, SecurityAlgorithms.HmacSha256),
-        });
-    }
+          return new JsonWebTokenHandler().CreateToken(new SecurityTokenDescriptor
+          {
+              Expires = DateTime.UtcNow.AddHours(4),
+              Issuer = "urn:microsoft:azure:mediaservices",
+              Audience = "urn:microsoft:azure:mediaservices",
+              SigningCredentials = new SigningCredentials(tokenKey, SecurityAlgorithms.HmacSha256),
+          });
+      }
 
-    static byte[] DeriveKey(string password)
-    {
-        return SHA256.HashData(Encoding.UTF8.GetBytes(password)).Take(16).ToArray();
-    }
+      static byte[] DeriveKey(string password)
+      {
+          return SHA256.HashData(Encoding.UTF8.GetBytes(password)).Take(16).ToArray();
+      }
 
-    var token = CreateToken(password: "apple fish pen");
-    var source = "https://mymedia-usw22.streaming.media.azure.net/00000000-0000-0000-0000-000000000000/input.ism/manifest";
-}
+      var token = CreateToken(password: "apple fish pen");
+      var source = "https://mymedia-usw22.streaming.media.azure.net/00000000-0000-0000-0000-000000000000/input.ism/manifest";
+  }
 
-<body>
-  <h1>Azure Media Demo</h1>
-  <video id="azuremediaplayer" class="azuremediaplayer amp-default-skin" autoplay controls width="1280" height="720" data-setup='{}'>
-    <source src="@source" type="application/vnd.ms-sstr+xml" data-setup='{"protectionInfo": [{"type": "AES", "authenticationToken": "Bearer=@token"}]}' />
-  </video>
-</body>
+  <body>
+    <h1>Azure Media Demo</h1>
+    <video id="azuremediaplayer" class="azuremediaplayer amp-default-skin" autoplay controls width="1280" height="720" data-setup='{}'>
+      <source src="@source" type="application/vnd.ms-sstr+xml" data-setup='{"protectionInfo": [{"type": "AES", "authenticationToken": "Bearer=@token"}]}' />
+    </video>
+  </body>
 
-</html>
-```
+  </html>
+  ```
 1. Update the `token` line to use the password you created in the previous section
 1. Update the `source` property to use the streaming URL printed by the encoding application
 
