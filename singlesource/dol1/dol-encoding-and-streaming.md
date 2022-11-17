@@ -12,9 +12,11 @@ ms.service: media-services
 
 # Encoding and Streaming
 
+[!INCLUDE [<get-help>](includes/get-help.md)]
+
 ## Creating a Transform
 
-To prepare a media file for streaming, we have a Transform resource that tells Media Services how the source video should be transformed into a streaming video. For this example we will use a Transform with the built-in Content Aware Encoding preset. This transform will convert our single bitrate input file into a multi bitrate output that can stream on a wide variety of devices and network conditions.
+To prepare media content for streaming, we use a Transform resource that tells Media Services how the source video should be transformed into a streaming video. For this example we will use a Transform with the built-in Content Aware Encoding preset. This transform will convert our single bitrate input file into a multi-bitrate output that can stream on a wide variety of devices and over a variety of network conditions.
 
 Add the following code to the end of the file:
 ```csharp
@@ -162,6 +164,7 @@ static async Task<StreamingLocatorResource> CreateStreamingLocatorAsync(
     string runIndex)
 {
     Console.WriteLine("Creating streaming locator");
+
     return (await mediaServices.GetStreamingLocators().CreateOrUpdateAsync(
         WaitUntil.Completed,
         $"locator-{runIndex}",
@@ -177,10 +180,10 @@ Uncomment all the remaining lines and run the project again.
 
 ## Watching the video
 
-If everything worked, the application should print out a URL that allows you to watch the video.
+If everything worked, the application should print out a URL that allows you to watch the video using Azure Media Player.
 
 This is a lot of work to watch one video, but there are some good points:
-- It is trivial to enable a CDN for the Streaming Endpoint, allowing us to stream to global audiences of almost any size
+- It is now trivial to enable a CDN for the Streaming Endpoint, allowing the video to be streamed to global audiences of almost any size
 - We can add content protection to the video to restrict who can watch the video
 - The video should play back on almost any device under a wide range of network conditions
 

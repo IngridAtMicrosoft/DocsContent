@@ -12,17 +12,19 @@ ms.service: media-services
 
 # Connecting
 
+[!INCLUDE [<get-help>](includes/get-help.md)]
+
 ## Connecting to Media Services using .NET
 
-Next we will encode the video file using .NET code, so we can see a typical customer work flow.
+Next we will create a .NET application that connects to Azure and uses your Media Services account to enable streaming for your video.
 
 First we need to create a new project in Visual Studio:
 1. Start Visual Studio
 1. Select `Create a new project`
 1. Select the `Console App` item with the `C#` tag (it should be the first item), then press `Next`
-1. Pick a name for your project, for example `MediaServicesLab`, and press `Next`
-1. Set the framework to `.NET 6.0` or `.NET 7.0` (either is fine) then press `Create`
-1. When the project is ready, you can click the hollow green play button in the toolbar to run the project
+1. Pick a name for your project, for example `MediaServicesLab` and press `Next`
+1. Set the framework to `.NET 6.0` or `.NET 7.0` (either is fine) and press `Create`
+1. When the project is ready, you can click the hollow green play button in the toolbar to run the project (it should show a console window with the text `Hello world`)
 
 Now we need to connect to Media Services:
 1. From the menu, select `Tools` -> `NuGet Package Manager` -> `Package Manager Console`
@@ -31,9 +33,10 @@ Now we need to connect to Media Services:
 NuGet\Install-Package Azure.Identity
 NuGet\Install-Package Azure.ResourceManager.Media
 NuGet\Install-Package Azure.Storage.Blobs
+NuGet\Install-Package Microsoft.IdentityModel.JsonWebTokens
 NuGet\Install-Package System.Linq.Async
 ```
-1. Replace all the code in the `Program.cs` file with the following text:
+1. Replace everything in the `Program.cs` file with the following code:
 ```csharp
 using Azure;
 using Azure.Identity;
@@ -78,15 +81,15 @@ Console.WriteLine($"Using Media Services account with ID {mediaServices.Data.Med
 //Console.WriteLine();
 //Console.WriteLine($"Watch your video at: https://aka.ms/azuremediaplayer?url={Uri.EscapeDataString(streamingUri)}");
 ```
-1. Update the `subscriptionId`, `resourceGroupName`, and `accountName` to the values you used when creating your Media Services account
-1. Update `videoPath` to the location of your video file
+1. Update the `subscriptionId`, `resourceGroupName`, and `accountName` to the values you noted down when creating your Media Services account
+1. Update `videoPath` to the location of video you recorded
 1. Click the hollow green play button in the toolbar to run the project
 
-If everything works, the code should run and print the ID of the Media Services account. You may be asked to sign in each time your run this code -- to avoid this, select `File` -> `Account Settings` then sign in to your account using Visual Studio.
+If everything works, the code should run and print the ID of the Media Services account. You may be asked to sign in to Azure to when you run this application. To avoid having to sign in each time, in Visual Studio select `File` -> `Account Settings` then sign in to your account using Visual Studio.
 
-This code is:
-- Getting a token to connect to Azure Resource Manager
-- Generating a request Azure Resource Manager to get details about your account
-- Printing some account details
+So far, the application can:
+- Get a token to connect to Azure Resource Manager
+- Send a request Azure Resource Manager to get details about your Media Services account
+- Printing the Media Services account ID
 
 *Continue to [Encoding and Streaming](dol-encoding-and-streaming.md) -->*

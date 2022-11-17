@@ -12,15 +12,17 @@ ms.service: media-services
 
 # Content Protection
 
+[!INCLUDE [<get-help>](includes/get-help.md)]
+
 ## Content Protection configuration
 
-Next, we will configure Media Services to encrypt and only provide the decryption key to users with a valid token.
+Next, we will configure Media Services to encrypt the media content and to only provide the decryption key to users with a valid token.
 
-We will configure Media Services to only give viewers access to the content key that can decrypt media if they have a valid JWT token. Tokens provided by viewers must have:
+Only give viewers access to the content key that can decrypt media if they have a valid JWT token. Tokens provided by viewers must have:
 - An issuer claim with the value `urn:microsoft:azure:mediaservices`
 - An audience claim with the value `urn:microsoft:azure:mediaservices`
 - The token must not be expired
-- The token must be signed using the `HS256` algorithm using a key we will provide
+- The token must be signed using the `HS256` algorithm using a token signing key that we will provide to Media Services
 
 To configure this, first add this method at the end of the file:
 
@@ -99,7 +101,7 @@ To simplify key management, this example derives a key from a string. Add this v
 var password = "apple fish pen"; // update this to any value you like
 ```
 
-Finally, replace the line containing `await CreateStreamingLocatorAsync` with the following two lines:
+Finally, replace the line containing `await CreateStreamingLocatorAsync` with the following lines:
 ```csharp
 var contentKeyPolicy = await CreateContentKeyPolicyAsync(mediaServices, password, runIndex);
 var streamingLocator = await CreateStreamingLocatorAsync(mediaServices, outputAsset, contentKeyPolicy, runIndex);
