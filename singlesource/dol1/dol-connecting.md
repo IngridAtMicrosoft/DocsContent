@@ -16,9 +16,9 @@ ms.service: media-services
 
 ## Connecting to Media Services using .NET
 
-Next we will create a .NET application that connects to Azure and uses your Media Services account to enable streaming for your video.
+Next, we will create a .NET application that connects to Azure and uses your Media Services account to enable streaming for your video.
 
-First we need to create a new project in Visual Studio:
+First, we need to create a new project in Visual Studio:
 1. Start Visual Studio
 1. Select `Create a new project`
 1. Select the `Console App` item with the `C#` tag (it should be the first item), then press `Next`
@@ -88,7 +88,7 @@ Now we need to connect to Media Services:
 1. Update `videoPath` to the location of video you recorded
 1. Click the hollow green play button in the toolbar to run the project
 
-If everything works, the code should run and print the ID of the Media Services account. You may be asked to sign in to Azure to when you run this application. To avoid signing in each time the application is run, in Visual Studio select `File` -> `Account Settings` then enter your account details.
+If everything works, the code should run and print the ID of the Media Services account. You may be asked to sign in to Azure when you run this application. To avoid signing in each time the application is run, in Visual Studio select `File` -> `Account Settings` then enter your account details.
 
 So far, the application can:
 - Get a token to connect to Azure Resource Manager

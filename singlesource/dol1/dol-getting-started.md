@@ -14,7 +14,7 @@ ms.service: media-services
 
 ## Overview
 
-This hands-on lab will show you how to use Media Services for encoding, streaming, and content protection. By the end of the lab, you will have built web site containing a video you created, with content protection to restrict who can view the video.
+This hands-on lab will show you how to use Media Services for encoding, streaming, and content protection. By the end of the lab, you will have built a web site containing a video you created, with content protection to restrict who can view the video.
 
 Feel free to adapt this lab to things that you want to learn. If you want to follow along using Java instead of C#, that's fine.
 

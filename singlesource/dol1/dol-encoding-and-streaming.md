@@ -16,7 +16,7 @@ ms.service: media-services
 
 ## Creating a Transform
 
-To prepare media content for streaming, we use a Transform resource that tells Media Services how the source video should be transformed into a streaming video. For this example we will use a Transform with the built-in Content Aware Encoding preset. This transform will convert the video you recorded into a multi-bitrate output that can stream on a wide variety of devices and over a variety of network conditions.
+To prepare media content for streaming, we use a Transform resource that tells Media Services how the source video should be transformed into a streaming video. For this example, we will use a Transform with the built-in Content Aware Encoding preset. This transform will convert the video you recorded into a multi-bitrate output that can stream on a wide variety of devices and over a variety of network conditions.
 
 Add the following code to the end of the file:
 ```csharp
@@ -56,7 +56,7 @@ If you run the project now, the transform will be created.
 
 ## Running an encoding Job
 
-Next we need to upload our video and run a Job using the Transform we created. To do this, add the following code at the end of the file:
+Next, we need to upload our video and run a Job using the Transform we created. To do this, add the following code at the end of the file:
 
 ```csharp
 static async Task<MediaAssetResource> EncodeFileAsync(

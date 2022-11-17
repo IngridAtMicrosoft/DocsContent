@@ -96,7 +96,7 @@ static async Task<StreamingLocatorResource> CreateStreamingLocatorAsync(
 }
 ```
 
-To simplify key management, this example derives a key from a string. Add this variable after the line where `videoPath` is set.
+To simplify key management, this example derives a key from a string (a real application should use cryptographically secure keys). Add this variable after the line where `videoPath` is set.
 ```csharp
 var password = "apple fish pen"; // update this to any value you like
 ```
@@ -117,6 +117,6 @@ Run the application and try playing the video using the player link provided. Th
 
 In the player, tick `Advanced Options`, then tick the `AES` box, and paste in the example token printed by the application. The video should now play.
 
-This demonstrates that only users who can obtain valid tokens are able to watch the content. The encrypted media data can is accessible to anyone and can be cached by a CDN, enabling media to be distributed to very large audiences, but to decrypt and view the media, viewers must have a valid token to access the content key.
+This demonstrates that only users who can obtain valid tokens are able to watch the content. The encrypted media data is accessible to anyone and can be cached by a CDN, enabling media to be distributed to very large audiences, but to decrypt and view the media, viewers must have a valid token to access the content key.
 
 *Continue to [Building a web site](dol-web.md) -->*
