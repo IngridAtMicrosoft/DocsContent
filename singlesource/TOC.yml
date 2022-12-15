@@ -1,11 +1,11 @@
 - name: Media Services aPaaS
   items:
-  - name: Media Stream Accounts
+  - name: Media Accounts
     href: ./v1/media-accounts.md
   - name: Media Streams
     href: ./v1/media-streams.md
-  - name: Media Tracks
-    href: ./v1/media-tracks.md
+  - name: Media Events
+    href: ./v1/media-events.md
   - name: Media Protections
     href: ./v1/media-protections.md
 - name: Media Services aPaaS (future)

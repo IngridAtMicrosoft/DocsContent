@@ -1,5 +1,5 @@
 ---
-title: Media Stream Accounts
+title: Media Accounts
 description: This is a repository for a single source prototype.
 author: jonpayne
 ms.topic: article
@@ -14,13 +14,13 @@ ms.service: media-services
 
 [!INCLUDE [<prerelease-api>](../includes/prerelease-api.md)]
 
-**Media accounts** provide a simple, scalable, and reliable way to manage media using Azure. Media stream accounts can be used to stream live events to audiences of any size.
+**Media accounts** provide a simple, scalable, and reliable way to manage media using Azure. Media accounts can be used to stream live events to audiences of any size.
 
 ![Media Services resources](../media/resources.png)
 
-Media stream accounts are an alternative to Media Services accounts. Media stream accounts make streaming media simple, but do not provide as much flexibility as Media Services accounts.
+Media accounts are an alternative to Media Services accounts. Media accounts make streaming media simple, but do not provide as much flexibility as Media Services accounts.
 
-| Feature | Media Services | Media stream accounts |
+| Feature | Media Services | Media accounts |
 |---|---|---|
 | Account location | Any of 50+ Azure regions | Global |
 | Data storage | Media data is stored in one or more Azure Storage accounts, managed by the account owner | Storage for media data is managed by Media Services |
@@ -28,18 +28,18 @@ Media stream accounts are an alternative to Media Services accounts. Media strea
 | Content protection | Clear key and DRM protection, using user defined token authentication | Clear key protection using simple tokens |
 | API | APIs for managing, streaming, protecting, and encoding media | Simple APIs for streaming live media |
 
-Media stream accounts contain [media streams](media-streams.md) for streaming media content and [media protections](media-protections.md) for protecting media content.
+Media accounts contain [media streams](media-streams.md) for streaming media content and [media protections](media-protections.md) for protecting media content.
 
 ## Creating a media account
 
-Media stream accounts can be created using the Azure Portal, ARM templates, client SDKs, or using HTTP requests. 
+Media accounts can be created using the Azure Portal, ARM templates, client SDKs, or using HTTP requests. 
 
 #### [C#](#tab/csharp)
 
 [!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
 [!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
 
-Media stream account creation:
+Media account creation:
 
 [!INCLUDE [<csharp-account-creation>](../includes/csharp-account-crud-create.md)]
 
@@ -49,18 +49,18 @@ Media stream account creation:
 
 ---
 
-## Media stream account options
+## Media account options
 
 ### Data location
 
-Media stream accounts are a global Azure resource and media may be processed and cached in any Azure region. Media content is stored in the
+Media accounts are a global Azure resource and media may be processed and cached in any Azure region. Media content is stored in the
 location specified when the account is created using the `dataLocation` property. `dataLocation` is set to an Azure geography, for example
 `United States` or `Europe`, data may be stored within any Azure region in the geography. The data location of an account may not be
 changed after the account has been created.
 
 ### Public network access
 
-Media stream accounts can be configured to block all requests from public networks using the `publicNetworkAccess` property. When public
+Media accounts can be configured to block all requests from public networks using the `publicNetworkAccess` property. When public
 network access is blocked, media may only be streamed using a [private endpoint](../v2/network-security.md).
 
 #### [C#](#tab/csharp)
@@ -75,7 +75,7 @@ network access is blocked, media may only be streamed using a [private endpoint]
 
 ### Managed identity
 
-Media stream accounts use managed identities to access keys used for account encryption and certificates for content key token signing.
+Media accounts use managed identities to access keys used for account encryption and certificates for content key token signing.
 
 Managed identities are configured using the `identity` property of the media account:
 
@@ -137,7 +137,7 @@ Tags can be specified when creating or updating a media account:
 
 ---
 
-## Media stream account operations
+## Media account operations
 
 ### Updating a media account
 
@@ -162,7 +162,7 @@ accessed.
 
 ### Listing media accounts
 
-Media stream accounts may be listed using the service API.
+Media accounts may be listed using the service API.
 
 #### [C#](#tab/csharp)
 
@@ -176,7 +176,7 @@ Media stream accounts may be listed using the service API.
 
 ### Deleting a media account
 
-Media stream accounts may be deleted. When an account is deleted, all media content and service configuration is removed.
+Media accounts may be deleted. When an account is deleted, all media content and service configuration is removed.
 
 > [!CAUTION]
 > It may not be possible to recover deleted media accounts. Consider using Azure resource locks to prevent accidental resource deletion.
@@ -191,6 +191,6 @@ Media stream accounts may be deleted. When an account is deleted, all media cont
 
 ---
 
-## Media stream account limits and billing
+## Media account limits and billing
 
 By default, an Azure subscription may contain up to fifty media accounts. While there is no charge for a media accounts, resources within a media account are billed.
