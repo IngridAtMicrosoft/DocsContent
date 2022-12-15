@@ -16,7 +16,7 @@ ms.service: media-services
 
 **TODO**
 
-- Describe the Event Grid events raised by a media stream account
+- Describe the Event Grid events raised by a media account
 - Describe audit logs
 - Describe metrics
 - Show how audit logs, metrics, and Event Grid events can be used to monitor an account
