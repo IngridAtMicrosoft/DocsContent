@@ -15,10 +15,10 @@ var managedIdentity = new ResourceIdentifier(
     "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources" +
     "/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity");
 
-var mediaAccount = (await resourceGroup.GetMediaStreamAccounts().CreateOrUpdateAsync(
+var mediaAccount = (await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "myaccount",
-    new MediaStreamAccountData("global")
+    new MediaAccountData("global")
     {
         Identity = new ManagedServiceIdentity(ManagedServiceIdentityType.UserAssigned)
         {

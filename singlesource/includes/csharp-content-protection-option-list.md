@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaProtections = mediaStreamAccount.GetMediaProtections().GetAllAsync();
+var mediaProtections = mediaAccount.GetMediaProtections().GetAllAsync();
 
 await foreach (var m in mediaProtections)
 {

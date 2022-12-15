@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-PATCH https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie?api-version=2023-01-01
+PATCH https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie?api-version=2023-01-01
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
@@ -27,13 +27,13 @@ Content-Type:application/json
 }
 
 200 OK
-Date:Wed, 09 Nov 2022 17:30:27 GMT
+Date:Thu, 15 Dec 2022 23:12:41 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
   "name": "mymovie",
-  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount/mediaStreams/mymovie",
-  "type": "Microsoft.Media/mediaStreamAccounts/mediaStreams",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaStreams/mymovie",
+  "type": "Microsoft.Media/mediaAccounts/mediaStreams",
   "properties": {
     "provisioningState": "Succeeded",
     "streamState": "OnDemand",

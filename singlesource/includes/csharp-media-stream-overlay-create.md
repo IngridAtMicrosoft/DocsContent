@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaStream = (await mediaStreamAccount.GetMediaStreams().CreateOrUpdateAsync(
+var mediaStream = (await mediaAccount.GetMediaStreams().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "mymovie",
     new MediaStreamData

@@ -11,11 +11,11 @@ ms.service: media-services
 ---
 
 ```http
-DELETE https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount?api-version=2023-01-01
+DELETE https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount?api-version=2023-01-01
 Accept:application/json
 Authorization:REDACTED
 
 200 OK
-Date:Wed, 09 Nov 2022 17:30:27 GMT
+Date:Thu, 15 Dec 2022 23:12:41 GMT
 
 ```

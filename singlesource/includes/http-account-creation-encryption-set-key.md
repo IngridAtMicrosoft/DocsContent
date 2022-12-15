@@ -11,7 +11,7 @@ ms.service: media-services
 ---
 
 ```http
-PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount?api-version=2023-01-01
+PUT https://management.azure.com/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount?api-version=2023-01-01
 Accept:application/json
 Authorization:REDACTED
 Content-Type:application/json
@@ -41,17 +41,17 @@ Content-Type:application/json
 }
 
 201 Created
-Date:Wed, 09 Nov 2022 17:29:52 GMT
+Date:Thu, 15 Dec 2022 23:12:23 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
   "name": "myaccount",
-  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaStreamAccounts/myaccount",
-  "type": "Microsoft.Media/mediaStreamAccounts",
+  "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount",
+  "type": "Microsoft.Media/mediaAccounts",
   "location": "global",
   "tags": {},
   "properties": {
-    "accountId": "fbefbc9f-9032-4ecb-985b-b611f321e5a0",
+    "accountId": "f7a4644f-b1b2-4c2b-86c5-b9ed3afe3d8c",
     "dataLocation": "United States",
     "provisioningState": "Succeeded",
     "encryption": {
@@ -78,8 +78,8 @@ Content-Type:application/json; odata.metadata=none
     "type": "UserAssigned",
     "userAssignedIdentities": {
       "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity": {
-        "clientId": "de045c4c-fcc3-4d54-b4a6-55cbddf346e8",
-        "principalId": "1cbeb1ed-17ad-4966-b56a-a8919a784cd6"
+        "clientId": "9ce9cfb6-53a7-4d3d-a1e6-65f201f1bcf5",
+        "principalId": "5f11cb62-0bf0-4cb3-bdd4-faf9ca10cb4e"
       }
     }
   }

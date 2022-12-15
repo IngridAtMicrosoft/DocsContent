@@ -15,7 +15,7 @@ var managedIdentity = new ResourceIdentifier(
     "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources" +
     "/providers/Microsoft.ManagedIdentity/userAssignedIdentities/myIdentity");
 
-var mediaProtection = (await mediaStreamAccount.GetMediaProtections().CreateOrUpdateAsync(
+var mediaProtection = (await mediaAccount.GetMediaProtections().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "protection-option-1",
     new MediaProtectionData

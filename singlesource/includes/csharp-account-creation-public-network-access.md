@@ -11,10 +11,10 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaAccount = (await resourceGroup.GetMediaStreamAccounts().CreateOrUpdateAsync(
+var mediaAccount = (await resourceGroup.GetMediaAccounts().CreateOrUpdateAsync(
     WaitUntil.Completed,
     "myaccount",
-    new MediaStreamAccountData("global")
+    new MediaAccountData("global")
     {
         DataLocation = "United States",
         PublicNetworkAccess = PublicNetworkAccess.Disabled

@@ -11,9 +11,9 @@ ms.service: media-services
 ---
 
 ```csharp
-var mediaStreamAccount = armClient.GetMediaStreamAccountResource(
-    MediaStreamAccountResource.CreateResourceIdentifier(
+var mediaAccount = armClient.GetMediaAccountResource(
+    MediaAccountResource.CreateResourceIdentifier(
         subscriptionId: "00000000-0000-0000-0000-000000000000",
         resourceGroupName: "myResources",
-        mediaStreamAccountName: "myaccount"));
+        mediaAccountName: "myaccount"));
 ```
