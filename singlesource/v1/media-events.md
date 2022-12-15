@@ -1,0 +1,39 @@
+---
+title: Media Stream Tracks
+description: This is a repository for a single source prototype.
+author: jonpayne
+ms.topic: article
+ms.date: 12/01/2022
+ms.author: jopayn
+ms.reviewer: jopayn
+ms.lastreviewed: 12/01/2022
+ms.service: media-services
+---
+
+# Media Tracks
+
+The media tracks resource lists each of the tracks in a media stream.
+
+> [!NOTE]
+> The media tracks API lists the primary tracks within a media stream. When a stream is viewed, Media Services
+derives new tracks from the primary tracks to match the capabilities of the player and the viewer's network
+conditions -- derived tracks are not included in the list tracks API response.
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
+[!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
+
+Listing media tracks in a media stream:
+
+[!INCLUDE [<csharp-media-tracks-list>](../includes/csharp-media-tracks-list.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-media-tracks-list](../includes/http-media-tracks-list.md)]
+
+---
+
+## Media track and billing
+
+There is no charge for accessing media tracks.
