@@ -12,7 +12,29 @@ ms.service: media-services
 
 # Media Events
 
-## Streaming media to a media stream using RTMP
+Media events can be used to stream live media to a media stream.
+
+## Creating a media event
+
+Media events can be created using the Azure Portal, ARM templates, client SDKs, or using HTTP requests. The request to create a media
+event specifies ingest protocol for the event.
+
+#### [C#](#tab/csharp)
+
+[!INCLUDE [<notes-for-csharp-setup>](../includes/notes-for-csharp-setup.md)]
+[!INCLUDE [<csharp-arm-client-setup>](../includes/csharp-arm-client-setup.md)]
+
+Media event creation:
+
+[!INCLUDE [<csharp-media-event-create>](../includes/csharp-media-event-create.md)]
+
+#### [HTTP](#tab/http)
+
+[!INCLUDE [<http-media-event-create](../includes/http-media-event-create.md)]
+
+---
+
+## Using a media event to stream RTMP media to a media stream
 
 After creating a media stream, you can stream media to the stream using RTMP.
 
@@ -108,4 +130,4 @@ view to video playback mode.
 
 ## Media event limits and billing
 
-...
+A media account may have up to one million media events. Media events are billed for the number of minutes of content ingested.

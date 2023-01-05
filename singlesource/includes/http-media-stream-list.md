@@ -16,7 +16,7 @@ Accept:application/json
 Authorization:REDACTED
 
 200 OK
-Date:Thu, 15 Dec 2022 23:12:41 GMT
+Date:Thu, 05 Jan 2023 17:02:43 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -27,7 +27,7 @@ Content-Type:application/json; odata.metadata=none
       "type": "Microsoft.Media/mediaAccounts/mediaStreams",
       "properties": {
         "provisioningState": "Succeeded",
-        "streamState": "OnDemand",
+        "streamState": "Idle",
         "outputs": {
           "output2": {
             "enabled": true,

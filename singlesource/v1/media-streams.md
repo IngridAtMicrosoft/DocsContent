@@ -37,11 +37,11 @@ stream specifies the outputs for the stream; the media stream creation response 
 
 Media stream creation:
 
-[!INCLUDE [<csharp-media-stream-rtmp-create>](../includes/csharp-media-stream-rtmp-create.md)]
+[!INCLUDE [<csharp-media-stream-create>](../includes/csharp-media-stream-create.md)]
 
 #### [HTTP](#tab/http)
 
-[!INCLUDE [<http-media-stream-rtmp-create](../includes/http-media-stream-rtmp-create.md)]
+[!INCLUDE [<http-media-stream-create](../includes/http-media-stream-create.md)]
 
 ---
 
@@ -96,5 +96,4 @@ each of the outputs defined in the media stream.
 
 ## Media stream limits and billing
 
-A media account may have up to one million media streams. Media streams are billed for the number of minutes of content stored,
-the number of minutes of ingest, and the number of minutes of content streamed.
+A media account may have up to one million media streams. Media streams are billed for the number of minutes of content stored and the number of minutes of content streamed.

@@ -21,14 +21,14 @@ Content-Type:application/json
     "outputs": {
       "output1": {
         "enabled": true,
-        "mediaProtectionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-1"
+        "mediaProtection": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-1"
       }
     }
   }
 }
 
 201 Created
-Date:Thu, 15 Dec 2022 23:13:25 GMT
+Date:Thu, 05 Jan 2023 17:03:16 GMT
 Content-Type:application/json; odata.metadata=none
 
 {
@@ -41,7 +41,7 @@ Content-Type:application/json; odata.metadata=none
     "outputs": {
       "output1": {
         "enabled": true,
-        "mediaProtectionId": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-1",
+        "mediaProtection": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/myResources/providers/Microsoft.Media/mediaAccounts/myaccount/mediaProtections/protection-option-1",
         "contentKeyId": "9b9b0da7-3b03-a65a-ee49-730f5d658687",
         "streamingUri": "https://stream.azure.media.net/8bcfcbb1-0c01-6717-6eb5-872e8e7faa30"
       }

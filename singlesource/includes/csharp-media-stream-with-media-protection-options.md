@@ -22,7 +22,7 @@ var mediaStream = (await mediaAccount.GetMediaStreams().CreateOrUpdateAsync(
                 "output1",
                 new MediaStreamOutput(enabled: true)
                 {
-                    MediaProtectionId = mediaProtection.Id
+                    MediaProtection = mediaProtection.Id
                 }
             }
         }
