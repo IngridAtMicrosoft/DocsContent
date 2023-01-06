@@ -19,16 +19,15 @@ Media streams store media and define how the media can be streamed. A media acco
 accounts, there is no need to manage storage resources and CDNs used to store and stream media.
 
 When a viewer watches a media stream, Media Services automatically adapts the media data to match the viewer's playback device capabilities
-and network bandwidth. The selection of the streaming protocol (HLS, low-latency HLS, or DASH), media codec, and media bitrate are all
-managed by Media Services.
+and network bandwidth. The selection of media codec, and media bitrate are managed by Media Services. Streams can be viewed using HLS, low-latency HLS, or DASH.
 
 Each media stream contains a collection of **outputs** which describe how the content may be accessed. A media stream may define multiple
-outputs to preset the same content in multiple ways (for example, using different authentication options for different groups of users).
+outputs to allow the same content to be streamed in multiple ways, for example, creating three streaming URLs each with different authentication options in order to provide content tailored to different groups of users.
 
 ## Creating a media stream
 
 Media streams can be created using the Azure Portal, ARM templates, client SDKs, or using HTTP requests. The request to create a media
-stream specifies the outputs for the stream; the media stream creation response includes the streaming URLs for each output.
+stream specifies the outputs for the stream. When a stream is created, the stream creation response message includes the streaming URLs for each output.
 
 #### [C#](#tab/csharp)
 

@@ -12,7 +12,7 @@ ms.service: media-services
 
 # Media Events
 
-Media events can be used to stream live media to a media stream.
+Media events are used to stream live media to a media stream resource.
 
 ## Creating a media event
 
