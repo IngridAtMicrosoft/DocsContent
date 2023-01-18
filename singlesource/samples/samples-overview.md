@@ -10,8 +10,6 @@ ms.author: inhenkel
 
 # Media Services v3 samples
 
-[!INCLUDE [media services api v3 logo](./includes/v3-hr.md)]
-
 This article contains a list of all the samples available for Media Services organized by method and SDK.
 
 ## 3rd party player samples
