@@ -1,5 +1,7 @@
 - name: Single Source
   href: index.md
+- name: Samples
+  href: ./samples/samples-overview.md
 - name: Reuse in Graphics
   items:
   - name: Azure Sprite Icons
