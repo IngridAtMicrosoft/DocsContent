@@ -13,7 +13,6 @@
 
 Azure Media Services is a cloud-based platform that enables you to build solutions that achieve broadcast-quality video streaming, enhance accessibility and distribution, analyze content, and much more. Whether you're an app developer, a call center, a government agency, or an entertainment company, Media Services helps you create apps that deliver media experiences of outstanding quality to large audiences on today's most popular mobile devices and browsers.
 
-
 ## Example scenario
 
 Suppose that you are responsible for delivering streaming media for your company. You may want to stream live sporting events, public meetings like civic events, or educational content. You might want to create a subscription service and restrict access and use of copyrighted work. You might also want to allow people to download media for offline playback where an Internet connection isn't available.  You can do all of this with Azure Media Services as well as scale streaming with a CDN.
