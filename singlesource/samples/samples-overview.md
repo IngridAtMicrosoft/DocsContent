@@ -20,8 +20,6 @@ Try various players such as Shaka, Video.js, and THEOPlayer with the [3rd party 
 
 You'll find description and links to the samples you may be looking for in each of the tabs.
 
-[!INCLUDE [warning-billing](includes/warning-billing.md)]
-
 ## [Node.JS (TypeScript)](#tab/node/)
 
 |Sample|Description|
