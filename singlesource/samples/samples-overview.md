@@ -4,7 +4,7 @@ description: This article is a listing of all of the Media Services code samples
 author: IngridAtMicrosoft
 ms.service: media-services
 ms.topic: overview
-ms.date: 01/09/2023
+ms.date: 01/17/2023
 ms.author: inhenkel
 ---
 
@@ -171,7 +171,3 @@ You'll find description and links to the samples you may be looking for in each 
 |[EncodingWithMESPredefinedPreset](https://github.com/Azure-Samples/media-services-v3-java/tree/master/VideoEncoding/EncodingWithMESPredefinedPreset)|How to submit a job using a built-in preset and an HTTP URL input, publish output asset for streaming, and download results for verification.|
 
 ---
-
-[!INCLUDE [warning-rest-api-retry-policy.md](./includes/warning-rest-api-retry-policy.md)]
-
-[!INCLUDE [media-services-community](includes/media-services-community.md)]
