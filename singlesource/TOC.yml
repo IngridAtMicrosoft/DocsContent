@@ -1,7 +1,11 @@
 - name: Single Source
   href: index.md
 - name: Samples
-  href: ./samples/samples-overview.md
+  items:
+  - name: Samples Overview
+    href: ./samples/samples-overview.md
+  - name: Samples Readme includes
+    href: ./samples/samples-python-readme.md
 - name: Reuse in Graphics
   items:
   - name: Azure Sprite Icons
