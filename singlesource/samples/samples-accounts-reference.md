@@ -18,7 +18,7 @@ The sample shows how to create a Media Services account and set the primary stor
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-| [Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Account/create-account.ts) | python | java |
+| [Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Account/create-account.ts) | [Python](https://github.com/Azure-Samples/media-services-v3-python/blob/main/Account/create-account.py) | java |
 
 ## Create an account with a user assigned managed identity
 
@@ -26,6 +26,4 @@ The sample shows how to create a Media Services account and set the primary stor
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Account/create-account_with_managed_identity.ts)| python | java |
-
----
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Account/create-account_with_managed_identity.ts)| [Python](https://github.com/Azure-Samples/media-services-v3-python/blob/main/Account/create-account-with-managed-identity.py) | :small_blue_diamond: |
