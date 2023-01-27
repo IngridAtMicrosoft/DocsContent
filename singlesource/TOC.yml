@@ -4,8 +4,22 @@
   items:
   - name: Samples Overview
     href: ./samples/samples-overview.md
-  - name: Samples Readme includes
-    href: ./samples/samples-python-readme.md
+  - name: Accounts samples
+    href: ./samples/samples-accounts-reference.md
+  - name: Assets samples
+    href: ./samples/samples-assets-reference.md
+  - name: Live streaming samples
+    href: ./samples/samples-live-streaming-reference.md
+  - name: VOD streaming samples
+    href: ./samples/samples-vod-streaming-reference.md
+  - name: Content protection (DRM) samples
+    href: ./samples/samples-content-protection-reference.md
+  - name: Encoding samples
+    href: ./samples/samples-content-protection-reference.md
+  - name: Analytics samples
+    href: ./samples/samples-content-protection-reference.md
+  - name: Player samples
+    href: ./samples/samples-content-protection-reference.md
 - name: Reuse in Graphics
   items:
   - name: Azure Sprite Icons

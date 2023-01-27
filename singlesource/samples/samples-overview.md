@@ -24,7 +24,7 @@ The sample shows how to create a Media Services account and set the primary stor
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-| [Create an account](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Account/create-account.ts) | python | java |
+| [Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Account/create-account.ts) | python | java |
 
 ## Create an account with a user assigned managed identity
 
@@ -32,7 +32,7 @@ The sample shows how to create a Media Services account and set the primary stor
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Create an account with user assigned managed identity](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Account/create-account_with_managed_identity.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Account/create-account_with_managed_identity.ts)| python | java |
 
 ## [Assets](#tab/assets/)
 
@@ -42,7 +42,7 @@ A basic example of how to connect and list assets.
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[List assets](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/HelloWorld-ListAssets/list-assets.ts)| | python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/HelloWorld-ListAssets/list-assets.ts)| | python | java |
 
 ## Get the storage contain from an asset
 
@@ -50,7 +50,7 @@ Demonstrates how to find the Azure storage account container used to store the c
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Get the storage container from an asset](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/get-container-from-asset.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/get-container-from-asset.ts)| python | java |
 
 ## List assets using filters
 
@@ -58,7 +58,7 @@ Use filters in your list assets calls to find assets by date and order them.
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[List assets using filters](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/list-assets-filtered.ts)| python | Java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/list-assets-filtered.ts)| python | Java |
 
 ## List the streaming locators on an asset using filters
 
@@ -66,7 +66,7 @@ Use filters to list the streaming locators attached to your assets.
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[List the streaming locators on an asset using filters](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/list-assets-filtered.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/list-assets-filtered.ts)| python | java |
 
 ## List tracks in an asset
 
@@ -74,7 +74,7 @@ Use the tracks collection to list all of the track names and track types (audio,
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[List tracks in an asset](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/list-tracks-in-asset.ts)| |  python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/list-tracks-in-asset.ts)| |  python | java |
 
 ## Add a WebVTT/IMSC1/TTML subtitle or caption to an existing asset
 
@@ -82,7 +82,7 @@ Use the tracks API on an Asset to add a new WebVTT or TTML/IMSC1 text profile ca
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Add a WebVTT/IMSC1/TTML subtitle or caption to an existing asset](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/add-WebVTT-tracks.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/add-WebVTT-tracks.ts)| python | java |
 
 ## Add an additional audio track to an existing asset using the Tracks API
 
@@ -90,7 +90,7 @@ Use the tracks API on an Asset to add an additional audio language or descriptiv
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Add an additional audio track to an existing asset using the tracks API](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/add-audio-language-track.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Assets/add-audio-language-track.ts)| python | java |
 
 ## [Streaming](#tab/streaming/)
 
@@ -100,7 +100,7 @@ Standard passthrough live streaming example.
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Live stream with standard passthrough](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/Standard_Passthrough_Live_Event/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/Standard_Passthrough_Live_Event/index.ts)| python | java |
 
 ## Live stream with standard passthrough with Event Hub
 
@@ -108,7 +108,7 @@ Demonstrates how to use Event Hubs to subscribe to events on the live streaming 
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Live stream with standard passthrough with Event Hubs](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/Standard_Passthrough_Live_Event_with_EventHub/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/Standard_Passthrough_Live_Event_with_EventHub/index.ts)| python | java |
 
 ## Live stream with basic passthrough
 
@@ -116,7 +116,7 @@ Shows how to set up the basic passthrough live event if you only need to broadca
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Live stream with basic passthrough](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/Basic_Passthrough_Live_Event/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/Basic_Passthrough_Live_Event/index.ts)| python | java |
 
 ## Low Latency (LL-HLS) live streaming with 720p standard encoding
 
@@ -124,7 +124,7 @@ Enable low latency live streaming with Apple's LL-HLS protocol and encode with t
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Low Latency Live (LL-HLS) with 720P standard encoding](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live//720P_Low_Latency_Encoding_Live_Event/index.ts)|python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live//720P_Low_Latency_Encoding_Live_Event/index.ts)|python | java |
 
 ## Live stream with 720p standard encoding
 
@@ -132,14 +132,14 @@ Use live encoding in the cloud with the 720P HD adaptive bitrate encoding preset
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Live stream with 720P standard encoding](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/720P_Encoding_Live_Event/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/720P_Encoding_Live_Event/index.ts)| python | java |
 ## Live stream with 1080p encoding
 
 Use live encoding in the cloud with the 1080P HD adaptive bitrate encoding preset.
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Live stream with 1080P encoding](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/720P_Encoding_Live_Event/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/720P_Encoding_Live_Event/index.ts)| python | java |
 
 ## FFmpeg command line samples for RTMP and Smooth
 
@@ -147,7 +147,7 @@ Example command lines for using FFmpeg locally to stream over RTMP or Smooth str
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[FFmpeg command line samples for RTMP and Smooth](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/FFmpeg/ffmpeg_commands.md)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Live/FFmpeg/ffmpeg_commands.md)| python | java |
 
 ## Upload and stream HLS and DASH
 
@@ -155,7 +155,7 @@ Basic example for uploading a local file or encoding from a source URL. Sample s
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Upload and stream HLS and DASH](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Streaming/StreamFilesSample/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Streaming/StreamFilesSample/index.ts)| python | java |
 
 ## Upload a file and stream with Clear Key encryption
 
@@ -163,7 +163,7 @@ Basic example for uploading a local file, encoding it with Content Aware Encodin
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Upload a file and stream with Clear Key encryption](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Streaming/StreamFileWithAESClearKey/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Streaming/StreamFileWithAESClearKey/index.ts)| python | java |
 
 ## [Content Protection](#tab/contentprotection/)
 
@@ -173,7 +173,7 @@ Demonstrates how to encode and stream using Widevine and PlayReady DRM
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Upload and stream HLS and DASH with PlayReady and Widevine DRM](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Streaming/StreamFilesWithDRMSample/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Streaming/StreamFilesWithDRMSample/index.ts)| python | java |
 
 ## Basic Playready DRM content protection and streaming
 
@@ -181,7 +181,7 @@ Demonstrates how to encode and stream using PlayReady DRM
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Basic Playready DRM content protection and streaming](https://github.com/Azure-Samples/media-services-v3-node-tutorials/tree/main/ContentProtection/BasicPlayReady/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/tree/main/ContentProtection/BasicPlayReady/index.ts)| python | java |
 
 ## Basic Widevine DRM content protection and streaming
 
@@ -189,7 +189,7 @@ Demonstrates how to encode and stream using Widevine DRM
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Basic Widevine DRM content protection and streaming](https://github.com/Azure-Samples/media-services-v3-node-tutorials/tree/main/ContentProtection/BasicWidevine/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/tree/main/ContentProtection/BasicWidevine/index.ts)| python | java |
 
 ## [Encoding](#tab/encoding/)
 
@@ -199,7 +199,7 @@ If you need a workflow where you desire to submit custom preset jobs to a single
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Create transform, use job preset overrides (v2-to-v3 API migration)](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/CreateTransform_Job_PresetOverride/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/CreateTransform_Job_PresetOverride/index.ts)| python | java |
 
 ## Copy Audio and Video to MP4 without re-encoding
 
@@ -207,7 +207,7 @@ Uses the built in preset that rapidly copies the source video and audio into a n
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Copy Audio and Video to MP4 without re-encoding](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_BuiltIn_CopyCodec/) | python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_BuiltIn_CopyCodec/) | python | java |
 
 ## Copy Audio and Video to MP4 without re-encoding and create a low bitrate proxy
 
@@ -215,7 +215,7 @@ Same as above sample, but adds an additional fast encoded proxy resolution. Very
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Copy Audio and Video to MP4 without re-encoding and create a low bitrate proxy](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main//VideoEncoding/Encoding_BuiltIn_CopyCodecWithProxy/) | python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main//VideoEncoding/Encoding_BuiltIn_CopyCodecWithProxy/) | python | java |
 
 ## Copy Audio and Video to MP4 without re-encoding and create a low bitrate proxy and VTT sprite thumbnail
 
@@ -223,7 +223,7 @@ Same as above samples, with the addition of a VTT sprite thumbnail for use in bu
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Copy Audio and Video to MP4 without re-encoding and create a low bitrate proxy and VTT sprite thumbnail](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main//VideoEncoding/Encoding_Custom_CopyCodec_Sprite%2BProxy/) | python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main//VideoEncoding/Encoding_Custom_CopyCodec_Sprite%2BProxy/) | python | java |
 
 ## Encode with H264
 
@@ -231,7 +231,7 @@ Shows how to use the standard encoder to encode a source file into H264 format w
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Encode with H264](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264/index.ts)| python | java |
 
 ## Encode with H264 with Event Hubs/Event Grid
 
@@ -239,7 +239,7 @@ Shows how to use the standard encoder and receive and process Event Grid events 
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Encode with H264 with Event Hubs/Event Grid](https://github.com/Azure-Samples/media-services-v3-node-tutorials/tree/main/VideoEncoding/Encoding_H264_with_EventHub/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/tree/main/VideoEncoding/Encoding_H264_with_EventHub/index.ts)| python | java |
 
 ## Create a thumbnail sprite (VTT) in JPG format
 
@@ -247,7 +247,7 @@ Shows how to generate a VTT Sprite Thumbnail in JPG format and how to set the co
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Create a thumbnail sprite (VTT) in JPG format](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_Sprite_Thumbnail/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_Sprite_Thumbnail/index.ts)| python | java |
 
 ## Content aware encoding with H264
 
@@ -255,7 +255,7 @@ Example of using the standard encoder with Content Aware encoding to automatical
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Content aware encoding with H264](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264_ContentAware/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264_ContentAware/index.ts)| python | java |
 
 ## Content aware encoding constrained with H264
 
@@ -263,7 +263,7 @@ Demonstrates how to control the output settings of the Content Aware encoding pr
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Content aware encoding constrained with H264](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264_ContentAware_Constrained/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264_ContentAware_Constrained/index.ts)| python | java |
 
 ## Use an overlay image
 
@@ -271,7 +271,7 @@ Shows how to upload an image file and overlay on top of video with output to MP4
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Use an overlay image](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264_OverlayImage/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264_OverlayImage/index.ts)| python | java |
 
 ## Rotate a video
 
@@ -279,7 +279,7 @@ Shows how to use the rotation filter to rotate a video by 90 degrees.
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Rotate a video](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264_Rotate90degrees/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264_Rotate90degrees/index.ts)| python | java |
 
 ## Output to MPEG transport stream format
 
@@ -287,7 +287,7 @@ Shows how to use the standard encoder to encode a source file and output to MPEG
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Output to MPEG transport stream format](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264_To_TransportStream/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_H264_To_TransportStream/index.ts)| python | java |
 
 ## Encode with HEVC
 
@@ -295,7 +295,7 @@ Shows how to use the standard encoder to encode a source file into HEVC format w
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Encode with HEVC](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_HEVC/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_HEVC/index.ts)| python | java |
 
 ## Content aware encoding with HEVC
 
@@ -303,7 +303,7 @@ Example of using the standard encoder with Content Aware encoding to automatical
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Content aware encoding with HEVC](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_HEVC_ContentAware/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_HEVC_ContentAware/index.ts)| python | java |
 
 ## Content aware encoding constrained with HEVC
 
@@ -311,7 +311,7 @@ Demonstrates how to control the output settings of the Content Aware encoding pr
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Content aware encoding constrained with HEVC](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_HEVC_ContentAware_Constrained/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_HEVC_ContentAware_Constrained/index.ts)| python | java |
 
 ## Bulk encoding from a remote Azure storage account using SAS URLs
 
@@ -319,7 +319,7 @@ This samples shows how you can point to a remote Azure Storage account using a S
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-|[Bulk encoding from a remote Azure storage account using SAS URLs](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_Bulk_Remote_Storage_Account_SAS/index.ts)| python | java |
+|[Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_Bulk_Remote_Storage_Account_SAS/index.ts)| python | java |
 
 ## Copy live archive to MP4 file format for export or use with Video Indexer
 
@@ -327,7 +327,7 @@ This sample demonstrates how to use the archived output from a live event and ex
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-| [Copy live archive to MP4 file format for export or use with Video Indexer](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_Live_Archive_To_MP4/) | python | java |
+| [Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_Live_Archive_To_MP4/) | python | java |
 
 ## Encode a multi-channel audio source file
 
@@ -335,7 +335,7 @@ This sample demonstrates how to create an encoding Transform that uses channel m
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-| [Encode a multi-channel audio source file](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_MultiChannel_Audio/) | python | java |
+| [Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_MultiChannel_Audio/) | python | java |
 
 ## Stitch and edit two assets together
 
@@ -343,7 +343,7 @@ This sample demonstrates how to stitch and edit together two or more assets into
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-| [Stitch and edit two assets together](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_Stitch_Two_Assets/) | python | java |
+| [Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/VideoEncoding/Encoding_Stitch_Two_Assets/) | python | java |
 
 ## [Analytics](#tab/analytics/)
 
@@ -353,7 +353,7 @@ This sample illustrates how to create a audio analyzer transform using the basic
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-| [Basic Audio Analytics with per-job language override](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/AudioAnalytics/index.ts)| python | java |
+| [Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/AudioAnalytics/index.ts)| python | java |
 
 ## [Player](#tab/player/)
 
@@ -363,6 +363,6 @@ This sample shows how to use the Google Shaka player with Low latency HLS stream
 
 | Node.JS | Python | Java |
 | ------- | ------ | ---- |
-| [Shaka player with Timed Metadata for live event interactivity](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Player/examples/shaka)| python | java |
+| [Node.JS](https://github.com/Azure-Samples/media-services-v3-node-tutorials/blob/main/Player/examples/shaka)| python | java |
 
 ---
