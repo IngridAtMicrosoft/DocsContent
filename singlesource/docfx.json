@@ -37,10 +37,98 @@
           "LICENSE-CODE",
           "ThirdPartyNotices.md"
         ]
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.mmd",
+          "**/*.yml"
+        ],
+        "src" : "avi",
+        "group" : "avi", 
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices.md"
+        ]
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.mmd",
+          "**/*.yml"
+        ],
+        "src" : "aviarc",
+        "group" : "aviarc", 
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices.md"
+        ]
       }
     ],
+    "groups": {
+      "avi": {
+        "dest": "avi",
+        "moniker_range": "azure-video-indexer-1"
+      },
+      "aviarc": {
+        "dest": "aviarc",
+        "moniker_range": "azure-video-indexer-arc-1"
+      }
+    },
     "resource": [
       {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.svg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**"
+        ]
+      },
+      {
+        "src": "avi",
+        "group": "avi",
+        "dest": "avi",
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.svg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "**/docfx.json",
+          "_repo.en-us/**"
+        ]
+      },
+      {
+        "src": "aviarc",
+        "group": "aviarc",
+        "dest": "aviarc",
         "files": [
           "**/*.png",
           "**/*.jpg",

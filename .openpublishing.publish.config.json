@@ -6,6 +6,8 @@
       "build_output_subfolder": "singlesource",
       "locale": "en-us",
       "open_to_public_contributors": false,
+      "monikers": [],
+      "moniker_ranges": [],
       "type_mapping": {
         "Conceptual": "Content"
       },
