@@ -81,16 +81,6 @@
         ]
       }
     ],
-    "groups": {
-      "avi": {
-        "dest": "avi",
-        "moniker_range": "azure-video-indexer-1"
-      },
-      "aviarc": {
-        "dest": "aviarc",
-        "moniker_range": "azure-video-indexer-arc-1"
-      }
-    },
     "resource": [
       {
         "files": [
@@ -156,6 +146,16 @@
     "template": ["default","DocFx.Plugins.PlantUml/template","modern"],
     "dest": "singlesource",
     "markdownEngineName": "markdig",
+    "groups": {
+      "avi": {
+        "dest": "avi",
+        "moniker_range": "azure-video-indexer-1"
+      },
+      "aviarc": {
+        "dest": "aviarc",
+        "moniker_range": "azure-video-indexer-arc-1"
+      }
+    },
     "markdownEngineProperties" : {
       "plantUml" : {
         "outputFormat" : "svg",
