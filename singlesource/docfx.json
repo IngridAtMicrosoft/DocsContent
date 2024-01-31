@@ -166,6 +166,6 @@
     "monikerRange": {
       "singlesource/avi/**": ">= azure-video-indexer-1",
       "singlesource/aviarc/**": ">= azure-video-indexer-arc-1"
-    },
+    }
   }
 }
