@@ -153,8 +153,15 @@
       "uhfHeaderId" : "Azure"
     },
     "fileMetadata": {},
-    "template": ["default","DocFx.Plugins.PlantUml/template"],
+    "template": ["default","DocFx.Plugins.PlantUml/template","modern"],
     "dest": "singlesource",
-    "markdownEngineName": "markdig"
+    "markdownEngineName": "markdig",
+    "markdownEngineProperties" : {
+      "plantUml" : {
+        "outputFormat" : "svg",
+        "remoteUrl" : "https://www.plantuml.com/plantuml",
+        "renderingMode" : "remote"
+      }
+    }
   }
 }

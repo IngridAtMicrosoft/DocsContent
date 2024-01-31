@@ -25,3 +25,21 @@ AVi arc is a thing.
 ::: moniker range="=azure-video-indexer-arc-1"
 `sudo apt-get remove aziot-edge`
 ::: moniker-end
+
+## PlantUML
+
+```plantuml
+Bob -> Alice : hello
+```
+
+## Mermaid
+
+```mermaid
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
+
