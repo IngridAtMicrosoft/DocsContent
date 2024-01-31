@@ -25,16 +25,3 @@ AVi arc is a thing.
 ::: moniker range="=azure-video-indexer-arc-1"
 `sudo apt-get remove aziot-edge`
 ::: moniker-end
-
-
-## Experiments
-
-- PlantUML, and reuse of SVG sprites
-- Integration of GitHub, Sharepoint and DITA
-- Interactive SVGs
-- Developing and testing Learn modules.
-- Developing and test video integration for Azure Media Services.
-
-## Contact
-
-Contact [inhenkel@microsoft.com](mailto:inhenkel@microsoft.com) if you have questions.

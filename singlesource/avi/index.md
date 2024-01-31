@@ -8,20 +8,10 @@ ms.author: inhenkel
 ms.reviewer: inhenkel
 ms.lastreviewed: 08/05/2022
 ms.service: media-services
+monikerRange: "=azure-video-indexer-1"
 ---
 
 # AVI introduction
 
-This is an experimental repo owned by Ingrid Henkel.
+AVI is a thing.
 
-## Experiments
-
-- PlantUML, and reuse of SVG sprites
-- Integration of GitHub, Sharepoint and DITA
-- Interactive SVGs
-- Developing and testing Learn modules.
-- Developing and test video integration for Azure Media Services.
-
-## Contact
-
-Contact [inhenkel@microsoft.com](mailto:inhenkel@microsoft.com) if you have questions.

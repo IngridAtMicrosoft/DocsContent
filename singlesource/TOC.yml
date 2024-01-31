@@ -1,5 +1,9 @@
 - name: Single Source
   href: index.md
+- name: Azure Video Indexer
+  href: ./avi/index.md
+- name: Azure Video Indexer enabled by Arc
+  href: ./aviarc/index.md
 - name: Samples
   items:
   - name: Samples Overview

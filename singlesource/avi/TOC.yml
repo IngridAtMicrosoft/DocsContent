@@ -1,0 +1,4 @@
+- name: Azure Video Indexer Documentation
+  href: index.md
+- name: Azure Video Indexer enabled by Arc Documentation
+  href: ../aviarc/index.md
