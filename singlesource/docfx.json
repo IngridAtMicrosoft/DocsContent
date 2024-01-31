@@ -155,7 +155,6 @@
     "fileMetadata": {},
     "template": ["default","DocFx.Plugins.PlantUml/template","modern"],
     "dest": "singlesource",
-    "moniker_range" : ["azure-video-indexer-1","azure-video-indexer-arc-1"],
     "markdownEngineName": "markdig",
     "markdownEngineProperties" : {
       "plantUml" : {
