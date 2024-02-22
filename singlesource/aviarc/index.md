@@ -17,12 +17,12 @@ AVi arc is a thing.
 ## Monikers
 
 <!-- version 1.1 -->
-::: moniker range="=azure-video-indexer-1"
+::: moniker range="azure-video-indexer-1"
 `sudo apt-get remove iotedge`
 ::: moniker-end
 
 <!-- version 1.2 -->
-::: moniker range="=azure-video-indexer-arc-1"
+::: moniker range="azure-video-indexer-arc-1"
 `sudo apt-get remove aziot-edge`
 ::: moniker-end
 
