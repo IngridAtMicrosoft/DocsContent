@@ -22,4 +22,4 @@ The svg uses an on-click event to start the animation of the diagram.
 <iframe src="media/car-story-no-didactic-background.svg" height="auto" width="100%" frameborder=yes scrolling=no></iframe>
 -->
 Here is a [link](../media/car-story-no-didactic-background-script.svg) to the full sized svg.
-<iframe src="../media/car-story-no-didactic-background-script.svg" width="1280" height="800" scrolling="yes"></iframe>
+<iframe src="../media/car-story-no-didactic-background-script.svg" width="1280" height="800" scrolling="no"></iframe>

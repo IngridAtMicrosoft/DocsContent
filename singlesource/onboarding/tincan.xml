@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">New Employee Onboarding</name>
+      <description lang="en-US">Replace these instructions with your own course content.&lt;em&gt;&lt;br data-text=&#34;true&#34;&gt;&lt;/em&gt;&lt;strong&gt;Template instructions:&amp;nbsp;&lt;/strong&gt;This template was designed to give you a head start on creating training. It contains lessons you might want to cover in a &amp;ldquo;New Employee Onboarding&amp;rdquo; course. It includes relevant headings, images, transitions, and writing prompts to guide you and is largely populated with placeholder text. You can easily replace this content with your own text and media.&lt;br data-text=&#34;true&#34;&gt;Use this space to write an overview of your course for learners and instruct them to click the &amp;ldquo;Start Course&amp;rdquo; button to begin.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/bWie9G5DHKtLIX-xxz-tbwdZzA26xOMP" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Welcome!/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/MJGyuy-dStMcdGpS5qDVmL5d58COAgI_" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">WHO WE ARE AND WHAT WE DO/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/bL4T-4BulRHgfwONGGn6-GpTgjSd1Q35" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Our Mission and Values/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/Ez5WosvuL1FVOmkWfaRnnVMjWfxqlqyx" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Our History/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/e5ULsL791kIOrQJrd3lrfAWyUTzfsM83" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Our Products/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/P_i5yl4o0N9Lc_OEdOTkzTtkcxx4_sn0" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Our Customers/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/Lel6DQ3fHVo8G3KEgUaI44mg2KAUUO-D" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Our Commitments/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/4zDYoZSlxRe8a22nFECkqrGfCIn0kmia" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Our Impact/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/Y03fdyYpEbkXEEdXSIZzxjD9HXw61LFB" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Teams AT [YOUR COMPANY]/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/OyotJXwq-H8NrbxYypwMhcT5G78GfVnN" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Company Structure and Contacts/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/Eb9rAhJ7bU8iQmr7FCIZyOFWQDMDP3pR" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Get to Know Your Team/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/51ofDNJsDVqhTFlXswpgVTe02yH0KHQT" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Work and Tools/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/To4HF7MWNqRjc7B2Abgit4A4oQ3sRTIu" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Setting Up Your Workspace/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/nr_TB3KRz9f0t3OT8hgHUmr2J-AFXXEK" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Communication Tools/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/hly7FxUHCscwQWd1qCA1LxWmC0dMbJ1P" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Security/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/mWYjdCfObMT8zCm-lknFp7b0n3jJ_WTR" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">BENEFITS AND PEOPLE POLICIES/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/ZzjMmJ51CRk9q8-TCamPdyd1zHSjQg6M" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Payroll/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/uBfZHV1D-_tOYEXO0-MQn1agAWCScbNb" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Expenses and Reimbursements/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/Xze6SA7bSWuMA0jfMYxZtAHCIH8VuooM" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Paid Time Off/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/qEBPieVG8WtHMVkup8PE4vh3IZA11WIO" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Leave Programs/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/bRQdds_mvczD9wO8ffznMgAAJrdd0n_E" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Health Benefits/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/g09QdSV0fRmukxmV_srtpF196TWwNkfS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Retirement /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/XVH7xZJ42wlDPwyTTWRFxo6KXFhcZA9f" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Career Development/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/eBR2vxYon8oFtbV53QwUL8TGGsjfRZ_l" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Giving and Receiving Feedback/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/yFVYw342bkEDa7xfXG-DwNW3O1p666LW" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Training and Development Opportunities/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/oOcpj8n4WHXssD_T9tPRrJBFAeJ4LlMu" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Expectations and Agreements/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/XGIIMeD4GNDzoJoSc6w6qzMMPqJAbQQc" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Shared Agreements/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/GLdprqMvM3xx6gacJ9nRPzMlDc3TlhAb" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">First Days on the Job/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/bo5AFmGPv9ByI2KwQpal5uZCWMwmPxVs" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Summary/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://6hWagkd9SR-3Liyaq1xnC4_oIZ_4yCpH_rise/iQIWJNlZ5lLj3BDrQwgBhDSCRakWpebg" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Resources and Additional Questions/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
