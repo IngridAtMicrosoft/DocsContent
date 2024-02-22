@@ -8974,16 +8974,37 @@
   }
   </style>
   <script type="text/javascript"><![CDATA[
-    function changeText(txt){
-      document.getElementById('didactic').innerHTML=txt;
+    function oneText(){
+      document.getElementById('didactic').innerHTML="Telematics messages (speed, location, etc.) are sent by an Azure Sphere cellular-enabled device to Azure IoT Hub. In a greenfield scenario, the vehicle manufacturer may include a Sphere module in each vehicle at time of manufacture. In a brownfield scenario, the vehicle is retrofitted with an after-market telematics solution.";
     }
-    document.getElementById("one").addEventListener("click", changeText("Telematics messages (speed, location, etc.) are sent by an Azure Sphere cellular-enabled device to Azure IoT Hub. In a greenfield scenario, the vehicle manufacturer may include a Sphere module in each vehicle at time of manufacture. In a brownfield scenario, the vehicle is retrofitted with an after-market telematics solution."));
-    document.getElementById("two").addEventListener("click", changeText("Azure Stream Analytics picks up the message in real time from Azure IoT Hub, and processes the message based on the business logic."));
-    document.getElementById("three").addEventListener("click", changeText("Azure Stream Analyics sends the processed data to the serving layer for storage. Different databases are used depending on the data. Azure Cosmos DB stores the messages, while Azure SQL DB stores relational and transactional data, and acts as a data source for the presentation and action layer. Azure Synapse contains aggregated data and acts as the data source for Business Intelligence (BI) tools."));
-    document.getElementById("four").addEventListener("click", changeText("Web, mobile, BI, and mixed reality applications can be built on the serving layer. For example, you can expose serving layer data using APIs for third-party uses (insurance companies, suppliers, etc.)."));
-    document.getElementById("five").addEventListener("click", changeText("When a vehicle requires servicing at a dealer service center, an Azure Sphere device is connected to the vehicle’s OBD-II port by a service technician."));
-    document.getElementById("six").addEventListener("click", changeText("The Azure Sphere application connects to the vehicle’s OBD-II port and streams OBD-II data to Azure IoT Edge over MQTT. The Azure Sphere device is connected over Wi-Fi to the Azure IoT Edge device installed at the service center."));
-    document.getElementById("seven").addEventListener("click", changeText("The OBD-II data is streamed from Azure IoT Edge to Azure IoT Hub and processed in the same message processing pipeline."));
-    document.getElementById("eight").addEventListener("click", changeText("A service technician wearing a HoloLens can subscribe to the MQTT topic and securely view OBD-II data using a HoloLens application containing an MQTT client. By connecting the HoloLens directly to the IoT Edge gateway, the service technician can view the vehicle's data in near real-time, avoiding the latency of sending the data to the cloud and back."));
+    function twoText(){
+      document.getElementById('didactic').innerHTML="Azure Stream Analytics picks up the message in real time from Azure IoT Hub, and processes the message based on the business logic.");
+    }
+    function threeText(){
+      document.getElementById('didactic').innerHTML="Azure Stream Analyics sends the processed data to the serving layer for storage. Different databases are used depending on the data. Azure Cosmos DB stores the messages, while Azure SQL DB stores relational and transactional data, and acts as a data source for the presentation and action layer. Azure Synapse contains aggregated data and acts as the data source for Business Intelligence (BI) tools.";
+    }
+    function fourText(){
+      document.getElementById('didactic').innerHTML="Web, mobile, BI, and mixed reality applications can be built on the serving layer. For example, you can expose serving layer data using APIs for third-party uses (insurance companies, suppliers, etc.)."
+    }
+    function fiveText(){
+      document.getElementById('didactic').innerHTML="When a vehicle requires servicing at a dealer service center, an Azure Sphere device is connected to the vehicle’s OBD-II port by a service technician.";
+    }
+    function sixText(){
+      document.getElementById('didactic').innerHTML="The Azure Sphere application connects to the vehicle’s OBD-II port and streams OBD-II data to Azure IoT Edge over MQTT. The Azure Sphere device is connected over Wi-Fi to the Azure IoT Edge device installed at the service center.";
+    }
+    function sevenText(){
+      document.getElementById('didactic').innerHTML="The OBD-II data is streamed from Azure IoT Edge to Azure IoT Hub and processed in the same message processing pipeline.";
+    }
+    function eightText(){
+      document.getElementById('didactic').innerHTML="A service technician wearing a HoloLens can subscribe to the MQTT topic and securely view OBD-II data using a HoloLens application containing an MQTT client. By connecting the HoloLens directly to the IoT Edge gateway, the service technician can view the vehicle's data in near real-time, avoiding the latency of sending the data to the cloud and back.";
+    }
+    document.getElementById("one").addEventListener("click", oneText);
+    document.getElementById("two").addEventListener("click", twoText);
+    document.getElementById("three").addEventListener("click", threeText);
+    document.getElementById("four").addEventListener("click", fourText);
+    document.getElementById("five").addEventListener("click", fiveText);
+    document.getElementById("six").addEventListener("click", sixText);
+    document.getElementById("seven").addEventListener("click", sevenText);
+    document.getElementById("eight").addEventListener("click", eightText);
   ]]></script>
 </svg>
