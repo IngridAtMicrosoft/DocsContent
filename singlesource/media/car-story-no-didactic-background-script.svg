@@ -51,13 +51,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <script type="text/javascript"><![CDATA[
-    function changeText(txt){
-      alert(txt);
-      document.getElementById('didactic').innerHTML=txt;
-    }
-    document.getElementById("one").addEventListener("click", changeText("Changed text."));
-  ]]></script>
   <defs
      id="defs3179">
     <filter
@@ -8691,10 +8684,7 @@
        xlink:href="#edgetohub"
 />
   </animateMotion>
-  <g
-     onclick="document.getElementById('didactic').innerHTML='Telematics messages (speed, location, etc.) are sent by an Azure Sphere cellular-enabled device to Azure IoT Hub. In a greenfield scenario, the vehicle manufacturer may include a Sphere module in each vehicle at time of manufacture. In a brownfield scenario, the vehicle is retrofitted with an after-market telematics solution.';"
-     id="one"
-     transform="translate(-593.98691,76.054661)">
+  <g id="one" transform="translate(-593.98691,76.054661)">
     <circle
        id="onecircle"
        r="20"
@@ -9004,4 +8994,11 @@
   background-color: #ffffff;
   }
   </style>
+  <script type="text/javascript"><![CDATA[
+    function changeText(txt){
+      alert(txt);
+      document.getElementById('didactic').innerHTML=txt;
+    }
+    document.getElementById("one").addEventListener("click", changeText("Changed text."));
+  ]]></script>
 </svg>
