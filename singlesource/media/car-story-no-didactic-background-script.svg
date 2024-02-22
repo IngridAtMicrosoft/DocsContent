@@ -8975,7 +8975,6 @@
   </style>
   <script type="text/javascript"><![CDATA[
     function changeText(txt){
-      alert(txt);
       document.getElementById('didactic').innerHTML=txt;
     }
     document.getElementById("one").addEventListener("click", changeText("Telematics messages (speed, location, etc.) are sent by an Azure Sphere cellular-enabled device to Azure IoT Hub. In a greenfield scenario, the vehicle manufacturer may include a Sphere module in each vehicle at time of manufacture. In a brownfield scenario, the vehicle is retrofitted with an after-market telematics solution."));
@@ -8985,6 +8984,6 @@
     document.getElementById("five").addEventListener("click", changeText("When a vehicle requires servicing at a dealer service center, an Azure Sphere device is connected to the vehicle’s OBD-II port by a service technician."));
     document.getElementById("six").addEventListener("click", changeText("The Azure Sphere application connects to the vehicle’s OBD-II port and streams OBD-II data to Azure IoT Edge over MQTT. The Azure Sphere device is connected over Wi-Fi to the Azure IoT Edge device installed at the service center."));
     document.getElementById("seven").addEventListener("click", changeText("The OBD-II data is streamed from Azure IoT Edge to Azure IoT Hub and processed in the same message processing pipeline."));
-    document.getElementById("eight").addEventListener("click", changeText("A service technician wearing a HoloLens can subscribe to the MQTT topic and securely view OBD-II data using a HoloLens application containing an MQTT client. By connecting the HoloLens directly to the IoT Edge gateway, the service technician can view the vehicle’s data in near real-time, avoiding the latency of sending the data to the cloud and back."));
+    document.getElementById("eight").addEventListener("click", changeText("A service technician wearing a HoloLens can subscribe to the MQTT topic and securely view OBD-II data using a HoloLens application containing an MQTT client. By connecting the HoloLens directly to the IoT Edge gateway, the service technician can view the vehicle's data in near real-time, avoiding the latency of sending the data to the cloud and back."));
   ]]></script>
 </svg>
