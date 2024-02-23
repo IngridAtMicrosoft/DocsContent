@@ -19,5 +19,6 @@
       console.log('Found href starting with "cloud":', anchor.href);
       course2 = anchor.href
       parent.document.getElementById('ltiContentFrame').src = course2;
+  }
   </script>
 </svg>
