@@ -11,14 +11,17 @@
   </defs>
   <rect class="cls-1" x="0" y="0" width="100" height="100"/>
   <script>
-  var course1 = 'https://ingridhenkel.com';
-  var course2 = "";
-  const anchors = parent.document.querySelectorAll('a');
-  anchors.forEach(function(anchor) {
-    if (anchor.href.startsWith("https://cloud.scorm.com/")) {
-      console.log('Found href starting with "cloud":', anchor.href);
-      course2 = anchor.href
-      parent.document.getElementById('ltiContentFrame').src = course2;
-  }
+document.addEventListener('DOMContentLoaded', function() {
+  var iframe = parent.document.getElementById('ltiContentFrame');
+  var anchors = parent.document.querySelectorAll('a');
+  // Iterate over each anchor tag
+  anchors.forEach((anchor) => {
+    // Check if the href attribute starts with "cloud"
+    if (anchor.href.startsWith("https://cloud.scorm.com")) {
+      console.log('Found href starting with "cloud.scorm.com":', anchor.href);
+      iframe.src = anchor.href
+    }
+  });
+});
   </script>
 </svg>
