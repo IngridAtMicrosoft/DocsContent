@@ -11,8 +11,7 @@
   </defs>
   <rect class="cls-1" x="0" y="0" width="10" height="10"/>
   <script>
-  var iframe = document.getElementById('ltiContentFrame');
-  var course1 = "https://ingridhenkel.com";
-  iframe.src = course1;
+  var course1 = 'https://ingridhenkel.com';
+  document.getElementById('ltiContentFrame').src=course1;
   </script>
 </svg>
