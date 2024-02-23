@@ -12,7 +12,6 @@
   <rect class="cls-1" x="0" y="0" width="10" height="10"/>
   <script>
   var iframe = document.getElementById('ltiContentFrame');
-  var course = 'https://cloud.scorm.com/EngineWebServices/api?applib=java&pipeurl=[Not used for BLTI]&fname=GivenNameNotProvided&redirecturl=http://ingridsmoodle.eastus.cloudapp.azure.com/mod/lti/return.php?course=5&launch_container=2&instanceid=5&sesskey=Hs7XNHYwf8&method=rustici.dispatch.launch&origin=rusticisoftware.cloud-site.1.0&launchsecret=MXqapQQyZyXWsSV6YZq73idk5nRNHq5KuhVY8j8P&dispatchid=fca90ff7-3ad6-48b6-9a05-b6ef409f450c&sig=9044A6E99DAC85C1D4B20EF3A9E26478&dispatchtype=BLTI&lname=FamilyNameNotProvided&learnerid=fca90ff7-3ad6-48b6-9a05-b6ef409f450c:2&appid=VBDHH8M7AG&ts=20240222223720';
   var course1 = "https://ingridhenkel.com";
   iframe.src = course1;
   </script>
