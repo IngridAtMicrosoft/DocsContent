@@ -20,7 +20,7 @@ This is an experimental repo owned by Ingrid Henkel.
 - Integration of GitHub, Sharepoint and DITA
 - Interactive SVGs
 - Developing and testing Learn modules.
-- Developing and test video integration for Azure Media Services.
+- Anything that would be fun to play with.
 
 ## Contact
 
