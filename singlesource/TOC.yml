@@ -1,5 +1,7 @@
 - name: Single Source
   href: index.md
+- name: Docs templates
+  href: ./templates/index.md
 - name: Azure Video Indexer
   href: ./avi/index.md
 - name: Azure Video Indexer enabled by Arc
