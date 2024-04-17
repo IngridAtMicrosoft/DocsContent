@@ -80,13 +80,13 @@ request body goes here
 ## Next step -or- Related content
 
 > [!div class="nextstepaction"]
-> [Next sequential article title](link.md)
+> [Next sequential article title](#)
 
 -or-
 
-* [Related article title](link.md)
-* [Related article title](link.md)
-* [Related article title](link.md)
+* [Related article title](#)
+* [Related article title](#)
+* [Related article title](#)
 
 Optional: Next step or Related content - H2
 

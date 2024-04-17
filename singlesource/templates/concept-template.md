@@ -40,6 +40,6 @@ Follow each H2 heading with a sentence about how the section contributes to the 
 
 Consider including a "Related content" H2 section that lists links to 1 to 3 articles the user might find helpful.
 
-- [Related article title](link.md)
-- [Related article title](link.md)
-- [Related article title](link.md)
+- [Related article title](#)
+- [Related article title](#)
+- [Related article title](#)
