@@ -23,5 +23,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 });
+
+username = parent.document.getElementById('ms--usr-display-name-mobile').innerHTML;
+console.log(username);
   </script>
 </svg>
