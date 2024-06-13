@@ -2,7 +2,7 @@
 title: Launching with an LTI link
 description: Launching with an LTI link.
 author: IngridAtMicrosoft
-ms.topic: concept
+ms.topic: article
 ms.date: 09/02/2021
 ms.author: inhenkel
 ms.service: media-services

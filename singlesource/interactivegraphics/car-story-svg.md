@@ -2,7 +2,7 @@
 title: Animated interactive architectural diagram SVG
 description: This is a demo of an animated, interactive SVG.
 author: IngridAtMicrosoft
-ms.topic: concept
+ms.topic: article
 ms.date: 09/02/2021
 ms.author: inhenkel
 ms.service: media-services
