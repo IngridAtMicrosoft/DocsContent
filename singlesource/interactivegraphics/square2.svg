@@ -25,7 +25,8 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 const details = parent.document.getElementsByClassName("persona-details");
+const username = details.children[1][0].innerHTML;
 
-console.log(details);
+console.log(username);
   </script>
 </svg>
