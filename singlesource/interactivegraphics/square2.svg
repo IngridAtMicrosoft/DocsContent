@@ -24,9 +24,8 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 
-const details = parent.document.getElementsByTagName("p");
-const username = details.namedItem('ms--usr-display-name')
+const details = parent.document.getElementsByClassName("persona-details");
 
-console.log(username);
+console.log(details);
   </script>
 </svg>
