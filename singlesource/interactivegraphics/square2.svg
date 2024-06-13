@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 const details = parent.document.getElementsByClassName("persona-details");
-const username = details.children[1][0].innerHTML;
+const username = details.children[1].children[0].innerHTML;
 
 console.log(username);
   </script>
