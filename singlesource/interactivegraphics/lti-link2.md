@@ -20,7 +20,7 @@ This content is hosted on a Static Web App.
 
 ## Simulation
 
-Here is a simulation that can be completed without leaving this page. (Note: This simulation wasn't recorded to fit in the middle column of this page.)
+Here is a simulation that can be completed without leaving this page. (Note: This simulation wasn't recorded to fit in the middle column of this page.)<br/><br/>
 
 <iframe id="ltiContentFrame" width="800" height="1000" frameborder="0" scrolling=no></iframe>
 <iframe src="square2.svg" id="square" width="1" height="1" frameborder="0" scrolling=no></iframe>
