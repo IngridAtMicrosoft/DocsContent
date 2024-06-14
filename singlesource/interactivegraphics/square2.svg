@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 
-
+//Get username and email
 var userName = document.querySelector('#ms--user-display-name').textContent;
 var userEmail = document.querySelector('p[data-profile-property="upn"]').textContent;
 
