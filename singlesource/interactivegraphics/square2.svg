@@ -17,8 +17,10 @@ document.addEventListener('DOMContentLoaded', function() {
   // Iterate over each anchor tag
   anchors.forEach((anchor) => {
     // Check if the href attribute starts with "cloud"
-    if (anchor.href.startsWith("https://cloud.scorm.com")) {
-      console.log('Found href starting with "cloud.scorm.com":', anchor.href);
+    //if (anchor.href.startsWith("https://cloud.scorm.com")) {
+    if (anchor.href.startsWith("green-bay-0a20ceb0f")) {
+      //console.log('Found href starting with "cloud.scorm.com":', anchor.href);
+      console.log('Found href starting with "green-bay-0a20ceb0f":', anchor.href);
       iframe.src = anchor.href
     }
   });
