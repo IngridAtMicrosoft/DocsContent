@@ -24,9 +24,12 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 
-const details = parent.document.getElementsByClassName("persona-details");
-const username = details.children[1].children[0].innerHTML;
 
-console.log(username);
+var userName = document.querySelector('#ms--user-display-name').textContent;
+var userEmail = document.querySelector('p[data-profile-property="upn"]').textContent;
+
+console.log('User Name:', userName);
+console.log('Email Address:', userEmail);
+
   </script>
 </svg>
