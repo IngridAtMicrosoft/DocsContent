@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Testing Git Book](README.md)
