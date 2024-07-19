@@ -1,7 +1,3 @@
----
-description: Testing to see if this can be used instead of the GitHub process.
----
+# Group 1 Page 1
 
-# Testing Git Book for AVI
-
-Creating a change to this document.
+I don't know what this does...
