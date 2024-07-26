@@ -1,5 +1,5 @@
 ---
-title: Launching with an LTI link
+title: Simulation with LRS
 description: Launching with an LTI link.
 author: IngridAtMicrosoft
 ms.topic: article
@@ -8,7 +8,7 @@ ms.author: inhenkel
 ms.service: media-services
 ---
 
-# Hosted interactive content
+# Simulation with LRS
 
 This content is hosted on a Static Web App.
 
