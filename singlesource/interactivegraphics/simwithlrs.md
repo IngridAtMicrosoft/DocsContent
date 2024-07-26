@@ -20,3 +20,7 @@ Here is [Text only Inworld avatar](https://green-bay-0a20ceb0f.5.azurestaticapps
 
 <iframe id="ltiContentFrame" width="720" height="540" frameborder="0" scrolling=no></iframe>
 <iframe src="square2.svg" id="square" width="1" height="1" frameborder="0" scrolling=no></iframe>
+
+## Trying character with just an iframe
+
+<iframe src="https://arcade.inworld.ai/characters/oPeJWx2wRSTTBVXE" width="720" height="540" frameborder="0" scrolling=no></iframe>
