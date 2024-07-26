@@ -48,6 +48,8 @@
       href: ./interactivegraphics/simwithlrs.md
     - name: xAPI statement with LRS
       href: ./interactivegraphics/xapi-statement.md
+    - name: Get user
+      href: ./interactivegraphics/get-user.md
 # - name: Learn modules
 #  items:
 #  - name: Azure Media Services
