@@ -1,5 +1,5 @@
 ---
-title: Simulation with LRS
+title: XAPI statements with LRS
 description: Launching with an LTI link.
 author: IngridAtMicrosoft
 ms.topic: article
