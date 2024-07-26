@@ -1,5 +1,5 @@
 ---
-title: XAPI statements with LRS
+title: Get user
 description: Launching with an LTI link.
 author: IngridAtMicrosoft
 ms.topic: article
@@ -8,7 +8,7 @@ ms.author: inhenkel
 ms.service: media-services
 ---
 
-# XAPI statements with LRS
+# Get user
 
 This content is hosted on a Static Web App.
 
