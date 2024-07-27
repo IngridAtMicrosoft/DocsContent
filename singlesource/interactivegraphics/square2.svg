@@ -17,7 +17,7 @@ function sendMessageToIframe(){
   console.log('Sending User Name:', userName);
   console.log('Sending Email Address:', userEmail);
   var iframe = document.getElementById('ltiContentFrame');
-  iframe.contentWindow.postMessage(userName,'*');
+  iframe.contentWindow.postMessage(JSON.stringify(userName),'*');
   //iframe.contentWindow.postMessage(userEmail,'*');
 }
 
