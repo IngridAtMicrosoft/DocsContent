@@ -11,9 +11,19 @@
   </defs>
   <rect class="cls-1" x="0" y="0" width="100" height="100"/>
   <script>
+//See if the player is available
+function getPlayer(iframe){
+  if (iframe.contentWindow.GetPlayer) {
+                return iframe.contentWindow.GetPlayer();
+            } else {
+                return null;
+            }
+}
+
 
 //Function for passing variables to Storyline
 function setStorylineVariable(iframe) {
+    var player = getPlayer();
     console.log("setStorylineVariable called.");
     var player = iframe.contentWindow.GetPlayer();
 
