@@ -11,16 +11,6 @@
   </defs>
   <rect class="cls-1" x="0" y="0" width="100" height="100"/>
   <script>
-// Function to set Storyline variables from JavaScript
-        function setStorylineVariable() {
-            console.log("setStorylineVariable called.")
-            var sliframe = document.getElementById('ltiContentFrame');
-            var slplayer = sliframe.contentWindow.GetPlayer();
-
-            // Set the Storyline variable
-            slplayer.SetVar("username", userName);
-            slplayer.SeVar("useremail",userEmail)
-        }
 
 document.addEventListener('DOMContentLoaded', function() {
   console.log("DOMContentLoaded")
@@ -35,7 +25,6 @@ document.addEventListener('DOMContentLoaded', function() {
       console.log('Found href starting with "https://green-bay-0a20ceb0f":', anchor.href);
       iframe.src = anchor.href
     }
-  setStorylineVariable();
   });
 });
 
@@ -45,8 +34,6 @@ var userEmail = parent.document.querySelector('p[data-profile-property="upn"]').
 
 console.log('User Name:', userName);
 console.log('Email Address:', userEmail);
-
-
 
   </script>
 </svg>
