@@ -13,8 +13,8 @@
   <script>
 
 //Function for passing variables to Storyline
-function setStorylineVariable() {
-    console.log("setStorylineVariable called.")
+function setStorylineVariable(iframe) {
+    console.log("setStorylineVariable called.");
     var player = iframe.contentWindow.GetPlayer();
 
     // Set the Storyline variable
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
   console.log("Calling setStorylineVariable")
-  setStorylineVariable()
+  setStorylineVariable(iframe)
 });
 
 //Get username and email
