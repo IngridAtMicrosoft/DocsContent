@@ -14,7 +14,7 @@
 
 //Function for passing variables to Storyline
 function setStorylineVariable() {
-    conosle.log("setStorylineVariable called."")
+    conosle.log("setStorylineVariable called.")
     var player = iframe.contentWindow.GetPlayer();
 
     // Set the Storyline variable
