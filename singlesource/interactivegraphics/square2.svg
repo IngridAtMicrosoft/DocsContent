@@ -39,7 +39,7 @@ function setStorylineVariable() {
   var slplayer = iframe.contentWindow.GetPlayer();
 
   // Your JavaScript variable
-  var message = "Hello, Storyline!";
+  var message = "Message from HTML page.";
 
   // Set the Storyline variable
   player.SetVar("message", message);
