@@ -14,7 +14,7 @@ This content is hosted on a Static Web App.
 
 ## Links are fun!
 
-Here is [XAPI statements with LRS](https://green-bay-0a20ceb0f.5.azurestaticapps.net/get-user/story.html) in the browser.
+Here is [XAPI statements with LRS](https://green-bay-0a20ceb0f.5.azurestaticapps.net/get-user-name-email/story.html) in the browser.
 
 ## Click to send statements reports learner behaviors to LRS
 
