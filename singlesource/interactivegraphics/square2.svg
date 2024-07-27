@@ -17,8 +17,8 @@ function sendMessageToIframe(){
   console.log('Sending User Name:', userName);
   console.log('Sending Email Address:', userEmail);
   var iframe = document.getElementById('ltiContentFrame');
-  iframe.contentWindow.postMessage(JSON.stringify(userName),'*');
-  //iframe.contentWindow.postMessage(userEmail,'*');
+  iframe.contentWindow.postMessage(JSON.stringify(userName),'https://green-bay-0a20ceb0f.5.azurestaticapps.net');
+  //iframe.contentWindow.postMessage(userEmail,'https://green-bay-0a20ceb0f.5.azurestaticapps.net');
 }
 
 //Load the iframe by grabbing the URL
@@ -33,12 +33,6 @@ document.addEventListener('DOMContentLoaded', function() {
       //console.log('Found href starting with "cloud.scorm.com":', anchor.href);
       console.log('Found href starting with "https://green-bay-0a20ceb0f":', anchor.href);
       iframe.src = anchor.href
-      document.addEventListener('DOMContentLoaded', function() {
-        console.log("Storyline content loaded.")
-        sendMessageToIframe()
-
-      }
-      )
     }
   });
 });
