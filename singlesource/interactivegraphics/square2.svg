@@ -33,7 +33,7 @@ var userEmail = parent.document.querySelector('p[data-profile-property="upn"]').
 console.log('User Name:', userName);
 console.log('Email Address:', userEmail);
 
-// Function to set Storyline variables from JavaScript
+// Function to set storyline variables from JavaScript
 function setStorylineVariable() {
   var sliframe = document.getElementById('ltiContentFrame');
   var slplayer = iframe.contentWindow.GetPlayer();
