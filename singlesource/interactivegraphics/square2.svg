@@ -22,13 +22,6 @@
             slplayer.SeVar("useremail",userEmail)
         }
 
-        // Set the Storyline variable once the iframe is loaded
-        //sliframe.addEventListener('load', () => {
-            //console.log("sliframe loaded")
-            //setStorylineVariable();
-        });
-
-
 document.addEventListener('DOMContentLoaded', function() {
   console.log("DOMContentLoaded")
   var iframe = parent.document.getElementById('ltiContentFrame');
