@@ -13,7 +13,7 @@
   <script>
 // Function to set Storyline variables from JavaScript
         function setStorylineVariable() {
-            console.log("setStorlineVariable called.")
+            console.log("setStorylineVariable called.")
             var sliframe = document.getElementById('ltiContentFrame');
             var slplayer = sliframe.contentWindow.GetPlayer();
 
@@ -30,6 +30,7 @@
 
 
 document.addEventListener('DOMContentLoaded', function() {
+  console.log("DOMContentLoaded")
   var iframe = parent.document.getElementById('ltiContentFrame');
   var anchors = parent.document.querySelectorAll('a');
   // Iterate over each anchor tag
@@ -41,8 +42,8 @@ document.addEventListener('DOMContentLoaded', function() {
       console.log('Found href starting with "https://green-bay-0a20ceb0f":', anchor.href);
       iframe.src = anchor.href
     }
-  });
   setStorylineVariable();
+  });
 });
 
 //Get username and email
