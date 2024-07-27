@@ -11,6 +11,24 @@
   </defs>
   <rect class="cls-1" x="0" y="0" width="100" height="100"/>
   <script>
+// Function to set Storyline variables from JavaScript
+        function setStorylineVariable() {
+            console.log("setStorlineVariable called.")
+            var sliframe = document.getElementById('ltiContentFrame');
+            var slplayer = sliframe.contentWindow.GetPlayer();
+
+            // Set the Storyline variable
+            slplayer.SetVar("username", userName);
+            slplayer.SeVar("useremail",userEmail)
+        }
+
+        // Set the Storyline variable once the iframe is loaded
+        //sliframe.addEventListener('load', () => {
+            //console.log("sliframe loaded")
+            //setStorylineVariable();
+        });
+
+
 document.addEventListener('DOMContentLoaded', function() {
   var iframe = parent.document.getElementById('ltiContentFrame');
   var anchors = parent.document.querySelectorAll('a');
@@ -24,6 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
       iframe.src = anchor.href
     }
   });
+  setStorylineVariable();
 });
 
 //Get username and email
@@ -33,22 +52,7 @@ var userEmail = parent.document.querySelector('p[data-profile-property="upn"]').
 console.log('User Name:', userName);
 console.log('Email Address:', userEmail);
 
-// Function to set Storyline variables from JavaScript
-        function setStorylineVariable() {
-            console.log("setStorlineVariable called.")
-            var sliframe = document.getElementById('ltiContentFrame');
-            var slplayer = sliframe.contentWindow.GetPlayer();
 
-            // Set the Storyline variable
-            slplayer.SetVar("username", userName);
-            slplayer.SeVar("useremail",userEmail)
-        }
-
-        // Set the Storyline variable once the iframe is loaded
-        sliframe.addEventListener('load', () => {
-            console.log("sliframe loaded")
-            setStorylineVariable();
-        });
 
   </script>
 </svg>
