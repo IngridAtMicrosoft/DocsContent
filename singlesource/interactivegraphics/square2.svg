@@ -17,7 +17,7 @@ function sendMessageToIframe(){
   console.log('Sending User Name:', userName);
   console.log('Sending Email Address:', userEmail);
   var iframe = document.getElementById('ltiContentFrame');
-  iframe.contentWindow.postMessage(JSON.stringify(userName),'*');
+  iframe.contentWindow.postMessage(userName,'*');
   //iframe.contentWindow.postMessage(userEmail,'*');
 }
 
@@ -44,5 +44,6 @@ var userEmail = parent.document.querySelector('p[data-profile-property="upn"]').
 console.log('User Name:', userName);
 console.log('Email Address:', userEmail);
 
+sendMessageToIframe()
   </script>
 </svg>
