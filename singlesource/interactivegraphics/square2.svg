@@ -33,7 +33,12 @@ document.addEventListener('DOMContentLoaded', function() {
       //console.log('Found href starting with "cloud.scorm.com":', anchor.href);
       console.log('Found href starting with "https://green-bay-0a20ceb0f":', anchor.href);
       iframe.src = anchor.href
-      sendMessageToIframe()
+      document.addEventListener('DOMContentLoaded', function() {
+        console.log("Storyline content loaded.")
+        sendMessageToIframe()
+
+      }
+      )
     }
   });
 });
