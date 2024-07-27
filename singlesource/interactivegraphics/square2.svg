@@ -13,22 +13,23 @@
   <script>
 
 //See if the player is available
-function getPlayer(iframe){
+function getPlayer(){
+  var iframe = document.getElementById('ltiContentFrame');
   if (iframe.contentWindow.GetPlayer) {
-                return iframe.contentWindow.GetPlayer();
-            } else {
-                return null;
-            }
+    return iframe.contentWindow.GetPlayer();
+  } else {
+    return null;
+  }
 }
-
 
 //Function for passing variables to Storyline
 function setStorylineVariable(iframe) {
-    var player = getPlayer(iframe);
     console.log("setStorylineVariable called.");
-    var player = iframe.contentWindow.GetPlayer();
+    console.log("Getting player.")
+    var player = getPlayer();
 
     // Set the Storyline variable
+    console.log("Setting variables")
     player.SetVar("usermail", userEmail);
     player.SetVar("username", userName);
 }
