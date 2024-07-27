@@ -12,47 +12,29 @@
   <rect class="cls-1" x="0" y="0" width="100" height="100"/>
   <script>
 
-//See if the player is available
-function getPlayer(){
+//Pass variables to the courseware
+function sendMessageToIframe(){
+  console.log('Sending User Name:', userName);
+  console.log('Sending Email Address:', userEmail);
   var iframe = document.getElementById('ltiContentFrame');
-  if (iframe.contentWindow.GetPlayer) {
-    return iframe.contentWindow.GetPlayer();
-  } else {
-    return null;
-  }
+  iframe.contentWindow.postMessage(userName,'*');
+  //iframe.contentWindow.postMessage(userEmail,'*');
 }
 
-//Function for passing variables to Storyline
-function setStorylineVariable() {
-    console.log("setStorylineVariable called.");
-    console.log("Getting player.")
-    var player = getPlayer();
-    if(player){
-      // Set the Storyline variable
-    console.log("Setting variables")
-    player.SetVar("usermail", userEmail);
-    player.SetVar("username", userName);
-    } else {
-      setTimeout(setStorylineVariable, 100)
-    }
-}
-
+//Load the iframe by grabbing the URL
 document.addEventListener('DOMContentLoaded', function() {
   console.log("DOMContentLoaded")
   var iframe = parent.document.getElementById('ltiContentFrame');
   var anchors = parent.document.querySelectorAll('a');
+  console.log("Getting Storyline content URL for iframe.")
   // Iterate over each anchor tag
   anchors.forEach((anchor) => {
-    // Check if the href attribute starts with "cloud"
-    //if (anchor.href.startsWith("https://cloud.scorm.com")) {
     if (anchor.href.startsWith("https://green-bay-0a20ceb0f")) {
       //console.log('Found href starting with "cloud.scorm.com":', anchor.href);
       console.log('Found href starting with "https://green-bay-0a20ceb0f":', anchor.href);
       iframe.src = anchor.href
     }
   });
-  console.log("Calling setStorylineVariable")
-  setStorylineVariable()
 });
 
 //Get username and email
