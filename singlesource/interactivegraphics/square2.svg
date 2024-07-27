@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
       //console.log('Found href starting with "cloud.scorm.com":', anchor.href);
       console.log('Found href starting with "https://green-bay-0a20ceb0f":', anchor.href);
       iframe.src = anchor.href
+      sendMessageToIframe()
     }
   });
 });
@@ -44,6 +45,5 @@ var userEmail = parent.document.querySelector('p[data-profile-property="upn"]').
 console.log('User Name:', userName);
 console.log('Email Address:', userEmail);
 
-sendMessageToIframe()
   </script>
 </svg>
