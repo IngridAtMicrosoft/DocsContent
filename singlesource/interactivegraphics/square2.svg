@@ -12,6 +12,16 @@
   <rect class="cls-1" x="0" y="0" width="100" height="100"/>
   <script>
 
+//Function for passing variables to Storyline
+function setStorylineVariable() {
+    conosle.log("setStorylineVariable called."")
+    var player = iframe.contentWindow.GetPlayer();
+
+    // Set the Storyline variable
+    player.SetVar("usermail", userEmail);
+    player.SetVar("username", userName);
+}
+
 document.addEventListener('DOMContentLoaded', function() {
   console.log("DOMContentLoaded")
   var iframe = parent.document.getElementById('ltiContentFrame');
@@ -34,6 +44,7 @@ var userEmail = parent.document.querySelector('p[data-profile-property="upn"]').
 
 console.log('User Name:', userName);
 console.log('Email Address:', userEmail);
+setStorylineVariable()
 
   </script>
 </svg>
