@@ -35,16 +35,18 @@ console.log('Email Address:', userEmail);
 
 // Function to set Storyline variables from JavaScript
         function setStorylineVariable() {
+            console.log("setStorlineVariable called.")
             var sliframe = document.getElementById('ltiContentFrame');
-            var slplayer = iframe.contentWindow.GetPlayer();
+            var slplayer = sliframe.contentWindow.GetPlayer();
 
             // Set the Storyline variable
-            player.SetVar("username", userName);
-            player.SeVar("useremail",userEmail)
+            slplayer.SetVar("username", userName);
+            slplayer.SeVar("useremail",userEmail)
         }
 
         // Set the Storyline variable once the iframe is loaded
-        iframe.addEventListener('load', () => {
+        sliframe.addEventListener('load', () => {
+            console.log("sliframe loaded")
             setStorylineVariable();
         });
 
