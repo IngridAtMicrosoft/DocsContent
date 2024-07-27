@@ -36,6 +36,8 @@ document.addEventListener('DOMContentLoaded', function() {
       iframe.src = anchor.href
     }
   });
+  console.log("Calling setStorylineVariable")
+  setStorylineVariable()
 });
 
 //Get username and email
@@ -44,7 +46,6 @@ var userEmail = parent.document.querySelector('p[data-profile-property="upn"]').
 
 console.log('User Name:', userName);
 console.log('Email Address:', userEmail);
-setStorylineVariable()
 
   </script>
 </svg>
