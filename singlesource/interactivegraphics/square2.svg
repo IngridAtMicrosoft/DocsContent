@@ -23,15 +23,18 @@ function getPlayer(){
 }
 
 //Function for passing variables to Storyline
-function setStorylineVariable(iframe) {
+function setStorylineVariable() {
     console.log("setStorylineVariable called.");
     console.log("Getting player.")
     var player = getPlayer();
-
-    // Set the Storyline variable
+    if(player){
+      // Set the Storyline variable
     console.log("Setting variables")
     player.SetVar("usermail", userEmail);
     player.SetVar("username", userName);
+    } else {
+      setTimeout(setStorylineVariable, 100)
+    }
 }
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -49,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
   console.log("Calling setStorylineVariable")
-  setStorylineVariable(iframe)
+  setStorylineVariable()
 });
 
 //Get username and email
