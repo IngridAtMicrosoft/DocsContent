@@ -1,78 +1,99 @@
 - name: Azure Monitor on Single Source
   href: index.md
 - name: Overview
-  href: index.md
-- name: Introduction
   items:
   - name: What is Azure Monitor?
     href: index.md
-  - name: Why use Azure Monitor?
+  - name: What's new?
     href: index.md
-  - name: Key Capabilities Overview (Monitoring, Logging, Metrics, Alerts, Insights)
-    href: index.md
-- name: Core Components
-  items: 
-    - name: Metrics
-      href: index.md
-    - name: Logs
-      href: index.md
-    - name: Alerts
-      href: index.md
-    - name: Application Insights
-      href: index.md
-    - name: Log Analytics
-      href: index.md
-    - name: Workbooks
-      href: index.md
-- name: Getting Started
+- name: Quickstarts
+  href: index.md
+- name: Tutorials
+  href: index.md
+- name: How to guides
+  href: index.md
+- name: Samples
+  href: index.md
+- name: Concepts
   items:
-    - name: Prerequisites
-      href: index.md
-    - name: Enabling Azure Monitor
-      href: index.md
-    - name: Configuring Basic Monitoring
-      href: index.md
-    - name: Viewing Data in Azure Monitor
-      href: index.md
-- name: Collecting and Analyzing Data
-  items:
+  - name: Data collection
+    items: 
     - name: Data Sources
       href: index.md
-    - name: Configuring Log Analytics Workspaces
+      displayName: A single page about Metrics, Logs, Alerts, Application Insights, Log Analytics, Workbooks
+      items:
+      - name: Metrics
+        href: index.md
+      - name: Logs
+        href: index.md
+      - name: Alerts
+        href: index.md
+      - name: Application Insights
+        href: index.md
+      - name: Log Analytics
+        href: index.md
+      - name: Workbooks
+        href: index.md
+      - name: Collection methods
+        items:
+        - name: Data collection rules (DCR)
+          href: index.md
+        - name: Diagnostic settings
+          href: index.md
+        - name: Custom metrics
+          href: index.md
+  - name: Getting Started
+    items:
+      - name: Prerequisites
+        href: index.md
+      - name: Enabling Azure Monitor
+        href: index.md
+      - name: Configuring Basic Monitoring
+        href: index.md
+      - name: Viewing Data in Azure Monitor
+        href: index.md
+  - name: Collecting and Analyzing Data
+    items:
+      - name: Data Sources
+        href: index.md
+      - name: Configuring Log Analytics Workspaces
+        href: index.md
+      - name: Kusto Query Language (KQL) Basics
+        href: index.md
+      - name: Creating Dashboards and Workbooks
+        href: index.md
+  - name: Alerts and Automation
+    items:
+      - name: Types of Alerts
+        href: index.md
+      - name: Configuring Alerts and Action Groups
+        href: index.md
+  - name: Integrations and Extensibility
+    items: 
+    - name: Azure Monitor and Power BI
       href: index.md
-    - name: Kusto Query Language (KQL) Basics
+    - name: Integration with Grafana
       href: index.md
-    - name: Creating Dashboards and Workbooks
+    - name: Integrating with Logic Apps and Functions
       href: index.md
-- name: Alerts and Automation
-  items:
-    - name: Types of Alerts
+    - name: APIs and Custom Data Ingestion
       href: index.md
-    - name: Configuring Alerts and Action Groups
+  - name: Best Practices and Optimization
+    items:
+    - name: Performance Tuning for Log Queries
       href: index.md
-- name: Integrations and Extensibility
-  items: 
-  - name: Azure Monitor and Power BI
-    href: index.md
-  - name: Integration with Grafana
-    href: index.md
-  - name: Integrating with Logic Apps and Functions
-    href: index.md
-  - name: APIs and Custom Data Ingestion
-    href: index.md
-- name: Best Practices and Optimization
-  items:
-  - name: Performance Tuning for Log Queries
-    href: index.md
-  - name: Cost Optimization Strategies
-    href: index.md
-  - name: Security and Compliance Considerations
-    href: index.md
-- name: Troubleshooting and FAQs
-  items:
-  - name: Common Issues and Fixes
-    href: index.md
-  - name: Debugging Performance Problems
-    href: index.md
-  - name: Understanding Azure Monitor Costs
-    href: index.md
+    - name: Cost Optimization Strategies
+      href: index.md
+    - name: Security and Compliance Considerations
+      href: index.md
+  - name: Troubleshooting and FAQs
+    items:
+    - name: Common Issues and Fixes
+      href: index.md
+    - name: Debugging Performance Problems
+      href: index.md
+    - name: Understanding Azure Monitor Costs
+      href: index.md
+
+
+  
