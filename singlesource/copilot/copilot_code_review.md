@@ -1,52 +1,52 @@
 IngridAtMicrosoft: Do a code review of the files in context. Start with the runUtil.sh file which is the entry point. If you start with runUtil.sh the next file you encounter should be getLogsMetrics.js. Do the code review in the logical sequence suggested by the getLogs Metrics.js file. Be sure to name the file you are reviewing.
 
-GitHub Copilot: \#\#\# Code Review: runUtil.sh
+GitHub Copilot: ### Code Review: runUtil.sh
 
-\#\#\#\# Overview:
+#### Overview:
 
 The runUtil.sh script is a shell script that serves as the entry point for the project. It validates the input, ensures dependencies are installed, checks for Azure and GitHub authentication, and then invokes the genLogsMetrics.js Node.js script.
 
-\#\#\#\# Strengths:
+#### Strengths:
 
-1\. \*\*Dependency Management\*\*:
+1. **Dependency Management**:
 
-\- The script checks if node_modules exists and refreshes it if necessary. This ensures that the required dependencies are installed.
+- The script checks if node_modules exists and refreshes it if necessary. This ensures that the required dependencies are installed.
 
-2\. \*\*Authentication Checks\*\*:
+2. **Authentication Checks**:
 
-\- It verifies Azure (\`az account show\`) and GitHub (\`gh auth status\`) authentication, prompting the user to log in if necessary.
+- It verifies Azure (`az account show`) and GitHub (`gh auth status`) authentication, prompting the user to log in if necessary.
 
-3\. \*\*Input Validation\*\*:
+3. **Input Validation**:
 
-\- The script ensures that a GitHub username is provided as an argument and validates it against the currently logged-in Git user.
+- The script ensures that a GitHub username is provided as an argument and validates it against the currently logged-in Git user.
 
-4\. \*\*Execution Timing\*\*:
+4. **Execution Timing**:
 
-\- The script calculates and displays the time taken to execute the genLogsMetrics.js script, which is useful for performance monitoring.
+- The script calculates and displays the time taken to execute the genLogsMetrics.js script, which is useful for performance monitoring.
 
-\#\#\#\# Issues and Suggestions:
+#### Issues and Suggestions:
 
-1\. \*\*Error Handling\*\*:
+1. **Error Handling**:
 
-\- The script uses \`return 1\` for error handling, but this is not valid in a standalone shell script. It should use \`exit 1\` instead.
+- The script uses `return 1` for error handling, but this is not valid in a standalone shell script. It should use `exit 1` instead.
 
-\- Example:
+- Example:
 
-\`\`\`bash
+```bash
 
 echo "You must specify a git user name."
 
 exit 1
 
-\`\`\`
+```
 
-2\. \*\*Hardcoded Dependency on \`az\` and \`gh\`\*\*:
+2. **Hardcoded Dependency on `az` and `gh`**:
 
-\- The script assumes that the Azure CLI (\`az\`) and GitHub CLI (\`gh\`) are installed and available in the PATH. It would be better to check for their existence before proceeding.
+- The script assumes that the Azure CLI (`az`) and GitHub CLI (`gh`) are installed and available in the PATH. It would be better to check for their existence before proceeding.
 
-\- Example:
+- Example:
 
-\`\`\`bash
+```bash
 
 if ! command -v az &\> /dev/null; then
 
@@ -56,25 +56,25 @@ exit 1
 
 fi
 
-\`\`\`
+```
 
-3\. \*\*Redundant Node Modules Check\*\*:
+3. **Redundant Node Modules Check**:
 
-\- The script checks for the existence of refreshed to determine if dependencies need to be reinstalled. This is unconventional and could lead to issues if the \`refreshed\` file is accidentally deleted. Consider using a more standard approach, such as checking for the existence of node_modules or using \`npm ci\` to ensure a clean install.
+- The script checks for the existence of refreshed to determine if dependencies need to be reinstalled. This is unconventional and could lead to issues if the `refreshed` file is accidentally deleted. Consider using a more standard approach, such as checking for the existence of node_modules or using `npm ci` to ensure a clean install.
 
-4\. \*\*Hardcoded GitHub Username Validation\*\*:
+4. **Hardcoded GitHub Username Validation**:
 
-\- The script compares the provided username with the logged-in Git user. This could fail if the user has multiple Git configurations. Consider adding a fallback or allowing the user to override this check.
+- The script compares the provided username with the logged-in Git user. This could fail if the user has multiple Git configurations. Consider adding a fallback or allowing the user to override this check.
 
-5\. \*\*Portability\*\*:
+5. **Portability**:
 
-\- The script uses \`return\` and \`echo\` without specifying the shell interpreter (\`\#!/bin/bash\`). This could lead to issues if the script is run in a shell other than Bash.
+- The script uses `return` and `echo` without specifying the shell interpreter (`#!/bin/bash`). This could lead to issues if the script is run in a shell other than Bash.
 
-\#\#\#\# Suggested Improvements:
+#### Suggested Improvements:
 
-\`\`\`bash
+```bash
 
-\#!/bin/bash
+#!/bin/bash
 
 if [ -z "\$1" ]; then
 
@@ -150,173 +150,173 @@ endTime=\$(date +%s)
 
 echo "Time taken to generate logs and metrics: \$((endTime - startTime)) seconds"
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\# Code Review: genLogsMetrics.js
+### Code Review: genLogsMetrics.js
 
-\#\#\#\# Overview:
+#### Overview:
 
 This file is the main script invoked by runUtil.sh. It orchestrates the generation of logs and metrics by calling various modules and functions.
 
-\#\#\#\# Strengths:
+#### Strengths:
 
-1\. \*\*Clear Workflow\*\*:
+1. **Clear Workflow**:
 
-\- The script follows a logical sequence: initialization, data fetching, processing, and output generation.
+- The script follows a logical sequence: initialization, data fetching, processing, and output generation.
 
-2\. \*\*Error Handling\*\*:
+2. **Error Handling**:
 
-\- The script uses \`try-catch\` blocks to handle errors during critical operations, such as fetching tokens or processing data.
+- The script uses `try-catch` blocks to handle errors during critical operations, such as fetching tokens or processing data.
 
-3\. \*\*Modular Design\*\*:
+3. **Modular Design**:
 
-\- The script delegates specific tasks to other modules (e.g., naamProcessing.js, armProcessing.js), adhering to the single-responsibility principle.
+- The script delegates specific tasks to other modules (e.g., naamProcessing.js, armProcessing.js), adhering to the single-responsibility principle.
 
-4\. \*\*Logging\*\*:
+4. **Logging**:
 
-\- The script logs important events and errors, which is useful for debugging and monitoring.
+- The script logs important events and errors, which is useful for debugging and monitoring.
 
-\#\#\#\# Issues and Suggestions:
+#### Issues and Suggestions:
 
-1\. \*\*Global Variables\*\*:
+1. **Global Variables**:
 
-\- The script uses several global variables (e.g., \`global.runDate\`, \`global.todayFormatted\`). This can lead to unintended side effects. Consider passing these variables as arguments to functions or encapsulating them in an object.
+- The script uses several global variables (e.g., `global.runDate`, `global.todayFormatted`). This can lead to unintended side effects. Consider passing these variables as arguments to functions or encapsulating them in an object.
 
-2\. \*\*Hardcoded Paths\*\*:
+2. **Hardcoded Paths**:
 
-\- The script uses hardcoded paths for directories and files (e.g., logs, output). These should be configurable through a settings file or environment variables.
+- The script uses hardcoded paths for directories and files (e.g., logs, output). These should be configurable through a settings file or environment variables.
 
-3\. \*\*Error Handling\*\*:
+3. **Error Handling**:
 
-\- While the script uses \`try-catch\` blocks, some operations (e.g., file writes) do not have error handling. Add checks to ensure these operations succeed.
+- While the script uses `try-catch` blocks, some operations (e.g., file writes) do not have error handling. Add checks to ensure these operations succeed.
 
-4\. \*\*Redundant Comments\*\*:
+4. **Redundant Comments**:
 
-\- Some comments (e.g., \`// initialize directories\`) state the obvious and can be removed to improve readability.
+- Some comments (e.g., `// initialize directories`) state the obvious and can be removed to improve readability.
 
-5\. \*\*Unused Variables\*\*:
+5. **Unused Variables**:
 
-\- The variable \`azureDiagnosticsRPs\` is declared but not used. Remove unused variables to reduce clutter.
+- The variable `azureDiagnosticsRPs` is declared but not used. Remove unused variables to reduce clutter.
 
-\#\#\#\# Suggested Improvements:
+#### Suggested Improvements:
 
-\- Refactor global variables into a configuration object.
+- Refactor global variables into a configuration object.
 
-\- Use \`path.join\` for constructing file paths to ensure cross-platform compatibility.
+- Use `path.join` for constructing file paths to ensure cross-platform compatibility.
 
-\- Add error handling for file operations.
+- Add error handling for file operations.
 
-\---
+---
 
-\#\#\# Next Steps:
+### Next Steps:
 
 The next file to review is naamProcessing.js, as it is invoked early in the workflow by genLogsMetrics.js. Let me know if you'd like me to proceed with that review.
 
-IngridAtMicrosoft: Review \`naamProcessing.js\` next, please.
+IngridAtMicrosoft: Review `naamProcessing.js` next, please.
 
-GitHub Copilot: \#\#\# Code Review: naamProcessing.js
+GitHub Copilot: ### Code Review: naamProcessing.js
 
-\#\#\#\# Overview:
+#### Overview:
 
 The naamProcessing.js file is responsible for processing manifest files retrieved from an Azure DevOps repository. It extracts logs and metrics specifications, handles errors, and writes the processed data to output files.
 
-\---
+---
 
-\#\#\#\# Strengths:
+#### Strengths:
 
-1\. \*\*Asynchronous Design\*\*:
+1. **Asynchronous Design**:
 
-\- The use of \`async/await\` ensures non-blocking operations, especially when fetching data from the Azure DevOps repository.
+- The use of `async/await` ensures non-blocking operations, especially when fetching data from the Azure DevOps repository.
 
-2\. \*\*Separation of Concerns\*\*:
+2. **Separation of Concerns**:
 
-\- The function \`processManifestFiles\` focuses on processing manifest files, while other modules (e.g., commonModules.js and getADORepo.js) handle auxiliary tasks like logging and fetching data.
+- The function `processManifestFiles` focuses on processing manifest files, while other modules (e.g., commonModules.js and getADORepo.js) handle auxiliary tasks like logging and fetching data.
 
-3\. \*\*Error Handling\*\*:
+3. **Error Handling**:
 
-\- Errors encountered during processing are collected in the \`errorContent\` array and logged to a file, ensuring visibility into issues.
+- Errors encountered during processing are collected in the `errorContent` array and logged to a file, ensuring visibility into issues.
 
-4\. \*\*Backup Mechanism\*\*:
+4. **Backup Mechanism**:
 
-\- The script creates a backup of the processed logs and metrics data, which is a good practice for data integrity.
+- The script creates a backup of the processed logs and metrics data, which is a good practice for data integrity.
 
-\---
+---
 
-\#\#\#\# Issues and Suggestions:
+#### Issues and Suggestions:
 
-1\. \*\*Global Variables\*\*:
+1. **Global Variables**:
 
-\- The script uses global variables like \`conf\` and \`runDate\` without explicitly defining or importing them. This can lead to unexpected behavior if these variables are not properly initialized.
+- The script uses global variables like `conf` and `runDate` without explicitly defining or importing them. This can lead to unexpected behavior if these variables are not properly initialized.
 
-\- \*\*Suggestion\*\*: Pass these variables as arguments to the function or encapsulate them in a configuration object.
+- **Suggestion**: Pass these variables as arguments to the function or encapsulate them in a configuration object.
 
-2\. \*\*Error Handling Granularity\*\*:
+2. **Error Handling Granularity**:
 
-\- While errors are logged, the script does not provide detailed information about which specific manifest file caused the error.
+- While errors are logged, the script does not provide detailed information about which specific manifest file caused the error.
 
-\- \*\*Suggestion\*\*: Include the name of the manifest file in the error log for better traceability.
-
-Example:
-
-\`\`\`javascript
-
-errorContent.push(\`Error processing file \${manifestFile}: \${error.message}\`);
-
-\`\`\`
-
-3\. \*\*Hardcoded Paths\*\*:
-
-\- Paths like archive are hardcoded, which reduces flexibility and portability.
-
-\- \*\*Suggestion\*\*: Use a configuration file or environment variables to define paths.
-
-4\. \*\*Unused Variables\*\*:
-
-\- The variable \`manifestFileList\` is declared but not used anywhere in the script.
-
-\- \*\*Suggestion\*\*: Remove unused variables to reduce clutter.
-
-5\. \*\*Error Logging Redundancy\*\*:
-
-\- The script writes errors to both \`conf.errorsFile\` and the log file using \`common.writeLog\`. This redundancy may not be necessary.
-
-\- \*\*Suggestion\*\*: Consolidate error logging to a single location.
-
-6\. \*\*Backup Filename Construction\*\*:
-
-\- The backup filename construction is somewhat convoluted and relies on splitting strings multiple times.
-
-\- \*\*Suggestion\*\*: Simplify the logic using \`path\` module utilities.
+- **Suggestion**: Include the name of the manifest file in the error log for better traceability.
 
 Example:
 
-\`\`\`javascript
+```javascript
+
+errorContent.push(`Error processing file \${manifestFile}: \${error.message}`);
+
+```
+
+3. **Hardcoded Paths**:
+
+- Paths like archive are hardcoded, which reduces flexibility and portability.
+
+- **Suggestion**: Use a configuration file or environment variables to define paths.
+
+4. **Unused Variables**:
+
+- The variable `manifestFileList` is declared but not used anywhere in the script.
+
+- **Suggestion**: Remove unused variables to reduce clutter.
+
+5. **Error Logging Redundancy**:
+
+- The script writes errors to both `conf.errorsFile` and the log file using `common.writeLog`. This redundancy may not be necessary.
+
+- **Suggestion**: Consolidate error logging to a single location.
+
+6. **Backup Filename Construction**:
+
+- The backup filename construction is somewhat convoluted and relies on splitting strings multiple times.
+
+- **Suggestion**: Simplify the logic using `path` module utilities.
+
+Example:
+
+```javascript
 
 const backupFilename = path.join(
 
 "./naamData/archive/",
 
-\`\${path.basename(conf.naamLogsAndMetricsFile, ".json")}\${runDate}.json\`
+`\${path.basename(conf.naamLogsAndMetricsFile, ".json")}\${runDate}.json`
 
 );
 
-\`\`\`
+```
 
-7\. \*\*Error Handling for File Operations\*\*:
+7. **Error Handling for File Operations**:
 
-\- File operations like \`fs.writeFileSync\` do not have error handling, which could lead to crashes if the file system is inaccessible.
+- File operations like `fs.writeFileSync` do not have error handling, which could lead to crashes if the file system is inaccessible.
 
-\- \*\*Suggestion\*\*: Wrap file operations in \`try-catch\` blocks.
+- **Suggestion**: Wrap file operations in `try-catch` blocks.
 
-\---
+---
 
-\#\#\#\# Suggested Improvements:
+#### Suggested Improvements:
 
-Here is a refactored version of the \`processManifestFiles\` function with the above suggestions applied:
+Here is a refactored version of the `processManifestFiles` function with the above suggestions applied:
 
-\`\`\`javascript
+```javascript
 
 const fs = require('fs');
 
@@ -352,7 +352,7 @@ try {
 
 } catch (error) {
 
-errorContent.push(\`Error processing file \${manifestFile}: \${error.message}\`);
+errorContent.push(`Error processing file \${manifestFile}: \${error.message}`);
 
 }
 
@@ -360,7 +360,7 @@ errorContent.push(\`Error processing file \${manifestFile}: \${error.message}\`)
 
 if (errorContent.length \> 0) {
 
-const errorLog = \`\\n\\n\#\# File Errors \\n\${new Date().toString()}\\n\* \${errorContent.join("\\n\\n\* ")}\`;
+const errorLog = `\\n\\n## File Errors \\n\${new Date().toString()}\\n\* \${errorContent.join("\\n\\n\* ")}`;
 
 fs.writeFileSync(conf.errorsFile, errorLog);
 
@@ -382,7 +382,7 @@ const backupFilename = path.join(
 
 "./naamData/archive/",
 
-\`\${path.basename(conf.naamLogsAndMetricsFile, ".json")}\${runDate}.json\`
+`\${path.basename(conf.naamLogsAndMetricsFile, ".json")}\${runDate}.json`
 
 );
 
@@ -392,63 +392,63 @@ fs.copyFileSync(conf.naamLogsAndMetricsFile, backupFilename);
 
 console.error("An error occurred during processing:", error);
 
-common.writeLog(\`Critical error: \${error.message}\`, 'error');
+common.writeLog(`Critical error: \${error.message}`, 'error');
 
 }
 
 };
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Next Steps:
+#### Next Steps:
 
 The next file to review, based on the logical sequence in genLogsMetrics.js, is armProcessing.js. Let me know if you'd like me to proceed with that review.
 
 IngridAtMicrosoft: Proceed.
 
-GitHub Copilot: \#\#\# Code Review: armContacts.json
+GitHub Copilot: ### Code Review: armContacts.json
 
-\#\#\#\# Overview:
+#### Overview:
 
-The armContacts.json file contains metadata about various Azure Resource Providers, including details such as \`ResourceProvider\`, \`ResourceType\`, \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, \`IncidentContactEmail\`, and \`ResourceAccessPolicy\`. This file appears to be a configuration or reference file used by the application to manage or process ARM (Azure Resource Manager) resources.
+The armContacts.json file contains metadata about various Azure Resource Providers, including details such as `ResourceProvider`, `ResourceType`, `IncidentRoutingService`, `IncidentRoutingTeam`, `IncidentContactEmail`, and `ResourceAccessPolicy`. This file appears to be a configuration or reference file used by the application to manage or process ARM (Azure Resource Manager) resources.
 
-\---
+---
 
-\#\#\#\# Strengths:
+#### Strengths:
 
-1\. \*\*Comprehensive Data\*\*:
+1. **Comprehensive Data**:
 
-\- The file provides detailed information for each resource provider, including contact information and access policies, which can be useful for troubleshooting and routing incidents.
+- The file provides detailed information for each resource provider, including contact information and access policies, which can be useful for troubleshooting and routing incidents.
 
-2\. \*\*Structured Format\*\*:
+2. **Structured Format**:
 
-\- The JSON structure is well-organized, with each resource provider having its own object. This makes it easy to parse programmatically.
+- The JSON structure is well-organized, with each resource provider having its own object. This makes it easy to parse programmatically.
 
-3\. \*\*Scalability\*\*:
+3. **Scalability**:
 
-\- The use of an array for \`ResourceProviders\` allows for easy addition of new entries without modifying the structure.
+- The use of an array for `ResourceProviders` allows for easy addition of new entries without modifying the structure.
 
-4\. \*\*Key Metadata\*\*:
+4. **Key Metadata**:
 
-\- Fields like \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, and \`IncidentContactEmail\` provide critical information for operational workflows.
+- Fields like `IncidentRoutingService`, `IncidentRoutingTeam`, and `IncidentContactEmail` provide critical information for operational workflows.
 
-\---
+---
 
-\#\#\#\# Issues and Suggestions:
+#### Issues and Suggestions:
 
-1\. \*\*Redundant Entries\*\*:
+1. **Redundant Entries**:
 
-\- There are multiple entries with identical \`ResourceAccessPolicy\` values (e.g., \`"AcisReadAllowed"\`). This redundancy could be reduced by grouping or referencing common policies.
+- There are multiple entries with identical `ResourceAccessPolicy` values (e.g., `"AcisReadAllowed"`). This redundancy could be reduced by grouping or referencing common policies.
 
-\*\*Suggestion\*\*:
+**Suggestion**:
 
-\- Use a separate section for \`ResourceAccessPolicy\` definitions and reference them by ID to avoid repetition.
+- Use a separate section for `ResourceAccessPolicy` definitions and reference them by ID to avoid repetition.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -482,21 +482,21 @@ Example:
 
 }
 
-\`\`\`
+```
 
-2\. \*\*Missing or Empty Fields\*\*:
+2. **Missing or Empty Fields**:
 
-\- Some entries have empty or missing fields, such as \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, and \`IncidentContactEmail\`. This could lead to issues during processing or incident routing.
+- Some entries have empty or missing fields, such as `IncidentRoutingService`, `IncidentRoutingTeam`, and `IncidentContactEmail`. This could lead to issues during processing or incident routing.
 
-\*\*Suggestion\*\*:
+**Suggestion**:
 
-\- Add validation to ensure all required fields are populated. If a field is intentionally left blank, include a placeholder value like \`"N/A"\` or \`"Unknown"\`.
+- Add validation to ensure all required fields are populated. If a field is intentionally left blank, include a placeholder value like `"N/A"` or `"Unknown"`.
 
-3\. \*\*Inconsistent Formatting\*\*:
+3. **Inconsistent Formatting**:
 
-\- Some entries have trailing commas, which is invalid JSON syntax. For example:
+- Some entries have trailing commas, which is invalid JSON syntax. For example:
 
-\`\`\`json
+```json
 
 {
 
@@ -504,25 +504,25 @@ Example:
 
 }
 
-\`\`\`
+```
 
-\- This could cause parsing errors.
+- This could cause parsing errors.
 
-\*\*Suggestion\*\*:
+**Suggestion**:
 
-\- Use a JSON linter or formatter to ensure the file adheres to proper JSON syntax.
+- Use a JSON linter or formatter to ensure the file adheres to proper JSON syntax.
 
-4\. \*\*Lack of Documentation\*\*:
+4. **Lack of Documentation**:
 
-\- The file does not include comments or documentation explaining the purpose of each field. This could make it harder for new developers to understand its usage.
+- The file does not include comments or documentation explaining the purpose of each field. This could make it harder for new developers to understand its usage.
 
-\*\*Suggestion\*\*:
+**Suggestion**:
 
-\- Add a comment block at the top of the file to describe the purpose of the file and each field.
+- Add a comment block at the top of the file to describe the purpose of the file and each field.
 
 Example:
 
-\`\`\`json
+```json
 
 /\*
 
@@ -554,19 +554,19 @@ Example:
 
 \*/
 
-\`\`\`
+```
 
-5\. \*\*Potential for Duplication\*\*:
+5. **Potential for Duplication**:
 
-\- Some \`ResourceProvider\` entries appear multiple times with different \`ResourceType\` values. While this may be intentional, it could lead to duplication of data.
+- Some `ResourceProvider` entries appear multiple times with different `ResourceType` values. While this may be intentional, it could lead to duplication of data.
 
-\*\*Suggestion\*\*:
+**Suggestion**:
 
-\- Consider grouping \`ResourceType\` values under a single \`ResourceProvider\` entry to reduce duplication.
+- Consider grouping `ResourceType` values under a single `ResourceProvider` entry to reduce duplication.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -606,27 +606,27 @@ Example:
 
 }
 
-\`\`\`
+```
 
-6\. \*\*Validation of Email Addresses\*\*:
+6. **Validation of Email Addresses**:
 
-\- Some \`IncidentContactEmail\` fields may contain invalid or placeholder email addresses (e.g., \`"sarteam@microsof.com"\` appears to have a typo).
+- Some `IncidentContactEmail` fields may contain invalid or placeholder email addresses (e.g., `"sarteam@microsof.com"` appears to have a typo).
 
-\*\*Suggestion\*\*:
+**Suggestion**:
 
-\- Validate email addresses to ensure they are correctly formatted and functional.
+- Validate email addresses to ensure they are correctly formatted and functional.
 
-7\. \*\*Versioning\*\*:
+7. **Versioning**:
 
-\- The file includes a \`CreationDate\` but does not have a versioning mechanism. This could make it difficult to track changes over time.
+- The file includes a `CreationDate` but does not have a versioning mechanism. This could make it difficult to track changes over time.
 
-\*\*Suggestion\*\*:
+**Suggestion**:
 
-\- Add a \`Version\` field to track updates to the file.
+- Add a `Version` field to track updates to the file.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -638,15 +638,15 @@ Example:
 
 }
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Suggested Improvements:
+#### Suggested Improvements:
 
 Here is an example of a refactored structure with some of the above suggestions applied:
 
-\`\`\`json
+```json
 
 {
 
@@ -716,69 +716,69 @@ Here is an example of a refactored structure with some of the above suggestions 
 
 }
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Next Steps:
+#### Next Steps:
 
 The next file to review, based on the logical sequence in genLogsMetrics.js, is armProcessing.js. Let me know if you'd like me to proceed with that review.
 
 IngridAtMicrosoft: Proceed
 
-GitHub Copilot: \#\#\# Code Review: armProcessing.js
+GitHub Copilot: ### Code Review: armProcessing.js
 
-\#\#\#\# Overview:
+#### Overview:
 
 The armProcessing.js file appears to handle operations related to Azure Resource Manager (ARM) processing. It imports several modules and references the armContacts.json file, which contains metadata about Azure Resource Providers. The file is likely used to process ARM-related data, such as resource provider information, incident routing, and access policies.
 
-\---
+---
 
-\#\#\#\# Strengths:
+#### Strengths:
 
-1\. \*\*Modular Design\*\*:
+1. **Modular Design**:
 
-\- The file imports reusable modules like commonModules.js and armContacts.json, adhering to the DRY (Don't Repeat Yourself) principle.
+- The file imports reusable modules like commonModules.js and armContacts.json, adhering to the DRY (Don't Repeat Yourself) principle.
 
-2\. \*\*Dependency Management\*\*:
+2. **Dependency Management**:
 
-\- The use of \`fs\` and \`https\` modules ensures that file operations and HTTP requests are handled efficiently.
+- The use of `fs` and `https` modules ensures that file operations and HTTP requests are handled efficiently.
 
-3\. \*\*JSON Configuration\*\*:
+3. **JSON Configuration**:
 
-\- The armContacts.json file provides a structured and centralized way to manage resource provider metadata, making it easy to update and maintain.
+- The armContacts.json file provides a structured and centralized way to manage resource provider metadata, making it easy to update and maintain.
 
-4\. \*\*Scalability\*\*:
+4. **Scalability**:
 
-\- The modular approach allows for easy extension of functionality, such as adding new resource providers or processing logic.
+- The modular approach allows for easy extension of functionality, such as adding new resource providers or processing logic.
 
-\---
+---
 
-\#\#\#\# Issues and Suggestions:
+#### Issues and Suggestions:
 
-1\. \*\*Unused Imports\*\*:
+1. **Unused Imports**:
 
-\- The \`Console\` import from \`console\` is not used in the file.
+- The `Console` import from `console` is not used in the file.
 
-\- \*\*Suggestion\*\*: Remove unused imports to reduce clutter and improve readability.
+- **Suggestion**: Remove unused imports to reduce clutter and improve readability.
 
-\`\`\`javascript
+```javascript
 
 // Remove this line if not used:
 
 const { Console } = require('console');
 
-\`\`\`
+```
 
-2\. \*\*Error Handling\*\*:
+2. **Error Handling**:
 
-\- The file does not include error handling for operations like reading the armContacts.json file or making HTTPS requests.
+- The file does not include error handling for operations like reading the armContacts.json file or making HTTPS requests.
 
-\- \*\*Suggestion\*\*: Add \`try-catch\` blocks to handle potential errors gracefully.
+- **Suggestion**: Add `try-catch` blocks to handle potential errors gracefully.
 
 Example:
 
-\`\`\`javascript
+```javascript
 
 try {
 
@@ -790,33 +790,33 @@ console.error('Error reading armContacts.json:', error);
 
 }
 
-\`\`\`
+```
 
-3\. \*\*Hardcoded File Paths\*\*:
+3. **Hardcoded File Paths**:
 
-\- The path to armContacts.json is hardcoded, which reduces flexibility and portability.
+- The path to armContacts.json is hardcoded, which reduces flexibility and portability.
 
-\- \*\*Suggestion\*\*: Use a configuration file or environment variables to define file paths.
+- **Suggestion**: Use a configuration file or environment variables to define file paths.
 
 Example:
 
-\`\`\`javascript
+```javascript
 
 const armContactsPath = process.env.ARM_CONTACTS_PATH \|\| './armContacts.json';
 
 const armContactsData = JSON.parse(fs.readFileSync(armContactsPath, 'utf8'));
 
-\`\`\`
+```
 
-4\. \*\*Lack of Functionality\*\*:
+4. **Lack of Functionality**:
 
-\- The file does not define any functions or logic for processing ARM data. It only imports modules and references the armContacts.json file.
+- The file does not define any functions or logic for processing ARM data. It only imports modules and references the armContacts.json file.
 
-\- \*\*Suggestion\*\*: Implement functions to process ARM data, such as filtering resource providers by access policy or generating reports.
+- **Suggestion**: Implement functions to process ARM data, such as filtering resource providers by access policy or generating reports.
 
 Example:
 
-\`\`\`javascript
+```javascript
 
 function getResourceProvidersByPolicy(policy) {
 
@@ -824,17 +824,17 @@ return armContacts.ResourceProviders.filter(provider =\> provider.ResourceAccess
 
 }
 
-\`\`\`
+```
 
-5\. \*\*Validation of armContacts.json\*\*:
+5. **Validation of armContacts.json**:
 
-\- The file does not validate the structure or content of armContacts.json. If the file is malformed, it could cause runtime errors.
+- The file does not validate the structure or content of armContacts.json. If the file is malformed, it could cause runtime errors.
 
-\- \*\*Suggestion\*\*: Add validation logic to ensure the JSON file conforms to the expected schema.
+- **Suggestion**: Add validation logic to ensure the JSON file conforms to the expected schema.
 
 Example:
 
-\`\`\`javascript
+```javascript
 
 function validateArmContacts(data) {
 
@@ -846,19 +846,19 @@ throw new Error('Invalid armContacts.json: Missing or invalid ResourceProviders 
 
 }
 
-\`\`\`
+```
 
-6\. \*\*Documentation\*\*:
+6. **Documentation**:
 
-\- The file lacks comments or documentation explaining its purpose and functionality.
+- The file lacks comments or documentation explaining its purpose and functionality.
 
-\- \*\*Suggestion\*\*: Add comments to describe the purpose of the file and its key components.
+- **Suggestion**: Add comments to describe the purpose of the file and its key components.
 
 Example:
 
-\`\`\`javascript
+```javascript
 
-/\*\*
+/**
 
 \* This module processes Azure Resource Manager (ARM) data.
 
@@ -866,15 +866,15 @@ Example:
 
 \*/
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Suggested Improvements:
+#### Suggested Improvements:
 
 Here is a refactored version of the file with the above suggestions applied:
 
-\`\`\`javascript
+```javascript
 
 const fs = require('fs');
 
@@ -904,7 +904,7 @@ process.exit(1); // Exit the process if the file is invalid
 
 }
 
-/\*\*
+/**
 
 \* Validates the structure of the armContacts.json file.
 
@@ -922,7 +922,7 @@ throw new Error('Invalid armContacts.json: Missing or invalid ResourceProviders 
 
 }
 
-/\*\*
+/**
 
 \* Retrieves resource providers by access policy.
 
@@ -944,51 +944,51 @@ const notSpecifiedProviders = getResourceProvidersByPolicy('NotSpecified');
 
 console.log('Resource Providers with NotSpecified policy:', notSpecifiedProviders);
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Next Steps:
+#### Next Steps:
 
 The next file to review, based on the logical sequence in genLogsMetrics.js, is createLogsFiles.js. Let me know if you'd like me to proceed with that review.
 
 IngridAtMicrosoft: Proceed
 
-GitHub Copilot: \#\#\# Code Review: armContacts.json
+GitHub Copilot: ### Code Review: armContacts.json
 
-\#\#\#\# Overview:
+#### Overview:
 
-The armContacts.json file is a large JSON configuration file that contains metadata about Azure Resource Providers. Each entry includes details such as the \`ResourceProvider\`, \`ResourceType\`, \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, \`IncidentContactEmail\`, and \`ResourceAccessPolicy\`. This file is likely used for routing incidents, managing access policies, and providing contact information for various Azure services.
+The armContacts.json file is a large JSON configuration file that contains metadata about Azure Resource Providers. Each entry includes details such as the `ResourceProvider`, `ResourceType`, `IncidentRoutingService`, `IncidentRoutingTeam`, `IncidentContactEmail`, and `ResourceAccessPolicy`. This file is likely used for routing incidents, managing access policies, and providing contact information for various Azure services.
 
-\---
+---
 
-\#\#\#\# Strengths:
+#### Strengths:
 
-1\. \*\*Structured Data\*\*:
+1. **Structured Data**:
 
-\- The file is well-organized, with each resource provider represented as an object in the \`ResourceProviders\` array. This makes it easy to parse and process programmatically.
+- The file is well-organized, with each resource provider represented as an object in the `ResourceProviders` array. This makes it easy to parse and process programmatically.
 
-2\. \*\*Comprehensive Metadata\*\*:
+2. **Comprehensive Metadata**:
 
-\- Each entry includes key details such as the resource provider name, type, incident routing service, team, and contact email, which are critical for operational workflows.
+- Each entry includes key details such as the resource provider name, type, incident routing service, team, and contact email, which are critical for operational workflows.
 
-3\. \*\*Scalability\*\*:
+3. **Scalability**:
 
-\- The use of an array for \`ResourceProviders\` allows for easy addition of new entries without modifying the structure.
+- The use of an array for `ResourceProviders` allows for easy addition of new entries without modifying the structure.
 
-4\. \*\*Centralized Configuration\*\*:
+4. **Centralized Configuration**:
 
-\- The file serves as a single source of truth for resource provider metadata, making it easier to maintain and update.
+- The file serves as a single source of truth for resource provider metadata, making it easier to maintain and update.
 
-\---
+---
 
-\#\#\#\# Issues and Suggestions:
+#### Issues and Suggestions:
 
-1\. \*\*Trailing Commas\*\*:
+1. **Trailing Commas**:
 
-\- The JSON contains trailing commas in several places, which is invalid JSON syntax. For example:
+- The JSON contains trailing commas in several places, which is invalid JSON syntax. For example:
 
-\`\`\`json
+```json
 
 {
 
@@ -996,31 +996,31 @@ The armContacts.json file is a large JSON configuration file that contains metad
 
 }
 
-\`\`\`
+```
 
-\- \*\*Suggestion\*\*: Remove all trailing commas to ensure the file is valid JSON.
+- **Suggestion**: Remove all trailing commas to ensure the file is valid JSON.
 
-2\. \*\*Duplicate Entries\*\*:
+2. **Duplicate Entries**:
 
-\- There are duplicate entries for \`ResourceAccessPolicy\` at the end of the file, which adds unnecessary redundancy.
+- There are duplicate entries for `ResourceAccessPolicy` at the end of the file, which adds unnecessary redundancy.
 
-\- \*\*Suggestion\*\*: Remove duplicate entries to reduce clutter and improve readability.
+- **Suggestion**: Remove duplicate entries to reduce clutter and improve readability.
 
-3\. \*\*Empty or Missing Fields\*\*:
+3. **Empty or Missing Fields**:
 
-\- Some entries have empty or missing fields for \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, and \`IncidentContactEmail\`. This could lead to issues during processing or incident routing.
+- Some entries have empty or missing fields for `IncidentRoutingService`, `IncidentRoutingTeam`, and `IncidentContactEmail`. This could lead to issues during processing or incident routing.
 
-\- \*\*Suggestion\*\*: Add validation to ensure all required fields are populated. If a field is intentionally left blank, include a placeholder value like \`"N/A"\` or \`"Unknown"\`.
+- **Suggestion**: Add validation to ensure all required fields are populated. If a field is intentionally left blank, include a placeholder value like `"N/A"` or `"Unknown"`.
 
-4\. \*\*Hardcoded Strings\*\*:
+4. **Hardcoded Strings**:
 
-\- The \`ResourceAccessPolicy\` values are repeated across multiple entries (e.g., \`"NotSpecified"\`, \`"AcisReadAllowed"\`). This could lead to inconsistencies if the values are updated manually.
+- The `ResourceAccessPolicy` values are repeated across multiple entries (e.g., `"NotSpecified"`, `"AcisReadAllowed"`). This could lead to inconsistencies if the values are updated manually.
 
-\- \*\*Suggestion\*\*: Use a centralized mapping for \`ResourceAccessPolicy\` values and reference them by key.
+- **Suggestion**: Use a centralized mapping for `ResourceAccessPolicy` values and reference them by key.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1056,23 +1056,23 @@ Example:
 
 }
 
-\`\`\`
+```
 
-5\. \*\*Validation of Email Addresses\*\*:
+5. **Validation of Email Addresses**:
 
-\- Some \`IncidentContactEmail\` fields contain invalid or placeholder email addresses (e.g., \`"sarteam@microsof.com"\` appears to have a typo).
+- Some `IncidentContactEmail` fields contain invalid or placeholder email addresses (e.g., `"sarteam@microsof.com"` appears to have a typo).
 
-\- \*\*Suggestion\*\*: Validate email addresses to ensure they are correctly formatted and functional.
+- **Suggestion**: Validate email addresses to ensure they are correctly formatted and functional.
 
-6\. \*\*Lack of Documentation\*\*:
+6. **Lack of Documentation**:
 
-\- The file does not include comments or documentation explaining the purpose of each field. This could make it harder for new developers to understand its usage.
+- The file does not include comments or documentation explaining the purpose of each field. This could make it harder for new developers to understand its usage.
 
-\- \*\*Suggestion\*\*: Add a comment block at the top of the file to describe the purpose of the file and each field.
+- **Suggestion**: Add a comment block at the top of the file to describe the purpose of the file and each field.
 
 Example:
 
-\`\`\`json
+```json
 
 /\*
 
@@ -1104,17 +1104,17 @@ Example:
 
 \*/
 
-\`\`\`
+```
 
-7\. \*\*Versioning\*\*:
+7. **Versioning**:
 
-\- The file includes a \`CreationDate\` but does not have a versioning mechanism. This could make it difficult to track changes over time.
+- The file includes a `CreationDate` but does not have a versioning mechanism. This could make it difficult to track changes over time.
 
-\- \*\*Suggestion\*\*: Add a \`Version\` field to track updates to the file.
+- **Suggestion**: Add a `Version` field to track updates to the file.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1126,15 +1126,15 @@ Example:
 
 }
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Suggested Improvements:
+#### Suggested Improvements:
 
 Here is an example of a refactored structure with some of the above suggestions applied:
 
-\`\`\`json
+```json
 
 {
 
@@ -1190,51 +1190,51 @@ Here is an example of a refactored structure with some of the above suggestions 
 
 }
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Next Steps:
+#### Next Steps:
 
 The next file to review, based on the logical sequence in genLogsMetrics.js, is createLogsFiles.js. Let me know if you'd like me to proceed with that review.
 
 IngridAtMicrosoft: Proceed
 
-GitHub Copilot: \#\#\# Code Review: armContacts.json
+GitHub Copilot: ### Code Review: armContacts.json
 
-\#\#\#\# Overview:
+#### Overview:
 
-The armContacts.json file contains metadata about Azure Resource Providers, including details such as \`ResourceProvider\`, \`ResourceType\`, \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, \`IncidentContactEmail\`, and \`ResourceAccessPolicy\`. This file is likely used for managing resource provider metadata, routing incidents, and defining access policies.
+The armContacts.json file contains metadata about Azure Resource Providers, including details such as `ResourceProvider`, `ResourceType`, `IncidentRoutingService`, `IncidentRoutingTeam`, `IncidentContactEmail`, and `ResourceAccessPolicy`. This file is likely used for managing resource provider metadata, routing incidents, and defining access policies.
 
-\---
+---
 
-\#\#\#\# Strengths:
+#### Strengths:
 
-1\. \*\*Structured Data\*\*:
+1. **Structured Data**:
 
-\- The JSON structure is well-organized, with each resource provider represented as an object in the \`ResourceProviders\` array. This makes it easy to parse and process programmatically.
+- The JSON structure is well-organized, with each resource provider represented as an object in the `ResourceProviders` array. This makes it easy to parse and process programmatically.
 
-2\. \*\*Comprehensive Metadata\*\*:
+2. **Comprehensive Metadata**:
 
-\- Each entry includes key details such as the resource provider name, type, incident routing service, team, and contact email, which are critical for operational workflows.
+- Each entry includes key details such as the resource provider name, type, incident routing service, team, and contact email, which are critical for operational workflows.
 
-3\. \*\*Scalability\*\*:
+3. **Scalability**:
 
-\- The use of an array for \`ResourceProviders\` allows for easy addition of new entries without modifying the structure.
+- The use of an array for `ResourceProviders` allows for easy addition of new entries without modifying the structure.
 
-4\. \*\*Centralized Configuration\*\*:
+4. **Centralized Configuration**:
 
-\- The file serves as a single source of truth for resource provider metadata, making it easier to maintain and update.
+- The file serves as a single source of truth for resource provider metadata, making it easier to maintain and update.
 
-\---
+---
 
-\#\#\#\# Issues and Suggestions:
+#### Issues and Suggestions:
 
-1\. \*\*Trailing Commas\*\*:
+1. **Trailing Commas**:
 
-\- The JSON contains trailing commas in several places, which is invalid JSON syntax. For example:
+- The JSON contains trailing commas in several places, which is invalid JSON syntax. For example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1242,31 +1242,31 @@ The armContacts.json file contains metadata about Azure Resource Providers, incl
 
 }
 
-\`\`\`
+```
 
-\- \*\*Suggestion\*\*: Remove all trailing commas to ensure the file is valid JSON.
+- **Suggestion**: Remove all trailing commas to ensure the file is valid JSON.
 
-2\. \*\*Duplicate Entries\*\*:
+2. **Duplicate Entries**:
 
-\- There are duplicate entries for \`ResourceAccessPolicy\` at the end of the file, which adds unnecessary redundancy.
+- There are duplicate entries for `ResourceAccessPolicy` at the end of the file, which adds unnecessary redundancy.
 
-\- \*\*Suggestion\*\*: Remove duplicate entries to reduce clutter and improve readability.
+- **Suggestion**: Remove duplicate entries to reduce clutter and improve readability.
 
-3\. \*\*Empty or Missing Fields\*\*:
+3. **Empty or Missing Fields**:
 
-\- Some entries have empty or missing fields for \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, and \`IncidentContactEmail\`. This could lead to issues during processing or incident routing.
+- Some entries have empty or missing fields for `IncidentRoutingService`, `IncidentRoutingTeam`, and `IncidentContactEmail`. This could lead to issues during processing or incident routing.
 
-\- \*\*Suggestion\*\*: Add validation to ensure all required fields are populated. If a field is intentionally left blank, include a placeholder value like \`"N/A"\` or \`"Unknown"\`.
+- **Suggestion**: Add validation to ensure all required fields are populated. If a field is intentionally left blank, include a placeholder value like `"N/A"` or `"Unknown"`.
 
-4\. \*\*Hardcoded Strings\*\*:
+4. **Hardcoded Strings**:
 
-\- The \`ResourceAccessPolicy\` values are repeated across multiple entries (e.g., \`"NotSpecified"\`, \`"AcisReadAllowed"\`). This could lead to inconsistencies if the values are updated manually.
+- The `ResourceAccessPolicy` values are repeated across multiple entries (e.g., `"NotSpecified"`, `"AcisReadAllowed"`). This could lead to inconsistencies if the values are updated manually.
 
-\- \*\*Suggestion\*\*: Use a centralized mapping for \`ResourceAccessPolicy\` values and reference them by key.
+- **Suggestion**: Use a centralized mapping for `ResourceAccessPolicy` values and reference them by key.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1302,23 +1302,23 @@ Example:
 
 }
 
-\`\`\`
+```
 
-5\. \*\*Validation of Email Addresses\*\*:
+5. **Validation of Email Addresses**:
 
-\- Some \`IncidentContactEmail\` fields contain invalid or placeholder email addresses (e.g., \`"sarteam@microsof.com"\` appears to have a typo).
+- Some `IncidentContactEmail` fields contain invalid or placeholder email addresses (e.g., `"sarteam@microsof.com"` appears to have a typo).
 
-\- \*\*Suggestion\*\*: Validate email addresses to ensure they are correctly formatted and functional.
+- **Suggestion**: Validate email addresses to ensure they are correctly formatted and functional.
 
-6\. \*\*Lack of Documentation\*\*:
+6. **Lack of Documentation**:
 
-\- The file does not include comments or documentation explaining the purpose of each field. This could make it harder for new developers to understand its usage.
+- The file does not include comments or documentation explaining the purpose of each field. This could make it harder for new developers to understand its usage.
 
-\- \*\*Suggestion\*\*: Add a comment block at the top of the file to describe the purpose of the file and each field.
+- **Suggestion**: Add a comment block at the top of the file to describe the purpose of the file and each field.
 
 Example:
 
-\`\`\`json
+```json
 
 /\*
 
@@ -1350,17 +1350,17 @@ Example:
 
 \*/
 
-\`\`\`
+```
 
-7\. \*\*Versioning\*\*:
+7. **Versioning**:
 
-\- The file includes a \`CreationDate\` but does not have a versioning mechanism. This could make it difficult to track changes over time.
+- The file includes a `CreationDate` but does not have a versioning mechanism. This could make it difficult to track changes over time.
 
-\- \*\*Suggestion\*\*: Add a \`Version\` field to track updates to the file.
+- **Suggestion**: Add a `Version` field to track updates to the file.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1372,15 +1372,15 @@ Example:
 
 }
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Suggested Improvements:
+#### Suggested Improvements:
 
 Here is an example of a refactored structure with some of the above suggestions applied:
 
-\`\`\`json
+```json
 
 {
 
@@ -1436,51 +1436,51 @@ Here is an example of a refactored structure with some of the above suggestions 
 
 }
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Next Steps:
+#### Next Steps:
 
 The next file to review, based on the logical sequence in genLogsMetrics.js, is createLogsFiles.js. Let me know if you'd like me to proceed with that review.
 
 IngridAtMicrosoft: Proceed
 
-GitHub Copilot: \#\#\# Code Review: armContacts.json
+GitHub Copilot: ### Code Review: armContacts.json
 
-\#\#\#\# Overview:
+#### Overview:
 
-The armContacts.json file contains metadata about Azure Resource Providers, including details such as \`ResourceProvider\`, \`ResourceType\`, \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, \`IncidentContactEmail\`, and \`ResourceAccessPolicy\`. This file is likely used for managing resource provider metadata, routing incidents, and defining access policies.
+The armContacts.json file contains metadata about Azure Resource Providers, including details such as `ResourceProvider`, `ResourceType`, `IncidentRoutingService`, `IncidentRoutingTeam`, `IncidentContactEmail`, and `ResourceAccessPolicy`. This file is likely used for managing resource provider metadata, routing incidents, and defining access policies.
 
-\---
+---
 
-\#\#\#\# Strengths:
+#### Strengths:
 
-1\. \*\*Structured Data\*\*:
+1. **Structured Data**:
 
-\- The JSON structure is well-organized, with each resource provider represented as an object in the \`ResourceProviders\` array. This makes it easy to parse and process programmatically.
+- The JSON structure is well-organized, with each resource provider represented as an object in the `ResourceProviders` array. This makes it easy to parse and process programmatically.
 
-2\. \*\*Comprehensive Metadata\*\*:
+2. **Comprehensive Metadata**:
 
-\- Each entry includes key details such as the resource provider name, type, incident routing service, team, and contact email, which are critical for operational workflows.
+- Each entry includes key details such as the resource provider name, type, incident routing service, team, and contact email, which are critical for operational workflows.
 
-3\. \*\*Scalability\*\*:
+3. **Scalability**:
 
-\- The use of an array for \`ResourceProviders\` allows for easy addition of new entries without modifying the structure.
+- The use of an array for `ResourceProviders` allows for easy addition of new entries without modifying the structure.
 
-4\. \*\*Centralized Configuration\*\*:
+4. **Centralized Configuration**:
 
-\- The file serves as a single source of truth for resource provider metadata, making it easier to maintain and update.
+- The file serves as a single source of truth for resource provider metadata, making it easier to maintain and update.
 
-\---
+---
 
-\#\#\#\# Issues and Suggestions:
+#### Issues and Suggestions:
 
-1\. \*\*Trailing Commas\*\*:
+1. **Trailing Commas**:
 
-\- The JSON contains trailing commas in several places, which is invalid JSON syntax. For example:
+- The JSON contains trailing commas in several places, which is invalid JSON syntax. For example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1488,31 +1488,31 @@ The armContacts.json file contains metadata about Azure Resource Providers, incl
 
 }
 
-\`\`\`
+```
 
-\- \*\*Suggestion\*\*: Remove all trailing commas to ensure the file is valid JSON.
+- **Suggestion**: Remove all trailing commas to ensure the file is valid JSON.
 
-2\. \*\*Duplicate Entries\*\*:
+2. **Duplicate Entries**:
 
-\- There are duplicate entries for \`ResourceAccessPolicy\` at the end of the file, which adds unnecessary redundancy.
+- There are duplicate entries for `ResourceAccessPolicy` at the end of the file, which adds unnecessary redundancy.
 
-\- \*\*Suggestion\*\*: Remove duplicate entries to reduce clutter and improve readability.
+- **Suggestion**: Remove duplicate entries to reduce clutter and improve readability.
 
-3\. \*\*Empty or Missing Fields\*\*:
+3. **Empty or Missing Fields**:
 
-\- Some entries have empty or missing fields for \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, and \`IncidentContactEmail\`. This could lead to issues during processing or incident routing.
+- Some entries have empty or missing fields for `IncidentRoutingService`, `IncidentRoutingTeam`, and `IncidentContactEmail`. This could lead to issues during processing or incident routing.
 
-\- \*\*Suggestion\*\*: Add validation to ensure all required fields are populated. If a field is intentionally left blank, include a placeholder value like \`"N/A"\` or \`"Unknown"\`.
+- **Suggestion**: Add validation to ensure all required fields are populated. If a field is intentionally left blank, include a placeholder value like `"N/A"` or `"Unknown"`.
 
-4\. \*\*Hardcoded Strings\*\*:
+4. **Hardcoded Strings**:
 
-\- The \`ResourceAccessPolicy\` values are repeated across multiple entries (e.g., \`"NotSpecified"\`, \`"AcisReadAllowed"\`). This could lead to inconsistencies if the values are updated manually.
+- The `ResourceAccessPolicy` values are repeated across multiple entries (e.g., `"NotSpecified"`, `"AcisReadAllowed"`). This could lead to inconsistencies if the values are updated manually.
 
-\- \*\*Suggestion\*\*: Use a centralized mapping for \`ResourceAccessPolicy\` values and reference them by key.
+- **Suggestion**: Use a centralized mapping for `ResourceAccessPolicy` values and reference them by key.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1548,23 +1548,23 @@ Example:
 
 }
 
-\`\`\`
+```
 
-5\. \*\*Validation of Email Addresses\*\*:
+5. **Validation of Email Addresses**:
 
-\- Some \`IncidentContactEmail\` fields contain invalid or placeholder email addresses (e.g., \`"sarteam@microsof.com"\` appears to have a typo).
+- Some `IncidentContactEmail` fields contain invalid or placeholder email addresses (e.g., `"sarteam@microsof.com"` appears to have a typo).
 
-\- \*\*Suggestion\*\*: Validate email addresses to ensure they are correctly formatted and functional.
+- **Suggestion**: Validate email addresses to ensure they are correctly formatted and functional.
 
-6\. \*\*Lack of Documentation\*\*:
+6. **Lack of Documentation**:
 
-\- The file does not include comments or documentation explaining the purpose of each field. This could make it harder for new developers to understand its usage.
+- The file does not include comments or documentation explaining the purpose of each field. This could make it harder for new developers to understand its usage.
 
-\- \*\*Suggestion\*\*: Add a comment block at the top of the file to describe the purpose of the file and each field.
+- **Suggestion**: Add a comment block at the top of the file to describe the purpose of the file and each field.
 
 Example:
 
-\`\`\`json
+```json
 
 /\*
 
@@ -1596,17 +1596,17 @@ Example:
 
 \*/
 
-\`\`\`
+```
 
-7\. \*\*Versioning\*\*:
+7. **Versioning**:
 
-\- The file includes a \`CreationDate\` but does not have a versioning mechanism. This could make it difficult to track changes over time.
+- The file includes a `CreationDate` but does not have a versioning mechanism. This could make it difficult to track changes over time.
 
-\- \*\*Suggestion\*\*: Add a \`Version\` field to track updates to the file.
+- **Suggestion**: Add a `Version` field to track updates to the file.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1618,15 +1618,15 @@ Example:
 
 }
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Suggested Improvements:
+#### Suggested Improvements:
 
 Here is an example of a refactored structure with some of the above suggestions applied:
 
-\`\`\`json
+```json
 
 {
 
@@ -1682,51 +1682,51 @@ Here is an example of a refactored structure with some of the above suggestions 
 
 }
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Next Steps:
+#### Next Steps:
 
 The next file to review, based on the logical sequence in genLogsMetrics.js, is createLogsFiles.js. Let me know if you'd like me to proceed with that review.
 
 IngridAtMicrosoft: Proceed
 
-GitHub Copilot: \#\#\# Code Review: armContacts.json
+GitHub Copilot: ### Code Review: armContacts.json
 
-\#\#\#\# Overview:
+#### Overview:
 
-The armContacts.json file contains metadata about Azure Resource Providers, including details such as \`ResourceProvider\`, \`ResourceType\`, \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, \`IncidentContactEmail\`, and \`ResourceAccessPolicy\`. This file is used to manage resource provider metadata, route incidents, and define access policies.
+The armContacts.json file contains metadata about Azure Resource Providers, including details such as `ResourceProvider`, `ResourceType`, `IncidentRoutingService`, `IncidentRoutingTeam`, `IncidentContactEmail`, and `ResourceAccessPolicy`. This file is used to manage resource provider metadata, route incidents, and define access policies.
 
-\---
+---
 
-\#\#\#\# Strengths:
+#### Strengths:
 
-1\. \*\*Structured Data\*\*:
+1. **Structured Data**:
 
-\- The JSON structure is well-organized, with each resource provider represented as an object in the \`ResourceProviders\` array. This makes it easy to parse and process programmatically.
+- The JSON structure is well-organized, with each resource provider represented as an object in the `ResourceProviders` array. This makes it easy to parse and process programmatically.
 
-2\. \*\*Comprehensive Metadata\*\*:
+2. **Comprehensive Metadata**:
 
-\- Each entry includes key details such as the resource provider name, type, incident routing service, team, and contact email, which are critical for operational workflows.
+- Each entry includes key details such as the resource provider name, type, incident routing service, team, and contact email, which are critical for operational workflows.
 
-3\. \*\*Scalability\*\*:
+3. **Scalability**:
 
-\- The use of an array for \`ResourceProviders\` allows for easy addition of new entries without modifying the structure.
+- The use of an array for `ResourceProviders` allows for easy addition of new entries without modifying the structure.
 
-4\. \*\*Centralized Configuration\*\*:
+4. **Centralized Configuration**:
 
-\- The file serves as a single source of truth for resource provider metadata, making it easier to maintain and update.
+- The file serves as a single source of truth for resource provider metadata, making it easier to maintain and update.
 
-\---
+---
 
-\#\#\#\# Issues and Suggestions:
+#### Issues and Suggestions:
 
-1\. \*\*Trailing Commas\*\*:
+1. **Trailing Commas**:
 
-\- The JSON contains trailing commas in several places, which is invalid JSON syntax. For example:
+- The JSON contains trailing commas in several places, which is invalid JSON syntax. For example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1734,31 +1734,31 @@ The armContacts.json file contains metadata about Azure Resource Providers, incl
 
 }
 
-\`\`\`
+```
 
-\- \*\*Suggestion\*\*: Remove all trailing commas to ensure the file is valid JSON.
+- **Suggestion**: Remove all trailing commas to ensure the file is valid JSON.
 
-2\. \*\*Duplicate Entries\*\*:
+2. **Duplicate Entries**:
 
-\- There are duplicate entries for \`ResourceAccessPolicy\` at the end of the file, which adds unnecessary redundancy.
+- There are duplicate entries for `ResourceAccessPolicy` at the end of the file, which adds unnecessary redundancy.
 
-\- \*\*Suggestion\*\*: Remove duplicate entries to reduce clutter and improve readability.
+- **Suggestion**: Remove duplicate entries to reduce clutter and improve readability.
 
-3\. \*\*Empty or Missing Fields\*\*:
+3. **Empty or Missing Fields**:
 
-\- Some entries have empty or missing fields for \`IncidentRoutingService\`, \`IncidentRoutingTeam\`, and \`IncidentContactEmail\`. This could lead to issues during processing or incident routing.
+- Some entries have empty or missing fields for `IncidentRoutingService`, `IncidentRoutingTeam`, and `IncidentContactEmail`. This could lead to issues during processing or incident routing.
 
-\- \*\*Suggestion\*\*: Add validation to ensure all required fields are populated. If a field is intentionally left blank, include a placeholder value like \`"N/A"\` or \`"Unknown"\`.
+- **Suggestion**: Add validation to ensure all required fields are populated. If a field is intentionally left blank, include a placeholder value like `"N/A"` or `"Unknown"`.
 
-4\. \*\*Hardcoded Strings\*\*:
+4. **Hardcoded Strings**:
 
-\- The \`ResourceAccessPolicy\` values are repeated across multiple entries (e.g., \`"NotSpecified"\`, \`"AcisReadAllowed"\`). This could lead to inconsistencies if the values are updated manually.
+- The `ResourceAccessPolicy` values are repeated across multiple entries (e.g., `"NotSpecified"`, `"AcisReadAllowed"`). This could lead to inconsistencies if the values are updated manually.
 
-\- \*\*Suggestion\*\*: Use a centralized mapping for \`ResourceAccessPolicy\` values and reference them by key.
+- **Suggestion**: Use a centralized mapping for `ResourceAccessPolicy` values and reference them by key.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1794,23 +1794,23 @@ Example:
 
 }
 
-\`\`\`
+```
 
-5\. \*\*Validation of Email Addresses\*\*:
+5. **Validation of Email Addresses**:
 
-\- Some \`IncidentContactEmail\` fields contain invalid or placeholder email addresses (e.g., \`"sarteam@microsof.com"\` appears to have a typo).
+- Some `IncidentContactEmail` fields contain invalid or placeholder email addresses (e.g., `"sarteam@microsof.com"` appears to have a typo).
 
-\- \*\*Suggestion\*\*: Validate email addresses to ensure they are correctly formatted and functional.
+- **Suggestion**: Validate email addresses to ensure they are correctly formatted and functional.
 
-6\. \*\*Lack of Documentation\*\*:
+6. **Lack of Documentation**:
 
-\- The file does not include comments or documentation explaining the purpose of each field. This could make it harder for new developers to understand its usage.
+- The file does not include comments or documentation explaining the purpose of each field. This could make it harder for new developers to understand its usage.
 
-\- \*\*Suggestion\*\*: Add a comment block at the top of the file to describe the purpose of the file and each field.
+- **Suggestion**: Add a comment block at the top of the file to describe the purpose of the file and each field.
 
 Example:
 
-\`\`\`json
+```json
 
 /\*
 
@@ -1842,17 +1842,17 @@ Example:
 
 \*/
 
-\`\`\`
+```
 
-7\. \*\*Versioning\*\*:
+7. **Versioning**:
 
-\- The file includes a \`CreationDate\` but does not have a versioning mechanism. This could make it difficult to track changes over time.
+- The file includes a `CreationDate` but does not have a versioning mechanism. This could make it difficult to track changes over time.
 
-\- \*\*Suggestion\*\*: Add a \`Version\` field to track updates to the file.
+- **Suggestion**: Add a `Version` field to track updates to the file.
 
 Example:
 
-\`\`\`json
+```json
 
 {
 
@@ -1864,15 +1864,15 @@ Example:
 
 }
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Suggested Improvements:
+#### Suggested Improvements:
 
 Here is an example of a refactored structure with some of the above suggestions applied:
 
-\`\`\`json
+```json
 
 {
 
@@ -1928,10 +1928,10 @@ Here is an example of a refactored structure with some of the above suggestions 
 
 }
 
-\`\`\`
+```
 
-\---
+---
 
-\#\#\#\# Next Steps:
+#### Next Steps:
 
 Would you like me to proceed with reviewing another file or assist with implementing these changes? Let me know!
