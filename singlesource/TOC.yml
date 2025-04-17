@@ -2,6 +2,8 @@
   href: index.md
 - name: Docs templates
   href: ./templates/index.md
+- name: Copilot
+  href: ./copilot/copilot-code-review.md
 - name: Azure Monitor
   href: ./azure-monitor/
 - name: Reuse in Graphics
