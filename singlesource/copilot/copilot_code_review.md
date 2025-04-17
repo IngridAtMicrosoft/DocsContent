@@ -1,6 +1,24 @@
+---
+title: Supported Logs and Metrics Data Reference Copilot Data Reference Code Review
+description: This is a code review of the data reference scripts.
+author: IngridAtMicrosoft
+ms.topic: article
+ms.date: 08/27/2021
+ms.author: inhenkel
+ms.service: media-services
+---
+
+# Supported Logs and Metrics Data Reference Copilot code review of the data reference scripts
+
+## Introduction
+This is a code review completed in VSC with Copilot. This is copy/paste of the chat session.
+
+## First prompt
 IngridAtMicrosoft: Do a code review of the files in context. Start with the runUtil.sh file which is the entry point. If you start with runUtil.sh the next file you encounter should be getLogsMetrics.js. Do the code review in the logical sequence suggested by the getLogs Metrics.js file. Be sure to name the file you are reviewing.
 
-GitHub Copilot: ### Code Review: runUtil.sh
+## GitHub Copilot: 
+
+### Code Review: runUtil.sh
 
 #### Overview:
 
