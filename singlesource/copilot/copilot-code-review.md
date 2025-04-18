@@ -16,7 +16,7 @@ This is a code review completed in VSC with Copilot. This is copy/paste of the c
 ## First prompt
 IngridAtMicrosoft: Do a code review of the files in context. Start with the runUtil.sh file which is the entry point. If you start with runUtil.sh the next file you encounter should be getLogsMetrics.js. Do the code review in the logical sequence suggested by the getLogs Metrics.js file. Be sure to name the file you are reviewing.
 
-## GitHub Copilot: 
+GitHub Copilot: 
 
 ### Code Review: runUtil.sh
 
@@ -234,7 +234,8 @@ The next file to review is naamProcessing.js, as it is invoked early in the work
 
 IngridAtMicrosoft: Review `naamProcessing.js` next, please.
 
-GitHub Copilot: ### Code Review: naamProcessing.js
+GitHub Copilot: 
+### Code Review: naamProcessing.js
 
 #### Overview:
 
@@ -426,7 +427,9 @@ The next file to review, based on the logical sequence in genLogsMetrics.js, is 
 
 IngridAtMicrosoft: Proceed.
 
-GitHub Copilot: ### Code Review: armContacts.json
+GitHub Copilot: 
+
+### Code Review: armContacts.json
 
 #### Overview:
 
@@ -744,7 +747,9 @@ The next file to review, based on the logical sequence in genLogsMetrics.js, is 
 
 IngridAtMicrosoft: Proceed
 
-GitHub Copilot: ### Code Review: armProcessing.js
+GitHub Copilot: 
+
+### Code Review: armProcessing.js
 
 #### Overview:
 
@@ -972,7 +977,9 @@ The next file to review, based on the logical sequence in genLogsMetrics.js, is 
 
 IngridAtMicrosoft: Proceed
 
-GitHub Copilot: ### Code Review: armContacts.json
+GitHub Copilot: 
+
+### Code Review: armContacts.json
 
 #### Overview:
 
@@ -1218,7 +1225,9 @@ The next file to review, based on the logical sequence in genLogsMetrics.js, is 
 
 IngridAtMicrosoft: Proceed
 
-GitHub Copilot: ### Code Review: armContacts.json
+GitHub Copilot: 
+
+### Code Review: armContacts.json
 
 #### Overview:
 
@@ -1464,7 +1473,9 @@ The next file to review, based on the logical sequence in genLogsMetrics.js, is 
 
 IngridAtMicrosoft: Proceed
 
-GitHub Copilot: ### Code Review: armContacts.json
+GitHub Copilot: 
+
+### Code Review: armContacts.json
 
 #### Overview:
 
@@ -1710,7 +1721,9 @@ The next file to review, based on the logical sequence in genLogsMetrics.js, is 
 
 IngridAtMicrosoft: Proceed
 
-GitHub Copilot: ### Code Review: armContacts.json
+GitHub Copilot: 
+
+### Code Review: armContacts.json
 
 #### Overview:
 
