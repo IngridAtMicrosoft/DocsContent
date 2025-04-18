@@ -3,7 +3,7 @@ author: IngridAtMicrosoft
 ms.author: inhenkel
 ms.topic: include
 ms.date: 08/26/2021
-ms.service: media-services
+ms.service: azure-monitor
 author: IngridAtMicrosoft
 ---
 

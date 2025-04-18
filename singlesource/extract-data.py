@@ -54,7 +54,7 @@ for filename in os.listdir(path):
         else:
             f.write("authors: no authors " + filename + "\n")
         f.write("author: IngridAtMicrosoft" + "\n")
-        f.write("ms.service: media-services" + "\n")
+        f.write("ms.service: azure-monitor" + "\n")
         f.write("ms.date: 08/5/2022" + "\n")
         f.write("---"+ "\n" + "\n")
         f.write(original_text)

@@ -2,7 +2,7 @@
 title: Manage quotas of Channels (v2)/Live Events (v3) v2
 author: IngridAtMicrosoft
 ms.author: inhenkel
-ms.service: media-services
+ms.service: azure-monitor
 ms.date: 9/19/2022
 ---
 

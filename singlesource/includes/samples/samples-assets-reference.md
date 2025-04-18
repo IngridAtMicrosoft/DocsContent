@@ -2,7 +2,7 @@
 title: Media Services v3 Assets samples
 description: This article contains a list of all the samples available for Media Services Assets in Node.JS, Python, and Java.
 author: IngridAtMicrosoft
-ms.service: media-services
+ms.service: azure-monitor
 ms.topic: overview
 ms.date: 01/26/2023
 ms.author: inhenkel

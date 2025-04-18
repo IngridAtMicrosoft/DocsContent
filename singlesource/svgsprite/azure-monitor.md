@@ -5,7 +5,7 @@ author: IngridAtMicrosoft
 ms.author: inhenkel
 ms.topic: article
 ms.date: 08/27/2021
-ms.service: media-services
+ms.service: azure-monitor
 ---
 
 # Azure Monitor PRETTY diagram

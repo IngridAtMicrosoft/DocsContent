@@ -2,7 +2,7 @@
 title: Diagnose and resolve Encoding errors for Media Services v3
 author: IngridAtMicrosoft
 ms.author: inhenkel
-ms.service: media-services
+ms.service: azure-monitor
 ms.date: 9/19/2022
 ---
 

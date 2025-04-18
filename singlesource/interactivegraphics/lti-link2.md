@@ -5,7 +5,7 @@ author: IngridAtMicrosoft
 ms.topic: article
 ms.date: 06/13/2024
 ms.author: inhenkel
-ms.service: media-services
+ms.service: azure-monitor
 ---
 
 # Simulation

@@ -5,7 +5,7 @@ author: IngridAtMicrosoft
 ms.topic: reference
 ms.date: 04/25/2021
 ms.author: inhenkel
-ms.service: media-services
+ms.service: azure-monitor
 ---
 
 # All SVG Sprites

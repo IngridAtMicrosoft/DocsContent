@@ -5,7 +5,7 @@ author: IngridAtMicrosoft
 ms.topic: article
 ms.date: 08/27/2021
 ms.author: inhenkel
-ms.service: media-services
+ms.service: azure-monitor
 ---
 
 # Supported Logs and Metrics Data Reference Copilot code review of the data reference scripts

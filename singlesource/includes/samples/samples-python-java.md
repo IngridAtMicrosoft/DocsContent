@@ -2,7 +2,7 @@
 title: Media Services v3 python and java samples
 description: This article is a listing of all of the Media Services code samples for Python, and Java.
 author: IngridAtMicrosoft
-ms.service: media-services
+ms.service: azure-monitor
 ms.topic: overview
 ms.date: 01/26/2023
 ms.author: inhenkel

@@ -2,7 +2,7 @@
 title: Video Indexer’s pricing
 author: IngridAtMicrosoft
 ms.author: inhenkel
-ms.service: media-services
+ms.service: azure-monitor
 ms.date: 9/19/2022
 ---
 

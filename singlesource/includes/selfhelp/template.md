@@ -2,7 +2,7 @@
 title: Apollo Template
 author: IngridAtMicrosoft
 ms.author: inhenkel
-ms.service: media-services
+ms.service: azure-monitor
 ms.date: 10/04/2022
 ---
 

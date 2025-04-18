@@ -4,7 +4,7 @@ description: Apollo migrated file - Media Services Premium Encoder
 ms.author: juliako
 authors: no authors mediaservices-encoding-files-premium-encoder-v2.md
 author: IngridAtMicrosoft
-ms.service: media-services
+ms.service: azure-monitor
 ms.date: 08/5/2022
 ---
 

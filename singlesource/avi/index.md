@@ -7,7 +7,7 @@ ms.date: 08/05/2022
 ms.author: inhenkel
 ms.reviewer: inhenkel
 ms.lastreviewed: 08/05/2022
-ms.service: media-services
+ms.service: azure-monitor
 monikerRange: "=azure-video-indexer-1"
 ---
 

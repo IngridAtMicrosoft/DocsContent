@@ -2,7 +2,7 @@
 title: What media file formats are supported by the recommended encoder?
 author: IngridAtMicrosoft
 ms.author: inhenkel
-ms.service: media-services
+ms.service: azure-monitor
 ms.date: 9/19/2022
 ---
 

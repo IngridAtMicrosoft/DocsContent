@@ -2,7 +2,7 @@
 title: Media Services v3 Content Protection Digital Rights Management (DRM) samples
 description: This article is a listing of all of the Media Services Media Services v3 Content Protection Digital Rights Management (DRM) code samples for Node.JS, Python, and Java.
 author: IngridAtMicrosoft
-ms.service: media-services
+ms.service: azure-monitor
 ms.topic: overview
 ms.date: 01/26/2023
 ms.author: inhenkel
