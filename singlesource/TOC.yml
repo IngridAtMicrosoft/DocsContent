@@ -6,6 +6,8 @@
   href: ./copilot/copilot-code-review.md
 - name: Azure Monitor
   href: ./azure-monitor/
+- name: Diagrams
+  href: ./diagrams/index.md
 - name: Reuse in Graphics
   items:
   - name: Azure Sprite Icons
