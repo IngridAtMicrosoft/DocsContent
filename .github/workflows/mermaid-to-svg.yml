@@ -19,15 +19,19 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install mermaid CLI
+      - name: Install Mermaid CLI
         run: npm install -g @mermaid-js/mermaid-cli
+
+      - name: Create Puppeteer config
+        run: |
+          echo '{ "args": ["--no-sandbox"] }' > puppeteer-config.json
 
       - name: Convert .mmd to .svg
         run: |
           mkdir -p diagrams/svg
           for file in diagrams/*.mmd; do
             filename=$(basename "$file" .mmd)
-            mmdc -i "$file" -o "diagrams/svg/$filename.svg"
+            mmdc -i "$file" -o "diagrams/svg/$filename.svg" --puppeteerConfig puppeteer-config.json
           done
 
       - name: Commit SVGs
@@ -35,5 +39,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add diagrams/svg/
-          git commit -m "Auto-generate SVGs from Mermaid"
+          git diff --cached --quiet || git commit -m "Auto-generate SVGs from Mermaid"
           git push
