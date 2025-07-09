@@ -31,7 +31,7 @@ jobs:
           mkdir -p diagrams/svg
           for file in diagrams/*.mmd; do
             filename=$(basename "$file" .mmd)
-            mmdc -i "$file" -o "diagrams/svg/$filename.svg" --puppeteerConfig puppeteer-config.json
+            mmdc -i "$file" -o "diagrams/svg/$filename.svg" --puppeteerConfigFile puppeteer-config.json
           done
 
       - name: Commit SVGs
