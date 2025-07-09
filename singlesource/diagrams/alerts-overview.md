@@ -13,7 +13,7 @@ You can alert on any metric or log data source in the Azure Monitor data platfor
 
 This diagram shows you how alerts work.
 
-:::image type="content" source="svg/alerts-overiew.svg"  alt-text="Diagram that explains Azure Monitor alerts." lightbox="svg/alerts-overiew.svg":::
+:::image type="content" source="./svg/alerts-overiew.svg"  alt-text="Diagram that explains Azure Monitor alerts." lightbox="./svg/alerts-overiew.svg":::
 
 An **alert rule** monitors your data and captures a signal that indicates something is happening on the specified resource. The alert rule captures the signal and checks to see if the signal meets the criteria of the condition.
 
