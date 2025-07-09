@@ -1,0 +1,39 @@
+name: Generate Mermaid SVGs
+
+on:
+  push:
+    paths:
+      - 'diagrams/**/*.mmd'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install mermaid CLI
+        run: npm install -g @mermaid-js/mermaid-cli
+
+      - name: Convert .mmd to .svg
+        run: |
+          mkdir -p diagrams/svg
+          for file in diagrams/*.mmd; do
+            filename=$(basename "$file" .mmd)
+            mmdc -i "$file" -o "diagrams/svg/$filename.svg"
+          done
+
+      - name: Commit SVGs
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add diagrams/svg/
+          git commit -m "Auto-generate SVGs from Mermaid"
+          git push
