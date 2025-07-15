@@ -11,6 +11,6 @@ This is a test of an automated workflow where Azure icons are added to D2 diagra
 
 ## Test 1
 
-<iframe src="../media/car-story-no-didactic-background-script.svg" width="1280" height="800" scrolling="no"></iframe>
+<iframe src="../media/d2.svg" width="1280" height="800" scrolling="no"></iframe>
 
 ## Test 2
