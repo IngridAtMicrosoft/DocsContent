@@ -10,6 +10,8 @@
   href: ./diagrams/index.md
 - name: Reuse in Graphics
   items:
+  - name: D2 Diagrams
+    href: ./d2/d2-test.md
   - name: Azure Sprite Icons
     href: ./svgsprite/all-sprites.md
   - name: Azure Monitor PRETTY diagram
