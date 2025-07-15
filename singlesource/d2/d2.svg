@@ -1,5 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800">
   <script>
-    parent.alert('hi');
+    <script type="module">
+    import renderD2 from "https://cdn.jsdelivr.net/npm/@d2lang/d2js@0.6.4/+esm";
+
+    document.addEventListener("DOMContentLoaded", async () => {
+      const source = `
+        direction: right
+        App -> API
+        API -> DB
+      `;
+
+      const svg = await renderD2(source);
+      document.getElementById("diagram").innerHTML = svg;
+    });
   </script>
 </svg>
