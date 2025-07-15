@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800">
-  <script src="https://unpkg.com/d2@latest/web/d2.min.js"></script>
+  <script src="https://unpkg.com/d2@latest/web/d2.min.js" onload="console.log('D2 library loaded'); startD2Rendering();" onerror="console.error('Failed to load D2 library'); showMessage('Failed to load D2 library');"></script>
   <script>
+    let renderAttempts = 0;
+    let d2LoadStarted = false;
+
     function extractD2BlocksFromComments() {
       try {
         // Check if we can access parent document
@@ -45,6 +48,8 @@
       
       if (blocks.length === 0) {
         console.log('No D2 blocks found');
+        // Show a message that no D2 blocks were found
+        showMessage('No D2 blocks found in parent document comments');
         return;
       }
 
@@ -108,20 +113,62 @@
       });
     }
 
+    function showMessage(message) {
+      const svg = document.documentElement;
+      svg.innerHTML = '';
+      
+      const foreignObject = document.createElementNS('http://www.w3.org/2000/svg', 'foreignObject');
+      foreignObject.setAttribute('x', '0');
+      foreignObject.setAttribute('y', '0');
+      foreignObject.setAttribute('width', '100%');
+      foreignObject.setAttribute('height', '100%');
+      
+      const div = document.createElement('div');
+      div.style.display = 'flex';
+      div.style.alignItems = 'center';
+      div.style.justifyContent = 'center';
+      div.style.height = '100%';
+      div.style.fontFamily = 'Arial, sans-serif';
+      div.style.fontSize = '18px';
+      div.style.color = '#666';
+      div.textContent = message;
+      
+      foreignObject.appendChild(div);
+      svg.appendChild(foreignObject);
+    }
+
+    function startD2Rendering() {
+      if (d2LoadStarted) return;
+      d2LoadStarted = true;
+      console.log('Starting D2 rendering...');
+      renderD2Diagrams();
+    }
+
     function waitForD2AndRender() {
-      if (typeof D2 !== 'undefined') {
-        console.log('D2 library loaded, rendering diagrams...');
-        renderD2Diagrams();
-      } else {
-        console.log('Waiting for D2 library...');
-        setTimeout(waitForD2AndRender, 100);
+      // This function is now only a fallback
+      renderAttempts++;
+      
+      if (renderAttempts > 10) { // Reduced attempts since we have onload handler
+        console.error('Fallback timeout waiting for D2 library');
+        if (!d2LoadStarted) {
+          showMessage('Timeout: D2 library failed to load');
+        }
+        return;
+      }
+
+      if (typeof D2 !== 'undefined' && !d2LoadStarted) {
+        console.log('D2 library found via fallback, rendering diagrams...');
+        startD2Rendering();
+      } else if (!d2LoadStarted) {
+        console.log(`Fallback check for D2 library... (attempt ${renderAttempts}/10)`);
+        setTimeout(waitForD2AndRender, 200);
       }
     }
 
-    // Wait for DOM and then start the process
+    // Wait for DOM and then start the fallback process
     document.addEventListener('DOMContentLoaded', () => {
-      console.log('DOM loaded, waiting for D2...');
-      waitForD2AndRender();
+      console.log('DOM loaded, starting fallback timer...');
+      setTimeout(waitForD2AndRender, 100); // Give onload handler a chance first
     });
 
     // Fallback if DOMContentLoaded already fired
@@ -129,8 +176,20 @@
       // Document still loading, wait for DOMContentLoaded
     } else {
       // Document already loaded
-      console.log('Document already loaded, starting immediately...');
-      waitForD2AndRender();
+      console.log('Document already loaded, starting fallback immediately...');
+      setTimeout(waitForD2AndRender, 100);
     }
+
+    // Also handle script load event as final fallback
+    window.addEventListener('load', () => {
+      if (!d2LoadStarted) {
+        console.log('Window loaded, trying final fallback...');
+        setTimeout(() => {
+          if (typeof D2 !== 'undefined' && !d2LoadStarted) {
+            startD2Rendering();
+          }
+        }, 100);
+      }
+    });
   </script>
 </svg>
