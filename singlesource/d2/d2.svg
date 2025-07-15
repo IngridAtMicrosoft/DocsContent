@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" height="0">
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0">
   <script src="https://unpkg.com/d2@latest/web/d2.min.js"></script>
   <script>
     function renderAllD2Blocks() {
