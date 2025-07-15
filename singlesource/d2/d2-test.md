@@ -11,6 +11,10 @@ This is a test of an automated workflow where Azure icons are added to D2 diagra
 
 ## Test 1
 
+```d2
+A -> B: hello
+```
+
 <iframe src="d2.svg" width="1280" height="800" scrolling="no"></iframe>
 
 ## Test 2

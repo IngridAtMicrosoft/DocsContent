@@ -1,7 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0">
-  <script type="text/d2" id="my-diagram">
-    Person -> Developer: creates
-    Developer -> Code: writes
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" height="0">
+  <script src="https://unpkg.com/d2@latest/web/d2.min.js"></script>
+  <script>
+    function renderAllD2Blocks() {
+      const codeBlocks = Array.from(document.querySelectorAll('pre > code.language-d2'));
+
+      codeBlocks.forEach((code) => {
+        const source = code.textContent;
+        const container = document.createElement('div');
+        container.style.border = '1px solid #ccc';
+        container.style.margin = '1em 0';
+        container.style.overflow = 'auto';
+
+        const pre = code.parentElement;
+        pre.parentElement.replaceWith(container);
+
+        D2.render({ src: source, container });
+      });
+    }
+
+    function waitUntilReady() {
+      if (typeof D2 !== 'undefined' && document.readyState === 'complete') {
+        renderAllD2Blocks();
+      } else {
+        setTimeout(waitUntilReady, 100);
+      }
+    }
+
+    waitUntilReady();
   </script>
-  <script href="https://unpkg.com/d2@latest/web/d2.min.js" />
 </svg>
