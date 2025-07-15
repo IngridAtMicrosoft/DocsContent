@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800">
-  <script>
     <script type="module">
     import renderD2 from "https://cdn.jsdelivr.net/npm/@d2lang/d2js@0.6.4/+esm";
 
