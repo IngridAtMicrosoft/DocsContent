@@ -10,10 +10,11 @@ ms.date: 07/14/2025
 This is a test of an automated workflow where Azure icons are added to D2 diagrams via a GitHub action.
 
 ## Test 1
-
+<!--
 ```d2
 A -> B: hello
 ```
+-->
 
 <iframe src="d2.svg" width="1280" height="800" scrolling="no"></iframe>
 
