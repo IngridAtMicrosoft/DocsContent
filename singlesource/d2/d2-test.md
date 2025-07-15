@@ -7,15 +7,17 @@ ms.date: 07/14/2025
 
 # D2 Test
 
-This is a test of an automated workflow where Azure icons are added to D2 diagrams via a GitHub action.
+D2 diagram rendering tests.
 
 ## Test 1
+D2 markup is located in a comment so it doesn't render.
+
 <!--
 ```d2
 A -> B: hello
 ```
 -->
-
+<!--
 <iframe src="d2.svg" width="1280" height="800" scrolling="no"></iframe>
-
+-->
 ## Test 2
