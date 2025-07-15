@@ -2,9 +2,10 @@
   <script src="https://unpkg.com/d2@latest/web/d2.min.js"></script>
   <script>
     function renderAllD2Blocks() {
-      const codeBlocks = Array.from(document.querySelectorAll('pre > code.language-d2'));
+      const parentDoc = window.parent.document;
+      const blocks = parentDoc.querySelectorAll('pre > code.language-d2');
 
-      codeBlocks.forEach((code) => {
+      blocks.forEach((code) => {
         const source = code.textContent;
         const container = document.createElement('div');
         container.style.border = '1px solid #ccc';
@@ -19,7 +20,10 @@
     }
 
     function waitUntilReady() {
-      if (typeof D2 !== 'undefined' && document.readyState === 'complete') {
+      if (typeof window.parent.D2 !== 'undefined') {
+        renderAllD2Blocks();
+      } else if (typeof D2 !== 'undefined') {
+        window.parent.D2 = D2; // Expose D2 to parent
         renderAllD2Blocks();
       } else {
         setTimeout(waitUntilReady, 100);
