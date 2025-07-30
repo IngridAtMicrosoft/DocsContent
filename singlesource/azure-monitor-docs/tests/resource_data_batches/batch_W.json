@@ -1,0 +1,617 @@
+[
+  {
+    "namespace": "Microsoft.Advisor",
+    "resourceType": "workloads",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "wafv2IPSets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "wafv2WebACLAssociations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "wafWebACLSummaries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "wafv2LoggingConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DatabaseWatcher",
+    "resourceType": "watchers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DatabaseWatcher",
+    "resourceType": "watchers/targets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DatabaseWatcher",
+    "resourceType": "watchers/sharedPrivateLinkResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DatabaseWatcher",
+    "resourceType": "watchers/alertRuleResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DatabaseWatcher",
+    "resourceType": "watchers/healthValidations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Databricks",
+    "resourceType": "workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Databricks",
+    "resourceType": "workspaces/virtualNetworkPeerings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Databricks",
+    "resourceType": "workspaces/dbWorkspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DesktopVirtualization",
+    "resourceType": "workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevHub",
+    "resourceType": "workflows",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Easm",
+    "resourceType": "workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Easm",
+    "resourceType": "workspaces/labels",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Easm",
+    "resourceType": "workspaces/tasks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthcareApis",
+    "resourceType": "workspaces/iotconnectors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthcareApis",
+    "resourceType": "workspaces/iotconnectors/fhirdestinations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthcareApis",
+    "resourceType": "workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthcareApis",
+    "resourceType": "workspaces/privateEndpointConnectionProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthcareApis",
+    "resourceType": "workspaces/privateEndpointConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthcareApis",
+    "resourceType": "workspaces/privateLinkResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthcareApis",
+    "resourceType": "workspaces/dicomservices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthcareApis",
+    "resourceType": "workspaces/fhirservices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthcareApis",
+    "resourceType": "workspaces/eventGridFilters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Impact",
+    "resourceType": "workloadImpacts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Impact",
+    "resourceType": "workloadImpacts/insights",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces/firmwares",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces/firmwares/sbomComponents",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces/firmwares/binaryHardeningResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces/firmwares/cryptoCertificates",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces/firmwares/cryptoKeys",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces/firmwares/passwordHashes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces/firmwares/cves",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces/firmwares/summaries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces/firmwares/commonVulnerabilitiesAndExposures",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTFirmwareDefense",
+    "resourceType": "workspaces/usageMetrics",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Logic",
+    "resourceType": "workflows",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/batchEndpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/batchEndpoints/deployments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/capabilityhosts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/managednetworks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/onlineEndpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/onlineEndpoints/deployments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/onlineEndpoints/deployments/skus",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/computes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/jobs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/codes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/codes/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/components",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/components/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/environments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/environments/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/data",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/data/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/datasets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/services",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/datastores",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/eventGridFilters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/models",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/models/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/linkedServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/labelingJobs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/schedules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/featuresets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/serverlessEndpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/marketplaceSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/inferencePools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/inferencePools/groups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/inferencePools/endpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/featuresets/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/featurestoreEntities",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/featurestoreEntities/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "workspaces/endpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OnlineExperimentation",
+    "resourceType": "workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/scopedPrivateLinkProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/api",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/query",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/metadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/purge",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/operations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/dataSources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/linkedStorageAccounts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/tables",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/summaryLogs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/storageInsightConfigs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/linkedServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/dataExports",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/networkSecurityPerimeterAssociationProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "workspaces/networkSecurityPerimeterConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.PowerBI",
+    "resourceType": "workspaceCollections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Quantum",
+    "resourceType": "Workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "workspaceSettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "watchlists",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "workspaceManagerConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "workspaceManagerMembers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "workspaceManagerGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "workspaceManagerAssignments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ServicesHub",
+    "resourceType": "workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SignalRService",
+    "resourceType": "WebPubSub",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SignalRService",
+    "resourceType": "WebPubSub/replicas",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SignalRService",
+    "resourceType": "WebPubSub/customDomains",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces/bigDataPools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces/sqlPools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces/sqlDatabases",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces/kustoPools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces/kustoPools/databases",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces/kustoPools/attacheddatabaseconfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces/kustoPools/databases/dataconnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces/operationStatuses",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces/operationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "workspaces/usages",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "webAppStacks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "webtests",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "webtests/getTestResultFile",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "workbooks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "workbooktemplates",
+    "dataProduced": "Unknown (requires deployment)"
+  }
+]

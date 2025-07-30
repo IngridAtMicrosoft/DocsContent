@@ -1,0 +1,1087 @@
+[
+  {
+    "namespace": "ArizeAi.ObservabilityEval",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Dell.Storage",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Dynatrace.Observability",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "GitHub.Network",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Informatica.DataManagement",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "LambdaTest.HyperExecute",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ADHybridHealthService",
+    "resourceType": "reports",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Advisor",
+    "resourceType": "resiliencyReviews",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Advisor",
+    "resourceType": "recommendations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ApiManagement",
+    "resourceType": "reportFeedback",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AppComplianceAutomation",
+    "resourceType": "reports",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AppComplianceAutomation",
+    "resourceType": "reports/snapshots",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AppComplianceAutomation",
+    "resourceType": "reports/snapshots/controls",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AppComplianceAutomation",
+    "resourceType": "reports/webhooks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AppComplianceAutomation",
+    "resourceType": "reports/evidences",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AppComplianceAutomation",
+    "resourceType": "reports/scopingConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AppPlatform",
+    "resourceType": "runtimeVersions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleAssignmentScheduleRequests",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleEligibilityScheduleRequests",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleAssignmentSchedules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleEligibilitySchedules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleAssignmentScheduleInstances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleEligibilityScheduleInstances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleManagementPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleManagementPolicyAssignments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleManagementAlerts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleManagementAlertConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleManagementAlertDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleManagementAlertOperations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleAssignments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleAssignmentsUsageMetrics",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "roleAssignmentApprovals",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "resourceManagementPrivateLinks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "rdsDBInstances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "rdsDBClusters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "rdsEventSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "redshiftClusters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "redshiftClusterParameterGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "route53HostedZones",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "rdsDBSnapshots",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "rdsDBSnapshotAttributesResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "rdsExportTasks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "route53DomainsDomainSummaries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "route53ResourceRecordSets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzurePlaywrightService",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureResilienceManagement",
+    "resourceType": "recoveryPlans",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureResilienceManagement",
+    "resourceType": "recoveryPlans/recoveryResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureStack",
+    "resourceType": "registrations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureStack",
+    "resourceType": "registrations/products",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureStack",
+    "resourceType": "registrations/customerSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureStackHCI",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.BillingBenefits",
+    "resourceType": "reservationOrderAliases",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Bing",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "Redis",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "Redis/privateEndpointConnectionProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "Redis/privateEndpointConnectionProxies/validate",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "Redis/privateEndpointConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "Redis/privateLinkResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "Redis/EventGridFilters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "redisEnterprise",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "RedisEnterprise/privateEndpointConnectionProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "RedisEnterprise/privateEndpointConnectionProxies/validate",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "RedisEnterprise/privateEndpointConnectionProxies/operationresults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "RedisEnterprise/privateEndpointConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "RedisEnterprise/privateEndpointConnections/operationresults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "RedisEnterprise/privateLinkResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cache",
+    "resourceType": "redisEnterprise/databases",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "resourceProviders",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "resourceProviders/locations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "resourceProviders/locations/serviceLimits",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "resourceProviders/locations/serviceLimitsRequests",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "resources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders/reservations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders/reservations/revisions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders/calculateRefund",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders/return",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders/split",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders/merge",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders/swap",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders/changeDirectory",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders/availableScopes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "reservationOrders/reservations/availableScopes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ChangeAnalysis",
+    "resourceType": "resourceChanges",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicCompute",
+    "resourceType": "resourceTypes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicNetwork",
+    "resourceType": "reservedIps",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Commerce",
+    "resourceType": "RateCard",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Communication",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Compute",
+    "resourceType": "restorePointCollections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Compute",
+    "resourceType": "restorePointCollections/restorePoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Compute",
+    "resourceType": "restorePointCollections/restorePoints/diskRestorePoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ConnectedCache",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ConnectedVMwarevSphere",
+    "resourceType": "resourcepools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ConnectedVehicle",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Consumption",
+    "resourceType": "ReservationRecommendations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Consumption",
+    "resourceType": "ReservationRecommendationDetails",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Consumption",
+    "resourceType": "ReservationSummaries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Consumption",
+    "resourceType": "ReservationTransactions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Consumption",
+    "resourceType": "ReservationDetails",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/cacheRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/credentialSets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/connectedRegistries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/connectedRegistries/deactivate",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/scopeMaps",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/tokens",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/generateCredentials",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/privateEndpointConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/privateEndpointConnectionProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/privateEndpointConnectionProxies/validate",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/privateLinkResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/importImage",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/exportPipelines",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/importPipelines",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/pipelineRuns",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/listBuildSourceUploadUrl",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/scheduleRun",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/runs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/taskRuns",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/taskRuns/listDetails",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/agentPools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/agentPoolsOperationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/agentPools/listQueueStatus",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/runs/listLogSasUrl",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/runs/cancel",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/tasks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/tasks/listDetails",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/replications",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/webhooks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/webhooks/ping",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/webhooks/getCallbackConfig",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/webhooks/listEvents",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/listCredentials",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/regenerateCredential",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/listUsages",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/listPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/updatePolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerRegistry",
+    "resourceType": "registries/eventGridFilters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "Reports",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "Reportconfigs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "ReservationDetailsOperationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CustomProviders",
+    "resourceType": "resourceProviders",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CustomProviders",
+    "resourceType": "resourceProviders/operationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CustomProviders",
+    "resourceType": "resourceProviders/operationStatuses",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CustomerLockbox",
+    "resourceType": "requests",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DataProtection",
+    "resourceType": "ResourceGuards",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DataReplication",
+    "resourceType": "replicationVaults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DataReplication",
+    "resourceType": "replicationFabrics",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevOpsInfrastructure",
+    "resourceType": "Resources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DeviceUpdate",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DocumentDB",
+    "resourceType": "restorableDatabaseAccounts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Edge",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Edge",
+    "resourceType": "resourceInsights",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.GraphServices",
+    "resourceType": "RegisteredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTSecurity",
+    "resourceType": "recommendationTypes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Kubernetes",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.LoadTestService",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/codes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/codes/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/components",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/components/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/data",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/data/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/datareferences",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/datareferences/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/environments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/environments/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/models",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "registries/models/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ManagedNetworkFabric",
+    "resourceType": "RoutePolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ManagedServices",
+    "resourceType": "registrationDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ManagedServices",
+    "resourceType": "registrationAssignments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Management",
+    "resourceType": "resources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "register",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MixedReality",
+    "resourceType": "remoteRenderingAccounts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "routeFilters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "routeTables",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NetworkCloud",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NetworkCloud",
+    "resourceType": "rackSkus",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NetworkCloud",
+    "resourceType": "racks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.PartnerManagedConsumerRecurrence",
+    "resourceType": "recurrences",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.PolicyInsights",
+    "resourceType": "remediations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ProfessionalService",
+    "resourceType": "resources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Purview",
+    "resourceType": "removeDefaultAccount",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.RecoveryServices",
+    "resourceType": "replicationEligibilityResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ResourceGraph",
+    "resourceType": "resources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ResourceGraph",
+    "resourceType": "resourcesHistory",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ResourceGraph",
+    "resourceType": "resourceChanges",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ResourceGraph",
+    "resourceType": "resourceChangeDetails",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "resources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "resourceGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SaaS",
+    "resourceType": "resources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SaaSHub",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Search",
+    "resourceType": "resourceHealthMetadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "regulatoryComplianceStandards",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "regulatoryComplianceStandards/regulatoryComplianceControls",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "regulatoryComplianceStandards/regulatoryComplianceControls/regulatoryComplianceAssessments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "recommendations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Subscription",
+    "resourceType": "rename",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.VoiceServices",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "runtimes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "recommendations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "resourceHealthMetadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.WeightsAndBiases",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "MongoDB.Atlas",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "NewRelic.Observability",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Oracle.Database",
+    "resourceType": "resourceAnchors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "PaloAltoNetworks.Cloudngfw",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Pinecone.VectorDb",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "PureStorage.Block",
+    "resourceType": "reservations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Qumulo.Storage",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "SolarWinds.Observability",
+    "resourceType": "registeredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "rollbackToLegacyPricingModel",
+    "dataProduced": "Unknown (requires deployment)"
+  }
+]

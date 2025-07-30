@@ -1,0 +1,792 @@
+[
+  {
+    "namespace": "Microsoft.AAD",
+    "resourceType": "DomainServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AAD",
+    "resourceType": "DomainServices/oucontainer",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AAD",
+    "resourceType": "domainServices/unsuspend",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AadCustomSecurityAttributesDiagnosticSettings",
+    "resourceType": "diagnosticSettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AadCustomSecurityAttributesDiagnosticSettings",
+    "resourceType": "diagnosticSettingsCategories",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ApiCenter",
+    "resourceType": "deletedServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ApiManagement",
+    "resourceType": "deletedServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AppConfiguration",
+    "resourceType": "deletedConfigurationStores",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ApplicationMigration",
+    "resourceType": "discoveryHubs/applications/members",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ApplicationMigration",
+    "resourceType": "discoveryHubs/applications",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ApplicationMigration",
+    "resourceType": "discoveryHubs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Attestation",
+    "resourceType": "defaultProviders",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "denyAssignments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "dataAliases",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "dataPolicyManifests",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "diagnosticSettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "diagnosticSettingsCategories",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Automation",
+    "resourceType": "deletedAutomationAccounts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "dynamoDBTables",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "databaseMigrationServiceReplicationInstances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "daxClusters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "dynamoDBContinuousBackupsDescriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureActiveDirectory",
+    "resourceType": "directories",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureArcData",
+    "resourceType": "DataControllers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureArcData",
+    "resourceType": "DataControllers/ActiveDirectoryConnectors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureResilienceManagement",
+    "resourceType": "drills",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureResilienceManagement",
+    "resourceType": "drills/drillResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Billing",
+    "resourceType": "departments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.BillingBenefits",
+    "resourceType": "discounts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicCompute",
+    "resourceType": "domainNames",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicCompute",
+    "resourceType": "domainNames/internalLoadBalancers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicCompute",
+    "resourceType": "domainNames/slots",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicCompute",
+    "resourceType": "domainNames/slots/roles",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicCompute",
+    "resourceType": "domainNames/slots/roles/metricDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicCompute",
+    "resourceType": "domainNames/slots/roles/metrics",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicCompute",
+    "resourceType": "domainNames/capabilities",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicCompute",
+    "resourceType": "domainNames/serviceCertificates",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicStorage",
+    "resourceType": "disks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CognitiveServices",
+    "resourceType": "deletedAccounts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Compute",
+    "resourceType": "disks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Compute",
+    "resourceType": "diskEncryptionSets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Compute",
+    "resourceType": "diskAccesses",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ConnectedVMwarevSphere",
+    "resourceType": "datastores",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerService",
+    "resourceType": "deploymentSafeguards",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "Dimensions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "Departments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CustomerLockbox",
+    "resourceType": "DisableLockbox",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Dashboard",
+    "resourceType": "dashboards",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DataBoxEdge",
+    "resourceType": "DataBoxEdgeDevices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DataBoxEdge",
+    "resourceType": "DataBoxEdgeDevices/checkNameAvailability",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DataMigration",
+    "resourceType": "DatabaseMigrations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/curationprofiles",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/catalogs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/projectpolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/galleries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/attachednetworks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/images",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/environmentTypes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/devboxdefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/catalogs/environmentDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/catalogs/tasks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/galleries/images",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/catalogs/devboxdefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "devcenters/galleries/images/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DeviceRegistry",
+    "resourceType": "discoveredAssetEndpointProfiles",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DeviceRegistry",
+    "resourceType": "discoveredAssets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DigitalTwins",
+    "resourceType": "digitalTwinsInstances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DigitalTwins",
+    "resourceType": "digitalTwinsInstances/operationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DigitalTwins",
+    "resourceType": "digitalTwinsInstances/endpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DigitalTwins",
+    "resourceType": "digitalTwinsInstances/timeSeriesDatabaseConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DocumentDB",
+    "resourceType": "databaseAccounts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DocumentDB",
+    "resourceType": "databaseAccountNames",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DocumentDB",
+    "resourceType": "databaseAccounts/encryptionScopes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DomainRegistration",
+    "resourceType": "domains",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DomainRegistration",
+    "resourceType": "domains/domainOwnershipIdentifiers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Edge",
+    "resourceType": "diagnostics",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EventGrid",
+    "resourceType": "domains",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EventGrid",
+    "resourceType": "domains/topics",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthDataAIServices",
+    "resourceType": "deidServices/privateEndpointConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthDataAIServices",
+    "resourceType": "deidServices/privateLinkResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HealthDataAIServices",
+    "resourceType": "deidServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Help",
+    "resourceType": "discoverySolutions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Help",
+    "resourceType": "discoverSolutions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Help",
+    "resourceType": "diagnostics",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "devices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTSecurity",
+    "resourceType": "defenderSettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.KeyVault",
+    "resourceType": "deletedVaults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.KeyVault",
+    "resourceType": "deletedManagedHSMs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsOperationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsOperationStatuses",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/A",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/AAAA",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/CNAME",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/PTR",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/MX",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/TXT",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/SRV",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/SOA",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/NS",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/CAA",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/DS",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/TLSA",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/NAPTR",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/recordsets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/all",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnszones/dnssecConfigs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsResolvers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsResolvers/inboundEndpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsResolvers/outboundEndpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsForwardingRulesets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsForwardingRulesets/forwardingRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsForwardingRulesets/virtualNetworkLinks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsResolverPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsResolverPolicies/dnsSecurityRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsResolverPolicies/virtualNetworkLinks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsResolverDomainLists",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dnsResolverDomainLists/bulk",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "dscpConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "ddosProtectionPlans",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationalInsights",
+    "resourceType": "deletedWorkspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.PolicyInsights",
+    "resourceType": "derivePolicyProperties",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Portal",
+    "resourceType": "dashboards",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Relationships",
+    "resourceType": "dependencyOf",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "deployments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "deployments/operations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "dataBoundaries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "deploymentScripts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "deploymentScripts/logs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "decompileBicep",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "deploymentStacks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "dataCollectionAgents",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "discoveredSecuritySolutions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "deviceSecurityGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "defenderForStorageSettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "dataScanners",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "dataConnectors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "dataConnectorDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "dataConnectorsCheckRequirements",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ServiceLinker",
+    "resourceType": "daprConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ServiceLinker",
+    "resourceType": "dryruns",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Storage",
+    "resourceType": "deletedAccounts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Subscription",
+    "resourceType": "directories",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Syntex",
+    "resourceType": "documentProcessors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "deploymentLocations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "deletedSites",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.aadiam",
+    "resourceType": "diagnosticSettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.aadiam",
+    "resourceType": "diagnosticSettingsCategories",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "dataCollectionRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "dataCollectionRuleAssociations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "dataCollectionEndpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "dataCollectionEndpoints/networkSecurityPerimeterAssociationProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "dataCollectionEndpoints/scopedPrivateLinkProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "dataCollectionEndpoints/networkSecurityPerimeterConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "diagnosticSettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "diagnosticSettingsCategories",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "deletedWorkbooks",
+    "dataProduced": "Unknown (requires deployment)"
+  }
+]

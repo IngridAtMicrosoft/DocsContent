@@ -1,0 +1,1222 @@
+[
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/addons",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/authorizations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/cloudLinks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/clusters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/clusters/datastores",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/clusters/placementPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/clusters/virtualMachines",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/eventGridFilters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/globalReachConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/hcxEnterpriseSites",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/iscsiPaths",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/scriptExecutions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/scriptPackages",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/scriptPackages/scriptCmdlets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/workloadNetworks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/workloadNetworks/dhcpConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/workloadNetworks/dnsServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/workloadNetworks/dnsZones",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/workloadNetworks/gateways",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/workloadNetworks/portMirroringProfiles",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/workloadNetworks/publicIPs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/workloadNetworks/segments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/workloadNetworks/virtualMachines",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AVS",
+    "resourceType": "privateClouds/workloadNetworks/vmGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Advisor",
+    "resourceType": "predict",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AlertsManagement",
+    "resourceType": "prometheusRuleGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "permissions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "policyDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "policyDefinitions/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "policySetDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "policySetDefinitions/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "policyAssignments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "policyExemptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "policyEnrollments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "providerOperations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "privateLinkAssociations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureArcData",
+    "resourceType": "PostgresInstances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureDataTransfer",
+    "resourceType": "pipelines",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.BareMetal",
+    "resourceType": "peeringSettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Billing",
+    "resourceType": "permissionRequests",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Billing",
+    "resourceType": "policies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Billing",
+    "resourceType": "paymentMethods",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Billing",
+    "resourceType": "promotions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Billing",
+    "resourceType": "promotions/checkeligibility",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Billing",
+    "resourceType": "promotionalCredits",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Billing",
+    "resourceType": "promotionalCredits/operationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Capacity",
+    "resourceType": "placePurchaseOrder",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/endpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/endpoints/origins",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/endpoints/origingroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/endpoints/customdomains",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/afdendpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/afdendpoints/routes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/customdomains",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/origingroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/origingroups/origins",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/edgeextensiongroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/rulesets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/rulesets/rules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/secrets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/deploymentversions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/keygroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/securitypolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/policies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/networkpolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/tunnelpolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/targetgroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "profiles/authpolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Chaos",
+    "resourceType": "privateAccesses",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicStorage",
+    "resourceType": "publicImages",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CloudTest",
+    "resourceType": "pools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Compute",
+    "resourceType": "proximityPlacementGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Compute",
+    "resourceType": "payloadGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Consumption",
+    "resourceType": "Pricesheets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Consumption",
+    "resourceType": "products",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "Publish",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "PricesheetsOperationStatus",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "PricesheetsOperationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "Pricesheets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/environmentTypes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/catalogs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/allowedEnvironmentTypes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/pools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/attachednetworks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/listskus",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/devboxdefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/images",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/catalogs/environmentDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/catalogs/imagedefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/pools/schedules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/images/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevCenter",
+    "resourceType": "projects/catalogs/imagedefinitions/builds",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevOpsInfrastructure",
+    "resourceType": "pools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevOpsInfrastructure",
+    "resourceType": "pools/Resources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Devices",
+    "resourceType": "provisioningServiceOperationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Devices",
+    "resourceType": "ProvisioningServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EdgeMarketplace",
+    "resourceType": "publishers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EdgeOrder",
+    "resourceType": "productFamiliesMetadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EventGrid",
+    "resourceType": "partnerRegistrations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EventGrid",
+    "resourceType": "partnerConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EventGrid",
+    "resourceType": "partnerNamespaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EventGrid",
+    "resourceType": "partnerTopics",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EventGrid",
+    "resourceType": "partnerTopics/eventSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EventGrid",
+    "resourceType": "partnerNamespaces/eventChannels",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EventGrid",
+    "resourceType": "partnerNamespaces/channels",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.EventGrid",
+    "resourceType": "partnerDestinations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Fabric",
+    "resourceType": "privateLinkServicesForFabric",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Fabric",
+    "resourceType": "privateLinkServicesForFabric/operationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Fabric",
+    "resourceType": "privateLinkServicesForFabric/operationStatuses",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Features",
+    "resourceType": "providers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Help",
+    "resourceType": "plugins",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "privateLinkScopes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "privateLinkScopes/privateEndpointConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "privateLinkScopes/privateEndpointConnectionProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "privateLinkScopes/networkSecurityPerimeterConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "privateLinkScopes/networkSecurityPerimeterAssociationProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridConnectivity",
+    "resourceType": "publicCloudConnectors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridContainerService",
+    "resourceType": "provisionedClusterInstances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridContainerService",
+    "resourceType": "provisionedClusters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridContainerService",
+    "resourceType": "provisionedClusters/hybridIdentityMetadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridContainerService",
+    "resourceType": "provisionedClusters/agentPools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridContainerService",
+    "resourceType": "provisionedClusters/upgradeProfiles",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "publishers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "publishers/configurationGroupSchemas",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "publishers/networkFunctionDefinitionGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "publishers/networkFunctionDefinitionGroups/networkFunctionDefinitionVersions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "publishers/artifactStores",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "publishers/artifactStores/artifactManifests",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "publishers/networkServiceDesignGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "publishers/networkServiceDesignGroups/networkServiceDesignVersions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "proxyPublishers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "proxyPublishers/networkFunctionDefinitionGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "proxyPublishers/networkFunctionDefinitionGroups/networkFunctionDefinitionVersions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "publishers/artifactstores/artifacts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "publishers/artifactstores/artifactversions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "proxyPublishers/configurationGroupSchemas",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "proxyPublishers/networkServiceDesignGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridNetwork",
+    "resourceType": "proxyPublishers/networkServiceDesignGroups/networkServiceDesignVersions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.KubernetesConfiguration",
+    "resourceType": "privateLinkScopes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.KubernetesConfiguration",
+    "resourceType": "privateLinkScopes/privateEndpointConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.KubernetesConfiguration",
+    "resourceType": "privateLinkScopes/privateEndpointConnectionProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.LoadTestService",
+    "resourceType": "playwrightWorkspaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.LoadTestService",
+    "resourceType": "PlaywrightWorkspaces/quotas",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Maintenance",
+    "resourceType": "publicMaintenanceConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "products",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "publishers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "publishers/offers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "publishers/offers/amendments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/offers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/requestApprovals/query",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/requestApprovals/withdrawPlan",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/RequestApprovals",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/queryNotificationsState",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/fetchAllSubscriptionsInTenant",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/listNewPlansNotifications",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/listStopSellOffersPlansNotifications",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/listSubscriptionsContext",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/offers/acknowledgeNotification",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/AdminRequestApprovals",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/collections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/collections/approveAllItems",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/collections/disableApproveAllItems",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/collections/offers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/collections/mapOffersToContexts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/collections/queryRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/collections/setRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/collections/offers/upsertOfferWithMultiContext",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/bulkCollectionsAction",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/collections/transferOffers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/anyExistingOffersInTheCollections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/queryOffers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/queryUserOffers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/queryUserRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/collectionsToSubscriptionsMapping",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/billingAccounts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "privateStores/queryApprovedPlans",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "products/reviews",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "products/reviews/comments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "products/reviews/helpful",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "products/usermetadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MobileNetwork",
+    "resourceType": "packetCoreControlPlaneVersions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Monitor",
+    "resourceType": "pipelineGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "p2sVpnGateways",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones/virtualNetworkLinks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsOperationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsOperationStatuses",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZonesInternal",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones/A",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones/AAAA",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones/CNAME",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones/PTR",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones/MX",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones/TXT",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones/SRV",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones/SOA",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateDnsZones/all",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "publicIPAddresses",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateEndpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateEndpoints/privateLinkServiceProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateEndpointRedirectMaps",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "publicIPPrefixes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "privateLinkServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Peering",
+    "resourceType": "peerings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Peering",
+    "resourceType": "peeringLocations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Peering",
+    "resourceType": "peerAsns",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Peering",
+    "resourceType": "peeringServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Peering",
+    "resourceType": "peeringServiceCountries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Peering",
+    "resourceType": "peeringServiceLocations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Peering",
+    "resourceType": "peeringServiceProviders",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.PolicyInsights",
+    "resourceType": "policyEvents",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.PolicyInsights",
+    "resourceType": "policyStates",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.PolicyInsights",
+    "resourceType": "policyTrackedResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.PolicyInsights",
+    "resourceType": "policyMetadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.PowerBI",
+    "resourceType": "privateLinkServicesForPowerBI",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.PowerBI",
+    "resourceType": "privateLinkServicesForPowerBI/operationResults",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ProviderHub",
+    "resourceType": "providerRegistrations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ProviderHub",
+    "resourceType": "providerRegistrations/resourceTypeRegistrations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ProviderHub",
+    "resourceType": "providerRegistrations/defaultRollouts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ProviderHub",
+    "resourceType": "providerRegistrations/newRegionFrontloadRelease",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ProviderHub",
+    "resourceType": "providerRegistrations/customRollouts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ProviderHub",
+    "resourceType": "providerRegistrations/checkinmanifest",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ProviderHub",
+    "resourceType": "providerRegistrations/resourceActions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ProviderHub",
+    "resourceType": "providerRegistrations/authorizedApplications",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ProviderHub",
+    "resourceType": "providerRegistrations/manifests",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Purview",
+    "resourceType": "policies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "providers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "pricings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "pricings/securityOperators",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "policies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ServiceBus",
+    "resourceType": "premiumMessagingRegions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Subscription",
+    "resourceType": "policies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "privateLinkHubs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "publishingUsers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "NewRelic.Observability",
+    "resourceType": "plans",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "privateLinkScopes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "privateLinkScopes/privateEndpointConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "privateLinkScopes/privateEndpointConnectionProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "privateLinkScopes/scopedResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "privateLinkScopeOperationStatuses",
+    "dataProduced": "Unknown (requires deployment)"
+  }
+]

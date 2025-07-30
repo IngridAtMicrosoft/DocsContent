@@ -1,0 +1,402 @@
+[
+  {
+    "namespace": "Microsoft.AlertsManagement",
+    "resourceType": "issues",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamInstanceProfiles",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamManagedPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamServerCertificates",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamUserPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamVirtualMFADevices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamAccessKeyLastUseds",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamAccessKeyMetaData",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamMFADevices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamPasswordPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamPolicyVersions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "iamRoles",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Billing",
+    "resourceType": "invoices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.BillingBenefits",
+    "resourceType": "incentiveSchedules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.BillingBenefits",
+    "resourceType": "incentiveSchedules/milestones",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicStorage",
+    "resourceType": "images",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CloudTest",
+    "resourceType": "images",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Compute",
+    "resourceType": "images",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ConnectedCache",
+    "resourceType": "ispCustomers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ConnectedCache",
+    "resourceType": "ispCustomers/ispCacheNodes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "Insights",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevOpsInfrastructure",
+    "resourceType": "images",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DevOpsInfrastructure",
+    "resourceType": "images/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Devices",
+    "resourceType": "IotHubs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Devices",
+    "resourceType": "IotHubs/eventGridFilters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Devices",
+    "resourceType": "IotHubs/failover",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Devices",
+    "resourceType": "IotHubs/securitySettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Impact",
+    "resourceType": "impactCategories",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTCentral",
+    "resourceType": "IoTApps",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperations",
+    "resourceType": "instances/dataflowEndpoints",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperations",
+    "resourceType": "instances/dataflowProfiles",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperations",
+    "resourceType": "instances/brokers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperations",
+    "resourceType": "instances/dataflowProfiles/dataflows",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperations",
+    "resourceType": "instances/brokers/listeners",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperations",
+    "resourceType": "instances/brokers/authorizations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperations",
+    "resourceType": "instances/brokers/authentications",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperations",
+    "resourceType": "instances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperationsDataProcessor",
+    "resourceType": "instances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperationsDataProcessor",
+    "resourceType": "instances/datasets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.IoTOperationsDataProcessor",
+    "resourceType": "instances/pipelines",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Logic",
+    "resourceType": "integrationAccounts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Logic",
+    "resourceType": "integrationServiceEnvironments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Logic",
+    "resourceType": "integrationServiceEnvironments/managedApis",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MachineLearningServices",
+    "resourceType": "inferenceModels",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ManagedIdentity",
+    "resourceType": "Identities",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ManagedNetworkFabric",
+    "resourceType": "internetgatewayrules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ManagedNetworkFabric",
+    "resourceType": "IpExtendedCommunities",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ManagedNetworkFabric",
+    "resourceType": "IpCommunities",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ManagedNetworkFabric",
+    "resourceType": "IpPrefixes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ManagedNetworkFabric",
+    "resourceType": "InternetGateways",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Monitor",
+    "resourceType": "investigations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "internalNotify",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "ipGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "internalPublicIpAddresses",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Network",
+    "resourceType": "ipAllocations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NexusIdentity",
+    "resourceType": "IdentitySets",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NexusIdentity",
+    "resourceType": "IdentityControllers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Nutanix",
+    "resourceType": "interfaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OffAzure",
+    "resourceType": "ImportSites",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "InformationProtectionPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "iotSecuritySolutions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "iotSecuritySolutions/analyticsModels",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "iotSecuritySolutions/iotAlertTypes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "iotSecuritySolutions/iotAlerts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "iotSecuritySolutions/iotRecommendationTypes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "iotSecuritySolutions/iotRecommendations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "iotSecuritySolutions/analyticsModels/aggregatedAlerts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "iotSecuritySolutions/analyticsModels/aggregatedRecommendations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "integrations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "incidents",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Singularity",
+    "resourceType": "images",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "instancePools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.VirtualMachineImages",
+    "resourceType": "imageTemplates",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.VirtualMachineImages",
+    "resourceType": "imageTemplates/runOutputs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.VirtualMachineImages",
+    "resourceType": "imageTemplates/triggers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "ishostnameavailable",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "isusernameavailable",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "ishostingenvironmentnameavailable",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.WeightsAndBiases",
+    "resourceType": "instances",
+    "dataProduced": "Unknown (requires deployment)"
+  }
+]

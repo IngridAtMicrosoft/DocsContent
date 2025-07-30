@@ -1,0 +1,692 @@
+[
+  {
+    "namespace": "Dynatrace.Observability",
+    "resourceType": "monitors/monitoredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Dynatrace.Observability",
+    "resourceType": "monitors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Dynatrace.Observability",
+    "resourceType": "monitors/tagRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Dynatrace.Observability",
+    "resourceType": "monitors/singleSignOnConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Dynatrace.Observability",
+    "resourceType": "monitors/listHosts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Dynatrace.Observability",
+    "resourceType": "monitors/listMonitoredResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Dynatrace.Observability",
+    "resourceType": "monitors/listAppServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Advisor",
+    "resourceType": "metadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AlertsManagement",
+    "resourceType": "migrateFromSmartDetection",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.App",
+    "resourceType": "managedEnvironments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.App",
+    "resourceType": "managedEnvironments/certificates",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.App",
+    "resourceType": "managedEnvironments/managedCertificates",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.App",
+    "resourceType": "managedEnvironments/privateEndpointConnectionProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.App",
+    "resourceType": "managedEnvironments/dotNetComponents",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.App",
+    "resourceType": "managedEnvironments/javaComponents",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.App",
+    "resourceType": "managedEnvironments/daprComponents",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.App",
+    "resourceType": "managedEnvironments/daprComponents/resiliencyPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "MigrateRbac",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Authorization",
+    "resourceType": "MigrateRbac/OperationStatuses",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "macieAllowLists",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "macie2JobSummaries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AzureStackHCI",
+    "resourceType": "marketplaceGalleryImages",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.BillingBenefits",
+    "resourceType": "maccs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.BillingBenefits",
+    "resourceType": "maccs/contributors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Cdn",
+    "resourceType": "migrate",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ClassicCompute",
+    "resourceType": "moveSubscriptionResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CognitiveServices",
+    "resourceType": "modelCapacities",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Consumption",
+    "resourceType": "Marketplaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerService",
+    "resourceType": "ManagedClusters/eventGridFilters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerService",
+    "resourceType": "managedClusters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerService",
+    "resourceType": "managedclustersnapshots",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ContainerService",
+    "resourceType": "managedClusters/managedNamespaces",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.CostManagement",
+    "resourceType": "MarkupRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DataMigration",
+    "resourceType": "migrationServices",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors/listApiKeys",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors/getDefaultKey",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors/setDefaultKey",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors/refreshSetPasswordLink",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors/listHosts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors/listLinkedResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors/tagRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors/singleSignOnConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors/listMonitoredResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Datadog",
+    "resourceType": "monitors/monitoredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DependencyMap",
+    "resourceType": "maps",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DependencyMap",
+    "resourceType": "maps/discoverySources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DocumentDB",
+    "resourceType": "managedResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.DocumentDB",
+    "resourceType": "mongoClusters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Elastic",
+    "resourceType": "monitors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Elastic",
+    "resourceType": "monitors/tagRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Elastic",
+    "resourceType": "monitors/openAIIntegrations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Elastic",
+    "resourceType": "monitors/monitoredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Help",
+    "resourceType": "monitorInsights",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "machines",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "machines/hybridIdentityMetadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "machines/privateLinkScopes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "machines/extensions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "machines/assessPatches",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "machines/installPatches",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "machines/runcommands",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridCompute",
+    "resourceType": "machines/licenseProfiles",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.KeyVault",
+    "resourceType": "managedHSMs",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.KeyVault",
+    "resourceType": "managedHSMs/keys",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.KeyVault",
+    "resourceType": "managedHSMs/keys/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Maintenance",
+    "resourceType": "maintenanceConfigurations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Maintenance",
+    "resourceType": "maintenanceConfigurations/eventGridFilters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ManagedServices",
+    "resourceType": "marketplaceRegistrationDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Management",
+    "resourceType": "managementGroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Management",
+    "resourceType": "managementGroups/settings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Marketplace",
+    "resourceType": "mysolutions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Migrate",
+    "resourceType": "migrateprojects",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Migrate",
+    "resourceType": "migrateprojects/workloadoperations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Migrate",
+    "resourceType": "migrateprojects/waveoperations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Migrate",
+    "resourceType": "migrateprojects/waves",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Migrate",
+    "resourceType": "migrateprojects/migrationentities",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Migrate",
+    "resourceType": "migrateprojects/migrationentitygroups",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Migrate",
+    "resourceType": "migrateprojects/tasks",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Migrate",
+    "resourceType": "moveCollections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Migrate",
+    "resourceType": "modernizeProjects",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MySQLDiscovery",
+    "resourceType": "MySQLSites",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MySQLDiscovery",
+    "resourceType": "MySQLSites/MySQLServers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MySQLDiscovery",
+    "resourceType": "MySQLSites/agents",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MySQLDiscovery",
+    "resourceType": "MySQLSites/Refresh",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MySQLDiscovery",
+    "resourceType": "MySQLSites/Summaries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.MySQLDiscovery",
+    "resourceType": "MySQLSites/ErrorSummaries",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NetworkFunction",
+    "resourceType": "meshVpns",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NetworkFunction",
+    "resourceType": "meshVpns/connectionPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NetworkFunction",
+    "resourceType": "meshVpns/privateEndpointConnections",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NetworkFunction",
+    "resourceType": "meshVpns/privateEndpointConnectionProxies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OffAzure",
+    "resourceType": "MasterSites/SqlSites",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OffAzure",
+    "resourceType": "MasterSites",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.OperationsManagement",
+    "resourceType": "managementassociations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ResourceHealth",
+    "resourceType": "metadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Resources",
+    "resourceType": "moboBrokers",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Scom",
+    "resourceType": "managedInstances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Scom",
+    "resourceType": "managedInstances/monitoredResources",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Scom",
+    "resourceType": "managedInstances/managedGateways",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Security",
+    "resourceType": "MdeOnboardings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "metadata",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.SecurityInsights",
+    "resourceType": "MitreCoverageRecords",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ServiceFabric",
+    "resourceType": "managedclusters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ServiceFabric",
+    "resourceType": "managedclusters/nodetypes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ServiceFabric",
+    "resourceType": "managedclusters/applicationTypes",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ServiceFabric",
+    "resourceType": "managedclusters/applicationTypes/versions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ServiceFabric",
+    "resourceType": "managedclusters/applications",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.ServiceFabric",
+    "resourceType": "managedclusters/applications/services",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/databases/advancedThreatProtectionSettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/advancedThreatProtectionSettings",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/databases/vulnerabilityAssessments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/vulnerabilityAssessments",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/administrators",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/databases",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/recoverableDatabases",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/metrics",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/metricDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/databases/backupLongTermRetentionPolicies",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/sqlAgent",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/startStopSchedules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/tdeCertificates",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/dnsAliases",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Sql",
+    "resourceType": "managedInstances/databases/ledgerDigestUploads",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Workloads",
+    "resourceType": "monitors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Workloads",
+    "resourceType": "monitors/providerInstances",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Workloads",
+    "resourceType": "monitors/sapLandscapeMonitor",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "NewRelic.Observability",
+    "resourceType": "monitors",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "NewRelic.Observability",
+    "resourceType": "monitors/tagRules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "NewRelic.Observability",
+    "resourceType": "monitors/monitoredSubscriptions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "monitoredObjects",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "metricalerts",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "metricbaselines",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "migrateToNewPricingModel",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "migratealertrules",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "metricDefinitions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "metrics",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "metricbatch",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "microsoft.insights",
+    "resourceType": "metricNamespaces",
+    "dataProduced": "Unknown (requires deployment)"
+  }
+]

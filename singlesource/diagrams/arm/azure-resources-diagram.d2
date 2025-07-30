@@ -1,0 +1,63 @@
+# Azure Function App Architecture Resources
+
+# Storage Resources
+storage_account: Storage Account {
+  icon: ../../media/icons/2025/storage/10086-icon-service-Storage-Accounts.svg
+  label.near: bottom-center
+}
+
+# Compute Resources  
+app_layer: App Layer {
+  app_service_plan: App Service Plan {
+    icon: ../../media/icons/2025/web/00046-icon-service-App-Service-Plans.svg
+    label.near: bottom-center
+  }
+  function_app: Function App {
+    icon: ../../media/icons/2025/compute/10029-icon-service-Function-Apps.svg
+  }
+  
+  app_service_plan -> function_app: hosts {
+    style: {
+      font-color: black
+      stroke: black
+    }
+  }
+}
+
+# Monitoring Resources
+monitoring_layer: Monitoring Layer {
+  log_workspace: Log Analytics Workspace {
+    icon: ../../media/icons/2025/monitor/00009-icon-service-Log-Analytics-Workspaces.svg
+    label.near: bottom-center 
+    }
+  app_insights: Application Insights {
+    icon: ../../media/icons/2025/monitor/00012-icon-service-Application-Insights.svg
+  label.near: bottom-center
+  }
+  
+  log_workspace -> app_insights: provides workspace for {
+    style: {
+      font-color: black
+      stroke: black
+    }
+  }
+}
+
+# Resource Dependencies
+app_layer.function_app -> monitoring_layer.app_insights: sends telemetry to {
+  style: {
+    font-color: black
+    stroke: black
+  }
+}
+
+app_layer.function_app -> storage_account: stores data in {
+  style: {
+    font-color: black
+    stroke: black
+  }
+}
+
+style: {
+  fill: White
+}

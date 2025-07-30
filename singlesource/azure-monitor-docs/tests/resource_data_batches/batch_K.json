@@ -1,0 +1,42 @@
+[
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "kmsKeys",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.AwsConnector",
+    "resourceType": "kmsAliases",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.HybridContainerService",
+    "resourceType": "kubernetesVersions",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NetworkCloud",
+    "resourceType": "kubernetesClusters",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NetworkCloud",
+    "resourceType": "kubernetesClusters/agentPools",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.NetworkCloud",
+    "resourceType": "kubernetesClusters/features",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Synapse",
+    "resourceType": "kustoOperations",
+    "dataProduced": "Unknown (requires deployment)"
+  },
+  {
+    "namespace": "Microsoft.Web",
+    "resourceType": "kubeEnvironments",
+    "dataProduced": "Unknown (requires deployment)"
+  }
+]
