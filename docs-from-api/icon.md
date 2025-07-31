@@ -1,3 +1,3 @@
 # Icon
 
-![icon](media/icons/2025/ai + machine learning/00028-icon-service-Batch-AI.svg)
+![icon](media/icons/2025/analytics/00009-icon-service-Log-Analytics-Workspaces.svg)
