@@ -1,3 +1,3 @@
 # Icon
 
-![Batch AI service icon featuring a stylized blue radial gradient sphere with abstract geometric shapes and lines, representing artificial intelligence and machine learning. The icon includes subtle highlights and gradients, with no visible text. The overall tone is modern and technical, designed for a professional digital environment.](media\icons\2025\ai + machine learning\00028-icon-service-Batch-AI.svg)
+![icon](media/icons/2025/ai + machine learning/00028-icon-service-Batch-AI.svg)
