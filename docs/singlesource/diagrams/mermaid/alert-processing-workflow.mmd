@@ -1,0 +1,164 @@
+---
+title: Azure Monitor Alert Processing Workflow
+config:
+  theme: base
+  themeVariables:
+    background: "#ffffff"
+    primaryTextColor: "#323130"
+    lineColor: "#0078d4"
+    defaultLinkColor: "#0078d4"
+    edgeThickness: "2px"
+    edgeLabelBackground: "#ffffff"
+    mainBkg: "#ffffff"
+    secondBkg: "#ffffff"
+    tertiaryBkg: "#ffffff"
+  flowchart:
+    htmlLabels: true
+    curve: cardinal
+---
+
+flowchart TD
+    %% Start of Alert Processing
+    Start(["`**Start**
+    Resource Monitoring`"]) --> Monitor["`**Alert Rule**
+    Monitors Data & Captures Signal`"]
+    
+    %% Signal Processing
+    Monitor --> Check{"`**Signal Check**
+    Does signal meet
+    criteria conditions?`"}
+    
+    %% Decision Branch - No Alert
+    Check -->|No| Wait["`**Continue Monitoring**
+    Wait for next signal`"]
+    Wait --> Monitor
+    
+    %% Decision Branch - Alert Triggered
+    Check -->|Yes| Trigger["`**Alert Triggered**
+    Conditions Met`"]
+    
+    %% Alert State Determination
+    Trigger --> StateCheck{"`**Alert Type**
+    Stateful or Stateless?`"}
+    
+    %% Stateless Path
+    StateCheck -->|Stateless| StatelessProcess["`**Stateless Alert**
+    • Always fires when condition met
+    • Alert condition = 'fired'
+    • Activity log alerts`"]
+    
+    %% Stateful Path
+    StateCheck -->|Stateful| StatefulCheck{"`**Previous Alert**
+    Is there an unresolved
+    alert for same condition?`"}
+    
+    StatefulCheck -->|Yes| Suppress["`**Suppress Alert**
+    Do not fire again until resolved`"]
+    Suppress --> Monitor
+    
+    StatefulCheck -->|No| StatefulProcess["`**Stateful Alert**
+    • Fire when conditions met
+    • Alert condition = 'fired'
+    • Metric & Log search alerts`"]
+    
+    %% Action Processing
+    StatelessProcess --> ActionRules["`**Alert Processing Rules**
+    Apply modifications to triggered alert`"]
+    StatefulProcess --> ActionRules
+    
+    %% Action Rule Processing
+    ActionRules --> RuleActions{"`**Processing Rules**
+    What modifications to apply?`"}
+    
+    RuleActions -->|Add/Suppress| ModifyGroups["`**Modify Action Groups**
+    Add or suppress action groups`"]
+    RuleActions -->|Filter| ApplyFilters["`**Apply Filters**
+    Filter based on criteria`"]
+    RuleActions -->|Schedule| ScheduleProcess["`**Schedule Processing**
+    Process on predefined schedule`"]
+    
+    ModifyGroups --> InitiateActions["`**Initiate Action Groups**
+    Trigger associated actions`"]
+    ApplyFilters --> InitiateActions
+    ScheduleProcess --> InitiateActions
+    
+    %% Action Group Execution
+    InitiateActions --> ActionTypes{"`**Action Type**
+    What actions to execute?`"}
+    
+    %% Notification Actions
+    ActionTypes -->|Notifications| Notifications["`**Notifications**
+    • Email
+    • SMS
+    • Push notifications`"]
+    
+    %% Automation Actions
+    ActionTypes -->|Automation| Automation["`**Automation**
+    • Azure Functions
+    • Logic Apps
+    • Runbooks`"]
+    
+    %% Integration Actions
+    ActionTypes -->|Integration| Integration["`**Integration**
+    • Webhooks
+    • ITSM incidents
+    • Event hubs`"]
+    
+    %% Alert State Update
+    Notifications --> UpdateState["`**Update Alert State**
+    Set user response & system state`"]
+    Automation --> UpdateState
+    Integration --> UpdateState
+    
+    %% User Response
+    UpdateState --> UserResponse{"`**User Response**
+    How does user respond?`"}
+    
+    UserResponse -->|New| StoreAlert["`**Store Alert**
+    Alert stored for 30 days`"]
+    UserResponse -->|Acknowledged| StoreAlert
+    UserResponse -->|Closed| StoreAlert
+    
+    %% Resolution Check for Stateful Alerts
+    StoreAlert --> ResolutionCheck{"`**Alert Type Check**
+    Is this a stateful alert?`"}
+    
+    ResolutionCheck -->|No| Monitor
+    ResolutionCheck -->|Yes| MonitorResolution["`**Monitor for Resolution**
+    Check if conditions clear`"]
+    
+    %% Resolution Process
+    MonitorResolution --> ResolutionCondition{"`**Resolution Check**
+    Are conditions resolved?`"}
+    
+    ResolutionCondition -->|No| ContinueMonitoring["`**Continue Monitoring**
+    Check resolution conditions`"]
+    ContinueMonitoring --> MonitorResolution
+    
+    ResolutionCondition -->|Yes| ResolveAlert["`**Resolve Alert**
+    • Send resolved notification
+    • Set condition to 'resolved'`"]
+    
+    %% Cleanup Process
+    ResolveAlert --> Cleanup["`**Cleanup Process**
+    Delete alert after 30-day retention
+    (Keep condition until resolved)`"]
+    
+    Cleanup --> Monitor
+    
+    %% End Process
+    StoreAlert --> End(["`**End**
+    Alert Processing Complete`"])
+    
+    %% Styling - Microsoft Azure Branding
+    classDef startEnd fill:#003d73,stroke:#001f3b,stroke-width:3px,color:#ffffff,font-weight:bold
+    classDef process fill:#e1f5fe,stroke:#106ebe,stroke-width:2px,color:#000000
+    classDef decision fill:#fffacd,stroke:#cc9900,stroke-width:2px,color:#000000
+    classDef action fill:#90ee90,stroke:#107c10,stroke-width:2px,color:#000000
+    classDef alert fill:#8b1a1a,stroke:#5c0e0e,stroke-width:2px,color:#ffffff,font-weight:bold
+    
+    class Start,End startEnd
+    class Monitor,ActionRules,UpdateState,StoreAlert,Cleanup process
+    class Check,StateCheck,StatefulCheck,RuleActions,ActionTypes,UserResponse,ResolutionCheck,ResolutionCondition decision
+    class InitiateActions,Notifications,Automation,Integration action
+    class Trigger,StatelessProcess,StatefulProcess,ResolveAlert alert

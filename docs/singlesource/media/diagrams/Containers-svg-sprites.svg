@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="284px" preserveAspectRatio="none" style="width:362px;height:284px;" version="1.1" viewBox="0 0 362 284" width="362px" zoomAndPan="magnify"><defs/> --><g><!--MD5=[97659e886f72f73cc0f92038cad12018]
+entity KubernetesServices--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="82" x="13.5" y="7"/> --><svg x="27.5" y="17"><g transform="scale(3,3)" ><defs><linearGradient id="b70c9cf1-bab8-47e0-bbdb-ce1cd664d268" x1="2.94" y1="3.74" x2="8.67" y2="3.74" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b77af4"
+><stop offset="1" stop-color="#773adc"
+></linearGradient><linearGradient id="beb69953-bd96-4515-8843-ac12546af936" x1="9.13" y1="3.79" x2="14.85" y2="3.79" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b77af4"
+><stop offset="1" stop-color="#773adc"
+></linearGradient><linearGradient id="a39c76e8-547e-4eb4-bc25-d81c0f8cda62" x1="0.01" y1="9.12" x2="5.73" y2="9.12" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b77af4"
+><stop offset="1" stop-color="#773adc"
+></linearGradient><linearGradient id="f0a2a491-17dc-4bb8-bbfc-ee58a5cf47da" x1="6.18" y1="9.08" x2="11.9" y2="9.08" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b77af4"
+><stop offset="1" stop-color="#773adc"
+></linearGradient><linearGradient id="efc6a56d-8585-417d-931a-1dac2114ccd0" x1="12.35" y1="9.13" x2="18.08" y2="9.13" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b77af4"
+><stop offset="1" stop-color="#773adc"
+></linearGradient><linearGradient id="e399aa93-341f-4df2-9c02-603b82b484c2" x1="2.87" y1="14.56" x2="8.6" y2="14.56" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b77af4"
+><stop offset="1" stop-color="#773adc"
+></linearGradient><linearGradient id="a152bba0-ba2b-483a-b8c1-0ae7de355990" x1="9.05" y1="14.6" x2="14.78" y2="14.6" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b77af4"
+><stop offset="1" stop-color="#773adc"
+></linearGradient></defs><title>Icon-compute-23</title><polygon points="5.8 1.22 2.94 1.75 2.94 5.65 5.8 6.26 8.67 5.11 8.67 2.2 5.8 1.22" fill="url(#b70c9cf1-bab8-47e0-bbdb-ce1cd664d268)"
+><path d="M5.91,6.2,8.53,5.14A.2.2,0,0,0,8.65,5V2.36a.21.21,0,0,0-.13-.18l-2.65-.9H5.75l-2.6.48A.2.2,0,0,0,3,1.94V5.47a.19.19,0,0,0,.15.19l2.63.55A.32.32,0,0,0,5.91,6.2Z" fill="none"
+><path d="M2.94,1.75v3.9l2.89.61v-5Zm1.22,3.6-.81-.16v-3l.81-.13Zm1.26.23-.93-.15V2l.93-.16Z" fill="#341a6e"
+><polygon points="11.99 1.27 9.13 1.8 9.13 5.7 11.99 6.31 14.85 5.15 14.85 2.25 11.99 1.27" fill="url(#beb69953-bd96-4515-8843-ac12546af936)"
+><path d="M9.13,1.8V5.7L12,6.31v-5Zm1.21,3.6-.81-.16v-3l.81-.13Zm1.26.23-.93-.15V2.05l.93-.17Z" fill="#341a6e"
+><polygon points="2.87 6.6 0.01 7.13 0.01 11.03 2.87 11.64 5.74 10.49 5.74 7.58 2.87 6.6" fill="url(#a39c76e8-547e-4eb4-bc25-d81c0f8cda62)"
+><path d="M0,7.13V11l2.89.61v-5Zm1.21,3.61-.81-.17v-3l.81-.14ZM2.48,11l-.93-.15V7.38l.93-.16Z" fill="#341a6e"
+><polygon points="9.04 6.56 6.18 7.09 6.18 10.99 9.04 11.61 11.9 10.45 11.9 7.54 9.04 6.56" fill="url(#f0a2a491-17dc-4bb8-bbfc-ee58a5cf47da)"
+><path d="M6.18,7.09V11l2.88.61v-5ZM7.39,10.7l-.81-.17v-3l.81-.14Zm1.26.22-.93-.15V7.34l.93-.16Z" fill="#341a6e"
+><polygon points="15.21 6.61 12.35 7.14 12.35 11.04 15.21 11.65 18.08 10.5 18.08 7.59 15.21 6.61" fill="url(#efc6a56d-8585-417d-931a-1dac2114ccd0)"
+><path d="M12.35,7.14V11l2.89.61v-5Zm1.22,3.61-.81-.17v-3l.81-.14Zm1.26.22-.93-.15V7.39l.93-.16Z" fill="#341a6e"
+><polygon points="5.73 12.04 2.87 12.56 2.87 16.46 5.73 17.08 8.6 15.92 8.6 13.02 5.73 12.04" fill="url(#e399aa93-341f-4df2-9c02-603b82b484c2)"
+><path d="M5.84,17,8.45,16a.18.18,0,0,0,.12-.18v-2.6A.2.2,0,0,0,8.44,13L5.8,12.1a.17.17,0,0,0-.12,0l-2.6.47a.19.19,0,0,0-.16.19v3.54a.19.19,0,0,0,.15.19L5.7,17A.23.23,0,0,0,5.84,17Z" fill="none"
+><path d="M2.87,12.56v3.9l2.89.62V12Zm1.22,3.61L3.28,16V13l.81-.14Zm1.26.23-.93-.15V12.81l.93-.16Z" fill="#341a6e"
+><polygon points="11.91 12.08 9.05 12.61 9.05 16.51 11.91 17.12 14.78 15.97 14.78 13.06 11.91 12.08" fill="url(#a152bba0-ba2b-483a-b8c1-0ae7de355990)"
+><path d="M9.05,12.61v3.9l2.89.61v-5Zm1.22,3.61-.81-.17v-3l.81-.14Zm1.26.22-.93-.15V12.86l.93-.16Z" fill="#341a6e"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="59" x="23.5" y="83.9492">Kubernetes</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="42" x="33.5" y="99.9102">Services</text><!--MD5=[075eed6c08e9c6ce53cd5471805579ed]
+entity BatchAccounts--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="103" x="131" y="15"/> --><svg x="155.5" y="25"><defs><linearGradient id="bb7358ff-85d0-4bea-a1da-b619fa2b0e5a" x1="7.05" y1="8.98" x2="7.05" y2="0.34" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="1" stop-color="#5ea0ef"
+></linearGradient><linearGradient id="a518fdc9-13d3-4777-830e-8fa6d61499c0" x1="7.05" y1="3.78" x2="7.05" y2="2.4" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#194f9b" stop-opacity="0"
+><stop offset="0.26" stop-color="#194f9c" stop-opacity="0.01"
+><stop offset="0.41" stop-color="#18519e" stop-opacity="0.05"
+><stop offset="0.52" stop-color="#1654a2" stop-opacity="0.11"
+><stop offset="0.62" stop-color="#1457a7" stop-opacity="0.21"
+><stop offset="0.71" stop-color="#115cae" stop-opacity="0.33"
+><stop offset="0.8" stop-color="#0d62b6" stop-opacity="0.47"
+><stop offset="0.88" stop-color="#096ac0" stop-opacity="0.65"
+><stop offset="0.95" stop-color="#0472cb" stop-opacity="0.85"
+><stop offset="1" stop-color="#0078d4"
+></linearGradient></defs><path d="M15.78,8.89,17.65,7c.15-.16.1-.29-.13-.29h-.93a.23.23,0,0,1-.23-.24c0-1.18-.3-4.47-4.8-4.58a.23.23,0,0,0-.24.23V3.26a.23.23,0,0,0,.25.23,2.75,2.75,0,0,1,3.33,3,.23.23,0,0,1-.23.24H13.8c-.23,0-.28.13-.13.3l1.74,1.9A.24.24,0,0,0,15.78,8.89Z" fill="#949494"
+><g transform="scale(3,3)" ><rect x="0.82" y="0.34" width="12.46" height="8.64" rx="0.57" fill="url(#bb7358ff-85d0-4bea-a1da-b619fa2b0e5a)"
+><path d="M1.38.34H12.87a.41.41,0,0,1,.41.41V2.4a0,0,0,0,1,0,0H.82a0,0,0,0,1,0,0V.91A.57.57,0,0,1,1.38.34Z" fill="#83b9f9"
+><rect x="0.82" y="2.4" width="12.46" height="1.38" fill="url(#a518fdc9-13d3-4777-830e-8fa6d61499c0)"
+></g><rect x="9.9" y="10.95" width="7.92" height="5.49" rx="0.36" fill="#005ba1"
+><path d="M2.61,3.19h8.87a.19.19,0,0,1,.19.18V4.3a.19.19,0,0,1-.19.17H2.61a.18.18,0,0,1-.19-.17V3.37A.18.18,0,0,1,2.61,3.19Z" fill="#fff"
+><path d="M2.61,5h8.88a.17.17,0,0,1,.18.17v.93a.18.18,0,0,1-.18.18H2.61a.18.18,0,0,1-.18-.18V5.21A.17.17,0,0,1,2.61,5Z" fill="#fff"
+><path d="M2.61,6.89h8.88a.18.18,0,0,1,.18.18V8a.18.18,0,0,1-.18.17H2.61A.18.18,0,0,1,2.43,8V7.07A.18.18,0,0,1,2.61,6.89Z" fill="#fff"
+><g><rect x="8.59" y="9.77" width="7.92" height="5.49" rx="0.36" fill="#0078d4"
+><path d="M9,9.77h7.3a.26.26,0,0,1,.26.26v1a0,0,0,0,1,0,0H8.59a0,0,0,0,1,0,0v-.95A.36.36,0,0,1,9,9.77Z" fill="#83b9f9"
+></g><path d="M9.73,11.59h5.64a.12.12,0,0,1,.12.11v.59a.12.12,0,0,1-.12.11H9.73a.11.11,0,0,1-.12-.11V11.7A.11.11,0,0,1,9.73,11.59Z" fill="#fff"
+><path d="M9.73,12.76h5.64a.11.11,0,0,1,.12.11v.59a.11.11,0,0,1-.12.11H9.73a.12.12,0,0,1-.12-.11v-.59A.12.12,0,0,1,9.73,12.76Z" fill="#fff"
+><path d="M9.73,13.94h5.64a.11.11,0,0,1,.12.11v.59a.11.11,0,0,1-.12.11H9.73a.12.12,0,0,1-.12-.11v-.59A.12.12,0,0,1,9.73,13.94Z" fill="#fff"
+></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="83" x="141" y="91.9492">Batch Accounts</text><!--MD5=[8143bb6655ee3f2bac3d6b04ab84062e]
+entity AppServices--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="87" x="269" y="15"/> --><svg x="285.5" y="25"><g transform="scale(3,3)" ><defs><radialGradient id="e2cf8746-c9a8-4eee-86c2-4951983c6032" cx="13428.81" cy="3518.86" r="56.67" gradientTransform="translate(-2005.33 -518.83) scale(0.15)" gradientUnits="userSpaceOnUse"><stop offset="0.18" stop-color="#5ea0ef"
+><stop offset="1" stop-color="#0078d4"
+></radialGradient><linearGradient id="bdd213dd-d313-473c-8ff4-0133fd3a9033" x1="4.4" y1="11.48" x2="4.37" y2="7.53" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ccc"
+><stop offset="1" stop-color="#fcfcfc"
+></linearGradient><linearGradient id="afcc63c5-3649-4476-a742-bcb53a569f3c" x1="10.13" y1="15.45" x2="10.13" y2="11.9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ccc"
+><stop offset="1" stop-color="#fcfcfc"
+></linearGradient><linearGradient id="bd873f0b-9954-4aa5-a3df-9f4c64e8729d" x1="14.18" y1="11.15" x2="14.18" y2="7.38" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ccc"
+><stop offset="1" stop-color="#fcfcfc"
+></linearGradient></defs><title>Icon-web-41</title><path id="ee75dd06-1aca-4f76-9d11-d05a284020ad" d="M14.21,15.72A8.5,8.5,0,0,1,3.79,2.28l.09-.06a8.5,8.5,0,0,1,10.33,13.5" fill="url(#e2cf8746-c9a8-4eee-86c2-4951983c6032)"
+><path d="M6.69,7.23A13,13,0,0,1,15.6,3.65a8.47,8.47,0,0,0-1.49-1.44,14.34,14.34,0,0,0-4.69,1.1A12.54,12.54,0,0,0,5.34,6.13,2.76,2.76,0,0,1,6.69,7.23Z" fill="#fff" opacity="0.6"
+><path d="M2.48,10.65a17.86,17.86,0,0,0-.83,2.62,7.82,7.82,0,0,0,.62.92c.18.23.35.44.55.65A17.94,17.94,0,0,1,3.9,11.37,2.76,2.76,0,0,1,2.48,10.65Z" fill="#fff" opacity="0.6"
+><path d="M3.46,6.11a12,12,0,0,1-.69-2.94,8.15,8.15,0,0,0-1.1,1.45A12.69,12.69,0,0,0,2.24,7,2.69,2.69,0,0,1,3.46,6.11Z" fill="#f2f2f2" opacity="0.55"
+><circle cx="4.38" cy="8.68" r="2.73" fill="url(#bdd213dd-d313-473c-8ff4-0133fd3a9033)"
+><path d="M8.36,13.67A1.77,1.77,0,0,1,8.9,12.4a11.88,11.88,0,0,1-2.53-1.86,2.74,2.74,0,0,1-1.49.83,13.1,13.1,0,0,0,1.45,1.28A12.12,12.12,0,0,0,8.38,13.9,1.79,1.79,0,0,1,8.36,13.67Z" fill="#f2f2f2" opacity="0.55"
+><path d="M14.66,13.88a12,12,0,0,1-2.76-.32.41.41,0,0,1,0,.11,1.75,1.75,0,0,1-.51,1.24,13.69,13.69,0,0,0,3.42.24A8.21,8.21,0,0,0,16,13.81,11.5,11.5,0,0,1,14.66,13.88Z" fill="#f2f2f2" opacity="0.55"
+><circle cx="10.13" cy="13.67" r="1.78" fill="url(#afcc63c5-3649-4476-a742-bcb53a569f3c)"
+><path d="M12.32,8.93a1.83,1.83,0,0,1,.61-1A25.5,25.5,0,0,1,8.47,3.79a16.91,16.91,0,0,1-2-2.92,7.64,7.64,0,0,0-1.09.42A18.14,18.14,0,0,0,7.53,4.47,26.44,26.44,0,0,0,12.32,8.93Z" fill="#f2f2f2" opacity="0.7"
+><circle cx="14.18" cy="9.27" r="1.89" fill="url(#bd873f0b-9954-4aa5-a3df-9f4c64e8729d)"
+><path d="M17.35,10.54,17,10.37l0,0-.3-.16-.06,0L16.38,10l-.07,0L16,9.8a1.76,1.76,0,0,1-.64.92c.12.08.25.15.38.22l.08.05.35.19,0,0,.86.45h0a8.63,8.63,0,0,0,.29-1.11Z" fill="#f2f2f2" opacity="0.55"
+><circle cx="4.38" cy="8.68" r="2.73" fill="url(#bdd213dd-d313-473c-8ff4-0133fd3a9033)"
+><circle cx="10.13" cy="13.67" r="1.78" fill="url(#afcc63c5-3649-4476-a742-bcb53a569f3c)"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="67" x="279" y="91.9492">App Services</text><!--MD5=[534ac7d7a95f49ef9d2d1568168f787a]
+entity ServiceFabricClusters--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="95" x="7" y="173"/> --><svg x="27.5" y="183"><g transform="scale(3,3)" ><defs><linearGradient id="a116d8d6-6f2d-4ed7-b0bf-e3b4f053bb39" x1="2525.57" y1="-412.026" x2="2525.544" y2="-402.136" gradientTransform="matrix(0.5, 0.001, 0.001, -0.5, -1257.171, -191.917)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ef7100"
+><stop offset="1" stop-color="#faa21d"
+></linearGradient><linearGradient id="ba80b0e0-7012-4f27-b08f-9ea64784ace3" x1="12.79" y1="17.38" x2="12.79" y2="12.44" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ef7100"
+><stop offset="1" stop-color="#faa21d"
+></linearGradient><linearGradient id="a946587f-c511-47b7-914a-0a734f8d64d7" x1="15.3" y1="9.98" x2="15.3" y2="5.04" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ef7100"
+><stop offset="1" stop-color="#faa21d"
+></linearGradient><linearGradient id="f2de30ee-07c3-4e10-ac30-e581c2e8ce50" x1="2.7" y1="9.98" x2="2.7" y2="5.04" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ef7100"
+><stop offset="1" stop-color="#faa21d"
+></linearGradient><linearGradient id="fddbf243-2b2d-4e50-b263-924d85a1b87c" x1="9" y1="5.56" x2="9" y2="0.62" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ef7100"
+><stop offset="1" stop-color="#faa21d"
+></linearGradient></defs><path d="M16,7.2,10.24,3.09h0L9,2.18H9l-1.22.9h0L2,7.2H2L4.25,14h0l.47,1.44h8.6L13.77,14h0L16,7.25h0ZM5.76,14l-2-6.22L9,4l5.28,3.79-2,6.22Z" fill="#e27908"
+><circle cx="5.07" cy="14.91" r="2.47" fill="url(#a116d8d6-6f2d-4ed7-b0bf-e3b4f053bb39)"
+><circle cx="12.79" cy="14.91" r="2.47" fill="url(#ba80b0e0-7012-4f27-b08f-9ea64784ace3)"
+><circle cx="15.3" cy="7.51" r="2.47" fill="url(#a946587f-c511-47b7-914a-0a734f8d64d7)"
+><circle cx="2.7" cy="7.51" r="2.47" fill="url(#f2de30ee-07c3-4e10-ac30-e581c2e8ce50)"
+><circle cx="9" cy="3.09" r="2.47" fill="url(#fddbf243-2b2d-4e50-b263-924d85a1b87c)"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="72" x="17" y="249.9492">Service Fabric</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="42" x="33.5" y="265.9102">Clusters</text><!--MD5=[dec0f8f83491cc1de6303658cc9d2eb8]
+entity ContainerInstances--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="75" x="137" y="173"/> --><svg x="147.5" y="183"><g transform="scale(3,3)" ><defs><linearGradient id="f7543904-4a89-435e-96cd-11521c829faa" x1="9" y1="11.95" x2="9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="0.16" stop-color="#1380da"
+><stop offset="0.53" stop-color="#3c91e5"
+><stop offset="0.82" stop-color="#559cec"
+><stop offset="1" stop-color="#5ea0ef"
+></linearGradient></defs><title>Icon-containers-104</title><path d="M17.43,8.21a3.78,3.78,0,0,0-3.29-3.64A4.77,4.77,0,0,0,9.22,0,4.91,4.91,0,0,0,4.54,3.19a4.52,4.52,0,0,0-4,4.35A4.6,4.6,0,0,0,5.32,12l.42,0h7.68l.21,0A3.84,3.84,0,0,0,17.43,8.21Z" fill="url(#f7543904-4a89-435e-96cd-11521c829faa)"
+><path d="M6.36,6.46,9,3.87a.3.3,0,0,1,.43,0L12,6.46a.13.13,0,0,1-.1.23H10.28a.15.15,0,0,0-.14.14v3.24a.11.11,0,0,1-.11.11H8.29a.11.11,0,0,1-.11-.11V6.83a.14.14,0,0,0-.13-.14H6.45A.13.13,0,0,1,6.36,6.46Z" fill="#f2f2f2"
+><path d="M14,11.37a.13.13,0,0,0-.09-.13L9.16,9.65H9V18h.13l4.71-1.88A.13.13,0,0,0,14,16Z" fill="#a67af4"
+><path d="M9,9.68l-4.51.83a.14.14,0,0,0-.12.13v6.23a.15.15,0,0,0,.11.14L9,18a.13.13,0,0,0,.16-.13v-8A.14.14,0,0,0,9,9.68Z" fill="#552f99"
+><polygon points="6.92 10.92 6.92 16.73 8.49 16.98 8.49 10.65 6.92 10.92" fill="#b77af4" opacity="0.75"
+><polygon points="4.98 11.24 4.98 16.32 6.35 16.6 6.35 11.01 4.98 11.24" fill="#b77af4" opacity="0.75"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="52" x="147" y="249.9492">Container</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="49" x="150" y="265.9102">Instances</text><!--MD5=[c3716b69af5493bf63ac067a41394252]
+entity ContainerRegistries--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="75" x="247" y="173"/> --><svg x="257.5" y="183"><g transform="scale(3,3)" ><defs><linearGradient id="bdf27dc6-025c-4805-8bfd-3a05defd3fbd" x1="8.637" y1="-1.991" x2="8.637" y2="16.739" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5ea0ef"
+><stop offset="1" stop-color="#0078d4"
+></linearGradient><linearGradient id="fcd6c6c7-e2eb-4a32-b914-3a8485585a1b" x1="12.96" y1="8.561" x2="12.96" y2="6.141" gradientTransform="matrix(1, 0, 0, -1, 0, 20)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#333132"
+><stop offset="1" stop-color="#5b5a5c"
+></linearGradient></defs><path d="M7.43,8.178l2.589-1.573,7.255,2.731A3.664,3.664,0,0,0,16.23,7.49l-.01-.05A4.194,4.194,0,0,0,14,6.32a4.91,4.91,0,0,0-5.1-4.7A5.071,5.071,0,0,0,4.06,4.91,4.621,4.621,0,0,0,0,9.39a4.73,4.73,0,0,0,4.89,4.54H7.43Z" fill="url(#bdf27dc6-025c-4805-8bfd-3a05defd3fbd)"
+><polygon points="10.07 7.159 10.08 11.439 17.99 13.119 17.99 10.139 10.07 7.159" fill="#767676"
+><polyline points="10.07 7.159 7.93 8.459 7.93 12.439 10.08 11.439" fill="#999"
+><polygon points="13.68 11.499 14.4 11.699 14.4 9.369 13.68 9.119 13.68 11.499" fill="#a3a3a3"
+><polygon points="12.96 8.889 12.24 8.629 12.24 11.119 12.96 11.319 12.96 8.889" fill="#a3a3a3"
+><polygon points="15.12 11.889 15.82 12.079 15.84 9.859 15.12 9.619 15.12 11.889" fill="#a3a3a3"
+><polygon points="10.81 10.749 11.53 10.929 11.53 8.399 10.81 8.159 10.81 10.749" fill="#a3a3a3"
+><polygon points="17.27 10.349 16.55 10.099 16.55 12.269 17.27 12.469 17.27 10.349" fill="#a3a3a3"
+><path id="ef0d1b54-a1e7-4cb9-a4e5-8a8518e7c127" d="M8.66,11.369l-.36.21V8.749l.36-.19Zm.71-3.22L9,8.389v2.75l.37-.2Z" fill="#b3b3b3"
+><polygon points="17.99 13.119 15.83 13.859 7.93 12.439 10.08 11.439 17.99 13.119" fill="url(#fcd6c6c7-e2eb-4a32-b914-3a8485585a1b)"
+><polygon points="17.99 16.169 10.04 17.679 10.08 12.089 17.99 13.559 17.99 16.169" fill="#767676"
+><polygon points="10.81 16.759 10.81 13.209 11.53 13.299 11.53 16.639 10.81 16.759" fill="#a3a3a3"
+><polygon points="12.96 16.399 12.24 16.529 12.24 13.389 12.96 13.499 12.96 16.399 12.96 16.399" fill="#a3a3a3"
+><polygon points="13.68 16.289 13.68 13.569 14.4 13.659 14.4 16.159 13.68 16.289" fill="#a3a3a3"
+><polygon points="15.83 15.909 15.12 16.039 15.12 13.749 15.83 13.859 15.83 15.909" fill="#a3a3a3"
+><polygon points="17.29 15.679 16.55 15.809 16.55 13.929 17.24 14.019 17.29 15.679" fill="#a3a3a3"
+><path id="b9f25eb4-4c88-45c2-bc4d-f992757d7e0e" d="M7.93,16.4v-3.26l2.16-1v5.6Z" fill="#999"
+><path id="eb9200a7-4693-4427-bdae-b33ce90ff7f2" d="M8.61,16.389l-.32-.16v-2.76l.32-.15Zm.77-3.45-.38.19v3.48l.37.19v-3.86Z" fill="#b3b3b3"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="52" x="257" y="249.9492">Container</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="50" x="259.5" y="265.9102">Registries</text><!--MD5=[727137901411ba47958d7821819e3d38]
+link KubernetesServices to BatchAccounts--><!--MD5=[74c4e416eba1b029abe4fc1c8f8d8a52]
+link BatchAccounts to AppServices--><!--MD5=[ae714683807040c9bd3910d0f82e8333]
+link KubernetesServices to ServiceFabricClusters--><!--MD5=[3c538b8f5f02c0adab252615d854bd26]
+link ServiceFabricClusters to ContainerInstances--><!--MD5=[fa6334d2d7d576c070b148d682384675]
+link ContainerInstances to ContainerRegistries--><!--MD5=[a6dd5951c4a4c05502c8af99772e75ef]
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $KubernetesServices Containers/10023-icon-service-Kubernetes-Services.svg
+rectangle "Kubernetes Services" <<$KubernetesServices{scale=3}>> as KubernetesServices
+sprite $BatchAccounts Containers/10031-icon-service-Batch-Accounts.svg
+rectangle "Batch Accounts" <<$BatchAccounts{scale=3}>> as BatchAccounts
+sprite $AppServices Containers/10035-icon-service-App-Services.svg
+rectangle "App Services" <<$AppServices{scale=3}>> as AppServices
+sprite $ServiceFabricClusters Containers/10036-icon-service-Service-Fabric-Clusters.svg
+rectangle "Service Fabric Clusters" <<$ServiceFabricClusters{scale=3}>> as ServiceFabricClusters
+sprite $ContainerInstances Containers/10104-icon-service-Container-Instances.svg
+rectangle "Container Instances" <<$ContainerInstances{scale=3}>> as ContainerInstances
+sprite $ContainerRegistries Containers/10105-icon-service-Container-Registries.svg
+rectangle "Container Registries" <<$ContainerRegistries{scale=3}>> as ContainerRegistries
+@enduml
+
+@startuml
+!pragma revision 1
+
+
+skinparam defaultTextAlignment center
+skinparam defaultFontName Segoe UI
+skinparam defaultBackgroundColor white
+skinparam RectangleBackgroundColor white
+skinparam RectangleBorderColor #3C7FC0
+skinparam WrapWidth 100
+
+skinparam rectangle {
+    FontSize 12
+    BorderThickness 1
+    Shadowing false
+}
+sprite $KubernetesServices Containers/10023-icon-service-Kubernetes-Services.svg
+rectangle "Kubernetes Services" <<$KubernetesServices{scale=3}>> as KubernetesServices
+sprite $BatchAccounts Containers/10031-icon-service-Batch-Accounts.svg
+rectangle "Batch Accounts" <<$BatchAccounts{scale=3}>> as BatchAccounts
+sprite $AppServices Containers/10035-icon-service-App-Services.svg
+rectangle "App Services" <<$AppServices{scale=3}>> as AppServices
+sprite $ServiceFabricClusters Containers/10036-icon-service-Service-Fabric-Clusters.svg
+rectangle "Service Fabric Clusters" <<$ServiceFabricClusters{scale=3}>> as ServiceFabricClusters
+sprite $ContainerInstances Containers/10104-icon-service-Container-Instances.svg
+rectangle "Container Instances" <<$ContainerInstances{scale=3}>> as ContainerInstances
+sprite $ContainerRegistries Containers/10105-icon-service-Container-Registries.svg
+rectangle "Container Registries" <<$ContainerRegistries{scale=3}>> as ContainerRegistries
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 02:25:05 PST 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
