@@ -3,6 +3,12 @@ description: Microsoft related content portfolio
 remote_theme: pmarsceill/just-the-docs
 markdown: kramdown
 
+# Custom CSS
+sass:
+  style: compressed
+include:
+  - assets/css/custom.css
+
 menu:
   - title: Single Source
     url: /docs/
