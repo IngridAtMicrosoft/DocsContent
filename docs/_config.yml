@@ -1,6 +1,6 @@
 title: DocsContent
 description: Microsoft related content portfolio
-theme: minima
+remote_theme: pmarsceill/just-the-docs
 markdown: kramdown
 
 menu:
