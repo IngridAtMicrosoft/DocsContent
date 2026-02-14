@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="418px" preserveAspectRatio="none" style="width:359px;height:418px;" version="1.1" viewBox="0 0 359 418" width="359px" zoomAndPan="magnify"><defs/> --><g><!--MD5=[32de0a4f66df1993b640e3542ecb18d5]
+entity MultiTenancy--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="95" x="7" y="15"/> --><svg x="27.5" y="25"><defs><linearGradient id="e94fd5a6-4ada-41a5-97db-ab7076cce3b5" x1="6.234" y1="5.679" x2="6.234" y2="16.03" gradientUnits="userSpaceOnUse"><stop offset="0.227" stop-color="#a67af4"
+><stop offset="1" stop-color="#773adc"
+></linearGradient><linearGradient id="b4c9f14c-cd88-421f-a4fa-7e7c86ef7ab6" x1="5.972" y1="0.13" x2="6.727" y2="9.529" gradientUnits="userSpaceOnUse"><stop offset="0.225" stop-color="#a67af4"
+><stop offset="1" stop-color="#773adc"
+></linearGradient><linearGradient id="b9e0f377-f52d-4b6f-89b8-6bbad397e26a" x1="9.128" y1="13.552" x2="18" y2="13.552" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1988d9"
+><stop offset="0.9" stop-color="#54aef0"
+></linearGradient></defs><g transform="scale(3,3)"  id="bdbb9a60-650f-4841-b656-90ae680b08db"><g><g><path d="M16.312,11.946a.74.74,0,0,0,.742-.738.532.532,0,0,0,0-.089C16.758,8.792,15.431,6.9,12.9,6.9c-2.577,0-3.907,1.605-4.166,4.228a.745.745,0,0,0,.664.817.628.628,0,0,0,.075,0Z" fill="#773adc"
+><circle cx="12.898" cy="5.114" r="2.335" fill="#773adc"
+><path d="M11.355,14.162a1.109,1.109,0,0,0,1.112-1.105,1,1,0,0,0-.008-.134C12.024,9.439,10.036,6.6,6.243,6.6,2.385,6.6.394,9,.006,12.933A1.115,1.115,0,0,0,1,14.156a1.051,1.051,0,0,0,.112.006Z" fill="url(#e94fd5a6-4ada-41a5-97db-ab7076cce3b5)"
+><path d="M6.3,7.428A3.481,3.481,0,0,1,4.41,6.871l1.874,4.895L8.144,6.9A3.468,3.468,0,0,1,6.3,7.428Z" fill="#fff" opacity="0.8"
+><circle cx="6.277" cy="3.932" r="3.496" fill="url(#b4c9f14c-cd88-421f-a4fa-7e7c86ef7ab6)"
+></g><polygon points="13.564 9.54 9.128 15.751 13.564 17.564 18 15.751 13.564 9.54" fill="url(#b9e0f377-f52d-4b6f-89b8-6bbad397e26a)"
+><polygon points="13.564 9.54 9.128 15.751 13.564 17.564 13.564 9.54" fill="#50e6ff"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="75" x="17" y="91.9492">Multi Tenancy</text><!--MD5=[74efff061d51a0714bf43b05de733bc8]
+entity InfrastructureBackup--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="94" x="137.5" y="7"/> --><svg x="157.5" y="17"><defs><linearGradient id="fdd5d44a-d038-42da-afe7-cecaad9f8ff9" x1="6.49" y1="17.38" x2="6.49" y2="0.44" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#949494"
+><stop offset="0.53" stop-color="#a2a2a2"
+><stop offset="1" stop-color="#b3b3b3"
+></linearGradient><linearGradient id="bf4a560d-147b-4f76-9d70-f90bc5f8ddd6" x1="10.06" y1="13.89" x2="16.48" y2="13.89" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#005ba1"
+><stop offset="0.07" stop-color="#0060a9"
+><stop offset="0.36" stop-color="#0071c8"
+><stop offset="0.52" stop-color="#0078d4"
+><stop offset="0.64" stop-color="#0074cd"
+><stop offset="0.82" stop-color="#006abb"
+><stop offset="1" stop-color="#005ba1"
+></linearGradient></defs><g transform="scale(3,3)"  id="a55981fb-ccb2-4f5b-acf6-743ff717cb3a"><g><path d="M11,9.57a6.72,6.72,0,0,0-2.23.32,6.64,6.64,0,0,0,2.23.33,6.56,6.56,0,0,0,2.23-.33A6.63,6.63,0,0,0,11,9.57Z" fill="#198ab3"
+><g><path d="M11.47,16.81a.57.57,0,0,1-.58.57H2.09a.56.56,0,0,1-.57-.57V1A.57.57,0,0,1,2.09.44h8.8a.58.58,0,0,1,.58.57Z" fill="url(#fdd5d44a-d038-42da-afe7-cecaad9f8ff9)"
+><path d="M3,6.38A1.08,1.08,0,0,1,4.06,5.3H9a1.08,1.08,0,0,1,1.08,1.08h0A1.08,1.08,0,0,1,9,7.47H4.06A1.08,1.08,0,0,1,3,6.38Z" fill="#003067"
+><path d="M3,3.17A1.08,1.08,0,0,1,4.06,2.09H9a1.08,1.08,0,0,1,1.08,1.08h0A1.08,1.08,0,0,1,9,4.25H4.06A1.08,1.08,0,0,1,3,3.17Z" fill="#003067"
+><circle cx="4.11" cy="3.17" r="0.73" fill="#50e6ff"
+><circle cx="4.11" cy="6.38" r="0.73" fill="#50e6ff"
+></g><path d="M13.27,11.38c-1.77,0-3.21-.53-3.21-1.17V16.4c0,.63,1.42,1.15,3.17,1.16h0c1.78,0,3.21-.52,3.21-1.16V10.21C16.48,10.85,15.05,11.38,13.27,11.38Z" fill="url(#bf4a560d-147b-4f76-9d70-f90bc5f8ddd6)"
+><path d="M16.48,10.21c0,.64-1.43,1.17-3.21,1.17s-3.21-.53-3.21-1.17,1.44-1.16,3.21-1.16,3.21.52,3.21,1.16" fill="#e6e6e6"
+><path d="M15.73,10.12c0,.41-1.1.74-2.46.74s-2.46-.33-2.46-.74,1.1-.74,2.46-.74,2.46.33,2.46.74" fill="#50e6ff"
+><path d="M13.68,8.66l2.13-2.13a.11.11,0,0,0-.08-.19H14.49c0-2.57-1.37-5.13-3.84-5.13a6.68,6.68,0,0,1,2,5.13H11.47a.11.11,0,0,0-.08.19l2.13,2.13A.12.12,0,0,0,13.68,8.66Z" fill="#50e6ff"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="71" x="147.5" y="83.9492">Infrastructure</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="39" x="165" y="99.9102">Backup</text><!--MD5=[66b0c2d1e946a9a5745f7f0e5ea63e12]
+entity Capacity--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="266.5" y="15"/> --><svg x="276.5" y="25"><defs><linearGradient id="b756f194-f0ab-4baf-9a5b-c24373260298" x1="6.01" y1="17.69" x2="6.01" y2="0.26" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#949494"
+><stop offset="0.53" stop-color="#a2a2a2"
+><stop offset="1" stop-color="#b3b3b3"
+></linearGradient><linearGradient id="b4a51a97-50dd-4686-924a-188a97007e56" x1="10.55" y1="853.33" x2="15" y2="858.17" gradientTransform="translate(0 -1351.46) scale(1 1.59)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="0.02" stop-color="#0d7ed8"
+><stop offset="0.08" stop-color="#2b8ae0"
+><stop offset="0.15" stop-color="#4194e7"
+><stop offset="0.22" stop-color="#519beb"
+><stop offset="0.29" stop-color="#5b9fee"
+><stop offset="0.4" stop-color="#5ea0ef"
+><stop offset="0.55" stop-color="#5b9fee"
+><stop offset="0.68" stop-color="#509aeb"
+><stop offset="0.8" stop-color="#3f92e6"
+><stop offset="0.91" stop-color="#2688df"
+><stop offset="0.99" stop-color="#127fd9"
+></linearGradient></defs><g transform="scale(3,3)"  id="a5e70dc5-b1f0-464a-b150-2d065854bc52"><g><g><path d="M11.13,17.1a.6.6,0,0,1-.59.59H1.48a.59.59,0,0,1-.59-.59V.85A.58.58,0,0,1,1.48.26h9.06a.59.59,0,0,1,.59.59Z" fill="url(#b756f194-f0ab-4baf-9a5b-c24373260298)"
+><path d="M2.39,6.37A1.12,1.12,0,0,1,3.51,5.26H8.6A1.11,1.11,0,0,1,9.71,6.37h0A1.11,1.11,0,0,1,8.6,7.49H3.51A1.12,1.12,0,0,1,2.39,6.37Z" fill="#003067"
+><path d="M2.39,3.07A1.11,1.11,0,0,1,3.51,2H8.6A1.1,1.1,0,0,1,9.71,3.07h0A1.11,1.11,0,0,1,8.6,4.18H3.51A1.12,1.12,0,0,1,2.39,3.07Z" fill="#003067"
+><circle cx="3.55" cy="3.07" r="0.75" fill="#50e6ff"
+><circle cx="3.55" cy="6.37" r="0.75" fill="#50e6ff"
+></g><ellipse cx="12.62" cy="14.91" rx="4.49" ry="1.84" fill="#76bc2d"
+><ellipse cx="12.73" cy="14.89" rx="1.49" ry="0.41" fill="#5e9624"
+><ellipse cx="12.62" cy="10.82" rx="4.49" ry="1.84" fill="url(#b4a51a97-50dd-4686-924a-188a97007e56)"
+><ellipse cx="12.73" cy="10.8" rx="1.49" ry="0.41" fill="#005ba1"
+><path d="M12.62,16.72c2.48,0,4.49-.83,4.49-1.85h0V16h0c-.09,1-2.06,1.78-4.49,1.78s-4.49-.82-4.49-1.84v-1C8.13,15.89,10.14,16.72,12.62,16.72Z" fill="#5e9624"
+><path d="M12.62,12.62c2.48,0,4.49-.82,4.49-1.84h0v1.09h0c-.09,1-2.06,1.78-4.49,1.78s-4.49-.83-4.49-1.85v-1C8.13,11.8,10.14,12.62,12.62,12.62Z" fill="#0078d4"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="46" x="280.5" y="91.9492">Capacity</text><!--MD5=[c39cb3c8f359622ff165aa04a14f2458]
+entity Offers--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="17.5" y="173"/> --><svg x="27.5" y="183"><defs><linearGradient id="b712480a-5aa7-43a4-9b55-efd538090944" x1="13.41" y1="14.43" x2="7" y2="3.72" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="0.16" stop-color="#1380da"
+><stop offset="0.53" stop-color="#3c91e5"
+><stop offset="0.82" stop-color="#559cec"
+><stop offset="1" stop-color="#5ea0ef"
+></linearGradient></defs><title>Icon-azurestack-3</title><g transform="scale(3,3)"  id="b7d1e9ae-8ff7-48ce-9f16-5d1c2725c60e"><g><path d="M17.33,3.09,15,.81a.61.61,0,0,0-.42-.17L10.36.8A.53.53,0,0,0,10,1L.67,10.22a.55.55,0,0,0,0,.8l6.2,6.17a.57.57,0,0,0,.8,0L17,7.92a.53.53,0,0,0,.17-.35l.34-4A.58.58,0,0,0,17.33,3.09ZM14.56,4.6a1,1,0,1,1,1-1A1,1,0,0,1,14.56,4.6Z" fill="url(#b712480a-5aa7-43a4-9b55-efd538090944)"
+><path d="M14.56,1.72a1.85,1.85,0,1,0,1.86,1.85A1.85,1.85,0,0,0,14.56,1.72Zm1,2.05a1,1,0,0,1-2-.4,1,1,0,0,1,.81-.81A1,1,0,0,1,15.58,3.77Z" fill="#005ba1"
+><path d="M9.74,5.21l-.38-.38L9,5.21l-.49-.49.84-.87.87.87ZM5.13,9.05l-.49-.49L5.72,7.48,6,7.73l-.25-.25L6.21,8ZM7.65,5.57l.49.5L7.08,7.13l-.49-.49ZM3.8,11.15l-.87-.87.87-.84.49.49-.38.35.38.38Zm1.4.42,1.16,1.17-.5.49L4.7,12.07ZM7.64,15l-.87-.87.53-.49.34.35L8,13.67l.49.49ZM10,11.73l.5.49L9.39,13.28l-.49-.49Zm1.35-.37-.52-.49,1.08-1.08.49.49-1,1.08-.24-.24Zm1.93-1.92L12.75,9Zm0,0L12.75,9l.35-.39-.35-.34.49-.53.87.87ZM11.16,5.65l1.16,1.16-.5.5L10.66,6.15Z" fill="#fff"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="32" x="38.5" y="249.9492">Offers</text><!--MD5=[6f7d34a97c3cf92ad6be82f095334472]
+entity UserSubscriptions--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="117" x="127" y="173"/> --><svg x="158.5" y="183"><defs><linearGradient id="b0670cdb-9407-42e5-ae8f-f3558902da1a" x1="7.89" y1="6.9" x2="7.89" y2="19.35" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+><stop offset="1" stop-color="#198ab3"
+></linearGradient><linearGradient id="fd04ffc0-49c3-4a18-9b27-999b23712bcb" x1="7.53" y1="0.22" x2="8.44" y2="11.53" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+><stop offset="1" stop-color="#198ab3"
+></linearGradient><radialGradient id="aa3ecbb1-1061-42c8-aaf2-d5c01a3fcfd9" cx="-19.24" cy="6.51" r="6.13" gradientTransform="matrix(0.94, 0.01, -0.01, 0.94, 32.03, 6.26)" gradientUnits="userSpaceOnUse"><stop offset="0.27" stop-color="#ffd70f"
+><stop offset="1" stop-color="#fea11b"
+></radialGradient></defs><g transform="scale(3,3)"  id="b245b541-7d80-40be-a5d7-51667bcba1b3"><g><g><path d="M14.05,17.11a1.34,1.34,0,0,0,1.34-1.33.81.81,0,0,0,0-.16C14.86,11.42,12.47,8,7.9,8S.86,10.9.4,15.63A1.34,1.34,0,0,0,1.59,17.1H14.05Z" fill="url(#b0670cdb-9407-42e5-ae8f-f3558902da1a)"
+><path d="M7.9,9a4.09,4.09,0,0,1-2.27-.67l2.25,5.89,2.24-5.85A4.17,4.17,0,0,1,7.9,9Z" fill="#fff" opacity="0.8"
+><circle cx="7.9" cy="4.8" r="4.21" fill="url(#fd04ffc0-49c3-4a18-9b27-999b23712bcb)"
+></g><g><path id="f2ddd4d7-46fc-4e48-ae24-8fde036c39bb" d="M17.27,11.45a1.13,1.13,0,0,0,0-1.6h0l-1.94-2a1.12,1.12,0,0,0-1.6,0h0l-2,1.94a1.14,1.14,0,0,0,0,1.61l1.61,1.64a.31.31,0,0,1,.09.22l0,3a.36.36,0,0,0,.12.28l.73.75a.27.27,0,0,0,.37,0l.72-.72h0l.42-.43a.14.14,0,0,0,0-.2l-.31-.31a.17.17,0,0,1,0-.23l.31-.31a.13.13,0,0,0,0-.2l-.3-.31a.17.17,0,0,1,0-.23l.31-.31a.14.14,0,0,0,0-.2l-.42-.43V13.3ZM14.54,8.34a.66.66,0,0,1,.64.65.63.63,0,0,1-.65.64.65.65,0,0,1,0-1.29Z" fill="url(#aa3ecbb1-1061-42c8-aaf2-d5c01a3fcfd9)"
+><path id="e15034b6-eebb-4253-ac69-86068a1d4276" d="M14,16.38h0a.14.14,0,0,0,.24-.1V13.83a.16.16,0,0,0-.06-.13h0a.14.14,0,0,0-.22.12v2.46A.13.13,0,0,0,14,16.38Z" fill="#ff9300" opacity="0.75"
+><rect id="f3d2a589-08f4-4e99-9635-cc67abadc8f4" x="14.38" y="9.07" width="0.38" height="3.21" rx="0.17" transform="translate(3.8 25.17) rotate(-89.65)" fill="#ff9300" opacity="0.75"
+><rect id="bc7793e0-f7bc-4cc4-abb0-181c6c62350c" x="14.37" y="9.68" width="0.38" height="3.21" rx="0.17" transform="translate(3.18 25.78) rotate(-89.65)" fill="#ff9300" opacity="0.75"
+></g></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="97" x="137" y="249.9492">User Subscriptions</text><!--MD5=[14dda8d67503ee0b0d723af31045ab7b]
+entity Plans--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="279.5" y="173"/> --><svg x="289.5" y="183"><defs><linearGradient id="e12305c3-c719-4f7f-b079-f68282b70e18" x1="9" y1="17.39" x2="9" y2="0.61" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="0.82" stop-color="#5ea0ef"
+></linearGradient></defs><title>Icon-azurestack-6</title><g transform="scale(3,3)"  id="fd3ce364-0de3-4a49-9ae3-702f411d286b"><g><g><path d="M10,.73H2.81a.57.57,0,0,0-.57.57V16.7a.57.57,0,0,0,.57.57H15.19a.57.57,0,0,0,.57-.57V6.51a.57.57,0,0,0-.57-.57H11.08a.56.56,0,0,1-.56-.56V1.3A.56.56,0,0,0,10,.73Z" fill="#fff"
+><path d="M9.69,1.45V5.32a1.42,1.42,0,0,0,1.42,1.42H15v9.81H3V1.45h6.7M10,.61H2.72a.57.57,0,0,0-.58.57V16.82a.57.57,0,0,0,.58.57H15.28a.57.57,0,0,0,.58-.57V6.47a.57.57,0,0,0-.58-.57H11.11a.57.57,0,0,1-.57-.58V1.18A.57.57,0,0,0,10,.61Z" fill="url(#e12305c3-c719-4f7f-b079-f68282b70e18)"
+><path d="M15.64,6,10.34.73V5a1,1,0,0,0,1,1Z" fill="#0078d4"
+></g><path d="M13.26,8.49H7a.41.41,0,1,0,0,.82h6.3a.41.41,0,0,0,0-.82Zm0,2.44H7a.41.41,0,1,0,0,.81h6.3a.41.41,0,1,0,0-.81Zm0,2.45H7a.41.41,0,0,0,0,.82h6.3a.41.41,0,1,0,0-.82Z" fill="#83b9f9"
+><path d="M4.79,9.72V8.4a.62.62,0,0,1-.19.07l-.22.06V8.12A2.29,2.29,0,0,0,4.69,8,1.28,1.28,0,0,0,5,7.86h.32V9.72Zm-.39,2.6v-.15a1,1,0,0,1,0-.26,2.26,2.26,0,0,1,.11-.22,1.86,1.86,0,0,1,.28-.26A.87.87,0,0,0,5,11.26s0-.07.07-.09a.14.14,0,0,0,0-.11c0-.13-.07-.19-.22-.19a.67.67,0,0,0-.43.17v-.45a1.08,1.08,0,0,1,.28-.11,1.26,1.26,0,0,1,.28,0,.7.7,0,0,1,.46.15.51.51,0,0,1,.17.39.75.75,0,0,1-.09.34,1.15,1.15,0,0,1-.32.28L5,11.76a.18.18,0,0,0-.06.1h.73v.42ZM5.64,14.4a.45.45,0,0,1-.19.41.92.92,0,0,1-.53.15,1.1,1.1,0,0,1-.26,0l-.23-.07v-.43a.49.49,0,0,0,.19.07.72.72,0,0,0,.22,0,.6.6,0,0,0,.21,0,.19.19,0,0,0,.07-.13A.15.15,0,0,0,5,14.25a1,1,0,0,0-.24-.05H4.62v-.39h.15A.3.3,0,0,0,5,13.75a.12.12,0,0,0,.07-.13s0-.09,0-.11-.09,0-.17,0a.78.78,0,0,0-.35.1v-.41a1.23,1.23,0,0,1,.46-.1.81.81,0,0,1,.49.13.38.38,0,0,1,.16.34.45.45,0,0,1-.09.28.45.45,0,0,1-.26.15.42.42,0,0,1,.3.15A.58.58,0,0,1,5.64,14.4Z" fill="#0078d4"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="28" x="302.5" y="249.9492">Plans</text><!--MD5=[89490ac316043c55b930cfce69b887f7]
+entity AzureStack--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="81" x="14" y="323"/> --><svg x="27.5" y="333"><defs><linearGradient id="f88be120-e228-4e82-b7ea-9cc753ab1741" x1="12.3" y1="0.49" x2="12.3" y2="17.33" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5ea0ef"
+><stop offset="0.18" stop-color="#559cec"
+><stop offset="0.47" stop-color="#3c91e5"
+><stop offset="0.84" stop-color="#1380da"
+><stop offset="1" stop-color="#0078d4"
+></linearGradient><linearGradient id="ba0a489b-e6fc-478b-a844-ae016f2be8bf" x1="9.48" y1="17.51" x2="9.48" y2="9.35" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#198ab3"
+><stop offset="0" stop-color="#198ab3"
+><stop offset="0.14" stop-color="#22a5cb"
+><stop offset="0.3" stop-color="#29bade"
+><stop offset="0.47" stop-color="#2ec9eb"
+><stop offset="0.68" stop-color="#31d1f3"
+><stop offset="1" stop-color="#32d4f5"
+></linearGradient></defs><g transform="scale(3,3)"  id="b1186d34-5ca3-4e43-992d-40ecef5e891b"><g><path d="M16.68.49H7.92a.57.57,0,0,0-.57.56V13.53a10.47,10.47,0,0,1,1.42-1h1.66l.92,1.22V15.6l-1.16.84-1.61-.2L7.35,15.08v1.69a.57.57,0,0,0,.57.56h8.76a.56.56,0,0,0,.56-.56V1.05A.56.56,0,0,0,16.68.49Z" fill="url(#f88be120-e228-4e82-b7ea-9cc753ab1741)"
+><path id="af47f827-8b1b-4acd-8974-8eafe35490c9" d="M8.66,2.24h1.61a.14.14,0,0,1,.14.14V4.46a.14.14,0,0,1-.14.14H8.66a.14.14,0,0,1-.14-.14V2.38A.14.14,0,0,1,8.66,2.24Zm2.83,0H13.1a.14.14,0,0,1,.14.14V4.46a.14.14,0,0,1-.14.14H11.49a.14.14,0,0,1-.14-.14V2.38A.14.14,0,0,1,11.49,2.24Zm2.84,0h1.61a.14.14,0,0,1,.14.14V4.46a.14.14,0,0,1-.14.14H14.33a.14.14,0,0,1-.14-.14V2.38A.14.14,0,0,1,14.33,2.24ZM8.66,6h1.61a.14.14,0,0,1,.14.14V8.24a.14.14,0,0,1-.14.14H8.66a.14.14,0,0,1-.14-.14V6.16A.14.14,0,0,1,8.66,6Zm2.83,0H13.1a.14.14,0,0,1,.14.14V8.24a.14.14,0,0,1-.14.14H11.49a.14.14,0,0,1-.14-.14V6.16A.14.14,0,0,1,11.49,6Zm2.84,0h1.61a.14.14,0,0,1,.14.14V8.24a.14.14,0,0,1-.14.14H14.33a.14.14,0,0,1-.14-.14V6.16A.14.14,0,0,1,14.33,6ZM8.66,9.8h1.61a.14.14,0,0,1,.14.14V12a.14.14,0,0,1-.14.14H8.66A.14.14,0,0,1,8.52,12V9.94A.14.14,0,0,1,8.66,9.8Zm2.83,0H13.1a.14.14,0,0,1,.14.14V12a.14.14,0,0,1-.14.14H11.49a.14.14,0,0,1-.14-.14V9.94A.14.14,0,0,1,11.49,9.8Zm0,3.78H13.1a.14.14,0,0,1,.14.14V16.8a.14.14,0,0,1-.14.14H11.49a.14.14,0,0,1-.14-.14V13.72A.14.14,0,0,1,11.49,13.58ZM14.33,9.8h1.61a.14.14,0,0,1,.14.14V12a.14.14,0,0,1-.14.14H14.33a.14.14,0,0,1-.14-.14V9.94A.14.14,0,0,1,14.33,9.8Z" fill="#f2f2f2"
+><path d="M9.5,13A1.3,1.3,0,0,0,8.26,14H3.76a2.82,2.82,0,0,0-.08.65v.06H8.26A1.29,1.29,0,1,0,9.5,13Z" fill="#50e6ff"
+><path d="M13,12.46A3.26,3.26,0,0,0,9.6,9.35a3.34,3.34,0,0,0-3.2,2.18,3.18,3.18,0,0,0-2.54,2H8A1.72,1.72,0,1,1,9.5,16a1.73,1.73,0,0,1-1.53-1H3.75a3.2,3.2,0,0,0,3.18,2.42h5.54l.14,0A2.63,2.63,0,0,0,15.21,15,2.6,2.6,0,0,0,13,12.46Z" fill="url(#ba0a489b-e6fc-478b-a844-ae016f2be8bf)"
+><path d="M9.5,13A1.3,1.3,0,0,0,8.26,14H3.76a2.22,2.22,0,0,1-.47-.06,2.32,2.32,0,0,1-1.82-2.19A2.33,2.33,0,0,1,3.54,9.46l.22,0,.07-.2A2.56,2.56,0,0,1,6.29,7.55,2.64,2.64,0,0,1,8.57,8.82a3.08,3.08,0,0,1,.75-.09,3.32,3.32,0,0,0-3-1.89A3.28,3.28,0,0,0,3.23,8.79,3,3,0,0,0,.76,11.71,3,3,0,0,0,3,14.55H3a2,2,0,0,0,.73.12H8.26A1.29,1.29,0,1,0,9.5,13Z" fill="#50e6ff"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="61" x="24" y="399.9492">Azure Stack</text><!--MD5=[3286bee2c74bf338862d367c2dfa1f60]
+entity Updates--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="130.5" y="323"/> --><svg x="140.5" y="333"><defs><linearGradient id="e45c6200-6488-4339-a709-a13bd54e49f3" x1="13.01" y1="5.83" x2="12.78" y2="19.82" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#9cebff"
+><stop offset="1" stop-color="#50e6ff"
+></linearGradient></defs><title>Icon-azurestack-8</title><g transform="scale(3,3)"  id="ea18473d-2ef4-4f9c-b256-443e4dcd2a2c"><g><path d="M13.1.26h-7a.45.45,0,0,0-.45.45v10.2a8.8,8.8,0,0,1,1.13-.83H8.11l.74,1v1.54l-.93,1.24-1.28-.17-1-.39v.27a.45.45,0,0,0,.45.46h7a.45.45,0,0,0,.45-.46V.71A.45.45,0,0,0,13.1.26Z" fill="#0078d4"
+><path id="ad507295-c076-421c-9034-1cdfff692626" d="M6.7,2.07H8a.11.11,0,0,1,.12.11v1.7A.12.12,0,0,1,8,4H6.7a.11.11,0,0,1-.11-.12V2.18A.11.11,0,0,1,6.7,2.07ZM9,2.07h1.29a.11.11,0,0,1,.11.11v1.7a.11.11,0,0,1-.11.12H9a.11.11,0,0,1-.11-.12V2.18A.11.11,0,0,1,9,2.07Zm2.27,0h1.28a.11.11,0,0,1,.11.11v1.7a.11.11,0,0,1-.11.12H11.23a.12.12,0,0,1-.12-.12V2.18A.11.11,0,0,1,11.23,2.07ZM6.7,5.16H8a.11.11,0,0,1,.12.11V7A.11.11,0,0,1,8,7.09H6.7A.11.11,0,0,1,6.59,7V5.27A.11.11,0,0,1,6.7,5.16ZM9,5.16h1.29a.11.11,0,0,1,.11.11V7a.11.11,0,0,1-.11.11H9A.11.11,0,0,1,8.85,7V5.27A.11.11,0,0,1,9,5.16Zm2.27,0h1.28a.11.11,0,0,1,.11.11V7a.11.11,0,0,1-.11.11H11.23A.11.11,0,0,1,11.11,7V5.27A.11.11,0,0,1,11.23,5.16Z" fill="#f2f2f2"
+><path d="M7.12,11.05a1,1,0,0,0-1,.76H2.53a3.07,3.07,0,0,0-.06.53v.05H6.12a1,1,0,1,0,1-1.34Z" fill="#50e6ff"
+><path d="M9.88,10.6A2.64,2.64,0,0,0,7.2,8.05,2.67,2.67,0,0,0,4.64,9.83a2.57,2.57,0,0,0-2,1.64H5.9a1.37,1.37,0,0,1,1.22-.76,1.41,1.41,0,1,1-1.22,2H2.53a2.55,2.55,0,0,0,2.53,2H9.48l.12,0a2.05,2.05,0,0,0,.28-4.09Z" fill="#32bedd"
+><path d="M7.12,11.05a1,1,0,0,0-1,.76H2.53a1.92,1.92,0,0,1-.37-.05,1.84,1.84,0,0,1,.2-3.63l.17,0,.06-.17a2,2,0,0,1,2-1.36,2.08,2.08,0,0,1,1.82,1A2.89,2.89,0,0,1,7,7.54,2.66,2.66,0,0,0,4.55,6,2.63,2.63,0,0,0,2.11,7.59,2.42,2.42,0,0,0,1.9,12.3h0a1.51,1.51,0,0,0,.59.1H6.12a1,1,0,1,0,1-1.34Z" fill="#50e6ff"
+><path d="M8,11.29l4.5-4.5a.54.54,0,0,1,.76,0l4.49,4.5a.24.24,0,0,1-.17.41H14.86a.24.24,0,0,0-.24.24v5.61a.19.19,0,0,1-.19.19h-3a.18.18,0,0,1-.19-.19V11.94A.24.24,0,0,0,11,11.7H8.21A.24.24,0,0,1,8,11.29Z" fill="url(#e45c6200-6488-4339-a709-a13bd54e49f3)"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="43" x="146" y="399.9492">Updates</text><!--MD5=[e15d9c6a8e59077d2249792385ce6513]
+link MultiTenancy to InfrastructureBackup--><!--MD5=[68bda866921618c381ee7e4ef0b809c4]
+link InfrastructureBackup to Capacity--><!--MD5=[5cc5199f92274a49efc68908cd38ff89]
+link MultiTenancy to Offers--><!--MD5=[dc807315e5f92172d0be4b898265b3ee]
+link Offers to UserSubscriptions--><!--MD5=[a175f424f0174201d354415bd1ca0d91]
+link UserSubscriptions to Plans--><!--MD5=[be72e70318c7ce79d553880549313446]
+link Offers to AzureStack--><!--MD5=[b62c3849bc8bdde8d121482d4ef5e947]
+link AzureStack to Updates--><!--MD5=[8fdc7fea96b19daba72ba73fd47deb57]
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $MultiTenancy AzureStack/00965-icon-service-Multi-Tenancy.svg
+rectangle "Multi Tenancy" <<$MultiTenancy{scale=3}>> as MultiTenancy
+sprite $InfrastructureBackup AzureStack/10108-icon-service-Infrastructure-Backup.svg
+rectangle "Infrastructure Backup" <<$InfrastructureBackup{scale=3}>> as InfrastructureBackup
+sprite $Capacity AzureStack/10109-icon-service-Capacity.svg
+rectangle "Capacity" <<$Capacity{scale=3}>> as Capacity
+sprite $Offers AzureStack/10110-icon-service-Offers.svg
+rectangle "Offers" <<$Offers{scale=3}>> as Offers
+sprite $UserSubscriptions AzureStack/10111-icon-service-User-Subscriptions.svg
+rectangle "User Subscriptions" <<$UserSubscriptions{scale=3}>> as UserSubscriptions
+sprite $Plans AzureStack/10113-icon-service-Plans.svg
+rectangle "Plans" <<$Plans{scale=3}>> as Plans
+sprite $AzureStack AzureStack/10114-icon-service-Azure-Stack.svg
+rectangle "Azure Stack" <<$AzureStack{scale=3}>> as AzureStack
+sprite $Updates AzureStack/10115-icon-service-Updates.svg
+rectangle "Updates" <<$Updates{scale=3}>> as Updates
+@enduml
+
+@startuml
+!pragma revision 1
+
+
+skinparam defaultTextAlignment center
+skinparam defaultFontName Segoe UI
+skinparam defaultBackgroundColor white
+skinparam RectangleBackgroundColor white
+skinparam RectangleBorderColor #3C7FC0
+skinparam WrapWidth 100
+
+skinparam rectangle {
+    FontSize 12
+    BorderThickness 1
+    Shadowing false
+}
+sprite $MultiTenancy AzureStack/00965-icon-service-Multi-Tenancy.svg
+rectangle "Multi Tenancy" <<$MultiTenancy{scale=3}>> as MultiTenancy
+sprite $InfrastructureBackup AzureStack/10108-icon-service-Infrastructure-Backup.svg
+rectangle "Infrastructure Backup" <<$InfrastructureBackup{scale=3}>> as InfrastructureBackup
+sprite $Capacity AzureStack/10109-icon-service-Capacity.svg
+rectangle "Capacity" <<$Capacity{scale=3}>> as Capacity
+sprite $Offers AzureStack/10110-icon-service-Offers.svg
+rectangle "Offers" <<$Offers{scale=3}>> as Offers
+sprite $UserSubscriptions AzureStack/10111-icon-service-User-Subscriptions.svg
+rectangle "User Subscriptions" <<$UserSubscriptions{scale=3}>> as UserSubscriptions
+sprite $Plans AzureStack/10113-icon-service-Plans.svg
+rectangle "Plans" <<$Plans{scale=3}>> as Plans
+sprite $AzureStack AzureStack/10114-icon-service-Azure-Stack.svg
+rectangle "Azure Stack" <<$AzureStack{scale=3}>> as AzureStack
+sprite $Updates AzureStack/10115-icon-service-Updates.svg
+rectangle "Updates" <<$Updates{scale=3}>> as Updates
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 02:25:05 PST 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
