@@ -8,22 +8,26 @@ https://github.com/alex-shpak/hugo-book
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
+<meta name="description" content="&lt;!doctype html&gt;">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
-<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/singlesource/">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/singlesource/sim/analytics-frame/">
   <meta property="og:site_name" content="DocsContent">
-  <meta property="og:title" content="Singlesources">
+  <meta property="og:title" content="DocsContent">
+  <meta property="og:description" content="&lt;!doctype html&gt;">
   <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="singlesource">
 
 
-  <meta itemprop="name" content="Singlesources">
+  <meta itemprop="name" content="DocsContent">
+  <meta itemprop="description" content="&lt;!doctype html&gt;">
+  <meta itemprop="wordCount" content="2">
 
-<title>Singlesources | DocsContent</title>
+<title>Analytics Frame | DocsContent</title>
 <link rel="icon" href="/favicon.png" >
 <link rel="manifest" href="/manifest.json">
-<link rel="canonical" href="http://localhost:1313/singlesource/">
+<link rel="canonical" href="http://localhost:1313/singlesource/sim/analytics-frame/">
 <link rel="stylesheet" href="/book.min.cc2c524ed250aac81b23d1f4af87344917b325208841feca0968fe450f570575.css" integrity="sha256-zCxSTtJQqsgbI9H0r4c0SRezJSCIQf7KCWj&#43;RQ9XBXU=" crossorigin="anonymous">
 
 
@@ -31,11 +35,10 @@ https://github.com/alex-shpak/hugo-book
   <script defer src="/en.search.min.7d236d3f6ddfd780fc735634273889a54cc0b4dccba6c209be303a8f865633c7.js" integrity="sha256-fSNtP23f14D8c1Y0JziJpUzAtNzLpsIJvjA6j4ZWM8c=" crossorigin="anonymous"></script>
 
 
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/singlesource/index.xml" title="DocsContent" />
 
   
 </head>
-<body dir="ltr" class="book-kind-section book-type-singlesource">
+<body dir="ltr" class="book-kind-page book-type-singlesource">
   <input type="checkbox" class="hidden toggle" id="menu-control" />
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
@@ -96,7 +99,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/singlesource/sim/analytics-frame/" class="">
+    <a href="/singlesource/sim/analytics-frame/" class="active">
       Analytics Frame</a>
   
 
@@ -325,21 +328,158 @@ https://github.com/alex-shpak/hugo-book
     <img src="/icons/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <h3>Singlesources</h3>
+  <h3>Analytics Frame</h3>
 
   <label for="toc-control">
+    
+    <img src="/icons/toc.svg" class="book-icon" alt="Table of Contents" />
     
   </label>
 </div>
 
 
   
+  <aside class="hidden">
+    
+  
+
+
+
+
+  </aside>
+  
  
       </header>
 
       
       
-  <article class="markdown book-article"></article>
+  <article class="markdown book-article"><!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta  name="referrer" content="origin" />
+    <script>
+      /* jshint ignore:start */
+      // jscs:disable
+      // https://gist.github.com/982883
+      var uuid = function(a) {
+        return a           // if the placeholder was passed, return
+          ? (              // a random number from 0 to 15
+            a ^            // unless b is 8,
+            Math.random()  // in which case
+            * 16           // a random number from
+            >> a/4         // 8 to 11
+            ).toString(16) // in hexadecimal
+          : (              // or otherwise a concatenated string:
+            [1e7] +        // 10000000 +
+            -1e3 +         // -1000 +
+            -4e3 +         // -4000 +
+            -8e3 +         // -80000000 +
+            -1e11          // -100000000000,
+            ).replace(     // replacing
+              /[018]/g,    // zeroes, ones, and eights with
+              uuid         // random hex digits
+            );
+      };
+
+      window.frameHash = window.location.hash.replace(/^#/, '');
+
+      var postToParent = function(message) {
+        if (window.parent.postMessage != null) {
+          window.parent.postMessage(message, '*');
+        }
+      };
+
+      var onDidReceiveMessage = function(e) {
+        if (e.data.id === frameHash) {
+          var xhr = new XMLHttpRequest(),
+              now = new Date(),
+              data = {
+                messageId: uuid(),
+                sentAt: now.toISOString(),
+                batch: [ {
+                  event: e.data.event,
+                  properties: e.data.properties,
+                  type: 'track',
+                  messageId: uuid(),
+                  timestamp: now.toISOString(),
+                  context: {
+                    ip: '0.0.0.0',
+                    page: {
+                      path: '/',
+                      referrer: '',
+                      search: '',
+                      title: '',
+                      url: 'http://'
+                    }
+                  },
+                  integrations: {},
+                  userId: e.data.aid
+                } ]
+              };
+
+          xhr.onreadystatechange = function() {
+            if (xhr.readyState === 4) {
+              postToParent({
+                id: frameHash,
+                message: 'xhr sent'
+              });
+              window.onDidReceiveMessage = null;
+            }
+          };
+
+          xhr.open('POST', 'https://metrics.articulate.com/v1/import');
+          xhr.setRequestHeader('Content-Type', 'application/json');
+          xhr.send(JSON.stringify(data));
+        }
+      };
+
+      if ('onmessage' in window) {
+        window.addEventListener('message', onDidReceiveMessage, false);
+      } else {
+        // coming from flash, we will use older JS since we can expect some older IE versions
+        var validProps = [
+          'os', 'browser', 'playerVersion', 'playerType', 'lmsPresent', 'tinCanPresent',
+          'aoSupport', 'publishSource', 'protocol', 'productChannel', 'cid', 'screenResolution',
+          'pixelRatio'
+        ];
+        var aid,
+            props = window.location.search.replace(/^\?/, '').split('&'),
+            config = {};
+
+        for (var i = 0, ii = props.length, currProp; i < ii; i++) {
+          currProp = props[i].split('=');
+          if (validProps.indexOf(currProp[0]) > -1 && currProp.length === 2) {
+            config[currProp[0]] = currProp[1];
+          } else if (currProp[0] === 'aid') {
+            aid = currProp[1];
+          }
+        }
+
+        window.onDidReceiveMessage({
+          data: {
+            id: frameHash,
+            event: 'player_course_load',
+            properties: config,
+            aid: aid
+          }
+        })
+
+      }
+      /* jshint ignore:end */
+      // jscs:enable
+    </script>
+  </head>
+  <body>
+  </body>
+  <script>
+    postToParent({
+      id: window.frameHash,
+      message: 'loaded'
+    });
+  </script>
+</html>
+</article>
  
       
 
@@ -364,10 +504,28 @@ https://github.com/alex-shpak/hugo-book
   
   
   
+  <div class="flex flex-wrap justify-between">
+    <span>
+    
+    </span>
+    <span>
+    
+      <a href="/singlesource/sim/story/" class="flex align-center">
+        <span>Story</span>
+        <img src="/icons/forward.svg" class="book-icon" alt="Forward" />
+      </a>
+    
+    </span>
+  </div>
+  
 
 
  
         
+  
+  <div class="book-comments">
+
+</div>
   
  
         
@@ -386,6 +544,17 @@ https://github.com/alex-shpak/hugo-book
     </div>
 
     
+  
+  <aside class="book-toc">
+    <div class="book-toc-content">
+      
+  
+
+
+
+
+    </div>
+  </aside>
   
  
   </main>

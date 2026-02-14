@@ -7,3 +7,6 @@ theme = 'book'  # or whichever theme you choose
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true  # Allows HTML in markdown
+[params]
+  BookMenuBundle = '/menu'
+  BookSection = '/'

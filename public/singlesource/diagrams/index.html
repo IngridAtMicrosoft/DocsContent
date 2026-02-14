@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Overview of Microsoft services and functionalities that contribute to a complete monitoring strategy for your Azure services and applications.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/singlesource/diagrams/">
+  <meta property="og:site_name" content="DocsContent">
+  <meta property="og:title" content="Azure Monitor overview">
+  <meta property="og:description" content="Overview of Microsoft services and functionalities that contribute to a complete monitoring strategy for your Azure services and applications.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="singlesource">
+
+
+  <meta itemprop="name" content="Azure Monitor overview">
+  <meta itemprop="description" content="Overview of Microsoft services and functionalities that contribute to a complete monitoring strategy for your Azure services and applications.">
+  <meta itemprop="wordCount" content="3595">
+
+<title>Azure Monitor overview | DocsContent</title>
+<link rel="icon" href="/favicon.png" >
+<link rel="manifest" href="/manifest.json">
+<link rel="canonical" href="http://localhost:1313/singlesource/diagrams/">
+<link rel="stylesheet" href="/book.min.cc2c524ed250aac81b23d1f4af87344917b325208841feca0968fe450f570575.css" integrity="sha256-zCxSTtJQqsgbI9H0r4c0SRezJSCIQf7KCWj&#43;RQ9XBXU=" crossorigin="anonymous">
+
+
+  <script defer src="/fuse.min.js"></script>
+  <script defer src="/en.search.min.7d236d3f6ddfd780fc735634273889a54cc0b4dccba6c209be303a8f865633c7.js" integrity="sha256-fSNtP23f14D8c1Y0JziJpUzAtNzLpsIJvjA6j4ZWM8c=" crossorigin="anonymous"></script>
+
+
+
+  
+</head>
+<body dir="ltr" class="book-kind-page book-type-singlesource">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    
+<aside class="book-menu">
+  <div class="book-menu-content">
+    
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>DocsContent</span>
+  </a>
+</h2>
+
+
+<div class="book-search hidden">
+  <input id="book-search-input" type="text" 
+    placeholder="Search"
+    aria-label="Search"
+    maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a>
+      Singlesources</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/sim/analytics-frame/" class="">
+      Analytics Frame</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/sim/story/" class="">
+      Story</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/interactivegraphics/animated-interactive-svg/" class="">
+      Animated basic interactive SVG</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/interactivegraphics/car-story-svg/" class="">
+      Animated interactive architectural diagram SVG</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/azure-monitor/" class="">
+      Azure Monitor on Single Source</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/diagrams/" class="active">
+      Azure Monitor overview</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/interactivegraphics/interactive-svg/" class="">
+      Basic interactive SVG</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/d2/d2-test/" class="">
+      D2 Test</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/interactivegraphics/get-user/" class="">
+      Get user</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/interactivegraphics/lti-link2/" class="">
+      Launching a simulation with an LTI link</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/interactivegraphics/lti-link/" class="">
+      Launching with an LTI link</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/interactivegraphics/simwithlrs/" class="">
+      Simulation with LRS</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/copilot/copilot-code-review/" class="">
+      Supported Logs and Metrics Data Reference Copilot Data Reference Code Review</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/singlesource/interactivegraphics/xapi-statement/" class="">
+      XAPI statements with LRS</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+
+  </div>
+</aside>
+ 
+
+    <div class="book-page">
+      <header class="book-header hidden">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/icons/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <h3>Azure Monitor overview</h3>
+
+  <label for="toc-control">
+    
+    <img src="/icons/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#high-level-architecture">High-level architecture</a></li>
+    <li><a href="#data-sources">Data sources</a></li>
+    <li><a href="#data-collection-and-routing">Data collection and routing</a></li>
+    <li><a href="#data-platform">Data platform</a></li>
+    <li><a href="#consumption">Consumption</a>
+      <ul>
+        <li><a href="#the-azure-portal">The Azure portal</a></li>
+        <li><a href="#insights">Insights</a></li>
+        <li><a href="#visualize">Visualize</a></li>
+        <li><a href="#analyze">Analyze</a></li>
+        <li><a href="#respond">Respond</a></li>
+      </ul>
+    </li>
+    <li><a href="#integrate">Integrate</a></li>
+    <li><a href="#frequently-asked-questions">Frequently asked questions</a>
+      <ul>
+        <li><a href="#whats-the-difference-between-azure-monitor-log-analytics-and-application-insights">What&rsquo;s the difference between Azure Monitor, Log Analytics, and Application Insights?</a></li>
+        <li><a href="#how-much-does-azure-monitor-cost">How much does Azure Monitor cost?</a></li>
+        <li><a href="#is-there-an-on-premises-version-of-azure-monitor">Is there an on-premises version of Azure Monitor?</a></li>
+      </ul>
+    </li>
+    <li><a href="#next-steps">Next steps</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown book-article"><h1 id="azure-monitor-overview">Azure Monitor overview<a class="anchor" href="#azure-monitor-overview">#</a></h1>
+<p>Azure Monitor is a comprehensive monitoring solution for collecting, analyzing, and responding to monitoring data from your cloud and on-premises environments. You can use Azure Monitor to maximize the availability and performance of your applications and services. It helps you understand how your applications are performing and allows you to manually and programmatically respond to system events.</p>
+<p>Azure Monitor collects and aggregates the data from every layer and component of your system across multiple Azure and non-Azure subscriptions and tenants. It stores it in a common data platform for consumption by a common set of tools that can correlate, analyze, visualize, and/or respond to the data. You can also integrate other Microsoft and non-Microsoft tools.</p>
+<h2 id="high-level-architecture">High-level architecture<a class="anchor" href="#high-level-architecture">#</a></h2>
+<p>Azure Monitor can monitor these types of resources in Azure, other clouds, or on-premises:</p>
+<ul>
+<li>Applications</li>
+<li>Virtual machines</li>
+<li>Guest operating systems</li>
+<li>Containers including Prometheus metrics</li>
+<li>Databases</li>
+<li>Security events in combination with Azure Sentinel</li>
+<li>Networking events and health in combination with Network Watcher</li>
+<li>Custom sources that use the APIs to get data into Azure Monitor</li>
+</ul>
+<p>You can also export monitoring data from Azure Monitor into other systems so you can:</p>
+<ul>
+<li>Integrate with other third-party and open-source monitoring and visualization tools</li>
+<li>Integrate with ticketing and other ITSM systems</li>
+</ul>
+<p>The following diagram shows a high-level architecture view of Azure Monitor.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/overview-simple-20230707-opt.svg&rdquo; alt-text=&ldquo;Diagram that shows an overview of Azure Monitor with data sources sending data, and Azure Monitor features using the collected data.&rdquo; border=&ldquo;false&rdquo; lightbox=&ldquo;media/overview/overview-blowout-20230707-opt.svg&rdquo;:::</p>
+<blockquote class='book-hint note'>
+<p>Click on the diagram to see a more detailed expanded version showing a larger breakdown of data sources and data collection methods.</p></blockquote><p>The diagram depicts the Azure Monitor system components:</p>
+<ul>
+<li>
+<p><strong><a href="data-sources.md">Data sources</a></strong> are the types of resources being monitored.</p>
+</li>
+<li>
+<p>The data is <strong>collected and routed</strong> to the data platform. Clicking on the diagram shows these options, which are also called out in detail later in this article.</p>
+</li>
+<li>
+<p>The <strong><a href="data-platform.md">data platform</a></strong> stores the collected monitoring data. Azure Monitor&rsquo;s core data platform has stores for metrics, logs, traces, and changes. System Center Operations Manager MI uses its own database hosted in SQL Managed Instance.</p>
+</li>
+<li>
+<p>The <strong>consumption</strong> section shows the components that use data from the data platform.</p>
+<ul>
+<li>Azure Monitor&rsquo;s core consumption methods include tools to provide <strong>insights</strong>, <strong>visualize</strong>, and <strong>analyze</strong> data. The visualization tools build on the analysis tools and the insights build on top of both the visualization and analysis tools.</li>
+<li>There are additional mechanisms to help you <strong>respond</strong> to incoming monitoring data.</li>
+</ul>
+</li>
+<li>
+<p>Interoperability options are shown in the <strong>integrate</strong> section. Not all services integrate at all levels.</p>
+</li>
+</ul>
+<h2 id="data-sources">Data sources<a class="anchor" href="#data-sources">#</a></h2>
+<p>Azure Monitor can collect <a href="data-sources.md">data from multiple sources</a>.</p>
+<p>The following diagram shows an expanded version of the data source types that Azure Monitor can gather monitoring data from.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/data-sources-opt.svg&rdquo; alt-text=&ldquo;Diagram that shows an overview of Azure Monitor data sources.&rdquo; border=&ldquo;false&rdquo; lightbox=&ldquo;media/overview/data-sources-blowup-type-2-opt.svg&rdquo;:::</p>
+<blockquote class='book-hint note'>
+<p>Click on the diagram to see a larger version of the data sources diagram in context.</p></blockquote><p>You can integrate application, infrastructure, and custom data source monitoring data from outside Azure, including from on-premises, and non-Microsoft clouds.</p>
+<p>Azure Monitor collects these types of data:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Data Type</th>
+          <th>Description and subtypes</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>App/Workloads</td>
+          <td><strong>App</strong> - Application performance, health, and activity data.<br><br><strong>Workloads</strong> - IaaS workloads such as SQL server, Oracle, or SAP running on a hosted Virtual Machine.</td>
+      </tr>
+      <tr>
+          <td>Infrastructure</td>
+          <td><strong>Container</strong> - Data about containers, such as <a href="/azure/aks/intro-kubernetes">Azure Kubernetes Service</a>, <a href="../essentials/prometheus-metrics-overview.md">Prometheus</a>, and the applications running inside containers.<br><br><strong>Operating system</strong> - Data about the guest operating system on which your application is running.</td>
+      </tr>
+      <tr>
+          <td>Azure Platform</td>
+          <td><strong>Azure resource</strong> - Data about the operation of an Azure resource from inside the resource, including changes. Resource Logs are one example.<br><br><strong>Azure subscription</strong> - The operation and management of an Azure subscription, and data about the health and operation of Azure itself. The activity log is one example.<br><br><strong>Azure tenant</strong> - Data about the operation of tenant-level Azure services, such as Microsoft Entra ID.</td>
+      </tr>
+      <tr>
+          <td>Custom Sources</td>
+          <td>Data that gets into the system using the<br>• Azure Monitor REST API<br>• Data Collection API</td>
+      </tr>
+  </tbody>
+</table>
+<p>For detailed information about each of the data sources, see <a href="data-sources.md">data sources</a>.</p>
+<h2 id="data-collection-and-routing">Data collection and routing<a class="anchor" href="#data-collection-and-routing">#</a></h2>
+<p>Azure Monitor collects and routes monitoring data using a few different mechanisms depending on the data being routed and the destination. Much like a road system improved over the years, not all roads lead to all locations. Some are legacy, some new, and some are better to take than others given how Azure Monitor has evolved over time. For more information, see <strong><a href="data-sources.md">data sources</a></strong>.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/data-collection-box-opt.svg&rdquo; alt-text=&ldquo;Diagram that shows an overview of Azure Monitor data collection and routing.&rdquo; border=&ldquo;false&rdquo; lightbox=&ldquo;media/overview/data-collection-blowup-type-2-opt.svg&rdquo;:::</p>
+<blockquote class='book-hint note'>
+<p>Click on the diagram to see a larger version of the data collection in context.</p></blockquote><table>
+  <thead>
+      <tr>
+          <th>Collection method</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><a href="../app/app-insights-overview.md">Application instrumentation</a></td>
+          <td>Application Insights is enabled through either <a href="../app/codeless-overview.md">Auto-Instrumentation (agent)</a> or by adding the Application Insights SDK to your application code. In addition, Application Insights is in process of implementing <a href="../app/opentelemetry-overview.md">Open Telemetry</a>. For more information, reference <a href="../app/application-insights-faq.yml#how-do-i-instrument-an-application">How do I instrument an application?</a>.</td>
+      </tr>
+      <tr>
+          <td><a href="../agents/agents-overview.md">Agents</a></td>
+          <td>Agents can collect monitoring data from the guest operating system of Azure and hybrid virtual machines.</td>
+      </tr>
+      <tr>
+          <td><a href="../essentials/data-collection-rule-overview.md">Data collection rules</a></td>
+          <td>Use data collection rules to specify what data should be collected, how to transform it, and where to send it.</td>
+      </tr>
+      <tr>
+          <td>Zero Config</td>
+          <td>Data is automatically sent to a destination without user configuration. Platform metrics are the most common example.</td>
+      </tr>
+      <tr>
+          <td><a href="../essentials/diagnostic-settings.md">Diagnostic settings</a></td>
+          <td>Use diagnostic settings to determine where to send resource log and activity log data on the data platform.</td>
+      </tr>
+      <tr>
+          <td><a href="../logs/logs-ingestion-api-overview.md">Azure Monitor REST API</a></td>
+          <td>The Logs Ingestion API in Azure Monitor lets you send data to a Log Analytics workspace in Azure Monitor Logs. You can also send metrics into the Azure Monitor Metrics store using the custom metrics API.</td>
+      </tr>
+  </tbody>
+</table>
+<p>A common way to route monitoring data to other non-Microsoft tools is using <em>Event hubs</em>. See more in the <a href="#integrate">Integrate</a> section.</p>
+<p>For detailed information about data collection, see <a href="best-practices-data-collection.md">data collection</a>.</p>
+<h2 id="data-platform">Data platform<a class="anchor" href="#data-platform">#</a></h2>
+<p>Azure Monitor stores data in data stores for each of the three pillars of observability, plus an additional one:</p>
+<ul>
+<li>metrics</li>
+<li>logs</li>
+<li>distributed traces</li>
+<li>changes</li>
+</ul>
+<p>Each store is optimized for specific types of data and monitoring scenarios.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/data-platform-box-opt.svg&rdquo; alt-text=&ldquo;Diagram showing an overview of the Azure Monitor data platform.&rdquo; border=&ldquo;false&rdquo; lightbox=&ldquo;media/overview/data-platform-blowup-type-2-opt.svg&rdquo;:::</p>
+<blockquote class='book-hint note'>
+<p>Select the preceding diagram to see the Data Platform in the context of the whole of Azure Monitor.</p></blockquote><table>
+  <thead>
+      <tr>
+          <th>Pillar of Observability/<br>Data Store</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><a href="../essentials/data-platform-metrics.md">Azure Monitor Metrics</a></td>
+          <td>Metrics are numerical values that describe an aspect of a system at a particular point in time. <a href="../essentials/data-platform-metrics.md">Azure Monitor Metrics</a> is a time-series database, optimized for analyzing time-stamped data. Azure Monitor collects metrics at regular intervals. Metrics are identified with a timestamp, a name, a value, and one or more defining labels. They can be aggregated using algorithms, compared to other metrics, and analyzed for trends over time. It supports native Azure Monitor metrics and <a href="../essentials/prometheus-metrics-overview.md">Prometheus metrics</a>.</td>
+      </tr>
+      <tr>
+          <td><a href="../logs/data-platform-logs.md">Azure Monitor Logs</a></td>
+          <td>Logs are recorded system events. Logs can contain different types of data, be structured or free-form text, and they contain a timestamp. Azure Monitor stores structured and unstructured log data of all types in <a href="../logs/data-platform-logs.md">Azure Monitor Logs</a>. You can route data to <a href="../logs/log-analytics-overview.md">Log Analytics workspaces</a> for querying and analysis.</td>
+      </tr>
+      <tr>
+          <td>Traces</td>
+          <td><a href="../app/distributed-tracing.md">Distributed tracing</a> allows you to see the path of a request as it travels through different services and components. Azure Monitor gets distributed trace data from <a href="../app/application-insights-faq.yml#how-do-i-instrument-an-application">instrumented applications</a>. The trace data is stored in a separate workspace in Azure Monitor Logs.</td>
+      </tr>
+      <tr>
+          <td>Changes</td>
+          <td>Changes are a series of events in your application and resources. They&rsquo;re tracked and stored when you use the <a href="../change/change-analysis.md">Change Analysis (classic)</a> service, which uses <a href="/azure/governance/resource-graph/overview">Azure Resource Graph</a> as its store. Change Analysis (classic) helps you understand which changes, such as deploying updated code, may have caused issues in your systems.</td>
+      </tr>
+  </tbody>
+</table>
+<p>Distributed tracing is a technique used to trace requests as they travel through a distributed system. It allows you to see the path of a request as it travels through different services and components. It helps you to identify performance bottlenecks and troubleshoot issues in a distributed system.</p>
+<p>For less expensive, long-term archival of monitoring data for auditing or compliance purposes, you can export to <a href="/azure/storage/">Azure Storage</a>.</p>
+<h2 id="consumption">Consumption<a class="anchor" href="#consumption">#</a></h2>
+<p>The following sections outline methods and services that consume monitoring data from the Azure Monitor data platform.</p>
+<p>All areas in the <em>consumption</em> section of the diagram have a user interface that appears in the Azure portal.</p>
+<h3 id="the-azure-portal">The Azure portal<a class="anchor" href="#the-azure-portal">#</a></h3>
+<p>The Azure portal is a web-based, unified console that provides an alternative to command-line tools. With the Azure portal, you can manage your Azure subscription using a graphical user interface. You can build, manage, and monitor everything from simple web apps to complex cloud deployments in the portal. The <em>Monitor</em> section of the Azure portal provides a visual interface that gives you access to the data collected for Azure resources and an easy way to access the tools, insights, and visualizations in Azure Monitor.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/azure-portal.png&rdquo; alt-text=&ldquo;Screenshot that shows the Monitor section of the Azure portal.&rdquo; lightbox=&ldquo;media/overview/azure-portal.png&rdquo;:::</p>
+<h3 id="insights">Insights<a class="anchor" href="#insights">#</a></h3>
+<p>Some Azure resource providers have curated visualizations that provide a customized monitoring experience and require minimal configuration. Insights are large, scalable, curated visualizations.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/insights-box-opt.svg&rdquo; alt-text=&ldquo;Diagram that shows the &lsquo;insights&rsquo; part of the consumption section of the Azure Monitor system.&rdquo; border=&ldquo;false&rdquo; lightbox=&ldquo;media/overview/insights-blowup-type-2-opt.svg&rdquo;:::</p>
+<p>The following table describes some of the larger insights:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Insight</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><a href="../app/app-insights-overview.md">Application Insights</a></td>
+          <td>Application Insights monitors the availability, performance, and usage of your web applications.</td>
+      </tr>
+      <tr>
+          <td><a href="../containers/container-insights-overview.md">Container Insights</a></td>
+          <td>Container Insights gives you performance visibility into container workloads that are deployed to managed Kubernetes clusters hosted on Azure Kubernetes Service. Container Insights collects container logs and metrics from controllers, nodes, and containers that are available in Kubernetes through the Metrics API. After you enable monitoring from Kubernetes clusters, these metrics and logs are automatically collected for you through a containerized version of the Log Analytics agent for Linux.</td>
+      </tr>
+      <tr>
+          <td><a href="../vm/vminsights-overview.md">VM insights</a></td>
+          <td>VM insights monitors your Azure VMs. It analyzes the performance and health of your Windows and Linux VMs and identifies their different processes and interconnected dependencies on external processes. The solution includes support for monitoring performance and application dependencies for VMs hosted on-premises or another cloud provider.</td>
+      </tr>
+      <tr>
+          <td><a href="/azure/network-watcher/network-insights-overview">Network Insights</a></td>
+          <td>Network Insights provides a comprehensive and visual representation through topologies, of health and metrics for all deployed network resources, without requiring any configuration. It also provides access to network monitoring capabilities like Connection Monitor, flow logging for network security groups (NSGs), and Traffic Analytics and other diagnostic features.</td>
+      </tr>
+  </tbody>
+</table>
+<p>For more information, see the <a href="../insights/insights-overview.md">list of insights and curated visualizations in the Azure Monitor Insights overview</a>.</p>
+<h3 id="visualize">Visualize<a class="anchor" href="#visualize">#</a></h3>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/visualize-box-opt.svg&rdquo; alt-text=&ldquo;Diagram that shows the &lsquo;visualize&rsquo; part of the consumption section of the Azure Monitor system.&rdquo; border=&ldquo;false&rdquo; lightbox=&ldquo;media/overview/visualize-blowup-type-2-opt.svg&rdquo;:::</p>
+<p>Visualizations such as charts and tables are effective tools for summarizing monitoring data and presenting it to different audiences. Azure Monitor has its own features for visualizing monitoring data and uses other Azure services for publishing it to different audiences. Power BI and Grafana aren&rsquo;t officially part of the Azure Monitor product, but they&rsquo;re a core integration and part of the Azure Monitor story.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Visualization</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><a href="../visualize/tutorial-logs-dashboards.md">Dashboards</a></td>
+          <td>Azure dashboards allow you to combine different kinds of data into a single pane in the Azure portal. You can optionally share the dashboard with other Azure users. You can add the output of any log query or metrics chart to an Azure dashboard. For example, you could create a dashboard that combines tiles that show a graph of metrics, a table of activity logs, a usage chart from Application Insights, and the output of a log query.</td>
+      </tr>
+      <tr>
+          <td><a href="../visualize/workbooks-overview.md">Workbooks</a></td>
+          <td>Workbooks provide a flexible canvas for data analysis and the creation of rich visual reports in the Azure portal. You can use them to query data from multiple data sources. Workbooks can combine and correlate data from multiple data sets in one visualization giving you easy visual representation of your system. Workbooks are interactive and can be shared across teams with data updating in real time. Use workbooks provided with Insights, utilize the library of templates, or create your own.</td>
+      </tr>
+      <tr>
+          <td><a href="../logs/log-powerbi.md">Power BI</a></td>
+          <td>Power BI is a business analytics service that provides interactive visualizations across various data sources. It&rsquo;s an effective means of making data available to others within and outside your organization. You can configure Power BI to automatically import log data from Azure Monitor to take advantage of these visualizations.</td>
+      </tr>
+      <tr>
+          <td><a href="../visualize/visualize-grafana-overview.md">Grafana</a></td>
+          <td>Grafana is an open platform that excels in operational dashboards. All versions of Grafana include the Azure Monitor data source plug-in to visualize your Azure Monitor metrics and logs. Azure Managed Grafana also optimizes this experience for Azure-native data stores such as Azure Monitor and Azure Data Explorer. In this way, you can easily connect to any resource in your subscription and view all resulting monitoring data in a familiar Grafana dashboard. It also supports pinning charts from Azure Monitor metrics and logs to Grafana dashboards.<br><br>Grafana has popular plug-ins and dashboard templates for non-Microsoft application performance management (APM) tools such as Dynatrace, New Relic, and AppDynamics as well. You can use these resources to visualize Azure platform data alongside other metrics from higher in the stack collected by these other tools. It also has Amazon Web Services (AWS) CloudWatch and Google Cloud Platform (GCP) BigQuery plug-ins for multicloud monitoring in a single pane of glass.</td>
+      </tr>
+  </tbody>
+</table>
+<p>For a more extensive discussion of the recommended visualization tools and when to use them, see <a href="best-practices-analysis.md">Analyze and visualize monitoring data</a></p>
+<h3 id="analyze">Analyze<a class="anchor" href="#analyze">#</a></h3>
+<p>The Azure portal contains built-in tools that allow you to analyze monitoring data.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/analyze-box-opt.svg&rdquo; alt-text=&ldquo;Diagram that shows the &lsquo;analyze&rsquo; part of the consumption section of the Azure Monitor system.&rdquo; border=&ldquo;false&rdquo; lightbox=&ldquo;media/overview/analyze-blowup-type-2-opt.svg&rdquo;:::</p>
+<table>
+  <thead>
+      <tr>
+          <th>Tool</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><a href="../essentials/analyze-metrics.md">Metrics explorer</a></td>
+          <td>Use the Azure Monitor metrics explorer user interface in the Azure portal to investigate the health and utilization of your resources. Metrics explorer helps you plot charts, visually correlate trends, and investigate spikes and dips in metric values. Metrics explorer contains features for applying dimensions and filtering, and for customizing charts. These features help you analyze exactly the data you need in a visually intuitive way.</td>
+      </tr>
+      <tr>
+          <td><a href="../logs/log-analytics-overview.md">Log Analytics</a></td>
+          <td>The Log Analytics user interface in the Azure portal helps you query the log data collected by Azure Monitor so that you can quickly retrieve, consolidate, and analyze collected data. After creating test queries, you can then directly analyze the data with Azure Monitor tools, or you can save the queries for use with visualizations or alert rules. Log Analytics workspaces are based on Azure Data Explorer, using a powerful analysis engine and the rich Kusto query language (KQL).Azure Monitor Logs uses a version of the Kusto Query Language suitable for simple log queries, and advanced functionality such as aggregations, joins, and smart analytics. You can <a href="../logs/get-started-queries.md">get started with KQL</a> quickly and easily. NOTE: The term &ldquo;Log Analytics&rdquo; is sometimes used to mean both the Azure Monitor Logs data platform store and the UI that accesses that store. Previous to 2019, the term &ldquo;Log Analytics&rdquo; did refer to both. It&rsquo;s still common to find content using that framing in various blogs and documentation on the internet.</td>
+      </tr>
+      <tr>
+          <td><a href="../change/change-analysis.md">Change Analysis (classic)</a></td>
+          <td>Change Analysis (classic) is a subscription-level Azure resource provider that checks resource changes in the subscription and provides data for diagnostic tools to help users understand what changes might have caused issues. The Change Analysis (classic) user interface in the Azure portal gives you insight into the cause of live site issues, outages, or component failures. Change Analysis (classic) uses the <a href="/azure/governance/resource-graph/overview">Azure Resource Graph</a> to detect various types of changes, from the infrastructure layer through application deployment.</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="respond">Respond<a class="anchor" href="#respond">#</a></h3>
+<p>An effective monitoring solution proactively responds to critical events, without the need for an individual or team to notice the issue. The response could be a text or email to an administrator, or an automated process that attempts to correct an error condition.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/respond-box-opt.svg&rdquo; alt-text=&ldquo;Diagram that shows the &lsquo;respond&rsquo; part of the consumption section of the Azure Monitor system.&rdquo; border=&ldquo;false&rdquo; lightbox=&ldquo;media/overview/respond-blowup-type-2-opt.svg&rdquo;:::</p>
+<p><a href="../aiops/aiops-machine-learning.md"><strong>Artificial Intelligence for IT Operations (AIOps)</strong></a> can improve service quality and reliability by using machine learning to process and automatically act on data you collect from applications, services, and IT resources into Azure Monitor. It automates data-driven tasks, predicts capacity usage, identifies performance issues, and detects anomalies across applications, services, and IT resources. These features simplify IT monitoring and operations without requiring machine learning expertise.</p>
+<p><strong><a href="../alerts/alerts-overview.md">Azure Monitor Alerts</a></strong> notify you of critical conditions and can take corrective action. Alert rules can be based on metric or log data.</p>
+<ul>
+<li>Metric alert rules provide near-real-time alerts based on collected metrics.</li>
+<li>Log search alert rules based on logs allow for complex logic across data from multiple sources.</li>
+</ul>
+<p>Alert rules use <a href="../alerts/action-groups.md">action groups</a>, which can perform actions such as sending email or SMS notifications. Action groups can send notifications using webhooks to trigger external processes or to integrate with your IT service management tools. Action groups, actions, and sets of recipients can be shared across multiple rules.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/alerts.png&rdquo; alt-text=&ldquo;Screenshot that shows the Azure Monitor alerts UI in the Azure portal.&rdquo; lightbox=&ldquo;media/overview/alerts.png&rdquo;:::</p>
+<p><strong><a href="../autoscale/autoscale-overview.md">Autoscale</a></strong> allows you to dynamically control the number of resources running to handle the load on your application. You can create rules that use Azure Monitor metrics to determine when to automatically add resources when the load increases or remove resources that are sitting idle. You can specify a minimum and maximum number of instances, and the logic for when to increase or decrease resources to save money and to increase performance.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/autoscale.png&rdquo; border=&ldquo;false&rdquo; alt-text=&ldquo;Conceptual diagram showing how autoscale grows.&rdquo; :::</p>
+<p><strong><a href="/azure/logic-apps/logic-apps-overview">Azure Logic Apps</a></strong> is also an option. For more information, see the following <a href="#integrate">Integrate</a> section.</p>
+<h2 id="integrate">Integrate<a class="anchor" href="#integrate">#</a></h2>
+<p>You may need to integrate Azure Monitor with other systems or to build custom solutions that use your monitoring data. These Azure services work with Azure Monitor to provide integration capabilities. The following diagram and table show only a few of the possible integrations.</p>
+<p>:::image type=&ldquo;content&rdquo; source=&ldquo;media/overview/integrate-box-opt.svg&rdquo; alt-text=&ldquo;Diagram that shows the &lsquo;integrate&rsquo; part of the consumption section of the Azure Monitor system.&rdquo; border=&ldquo;false&rdquo; lightbox=&ldquo;media/overview/integrate-box-opt.svg&rdquo;:::</p>
+<table>
+  <thead>
+      <tr>
+          <th>Azure service</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><a href="/azure/event-hubs/event-hubs-about">Event Hubs</a></td>
+          <td>Azure Event Hubs is a streaming platform and event ingestion service. It can transform and store data by using any real-time analytics provider or batching/storage adapters. Use Event Hubs to stream Azure Monitor data to partner Security Information and Event Management (SIEM) and monitoring tools.</td>
+      </tr>
+      <tr>
+          <td><a href="/azure/storage/common/storage-introduction">Azure Storage</a></td>
+          <td>Export data to Azure storage for less expensive, long-term archival of monitoring data for auditing or compliance purposes.</td>
+      </tr>
+      <tr>
+          <td><a href="/azure/partner-solutions/partners##observability">Hosted and Managed Partners</a></td>
+          <td>Many external partners integrate with Azure Monitor. Azure Monitor also partners with various monitoring providers to provide an <a href="/azure/partner-solutions/partners#observability">Azure-hosted version of their products</a> to make interoperability easier. Examples include Elastic, Datadog, Logz.io, and Dynatrace.</td>
+      </tr>
+      <tr>
+          <td><a href="/rest/api/monitor/">API</a></td>
+          <td>Multiple APIs are available to read and write metrics and logs to and from Azure Monitor in addition to accessing generated alerts. You can also configure and retrieve alerts. With APIs, you have unlimited possibilities to build custom solutions that integrate with Azure Monitor.</td>
+      </tr>
+      <tr>
+          <td><a href="/azure/logic-apps/logic-apps-overview">Azure Logic Apps</a></td>
+          <td>Azure Logic Apps is a service you can use to automate tasks and business processes by using workflows that integrate with different systems and services with little or no code. Activities are available that read and write metrics and logs in Azure Monitor. You can use Logic Apps to <a href="../alerts/alerts-logic-apps.md">customize responses and perform other actions in response to Azure Monitor alerts</a>. You can also perform other <a href="../logs/logicapp-flow-connector.md">more complex actions</a> when the Azure Monitor infrastructure doesn&rsquo;t already supply a built-it method.</td>
+      </tr>
+      <tr>
+          <td><a href="/azure/azure-functions/functions-overview">Azure Functions</a></td>
+          <td>Similar to Azure Logic Apps, Azure Functions gives you the ability to preprocess and post process monitoring data and to perform complex action beyond the scope of typical Azure Monitor alerts. Azure Functions uses code however providing extra flexibility over Logic Apps.</td>
+      </tr>
+      <tr>
+          <td>Azure DevOps and GitHub</td>
+          <td>Azure Monitor Application Insights gives you the ability to create <a href="../app/release-and-work-item-insights.md?tabs=work-item-integration">Work Item Integration</a> with monitoring data embedding in it. More options include <a href="../app/release-and-work-item-insights.md?tabs=release-annotations">release annotations</a> and <a href="../app/release-and-work-item-insights.md?tabs=continuous-monitoring">continuous monitoring</a>.</td>
+      </tr>
+  </tbody>
+</table>
+<p>More integrations not shown in the diagram that may be of interest.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Integration</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><a href="/azure/defender-for-cloud/defender-for-cloud-introduction">Defender for the Cloud</a></td>
+          <td>Collect and analyze security events and perform threat analysis. See <a href="/azure/defender-for-cloud/monitoring-components">Data collection in Defender for the Cloud</a>.</td>
+      </tr>
+      <tr>
+          <td><a href="/azure/sentinel/">Microsoft Sentinel</a></td>
+          <td>Connect to different sources including Office 365 and Amazon Web Services Cloud Trail. See <a href="/azure/sentinel/connect-data-sources">Connect data sources</a>.</td>
+      </tr>
+      <tr>
+          <td><a href="/mem/intune/fundamentals/what-is-intune">Microsoft Intune</a></td>
+          <td>Create a diagnostic setting to send logs to Azure Monitor. See <a href="/mem/intune/fundamentals/review-logs-using-azure-monitor">Send log data to storage, Event Hubs, or log analytics in Intune (preview)</a>.</td>
+      </tr>
+      <tr>
+          <td><a href="../alerts/itsmc-overview.md">ITSM</a></td>
+          <td>The <a href="../alerts/itsmc-overview.md">IT Service Management (ITSM) Connector</a> allows you to connect Azure and a supported ITSM product/service.</td>
+      </tr>
+  </tbody>
+</table>
+<blockquote class='book-hint note'>
+<p>There are many more third party companies that integrate with Azure and Azure Monitor at various levels. Use your favorite search engine to locate them.</p></blockquote><h2 id="frequently-asked-questions">Frequently asked questions<a class="anchor" href="#frequently-asked-questions">#</a></h2>
+<p>This section provides answers to common questions.</p>
+<h3 id="whats-the-difference-between-azure-monitor-log-analytics-and-application-insights">What&rsquo;s the difference between Azure Monitor, Log Analytics, and Application Insights?<a class="anchor" href="#whats-the-difference-between-azure-monitor-log-analytics-and-application-insights">#</a></h3>
+<p>In September 2018, Microsoft combined Azure Monitor, Log Analytics, and Application Insights into a single service to provide powerful end-to-end monitoring of your applications and the components they rely on. Features in Log Analytics and Application Insights haven&rsquo;t changed, although some features are rebranded to Azure Monitor to better reflect their new scope. The log data engine and query language of Log Analytics is now referred to as Azure Monitor Logs.</p>
+<h3 id="how-much-does-azure-monitor-cost">How much does Azure Monitor cost?<a class="anchor" href="#how-much-does-azure-monitor-cost">#</a></h3>
+<p>The cost of Azure Monitor is based on your usage of different features and is primarily determined by the amount of data you collect. For more information, see the following articles:</p>
+<ul>
+<li><a href="cost-usage.md">Azure Monitor cost and usage</a></li>
+<li><a href="cost-usage.md#view-azure-monitor-usage-and-charges">View Azure Monitor usage and charges</a></li>
+<li><a href="best-practices-cost.md">Cost optimization in Azure Monitor</a></li>
+</ul>
+<h3 id="is-there-an-on-premises-version-of-azure-monitor">Is there an on-premises version of Azure Monitor?<a class="anchor" href="#is-there-an-on-premises-version-of-azure-monitor">#</a></h3>
+<p>No. Azure Monitor is a scalable cloud service that processes and stores large amounts of data, although Azure Monitor can monitor resources that are on-premises and in other clouds.</p>
+<h2 id="next-steps">Next steps<a class="anchor" href="#next-steps">#</a></h2>
+<ul>
+<li><a href="getting-started.md">Getting started with Azure Monitor</a></li>
+<li><a href="data-sources.md">Sources of monitoring data for Azure Monitor</a></li>
+<li><a href="../essentials/data-collection.md">Data collection in Azure Monitor</a></li>
+</ul>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+
+
+
+
+  
+  
+  
+  <div class="flex flex-wrap justify-between">
+    <span>
+    
+      <a href="/singlesource/azure-monitor/" class="flex align-center">
+        <img src="/icons/backward.svg" class="book-icon" alt="Backward" />
+        <span>Azure Monitor on Single Source</span>
+      </a>
+    
+    </span>
+    <span>
+    
+      <a href="/singlesource/interactivegraphics/interactive-svg/" class="flex align-center">
+        <span>Basic interactive SVG</span>
+        <img src="/icons/forward.svg" class="book-icon" alt="Forward" />
+      </a>
+    
+    </span>
+  </div>
+  
+
+
+ 
+        
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+        
+        
+  
+ 
+        
+  
+  
+    <script>(function(){document.querySelectorAll("pre:has(code)").forEach(e=>{e.addEventListener("click",e.focus),e.addEventListener("copy",function(t){if(t.preventDefault(),navigator.clipboard){const t=window.getSelection().toString()||e.textContent;navigator.clipboard.writeText(t)}})})})()</script>
+  
+
+      </footer>
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+  
+  <aside class="book-toc">
+    <div class="book-toc-content">
+      
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#high-level-architecture">High-level architecture</a></li>
+    <li><a href="#data-sources">Data sources</a></li>
+    <li><a href="#data-collection-and-routing">Data collection and routing</a></li>
+    <li><a href="#data-platform">Data platform</a></li>
+    <li><a href="#consumption">Consumption</a>
+      <ul>
+        <li><a href="#the-azure-portal">The Azure portal</a></li>
+        <li><a href="#insights">Insights</a></li>
+        <li><a href="#visualize">Visualize</a></li>
+        <li><a href="#analyze">Analyze</a></li>
+        <li><a href="#respond">Respond</a></li>
+      </ul>
+    </li>
+    <li><a href="#integrate">Integrate</a></li>
+    <li><a href="#frequently-asked-questions">Frequently asked questions</a>
+      <ul>
+        <li><a href="#whats-the-difference-between-azure-monitor-log-analytics-and-application-insights">What&rsquo;s the difference between Azure Monitor, Log Analytics, and Application Insights?</a></li>
+        <li><a href="#how-much-does-azure-monitor-cost">How much does Azure Monitor cost?</a></li>
+        <li><a href="#is-there-an-on-premises-version-of-azure-monitor">Is there an on-premises version of Azure Monitor?</a></li>
+      </ul>
+    </li>
+    <li><a href="#next-steps">Next steps</a></li>
+  </ul>
+</nav>
+
+
+
+    </div>
+  </aside>
+  
+ 
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
