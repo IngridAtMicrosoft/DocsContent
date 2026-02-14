@@ -1,6 +1,0 @@
-[submodule "selfhelp"]
-	path = selfhelp
-	url = https://github.com/Azure/SelfHelpContent.git
-[submodule "singlesource/ams-python"]
-	path = singlesource/ams-python
-	url = https://github.com/Azure-Samples/media-services-v3-python
