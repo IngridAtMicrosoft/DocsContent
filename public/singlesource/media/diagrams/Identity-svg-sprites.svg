@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="450px" preserveAspectRatio="none" style="width:519px;height:450px;" version="1.1" viewBox="0 0 519 450" width="519px" zoomAndPan="magnify"><defs/> --><g><!--MD5=[1e08cd00fb5beb5f87870fd41f202996]
+entity AzureActiveDirectory--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="89" x="20" y="7"/> --><svg x="37.5" y="17"><g transform="scale(3,3)" ><defs><linearGradient id="ba2610c3-a45a-4e7e-a0c0-285cfd7e005d" x1="13.25" y1="13.02" x2="8.62" y2="4.25" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1988d9"
+><stop offset="0.9" stop-color="#54aef0"
+></linearGradient><linearGradient id="bd8f618b-4f2f-4cb7-aff0-2fd2d211326d" x1="11.26" y1="10.47" x2="14.46" y2="15.99" gradientUnits="userSpaceOnUse"><stop offset="0.1" stop-color="#54aef0"
+><stop offset="0.29" stop-color="#4fabee"
+><stop offset="0.51" stop-color="#41a2e9"
+><stop offset="0.74" stop-color="#2a93e0"
+><stop offset="0.88" stop-color="#1988d9"
+></linearGradient></defs><title>Icon-identity-221</title><polygon points="1.01 10.19 8.93 15.33 16.99 10.17 18 11.35 8.93 17.19 0 11.35 1.01 10.19" fill="#50e6ff"
+><polygon points="1.61 9.53 8.93 0.81 16.4 9.54 8.93 14.26 1.61 9.53" fill="#fff"
+><polygon points="8.93 0.81 8.93 14.26 1.61 9.53 8.93 0.81" fill="#50e6ff"
+><polygon points="8.93 0.81 8.93 14.26 16.4 9.54 8.93 0.81" fill="url(#ba2610c3-a45a-4e7e-a0c0-285cfd7e005d)"
+><polygon points="8.93 7.76 16.4 9.54 8.93 14.26 8.93 7.76" fill="#53b1e0"
+><polygon points="8.93 14.26 1.61 9.53 8.93 7.76 8.93 14.26" fill="#9cebff"
+><polygon points="8.93 17.19 18 11.35 16.99 10.17 8.93 15.33 8.93 17.19" fill="url(#bd8f618b-4f2f-4cb7-aff0-2fd2d211326d)"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="66" x="30" y="83.9492">Azure Active</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="48" x="40.5" y="99.9102">Directory</text><!--MD5=[590abb867b8782e950f9a6353c391db3]
+entity AzureADDomainServices--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="117" x="144" y="7"/> --><svg x="175.5" y="17"><g transform="scale(3,3)" ><defs><linearGradient id="f92ae47d-0835-4bac-a4f5-649f41e19a24" x1="13.25" y1="13.06" x2="8.62" y2="4.29" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1988d9"
+><stop offset="0.9" stop-color="#54aef0"
+></linearGradient><linearGradient id="f418fd20-54c9-41f7-a889-8b791ff60efa" x1="11.26" y1="10.51" x2="14.46" y2="16.03" gradientUnits="userSpaceOnUse"><stop offset="0.1" stop-color="#54aef0"
+><stop offset="0.29" stop-color="#4fabee"
+><stop offset="0.51" stop-color="#41a2e9"
+><stop offset="0.74" stop-color="#2a93e0"
+><stop offset="0.88" stop-color="#1988d9"
+></linearGradient></defs><title>Icon-identity-222</title><polygon points="1.01 10.23 8.93 15.37 16.99 10.21 18 11.38 8.93 17.23 0 11.39 1.01 10.23" fill="#50e6ff"
+><polygon points="1.61 9.57 8.93 0.85 16.4 9.58 8.93 14.3 1.61 9.57" fill="#fff"
+><polygon points="8.93 0.85 8.93 14.3 1.61 9.57 8.93 0.85" fill="#50e6ff"
+><polygon points="8.93 0.85 8.93 14.3 16.4 9.58 8.93 0.85" fill="url(#f92ae47d-0835-4bac-a4f5-649f41e19a24)"
+><polygon points="8.93 7.8 16.4 9.58 8.93 14.3 8.93 7.8" fill="#53b1e0"
+><polygon points="8.93 14.3 1.61 9.57 8.93 7.8 8.93 14.3" fill="#9cebff"
+><polygon points="8.93 17.23 18 11.38 16.99 10.21 8.93 15.37 8.93 17.23" fill="url(#f418fd20-54c9-41f7-a889-8b791ff60efa)"
+><polygon points="13.53 9.04 9.06 15.3 13.53 17.12 18 15.3 13.53 9.04" fill="#773adc"
+><polygon points="13.53 9.04 9.06 15.3 13.53 17.12 13.53 9.04" fill="#f9f9f9" opacity="0.5"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="94" x="154" y="83.9492">Azure AD Domain</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="42" x="181.5" y="99.9102">Services</text><!--MD5=[8a9215782ef381de2b48253b44217c7f]
+entity Groups--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="296.5" y="15"/> --><svg x="306.5" y="25"><g transform="scale(3,3)" ><defs><linearGradient id="f97360fa-fd13-420b-9b43-74b8dde83a11" x1="6.7" y1="7.26" x2="6.7" y2="18.36" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+><stop offset="1" stop-color="#198ab3"
+></linearGradient><linearGradient id="b2ab4071-529d-4450-9443-e6dc0939cc4e" x1="6.42" y1="1.32" x2="7.23" y2="11.39" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+><stop offset="1" stop-color="#198ab3"
+></linearGradient></defs><title>Icon-identity-223</title><path d="M17.22,13.92a.79.79,0,0,0,.8-.79A.28.28,0,0,0,18,13c-.31-2.5-1.74-4.54-4.46-4.54S9.35,10.22,9.07,13a.81.81,0,0,0,.72.88h7.43Z" fill="#0078d4"
+><path d="M13.55,9.09a2.44,2.44,0,0,1-1.36-.4l1.35,3.52,1.33-3.49A2.54,2.54,0,0,1,13.55,9.09Z" fill="#fff" opacity="0.8"
+><circle cx="13.55" cy="6.58" r="2.51" fill="#0078d4"
+><path d="M12.19,16.36a1.19,1.19,0,0,0,1.19-1.19.66.66,0,0,0,0-.14c-.47-3.74-2.6-6.78-6.66-6.78S.44,10.83,0,15a1.2,1.2,0,0,0,1.07,1.31h11.1Z" fill="url(#f97360fa-fd13-420b-9b43-74b8dde83a11)"
+><path d="M6.77,9.14a3.72,3.72,0,0,1-2-.6l2,5.25,2-5.21A3.81,3.81,0,0,1,6.77,9.14Z" fill="#fff" opacity="0.8"
+><circle cx="6.74" cy="5.39" r="3.75" fill="url(#b2ab4071-529d-4450-9443-e6dc0939cc4e)"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="38" x="314.5" y="91.9492">Groups</text><!--MD5=[0c44ec15fe183cfc6b01bb3ed15e9823]
+entity ActiveDirectoryConnectHealth--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="107" x="406" y="7"/> --><svg x="432.5" y="17"><defs><linearGradient id="e042fd95-47e9-47d7-a97e-6414df5d5c10" x1="13.23" y1="12.83" x2="8.6" y2="4.06" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1988d9"
+><stop offset="0.9" stop-color="#54aef0"
+></linearGradient><linearGradient id="ebbd60b7-1e21-4536-af03-7974490dde86" x1="11.23" y1="10.28" x2="14.44" y2="15.8" gradientUnits="userSpaceOnUse"><stop offset="0.1" stop-color="#54aef0"
+><stop offset="0.29" stop-color="#4fabee"
+><stop offset="0.51" stop-color="#41a2e9"
+><stop offset="0.74" stop-color="#2a93e0"
+><stop offset="0.88" stop-color="#1988d9"
+></linearGradient></defs><title>Icon-identity-224</title><g transform="scale(3,3)" ><polygon points="0.99 10 8.9 15.14 16.96 9.98 17.97 11.16 8.9 17 -0.03 11.16 0.99 10" fill="#50e6ff"
+><polygon points="1.58 9.34 8.9 0.62 16.37 9.35 8.9 14.07 1.58 9.34" fill="#fff"
+><polygon points="8.9 0.62 8.9 14.07 1.58 9.34 8.9 0.62" fill="#50e6ff"
+><polygon points="8.9 0.62 8.9 14.07 16.37 9.35 8.9 0.62" fill="url(#e042fd95-47e9-47d7-a97e-6414df5d5c10)"
+><polygon points="8.9 7.57 16.37 9.35 8.9 14.07 8.9 7.57" fill="#53b1e0"
+><polygon points="8.9 14.07 1.58 9.34 8.9 7.57 8.9 14.07" fill="#9cebff"
+><polygon points="8.9 17 17.97 11.16 16.96 9.98 8.9 15.14 8.9 17" fill="url(#ebbd60b7-1e21-4536-af03-7974490dde86)"
+><path d="M13.52,17.38l0,0C17.9,14.24,18,12.45,18,11.89c0-.8-.08-2.88-2.17-3a2.27,2.27,0,0,0-2.33,1.52A2.26,2.26,0,0,0,11.2,8.85C9.11,9,9,11.09,9,11.89c0,.56.13,2.35,4.47,5.46" fill="#f04049"
+><path d="M18,11.57H16a.17.17,0,0,0-.14.08l-.63,1.07a.08.08,0,0,1-.14,0L14.14,11a.16.16,0,0,0-.3,0L13,13.6a.08.08,0,0,1-.15,0l-.76-1.75a.16.16,0,0,0-.29,0l-1,1.82a.16.16,0,0,1-.15.09H9.69a7.13,7.13,0,0,0,.48.65H11a.17.17,0,0,0,.14-.09L11.85,13l1,2.19a.16.16,0,0,0,.3,0l1-2.93L15,13.92a.16.16,0,0,0,.28,0l1-1.62a.17.17,0,0,1,.14-.08H18" fill="#fff"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="84" x="416" y="83.9492">Active Directory</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="83" x="418" y="99.9102">Connect Health</text><!--MD5=[608b8f0f243dbf5d3fd861dd0320b903]
+entity EnterpriseApplications--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="86" x="21.5" y="173"/> --><svg x="37.5" y="183"><defs><linearGradient id="b715ec20-95db-414c-982b-71456fb0c9ab" x1="-6784.85" y1="1118.78" x2="-6784.85" y2="1089.98" gradientTransform="matrix(0.5, 0, 0, -0.5, 3400.41, 559.99)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5ea0ef"
+><stop offset="0.18" stop-color="#589eed"
+><stop offset="0.41" stop-color="#4897e9"
+><stop offset="0.66" stop-color="#2e8ce1"
+><stop offset="0.94" stop-color="#0a7cd7"
+><stop offset="1" stop-color="#0078d4"
+></linearGradient><linearGradient id="f7e46209-f134-49aa-a850-2e9a1b04fba6" x1="-1.47" y1="14.91" x2="17.16" y2="14.8" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#449cdd" stop-opacity="0.15"
+><stop offset="0.16" stop-color="#2870ab" stop-opacity="0"
+><stop offset="0.18" stop-color="#2469a3" stop-opacity="0.06"
+><stop offset="0.23" stop-color="#1a5991" stop-opacity="0.19"
+><stop offset="0.28" stop-color="#144f86" stop-opacity="0.27"
+><stop offset="0.34" stop-color="#124c82" stop-opacity="0.3"
+><stop offset="0.76" stop-color="#002851" stop-opacity="0.35"
+><stop offset="0.9" stop-color="#2f7ab6" stop-opacity="0"
+><stop offset="1" stop-color="#449cdd" stop-opacity="0"
+></linearGradient><clipPath id="b36c7b72-34c8-47c6-ac8b-a96783f174f2"><circle cx="13.26" cy="13.27" r="4.16" fill="none"
+></clipPath></defs><title>Icon-identity-225</title><path d="M5.61,10.65H9.94V15H5.61Zm-5-5.76H4.89V.57H1.17a.6.6,0,0,0-.6.6ZM1.17,15H4.89V10.65H.57v3.72A.6.6,0,0,0,1.17,15Zm-.6-5H4.89V5.61H.57Zm10.09,5h3.72a.6.6,0,0,0,.6-.6V10.65H10.66Zm-5-5H9.94V5.61H5.61Zm5.05,0H15V5.61H10.66Zm0-9.36V4.89H15V1.17a.6.6,0,0,0-.6-.6Zm-5,4.32H9.94V.57H5.61Z" fill="url(#b715ec20-95db-414c-982b-71456fb0c9ab)"
+><path d="M10.66,15h4.15a.59.59,0,0,1-.18-.29h-4Z" opacity="0.95" fill="url(#f7e46209-f134-49aa-a850-2e9a1b04fba6)"
+><circle cx="13.26" cy="13.27" r="4.16" fill="#32bedd"
+><g transform="scale(3,3)"  clip-path="url(#b36c7b72-34c8-47c6-ac8b-a96783f174f2)"><path d="M17.06,13.87c-.21.11-.51.05-.65.16a1.6,1.6,0,0,0-.63.66c0,.06,0,.15-.07.18-.28.19-.56.39-.3.81-.3,0-.2-.27-.34-.35a.77.77,0,0,0-1.06.54.34.34,0,0,0,.16.37.26.26,0,0,0,.36-.12.18.18,0,0,1,.26-.06c0,.16-.28.45.18.46.12,0,.09.14.06.23s.06.24.19.3,0,0,0,.05,0,0,0,0c-.37,0-.45-.45-.81-.5a4.28,4.28,0,0,1-.43-.14c-.27-.09-.58-.14-.64-.54a.77.77,0,0,0-.36-.49c-.12-.08-.19-.23-.31-.32a1,1,0,0,0-.22-.36.94.94,0,0,1-.14-.87,2.32,2.32,0,0,0-.1-1.68c-.1-.32-.12-.65-.48-.86s-.3.12-.44.05-.22.13-.26.15c-.29.08-.54.33-.91.29.14-.07.25-.11.35-.17s.29-.14.07-.38-.14-.59.45-.83c-.05-.14-.41-.11-.25-.37s.28-.13.43,0c.1-.19-.12-.43.05-.54a2.86,2.86,0,0,1,.72-.29.25.25,0,0,1,.34.11c.18.28.54.33.72.61.05.09.15,0,.22,0,.41-.14.68.12,1,.33s.27.34.53.31a.49.49,0,0,1,.21,0c.16.07.31.11.43-.06a.3.3,0,0,0,.26-.23c.06-.09.09-.22.24-.16A1.15,1.15,0,0,0,16,11c.13-.1.26-.16.11-.39a.37.37,0,0,1,.25-.56.54.54,0,0,1,.63.23c.19.34.25.73.47,1,.07.09,0,.13,0,.2s-.18,0-.28-.06l.07.43a.66.66,0,0,1-.82-.25c0-.12,0-.17.12-.23s.19-.11.19-.24a.19.19,0,0,0-.1-.2c-.08,0-.13,0-.15.09s-.33.25-.28.53-.19.22-.33.14c-.33-.17-.45.13-.59.29s0,.34.16.46.31.21.37.4a.88.88,0,0,0,.29-.58c0-.18.07-.43.32-.46a.43.43,0,0,1,.44.28c.05.11.13.12.23.13a8.79,8.79,0,0,1,.54,1.52l-.37-.05c0-.29-.25-.16-.39-.22C16.84,13.64,17.07,13.69,17.06,13.87Z" fill="#b4ec36"
+><path d="M15.62,10.27c-.13-.12-.27-.23-.06-.4s.2-.29.3,0A.37.37,0,0,1,15.62,10.27Z" fill="#b4ec36"
+><path d="M15.93,9.87c.11-.11.25-.1.27,0s-.13.19-.26.23S15.85,10,15.93,9.87Z" fill="#b4ec36"
+><path d="M15.16,8.94,14.81,9c0-.25.25-.27.42-.23S15.21,8.89,15.16,8.94Z" fill="#b4ec36"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="52" x="37" y="249.9492">Enterprise</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="66" x="31.5" y="265.9102">Applications</text><!--MD5=[d611d087c28c71fa091ebd52295d0890]
+entity ManagedIdentities--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="142.5" y="173"/> --><svg x="152.5" y="183"><defs><linearGradient id="bb67b154-af8f-4a53-a9ce-aa046b9398e9" x1="13.18" y1="13.01" x2="8.63" y2="4.38" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1988d9"
+><stop offset="0.9" stop-color="#54aef0"
+></linearGradient><linearGradient id="a47d7138-084a-471d-8d63-744e75b9e8a3" x1="11.22" y1="10.5" x2="14.37" y2="15.93" gradientUnits="userSpaceOnUse"><stop offset="0.1" stop-color="#54aef0"
+><stop offset="0.29" stop-color="#4fabee"
+><stop offset="0.51" stop-color="#41a2e9"
+><stop offset="0.74" stop-color="#2a93e0"
+><stop offset="0.88" stop-color="#1988d9"
+></linearGradient></defs><title>Icon-identity-227</title><g transform="scale(3,3)" ><polygon points="1.15 10.22 8.93 15.27 16.85 10.21 17.85 11.36 8.93 17.11 0.15 11.37 1.15 10.22" fill="#50e6ff"
+><polygon points="1.73 9.58 8.93 1 16.28 9.59 8.93 14.23 1.73 9.58" fill="#fff"
+><polygon points="8.93 1 8.93 14.23 1.73 9.58 8.93 1" fill="#50e6ff"
+><polygon points="8.93 1 8.93 14.23 16.28 9.59 8.93 1" fill="url(#bb67b154-af8f-4a53-a9ce-aa046b9398e9)"
+><polygon points="8.93 7.83 16.28 9.59 8.93 14.23 8.93 7.83" fill="#53b1e0"
+><polygon points="8.93 14.23 1.73 9.58 8.93 7.83 8.93 14.23" fill="#9cebff"
+><polygon points="8.93 17.11 17.85 11.36 16.85 10.21 8.93 15.27 8.93 17.11" fill="url(#a47d7138-084a-471d-8d63-744e75b9e8a3)"
+><g><path id="e189a61f-631a-4122-bb2b-079e86004d96" d="M16.32,11.88a1.16,1.16,0,0,0,0-1.65h0l-2-2a1.16,1.16,0,0,0-1.64,0h0l-2,2a1.18,1.18,0,0,0,0,1.65l1.67,1.67a.32.32,0,0,1,.09.23v3.1a.36.36,0,0,0,.12.28l.76.76a.25.25,0,0,0,.37,0l.73-.73h0l.44-.44a.15.15,0,0,0,0-.21l-.31-.31a.16.16,0,0,1,0-.24l.31-.31a.16.16,0,0,0,0-.22l-.31-.31a.15.15,0,0,1,0-.23l.31-.32a.15.15,0,0,0,0-.21l-.44-.44v-.16ZM13.5,8.71a.66.66,0,1,1-.66.66.66.66,0,0,1,.66-.66Z" fill="#ffca00"
+><path id="fb7033ee-4650-4886-80c7-eddf62560f85" d="M13,17h0a.14.14,0,0,0,.24-.11V14.33a.16.16,0,0,0-.06-.13h0a.14.14,0,0,0-.22.13v2.51A.15.15,0,0,0,13,17Z" fill="#ff9300" opacity="0.75"
+><rect id="b166b8c2-b9ee-4c3d-bf7a-77bd5ce0570b" x="11.9" y="10.9" width="3.29" height="0.39" rx="0.18" fill="#ff9300" opacity="0.75"
+><rect id="baf437fe-3483-4a25-94ba-1e84a64cd2eb" x="11.9" y="11.53" width="3.29" height="0.39" rx="0.18" fill="#ff9300" opacity="0.75"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="50" x="153" y="249.9492">Managed</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="48" x="155.5" y="265.9102">Identities</text><!--MD5=[7df04185dd25b28653749220abe41fa8]
+entity AzureADB2C--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="93" x="252" y="181"/> --><svg x="271.5" y="191"><defs><linearGradient id="ae0c4e08-2440-488c-bae1-6509c7a4ef07" x1="13.25" y1="12.83" x2="8.62" y2="4.06" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1988d9"
+><stop offset="0.9" stop-color="#54aef0"
+></linearGradient></defs><g transform="scale(3,3)" ><polygon points="1.01 10.01 8.93 15.14 16.99 9.99 18 11.16 8.93 17.01 0 11.17 1.01 10.01" fill="#50e6ff"
+><polygon points="1.61 9.35 8.93 0.62 16.4 9.36 8.93 14.08 1.61 9.35" fill="#fff"
+><polygon points="8.93 0.62 8.93 14.08 1.61 9.35 8.93 0.62" fill="#50e6ff"
+><polygon points="8.93 0.62 8.93 14.08 16.4 9.36 8.93 0.62" fill="url(#ae0c4e08-2440-488c-bae1-6509c7a4ef07)"
+><polygon points="8.93 7.57 16.4 9.36 8.93 14.08 8.93 7.57" fill="#53b1e0"
+><polygon points="8.93 14.08 1.61 9.35 8.93 7.57 8.93 14.08" fill="#9cebff"
+><polygon points="8.93 17.01 18 11.16 16.99 9.99 8.93 15.14 8.93 17.01" fill="#5ea0ef"
+><path d="M17.45,16a.44.44,0,0,0,.44-.44v0a2.5,2.5,0,0,0-2.45-2.5c-1.53,0-2.32.95-2.47,2.5a.45.45,0,0,0,.39.49h4.09Z" fill="#773adc"
+><path d="M15.44,13.38a1.35,1.35,0,0,1-.75-.22l.74,1.93.73-1.92A1.38,1.38,0,0,1,15.44,13.38Z" fill="#fff" opacity="0.8"
+><circle cx="15.44" cy="12" r="1.38" fill="#773adc"
+><path d="M14.68,17.38a.65.65,0,0,0,.66-.66v-.08c-.26-2.05-1.43-3.73-3.67-3.73S8.22,14.33,8,16.65a.65.65,0,0,0,.58.72h6.11Z" fill="#a67af4"
+><path d="M11.7,13.4a2,2,0,0,1-1.11-.33L11.69,16l1.1-2.87A2,2,0,0,1,11.7,13.4Z" fill="#fff" opacity="0.8"
+><circle cx="11.69" cy="11.34" r="2.06" fill="#a67af4"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="73" x="262" y="257.9492">Azure AD B2C</text><!--MD5=[feb5939ce823acf5a8245c3205b3c7a1]
+entity Users--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="380.5" y="181"/> --><svg x="390.5" y="191"><g transform="scale(3,3)" ><defs><linearGradient id="be92901b-ec33-4c65-adf1-9b0eed06d677" x1="9" y1="6.88" x2="9" y2="20.45" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+><stop offset="1" stop-color="#198ab3"
+></linearGradient><linearGradient id="b46fc246-25d8-4398-8779-1042e8cacae7" x1="8.61" y1="-0.4" x2="9.6" y2="11.92" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+><stop offset="1" stop-color="#198ab3"
+></linearGradient></defs><title>Icon-identity-230</title><path d="M15.72,18a1.45,1.45,0,0,0,1.45-1.45.47.47,0,0,0,0-.17C16.59,11.81,14,8.09,9,8.09S1.34,11.24.83,16.39A1.46,1.46,0,0,0,2.14,18H15.72Z" fill="url(#be92901b-ec33-4c65-adf1-9b0eed06d677)"
+><path d="M9,9.17a4.59,4.59,0,0,1-2.48-.73L9,14.86l2.44-6.38A4.53,4.53,0,0,1,9,9.17Z" fill="#fff" opacity="0.8"
+><circle cx="9.01" cy="4.58" r="4.58" fill="url(#b46fc246-25d8-4398-8779-1042e8cacae7)"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="28" x="403.5" y="257.9492">Users</text><!--MD5=[ee2a4582dc7d42b27b20cfece5483785]
+entity AzureADIdentityProtection--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="115" x="7" y="339"/> --><svg x="37.5" y="349"><g transform="scale(3,3)" ><defs><linearGradient id="b371e9d4-03ce-4242-9f79-d5a269ffcb88" x1="8.21" y1="5.16" x2="12.34" y2="11.42" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f9a11f"
+><stop offset="0.02" stop-color="#f89f1f"
+><stop offset="0.39" stop-color="#f28721"
+><stop offset="0.72" stop-color="#ed7823"
+><stop offset="1" stop-color="#ec7323"
+></linearGradient><linearGradient id="a1794fd5-e1a9-408f-9605-810ce38ab87a" x1="11.09" y1="11.03" x2="16.27" y2="18.1" href="#b371e9d4-03ce-4242-9f79-d5a269ffcb88"
+></defs><title>Icon-identity-231</title><polygon points="1.01 10.19 8.93 15.33 16.99 10.17 18 11.35 8.93 17.19 0 11.35 1.01 10.19" fill="#faa21d"
+><polygon points="1.61 9.53 8.93 0.81 16.4 9.54 8.93 14.26 1.61 9.53" fill="#fff"
+><polygon points="8.93 0.81 8.93 14.26 1.61 9.53 8.93 0.81" fill="#f78d1e"
+><polygon points="8.93 0.81 8.93 14.26 16.4 9.54 8.93 0.81" fill="url(#b371e9d4-03ce-4242-9f79-d5a269ffcb88)"
+><polygon points="8.93 7.76 16.4 9.54 8.93 14.26 8.93 7.76" fill="#f78d1e"
+><polygon points="8.93 14.26 1.61 9.53 8.93 7.76 8.93 14.26" fill="#faa21d"
+><polygon points="8.93 17.19 18 11.35 16.99 10.17 8.93 15.33 8.93 17.19" fill="url(#a1794fd5-e1a9-408f-9605-810ce38ab87a)"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="92" x="17" y="415.9492">Azure AD Identity</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="55" x="37" y="431.9102">Protection</text><!--MD5=[01155979f3c0e3b99bd48b32832b9605]
+entity AppRegistrations--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="113" x="157" y="347"/> --><svg x="186.5" y="357"><g transform="scale(3,3)" ><defs><linearGradient id="efeb8e96-2af0-4681-9a6a-45f9b0262f19" x1="-6518.78" y1="1118.86" x2="-6518.78" y2="1090.06" gradientTransform="matrix(0.5, 0, 0, -0.5, 3267.42, 559.99)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5ea0ef"
+><stop offset="0.18" stop-color="#589eed"
+><stop offset="0.41" stop-color="#4897e9"
+><stop offset="0.66" stop-color="#2e8ce1"
+><stop offset="0.94" stop-color="#0a7cd7"
+><stop offset="1" stop-color="#0078d4"
+></linearGradient></defs><title>Icon-identity-232</title><path d="M5.67,10.61H10v4.32H5.67Zm-5-5.76H5V.53H1.23a.6.6,0,0,0-.6.6Zm.6,10.08H5V10.61H.63v3.72A.6.6,0,0,0,1.23,14.93Zm-.6-5H5V5.57H.63Zm10.08,5h3.72a.6.6,0,0,0,.6-.6V10.61H10.71Zm-5-5H10V5.57H5.67Zm5,0H15V5.57H10.71Zm0-9.36V4.85H15V1.13a.6.6,0,0,0-.6-.6Zm-5,4.32H10V.53H5.67Z" fill="url(#efeb8e96-2af0-4681-9a6a-45f9b0262f19)"
+><polygon points="17.37 10.7 17.37 15.21 13.5 17.47 13.5 12.96 17.37 10.7" fill="#32bedd"
+><polygon points="17.37 10.7 13.5 12.97 9.63 10.7 13.5 8.44 17.37 10.7" fill="#9cebff"
+><polygon points="13.5 12.97 13.5 17.47 9.63 15.21 9.63 10.7 13.5 12.97" fill="#50e6ff"
+><polygon points="9.63 15.21 13.5 12.96 13.5 17.47 9.63 15.21" fill="#9cebff"
+><polygon points="17.37 15.21 13.5 12.96 13.5 17.47 17.37 15.21" fill="#50e6ff"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="93" x="167" y="423.9492">App Registrations</text><!--MD5=[c6e54adac02589bd06253394194e6683]
+entity IdentityGovernance--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="83" x="305" y="339"/> --><svg x="319.5" y="349"><defs><linearGradient id="f13c7428-fd1f-409a-aa83-518164fbbc0c" x1="9" y1="7.11" x2="9" y2="14.2" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#a67af4"
+><stop offset="1" stop-color="#552f99"
+></linearGradient><linearGradient id="a6b01360-3b65-4cb5-8c1b-eed2f64af70c" x1="8.8" y1="3.31" x2="9.32" y2="9.75" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#a67af4"
+><stop offset="1" stop-color="#552f99"
+></linearGradient></defs><title>Icon-identity-235</title><g transform="scale(3,3)" ><path d="M2.15,11.75a7.34,7.34,0,0,1,1-7.2,1.94,1.94,0,0,1-.7-.83,8.48,8.48,0,0,0-1.17,8.6A3.1,3.1,0,0,1,2.15,11.75ZM5.94,1.14a3.14,3.14,0,0,1,.62.9A7.5,7.5,0,0,1,9,1.61,7.33,7.33,0,0,1,13.33,3a2.15,2.15,0,0,1,.55-.69h0L14,2.22A8.44,8.44,0,0,0,5.94,1.14Zm9.91,5.12a7.32,7.32,0,0,1-1,7.19,2,2,0,0,1,.43.4,1.94,1.94,0,0,1,.27.43,8.48,8.48,0,0,0,1.17-8.6A3.13,3.13,0,0,1,15.85,6.26ZM11.44,16A7.25,7.25,0,0,1,9,16.39H9A7.32,7.32,0,0,1,4.67,15a2.05,2.05,0,0,1-.55.69h0L4,15.78a8.48,8.48,0,0,0,8.09,1.09A3.13,3.13,0,0,1,11.44,16Z" fill="#0078d4"
+><path d="M5.18,1.87a2.09,2.09,0,1,1-3,0,2.09,2.09,0,0,1,3,0Z" fill="#32bedd"
+><path d="M4.42,4.07a1,1,0,0,0,0-1.45A1,1,0,0,0,3,2.62,1,1,0,0,0,3,4.07H3a1,1,0,0,0,1.44,0" fill="#fff"
+><path d="M13.18,1.87a2.09,2.09,0,1,1,0,3,2.09,2.09,0,0,1,0-2.95Z" fill="#32bedd"
+><path d="M15.38,2.62a1,1,0,1,0,0,1.45h0a1,1,0,0,0,0-1.45" fill="#fff"
+><path d="M12.82,16.13a2.09,2.09,0,1,1,3,0,2.09,2.09,0,0,1-3,0Z" fill="#32bedd"
+><path d="M13.58,13.93a1,1,0,0,0,0,1.45,1,1,0,0,0,1.44,0,1,1,0,0,0,0-1.45h0a1,1,0,0,0-1.44,0" fill="#fff"
+><path d="M4.82,16.13a2.09,2.09,0,1,1,0-2.95,2.09,2.09,0,0,1,0,2.95Z" fill="#32bedd"
+><path d="M2.62,15.38a1,1,0,1,0,0-1.45h0a1,1,0,0,0,0,1.45" fill="#fff"
+><path d="M12.51,12.92a.76.76,0,0,0,.76-.76v-.09C13,9.69,11.61,7.74,9,7.74S5,9.39,4.74,12.08a.76.76,0,0,0,.68.84h7.09Z" fill="url(#f13c7428-fd1f-409a-aa83-518164fbbc0c)"
+><path d="M9,8.31a2.41,2.41,0,0,1-1.3-.38L9,11.28,10.27,8A2.37,2.37,0,0,1,9,8.31Z" fill="#fff" opacity="0.8"
+><circle cx="9.01" cy="5.92" r="2.39" fill="url(#a6b01360-3b65-4cb5-8c1b-eed2f64af70c)"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="40" x="325" y="415.9492">Identity</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="63" x="315" y="431.9102">Governance</text><!--MD5=[351b36d3f96197f9750209424f026ef7]
+link AzureActiveDirectory to AzureADDomainServices--><!--MD5=[f0a16a02b2608f2401a48c191380d073]
+link AzureADDomainServices to Groups--><!--MD5=[0518154f7135484642fb99acb4cf9517]
+link Groups to ActiveDirectoryConnectHealth--><!--MD5=[8f930478bd1224bba8b416761146fe3e]
+link AzureActiveDirectory to EnterpriseApplications--><!--MD5=[01eb791d2a0e55102053a8e7beb09392]
+link EnterpriseApplications to ManagedIdentities--><!--MD5=[17d3610ba7a4d83d5823a9b73f940af4]
+link ManagedIdentities to AzureADB2C--><!--MD5=[b09e8eb069e94254610901f5a91ea26c]
+link AzureADB2C to Users--><!--MD5=[cc26d415b934c1eca59b394aca7a2592]
+link EnterpriseApplications to AzureADIdentityProtection--><!--MD5=[49a57ec3d03e1d806f4f586a132e5c89]
+link AzureADIdentityProtection to AppRegistrations--><!--MD5=[ee7511dfeed203148532dab344ce6cab]
+link AppRegistrations to IdentityGovernance--><!--MD5=[b45624a51c8f934fda1743f2cf63677d]
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $AzureActiveDirectory Identity/10221-icon-service-Azure-Active-Directory.svg
+rectangle "Azure Active Directory" <<$AzureActiveDirectory{scale=3}>> as AzureActiveDirectory
+sprite $AzureADDomainServices Identity/10222-icon-service-Azure-AD-Domain-Services.svg
+rectangle "Azure AD Domain Services" <<$AzureADDomainServices{scale=3}>> as AzureADDomainServices
+sprite $Groups Identity/10223-icon-service-Groups.svg
+rectangle "Groups" <<$Groups{scale=3}>> as Groups
+sprite $ActiveDirectoryConnectHealth Identity/10224-icon-service-Active-Directory-Connect-Health.svg
+rectangle "Active Directory Connect Health" <<$ActiveDirectoryConnectHealth{scale=3}>> as ActiveDirectoryConnectHealth
+sprite $EnterpriseApplications Identity/10225-icon-service-Enterprise-Applications.svg
+rectangle "Enterprise Applications" <<$EnterpriseApplications{scale=3}>> as EnterpriseApplications
+sprite $ManagedIdentities Identity/10227-icon-service-Managed-Identities.svg
+rectangle "Managed Identities" <<$ManagedIdentities{scale=3}>> as ManagedIdentities
+sprite $AzureADB2C Identity/10228-icon-service-Azure-AD-B2C.svg
+rectangle "Azure AD B2C" <<$AzureADB2C{scale=3}>> as AzureADB2C
+sprite $Users Identity/10230-icon-service-Users.svg
+rectangle "Users" <<$Users{scale=3}>> as Users
+sprite $AzureADIdentityProtection Identity/10231-icon-service-Azure-AD-Identity-Protection.svg
+rectangle "Azure AD Identity Protection" <<$AzureADIdentityProtection{scale=3}>> as AzureADIdentityProtection
+sprite $AppRegistrations Identity/10232-icon-service-App-Registrations.svg
+rectangle "App Registrations" <<$AppRegistrations{scale=3}>> as AppRegistrations
+sprite $IdentityGovernance Identity/10235-icon-service-Identity-Governance.svg
+rectangle "Identity Governance" <<$IdentityGovernance{scale=3}>> as IdentityGovernance
+@enduml
+
+@startuml
+!pragma revision 1
+
+
+skinparam defaultTextAlignment center
+skinparam defaultFontName Segoe UI
+skinparam defaultBackgroundColor white
+skinparam RectangleBackgroundColor white
+skinparam RectangleBorderColor #3C7FC0
+skinparam WrapWidth 100
+
+skinparam rectangle {
+    FontSize 12
+    BorderThickness 1
+    Shadowing false
+}
+sprite $AzureActiveDirectory Identity/10221-icon-service-Azure-Active-Directory.svg
+rectangle "Azure Active Directory" <<$AzureActiveDirectory{scale=3}>> as AzureActiveDirectory
+sprite $AzureADDomainServices Identity/10222-icon-service-Azure-AD-Domain-Services.svg
+rectangle "Azure AD Domain Services" <<$AzureADDomainServices{scale=3}>> as AzureADDomainServices
+sprite $Groups Identity/10223-icon-service-Groups.svg
+rectangle "Groups" <<$Groups{scale=3}>> as Groups
+sprite $ActiveDirectoryConnectHealth Identity/10224-icon-service-Active-Directory-Connect-Health.svg
+rectangle "Active Directory Connect Health" <<$ActiveDirectoryConnectHealth{scale=3}>> as ActiveDirectoryConnectHealth
+sprite $EnterpriseApplications Identity/10225-icon-service-Enterprise-Applications.svg
+rectangle "Enterprise Applications" <<$EnterpriseApplications{scale=3}>> as EnterpriseApplications
+sprite $ManagedIdentities Identity/10227-icon-service-Managed-Identities.svg
+rectangle "Managed Identities" <<$ManagedIdentities{scale=3}>> as ManagedIdentities
+sprite $AzureADB2C Identity/10228-icon-service-Azure-AD-B2C.svg
+rectangle "Azure AD B2C" <<$AzureADB2C{scale=3}>> as AzureADB2C
+sprite $Users Identity/10230-icon-service-Users.svg
+rectangle "Users" <<$Users{scale=3}>> as Users
+sprite $AzureADIdentityProtection Identity/10231-icon-service-Azure-AD-Identity-Protection.svg
+rectangle "Azure AD Identity Protection" <<$AzureADIdentityProtection{scale=3}>> as AzureADIdentityProtection
+sprite $AppRegistrations Identity/10232-icon-service-App-Registrations.svg
+rectangle "App Registrations" <<$AppRegistrations{scale=3}>> as AppRegistrations
+sprite $IdentityGovernance Identity/10235-icon-service-Identity-Governance.svg
+rectangle "Identity Governance" <<$IdentityGovernance{scale=3}>> as IdentityGovernance
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 02:25:05 PST 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

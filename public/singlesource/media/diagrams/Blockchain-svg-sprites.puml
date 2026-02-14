@@ -1,0 +1,14 @@
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $OutboundConnection ../../media/icons/Blockchain/10364-icon-service-Outbound-Connection.svg
+rectangle "Outbound Connection" <<$OutboundConnection{scale=3}>> as OutboundConnection
+sprite $AzureBlockchainService ../../media/icons/Blockchain/10366-icon-service-Azure-Blockchain-Service.svg
+rectangle "Azure Blockchain Service" <<$AzureBlockchainService{scale=3}>> as AzureBlockchainService
+sprite $AzureTokenService ../../media/icons/Blockchain/10367-icon-service-Azure-Token-Service.svg
+rectangle "Azure Token Service" <<$AzureTokenService{scale=3}>> as AzureTokenService
+sprite $ABSMember ../../media/icons/Blockchain/10374-icon-service-ABS-Member.svg
+rectangle "ABS Member" <<$ABSMember{scale=3}>> as ABSMember
+sprite $Consortium ../../media/icons/Blockchain/10375-icon-service-Consortium.svg
+rectangle "Consortium" <<$Consortium{scale=3}>> as Consortium
+@enduml

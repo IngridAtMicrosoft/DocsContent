@@ -1,0 +1,26 @@
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $AzureActiveDirectory ../../media/icons/Identity/10221-icon-service-Azure-Active-Directory.svg
+rectangle "Azure Active Directory" <<$AzureActiveDirectory{scale=3}>> as AzureActiveDirectory
+sprite $AzureADDomainServices ../../media/icons/Identity/10222-icon-service-Azure-AD-Domain-Services.svg
+rectangle "Azure AD Domain Services" <<$AzureADDomainServices{scale=3}>> as AzureADDomainServices
+sprite $Groups ../../media/icons/Identity/10223-icon-service-Groups.svg
+rectangle "Groups" <<$Groups{scale=3}>> as Groups
+sprite $ActiveDirectoryConnectHealth ../../media/icons/Identity/10224-icon-service-Active-Directory-Connect-Health.svg
+rectangle "Active Directory Connect Health" <<$ActiveDirectoryConnectHealth{scale=3}>> as ActiveDirectoryConnectHealth
+sprite $EnterpriseApplications ../../media/icons/Identity/10225-icon-service-Enterprise-Applications.svg
+rectangle "Enterprise Applications" <<$EnterpriseApplications{scale=3}>> as EnterpriseApplications
+sprite $ManagedIdentities ../../media/icons/Identity/10227-icon-service-Managed-Identities.svg
+rectangle "Managed Identities" <<$ManagedIdentities{scale=3}>> as ManagedIdentities
+sprite $AzureADB2C ../../media/icons/Identity/10228-icon-service-Azure-AD-B2C.svg
+rectangle "Azure AD B2C" <<$AzureADB2C{scale=3}>> as AzureADB2C
+sprite $Users ../../media/icons/Identity/10230-icon-service-Users.svg
+rectangle "Users" <<$Users{scale=3}>> as Users
+sprite $AzureADIdentityProtection ../../media/icons/Identity/10231-icon-service-Azure-AD-Identity-Protection.svg
+rectangle "Azure AD Identity Protection" <<$AzureADIdentityProtection{scale=3}>> as AzureADIdentityProtection
+sprite $AppRegistrations ../../media/icons/Identity/10232-icon-service-App-Registrations.svg
+rectangle "App Registrations" <<$AppRegistrations{scale=3}>> as AppRegistrations
+sprite $IdentityGovernance ../../media/icons/Identity/10235-icon-service-Identity-Governance.svg
+rectangle "Identity Governance" <<$IdentityGovernance{scale=3}>> as IdentityGovernance
+@enduml

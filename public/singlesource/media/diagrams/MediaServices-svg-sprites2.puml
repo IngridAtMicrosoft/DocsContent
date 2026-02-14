@@ -1,0 +1,48 @@
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $VideoIndexer ../../media/icons/MediaServices/00310-icon-resourcemenu-VideoIndexer.svg
+rectangle "VideoIndexer" <<$VideoIndexer{scale=5}>> as VideoIndexer
+sprite $Encoding ../../media/icons/MediaServices/00311-icon-resourcemenu-Encoding.svg
+rectangle "Encoding" <<$Encoding{scale=5}>> as Encoding
+sprite $LiveStreaming ../../media/icons/MediaServices/00312-icon-resourcemenu-LiveStreaming.svg
+rectangle "LiveStreaming" <<$LiveStreaming{scale=5}>> as LiveStreaming
+sprite $APIAccess ../../media/icons/MediaServices/00313-icon-resourcemenu-APIAccess.svg
+rectangle "APIAccess" <<$APIAccess{scale=5}>> as APIAccess
+sprite $PackagingAndOrigin ../../media/icons/MediaServices/00314-icon-resourcemenu-PackagingAndOrigin.svg
+rectangle "PackagingAndOrigin" <<$PackagingAndOrigin{scale=5}>> as PackagingAndOrigin
+sprite $LiveVideoAnalytics2 ../../media/icons/MediaServices/00712-icon-resourcemenu-Live-Video-Analytics-2.svg
+rectangle "Live Video Analytics 2" <<$LiveVideoAnalytics2{scale=5}>> as LiveVideoAnalytics2
+sprite $SetupLiveStreaming ../../media/icons/MediaServices/00942-illustration-AMS-Setup-Live-Streaming.svg
+rectangle "Setup Live Streaming" <<$SetupLiveStreaming{scale=5}>> as SetupLiveStreaming
+sprite $CreateLiveEvent ../../media/icons/MediaServices/00943-illustration-AMS-Create-Live-Event.svg
+rectangle "Create Live Event" <<$CreateLiveEvent{scale=5}>> as CreateLiveEvent
+sprite $PreviewAndStartStreaming ../../media/icons/MediaServices/00944-illustration-AMS-Preview-And-Start-Streaming.svg
+rectangle "Preview And Start Streaming" <<$PreviewAndStartStreaming{scale=5}>> as PreviewAndStartStreaming
+sprite $AMSStreamingEndpoint ../../media/icons/MediaServices/01799-icon-menu-AMS-Streaming-Endpoint.svg
+rectangle "AMS Streaming Endpoint" <<$AMSStreamingEndpoint{scale=5}>> as AMSStreamingEndpoint
+sprite $IndexVideo ../../media/icons/MediaServices/01800-icon-AMS-Index-Video.svg
+rectangle "Index Video" <<$IndexVideo{scale=5}>> as IndexVideo
+sprite $FaceDetection ../../media/icons/MediaServices/01801-icon-AMS-Face-Detection.svg
+rectangle "Face Detection" <<$FaceDetection{scale=5}>> as FaceDetection
+sprite $AMSTransformJobs ../../media/icons/MediaServices/02067-icon-menu-AMS-Transform Jobs.svg
+rectangle "AMS Transform Jobs" <<$AMSTransformJobs{scale=5}>> as AMSTransformJobs
+sprite $AMSTransform ../../media/icons/MediaServices/02205-icon-menu-AMS-Transform.svg
+rectangle "AMS Transform" <<$AMSTransform{scale=5}>> as AMSTransform
+sprite $AMSJobs ../../media/icons/MediaServices/02206-icon-menu-AMS-Jobs.svg
+rectangle "AMS Jobs" <<$AMSJobs{scale=5}>> as AMSJobs
+sprite $AMSSelectInput ../../media/icons/MediaServices/HowToEncode-01-SelectInput.svg
+rectangle "AMS Select Input" <<$AMSSelectInput{scale=5}>> as AMSSelectInput
+sprite $AMSCreateJobUsingTransform ../../media/icons/MediaServices/HowToEncode-02-CreateJobUsingTransform.svg
+rectangle "AMS Job Using Transform" <<$AMSCreateJobUsingTransform{scale=5}>> as AMSCreateJobUsingTransform
+sprite $AMSGetEncodedVideos ../../media/icons/MediaServices/HowToEncode-03-GetEncodedVideos.svg
+rectangle "AMS Get Encoded Videos" <<$AMSGetEncodedVideos{scale=5}>> as AMSGetEncodedVideos
+sprite $AMSSelectMultiBitrateAsset ../../media/icons/MediaServices/HowToStream-01-SelectMultiBitrateAsset.svg
+rectangle "AMS Select Multi-Bitrate Asset" <<$AMSSelectMultiBitrateAsset{scale=5}>> as AMSSelectMultiBitrateAsset
+sprite $AMSCreateStreamingLocator ../../media/icons/MediaServices/HowToStream-02-CreateStreamingLocator.svg
+rectangle "AMS Create Streaming Locator" <<$AMSCreateStreamingLocator{scale=5}>> as AMSCreateStreamingLocator
+sprite $AMSViewContent ../../media/icons/MediaServices/HowToStream-03-ViewContent.svg
+rectangle "AMS View Content" <<$AMSViewContent{scale=5}>> as AMSViewContent
+sprite $AMSazuremediaservice ../../media/icons/MediaServices/Icon-web-309-azuremediaservice.svg
+rectangle "AMS Azure Media Services" <<$AMSazuremediaservice{scale=5}>> as AMSazuremediaservice
+@enduml

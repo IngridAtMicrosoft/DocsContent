@@ -1,0 +1,4 @@
+- name: Diagrams
+  href: index.md
+- name: Azure Monitor alerts overview
+  href: alerts-overview.md

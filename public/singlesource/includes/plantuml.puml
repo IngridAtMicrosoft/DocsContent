@@ -1,0 +1,10 @@
+@startuml
+!include AzureCommon.puml
+
+sprite $ActivityLog ../media/icons/ActivityLog.svg
+rectangle "ActivityLog" <<$ActivityLog>> as ActivityLog
+sprite $Activity ../media/icons/Activity.svg
+rectangle "Activity" <<$Activity>> as Activity
+sprite $AdaptiveApplicationControl ../media/icons/AdaptiveApplicationControl.svg
+rectangle "AdaptiveApplicationControl" <<$AdaptiveApplicationControl>> as AdaptiveApplicationControl
+@enduml

@@ -1,7 +1,7 @@
 baseURL = 'https://docscontent.pages.dev/'
 languageCode = 'en-us'
 title = 'DocsContent'
-theme = 'ananke'  # or whichever theme you choose
+theme = 'book'  # or whichever theme you choose
 
 [markup]
   [markup.goldmark]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DocsContent</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on DocsContent</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo/</guid>
+      <description>&lt;h1 id=&#34;test-markdown-content&#34;&gt;Test markdown content&lt;/h1&gt;&#xA;&lt;p&gt;This is a test markdown for setting up Hugo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to Single Source</title>
+      <link>http://localhost:1313/singlesource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/singlesource/</guid>
+      <description>&lt;h1 id=&#34;single-source-introduction&#34;&gt;Single source introduction&lt;/h1&gt;&#xA;&lt;p&gt;This is an experimental repo owned by Ingrid Henkel.&lt;/p&gt;&#xA;&lt;h2 id=&#34;experiments&#34;&gt;Experiments&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PlantUML, and reuse of SVG sprites&lt;/li&gt;&#xA;&lt;li&gt;Integration of GitHub, Sharepoint and DITA&lt;/li&gt;&#xA;&lt;li&gt;Interactive SVGs&lt;/li&gt;&#xA;&lt;li&gt;Developing and testing Learn modules.&lt;/li&gt;&#xA;&lt;li&gt;Anything that would be fun to play with.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;Contact &lt;a href=&#34;mailto:inhenkel@microsoft.com&#34;&gt;inhenkel@microsoft.com&lt;/a&gt; if you have questions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

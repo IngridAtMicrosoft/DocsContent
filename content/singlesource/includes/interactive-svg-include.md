@@ -4,7 +4,6 @@ ms.author: inhenkel
 ms.topic: include
 ms.date: 08/26/2021
 ms.service: azure-monitor
-author: IngridAtMicrosoft
 ---
 
 <Token>
