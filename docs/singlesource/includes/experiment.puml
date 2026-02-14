@@ -1,0 +1,27 @@
+@startuml
+
+' 1. Create the style for our self-named stereotype, "myStyle"
+' Either using skin parameters (note there is no space before <<) ...
+'skinparam ClassBackgroundColor<<myStyle>> LightGreen
+
+' ... or using style sheets (commented out)
+<style>
+.myStyle {
+    BackgroundColor LightGreen
+}
+</style>
+
+class A {
+    +int foo
+}
+
+' 2. Assign the stereotype to one of your elements
+class B <<myStyle>> {
+    +int bar
+}
+
+A - B 
+
+' 3. Optionally hide the stereotype
+hide <<myStyle>> stereotype
+@enduml

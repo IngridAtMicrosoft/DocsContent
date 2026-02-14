@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="0" y="0" width="100" height="100"/>
+  <script>
+
+//Pass variables to the courseware
+function sendMessageToIframe(){
+  console.log('Sending User Name:', userName);
+  console.log('Sending Email Address:', userEmail);
+  var iframe = document.getElementById('ltiContentFrame');
+  iframe.contentWindow.postMessage(JSON.stringify(userName),'https://green-bay-0a20ceb0f.5.azurestaticapps.net');
+  //iframe.contentWindow.postMessage(userEmail,'https://green-bay-0a20ceb0f.5.azurestaticapps.net');
+}
+
+//Load the iframe by grabbing the URL
+document.addEventListener('DOMContentLoaded', function() {
+  console.log("DOMContentLoaded")
+  var iframe = parent.document.getElementById('ltiContentFrame');
+  var anchors = parent.document.querySelectorAll('a');
+  console.log("Getting Storyline content URL for iframe.")
+  // Iterate over each anchor tag
+  anchors.forEach((anchor) => {
+    if (anchor.href.startsWith("https://green-bay-0a20ceb0f")) {
+      //console.log('Found href starting with "cloud.scorm.com":', anchor.href);
+      console.log('Found href starting with "https://green-bay-0a20ceb0f":', anchor.href);
+      iframe.src = anchor.href
+    }
+  });
+});
+
+//Get username and email
+var userName = parent.document.querySelector('#ms--user-display-name').textContent;
+var userEmail = parent.document.querySelector('p[data-profile-property="upn"]').textContent;
+
+console.log('User Name:', userName);
+console.log('Email Address:', userEmail);
+
+  </script>
+</svg>
