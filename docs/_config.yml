@@ -16,8 +16,6 @@ menu:
     url: /templates/index.md
   - title: Copilot
     url: /copilot/copilot-code-review.md
-  - title: Azure Monitor
-    url: /azure-monitor/
   - title: Diagrams
     url: /diagrams/index.md
   - title: Reuse in Graphics
