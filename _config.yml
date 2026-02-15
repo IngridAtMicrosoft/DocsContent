@@ -1,6 +1,6 @@
 title: DocsContent
 description: Microsoft related content portfolio
-theme: pages-themes/minimal@v0.2.0
+theme: pages-themes/tactile@v0.2.0
 markdown: kramdown
 plugins:
 - jekyll-remote-theme
