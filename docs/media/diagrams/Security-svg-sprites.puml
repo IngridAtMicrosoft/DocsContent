@@ -1,0 +1,18 @@
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $AzureDefender ../../media/icons/Security/02247-icon-service-Azure-Defender.svg
+rectangle "Azure Defender" <<$AzureDefender{scale=3}>> as AzureDefender
+sprite $ConditionalAccess ../../media/icons/Security/10233-icon-service-Conditional-Access.svg
+rectangle "Conditional Access" <<$ConditionalAccess{scale=3}>> as ConditionalAccess
+sprite $SecurityCenter ../../media/icons/Security/10241-icon-service-Security-Center.svg
+rectangle "Security Center" <<$SecurityCenter{scale=3}>> as SecurityCenter
+sprite $ApplicationSecurityGroups ../../media/icons/Security/10244-icon-service-Application-Security-Groups.svg
+rectangle "Application Security Groups" <<$ApplicationSecurityGroups{scale=3}>> as ApplicationSecurityGroups
+sprite $KeyVaults ../../media/icons/Security/10245-icon-service-Key-Vaults.svg
+rectangle "Key Vaults" <<$KeyVaults{scale=3}>> as KeyVaults
+sprite $AzureSentinel ../../media/icons/Security/10248-icon-service-Azure-Sentinel.svg
+rectangle "Azure Sentinel" <<$AzureSentinel{scale=3}>> as AzureSentinel
+sprite $ExtendedSecurityUpdates ../../media/icons/Security/10572-icon-service-ExtendedSecurityUpdates.svg
+rectangle "ExtendedSecurityUpdates" <<$ExtendedSecurityUpdates{scale=3}>> as ExtendedSecurityUpdates
+@enduml

@@ -1,0 +1,632 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="964px" preserveAspectRatio="none" style="width:808px;height:964px;" version="1.1" viewBox="0 0 808 964" width="808px" zoomAndPan="magnify"><defs/> --><g><!--MD5=[40e6a177b728ff9c8fbc94daaad03552]
+entity CDNProfiles--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="87" x="19.5" y="15"/> --><svg x="36" y="25"><g transform="scale(3,3)" ><defs><linearGradient id="b8cad6fd-ec7f-45e9-be2a-125e8b87bd03" x1="10.79" y1="2.17" x2="10.79" y2="16.56" gradientUnits="userSpaceOnUse"><stop offset="0.18" stop-color="#5ea0ef"
+><stop offset="1" stop-color="#0078d4"
+></linearGradient></defs><title>Icon-web-43</title><rect x="3.7" y="5.49" width="1.18" height="5.26" rx="0.52" transform="translate(-3.83 12.41) rotate(-90)" fill="#b3b3b3"
+><rect x="2.04" y="7.88" width="1.18" height="5.26" rx="0.52" transform="translate(-7.88 13.14) rotate(-90)" fill="#a3a3a3"
+><rect x="3.7" y="10.26" width="1.18" height="5.26" rx="0.52" transform="translate(-8.6 17.19) rotate(-90)" fill="#7a7a7a"
+><path d="M18,11a3.28,3.28,0,0,0-2.81-3.18,4.13,4.13,0,0,0-4.21-4,4.23,4.23,0,0,0-4,2.8,3.89,3.89,0,0,0-3.38,3.8,4,4,0,0,0,4.06,3.86l.36,0h6.58l.17,0A3.32,3.32,0,0,0,18,11Z" fill="url(#b8cad6fd-ec7f-45e9-be2a-125e8b87bd03)"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="67" x="29.5" y="91.9492">CDN Profiles</text><!--MD5=[03e7abf4edf552341612517caec22785]
+entity AzureFirewallManager--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="96" x="142" y="7"/> --><svg x="163" y="17"><defs><linearGradient id="b9eda14d-5018-4069-8461-e9c1522765ff" x1="13.45" y1="6.3" x2="13.45" y2="16.46" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffd70f"
+><stop offset="0.12" stop-color="#fc1"
+><stop offset="0.44" stop-color="#feb517"
+><stop offset="0.75" stop-color="#fea61a"
+><stop offset="1" stop-color="#fea11b"
+></linearGradient></defs><title>Artboard 1</title><g transform="scale(3,3)"  id="b8f3e180-4770-4d69-ae3c-f5c721b3bcf4"><rect x="-764.13" y="-169.24" width="1428" height="830" fill="#fff"
+></g><g id="be3822ce-a876-4992-8b2c-8f2bcec68a4e"><polygon points="13.95 15.81 13.96 15.81 13.96 15.81 13.95 15.81" fill="#6bb9f2"
+><g><g><path d="M14.44,1.52H.61A.58.58,0,0,0,0,2.11V9.22a.58.58,0,0,0,.59.58H8.25V7a.49.49,0,0,1,.34-.47l.13,0a4.89,4.89,0,0,0,3.19-1.16,2.32,2.32,0,0,1,.69-.25A4,4,0,0,1,13.44,5a3.92,3.92,0,0,1,.84.08,2.44,2.44,0,0,1,.74.27V2.11A.58.58,0,0,0,14.44,1.52ZM10.22,7.16V9h4.06V7.16Z" fill="#821010"
+><rect x="0.85" y="2.34" width="4.07" height="1.8" fill="#e62323"
+><rect x="5.53" y="2.34" width="4.07" height="1.8" fill="#ff7381"
+><rect x="10.22" y="2.34" width="4.07" height="1.8" fill="#e62323"
+><rect x="0.85" y="4.75" width="1.69" height="1.8" fill="#e62323"
+><path d="M14.28,4.75v.36A3.92,3.92,0,0,0,13.44,5a4,4,0,0,0-.84.08V4.75Z" fill="#ff7381"
+><rect x="3.16" y="4.75" width="4.07" height="1.8" fill="#ff7381"
+><path d="M11.91,4.75v.61A4.89,4.89,0,0,1,8.72,6.52l-.13,0H7.84V4.75Z" fill="#e62323"
+><rect x="0.85" y="7.17" width="4.07" height="1.8" fill="#e62323"
+><rect x="5.53" y="7.16" width="2.72" height="1.8" fill="#ff7381"
+></g><g><path d="M18,11c0,3-3.6,5.38-4.38,5.87a.32.32,0,0,1-.3,0C12.51,16.39,8.91,14,8.91,11V7.43a.29.29,0,0,1,.28-.29c2.8-.07,2.15-1.3,4.25-1.3s1.45,1.23,4.25,1.3a.29.29,0,0,1,.28.29Z" fill="#dfa500"
+><g><path d="M13.44,11.38V6.3c1.93,0,1.33,1.13,3.9,1.2a.26.26,0,0,1,.26.26V11c0,.12,0,.23,0,.34Zm0,0H9.3c.25,2.57,3.32,4.61,4,5l.12,0h0Z" fill="url(#b9eda14d-5018-4069-8461-e9c1522765ff)"
+><path d="M9.54,7.5c2.57-.07,2-1.2,3.9-1.2v5.08H9.3c0-.11,0-.22,0-.34V7.76A.26.26,0,0,1,9.54,7.5Z" fill="#ffd400"
+><path d="M17.58,11.38H13.44v5.08h0l.11,0C14.27,16,17.33,14,17.58,11.38Z" fill="#ffd400"
+></g></g></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="73" x="152" y="83.9492">Azure Firewall</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="47" x="166.5" y="99.9102">Manager</text><!--MD5=[484f59e4ac42bb14687442c3d43e8a73]
+entity PrivateLink--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="81" x="273.5" y="15"/> --><svg x="287" y="25"><g transform="scale(3,3)" ><defs><linearGradient id="fd061228-22be-425e-9131-0b8cca0e5d17" x1="7.699" y1="259.22" x2="7.699" y2="263.711" gradientTransform="translate(0 -250)" gradientUnits="userSpaceOnUse"><stop offset="0.23" stop-color="#5ea0ef"
+><stop offset="0.32" stop-color="#5b9fee"
+><stop offset="0.48" stop-color="#509aeb"
+><stop offset="0.57" stop-color="#3f92e6"
+><stop offset="0.75" stop-color="#2688df"
+><stop offset="0.93" stop-color="#127fd9"
+></linearGradient><linearGradient id="ea9649a6-04b5-47d6-8247-ed3ab9ff9d06" x1="9.927" y1="261.091" x2="9.927" y2="265.582" gradientTransform="translate(0 -250)" gradientUnits="userSpaceOnUse"><stop offset="0.02" stop-color="#5ea0ef"
+><stop offset="0.14" stop-color="#5b9fee"
+><stop offset="0.23" stop-color="#5b9fee"
+><stop offset="0.34" stop-color="#509aeb"
+><stop offset="0.44" stop-color="#3f92e6"
+><stop offset="0.63" stop-color="#2688df"
+><stop offset="0.93" stop-color="#127fd9"
+></linearGradient></defs><path d="M8.252,2.521H9.374V9.594H8.252Z" fill="#7a7a7a"
+><path d="M10.459,2.3A1.647,1.647,0,1,1,8.813.65h0A1.646,1.646,0,0,1,10.459,2.3Z" fill="#1490df"
+><path d="M8.588,9.22h-1.8a2.246,2.246,0,0,0-.348,4.461,2.415,2.415,0,0,1,.022-.835,1.418,1.418,0,0,1,.326-2.8h1.8a1.422,1.422,0,0,1,0,2.844H8.094a1.078,1.078,0,0,0-.1.45,1.022,1.022,0,0,0,.071.374h.527a2.246,2.246,0,1,0,0-4.491Z" fill="url(#fd061228-22be-425e-9131-0b8cca0e5d17)"
+><path d="M11.182,11.121a2.642,2.642,0,0,1,.026.344,2.317,2.317,0,0,1-.049.491,1.418,1.418,0,0,1-.325,2.8h-1.8a1.423,1.423,0,0,1,0-2.845h.494a1.042,1.042,0,0,0,.1-.449,1.018,1.018,0,0,0-.071-.374H9.037a2.246,2.246,0,0,0,0,4.491h1.8a2.246,2.246,0,0,0,.348-4.461Z" fill="url(#ea9649a6-04b5-47d6-8247-ed3ab9ff9d06)"
+><path d="M5.58,16.525l-.412.415a.28.28,0,0,1-.4,0l-4.607-4.6a.566.566,0,0,1,0-.8l.416-.412,5,4.992a.276.276,0,0,1,0,.391h0Z" fill="#50e6ff"
+><path d="M5.082,7.02l.46.46a.282.282,0,0,1,0,.4L.625,12.809l-.461-.457a.566.566,0,0,1,0-.8L4.685,7.02A.28.28,0,0,1,5.082,7.02Z" fill="#1490df"
+><path d="M12.417,16.851a.278.278,0,0,1-.006-.392h0l.006,0,5-4.989.416.416a.566.566,0,0,1,0,.8l-4.611,4.588a.277.277,0,0,1-.391.006h0l-.006-.005Z" fill="#50e6ff"
+><path d="M13.311,7.349l4.525,4.536a.563.563,0,0,1,0,.793l-.461.46L12.454,8.206a.289.289,0,0,1,0-.4l.46-.456A.282.282,0,0,1,13.311,7.349Z" fill="#1490df"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="61" x="283.5" y="91.9492">Private Link</text><!--MD5=[3092a3402d912a1058ab0317e1785c70]
+entity IPGroups--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="390" y="15"/> --><svg x="400" y="25"><defs><linearGradient id="f739297d-1dff-4878-8e69-be6860163e71" x1="12.726" y1="2199.244" x2="12.726" y2="2193.605" gradientTransform="translate(0 -2183.642)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32bedd"
+><stop offset="0.18" stop-color="#32caea"
+><stop offset="0.41" stop-color="#32d2f2"
+><stop offset="0.78" stop-color="#32d4f5"
+></linearGradient></defs><g transform="scale(3,3)"  id="aaa7102a-579e-4074-9dfb-2c1893535ac2"><g><path d="M.5,4.429h9.548V9.756a.321.321,0,0,1-.321.321H.821A.321.321,0,0,1,.5,9.756h0Z" fill="#83b9f9"
+><path d="M.821,2.389H9.727a.321.321,0,0,1,.321.321h0V4.429H.5V2.71A.321.321,0,0,1,.821,2.389Z" fill="#1f56a3"
+><rect x="1.784" y="3.003" width="6.979" height="0.822" rx="0.161" fill="#f2f2f2"
+><path d="M4.221,7.187h9.558v5.326a.321.321,0,0,1-.321.321H4.542a.321.321,0,0,1-.321-.321h0Z" fill="#83b9f9"
+><path d="M4.542,5.156h8.906a.321.321,0,0,1,.321.321h0v1.71H4.231V5.477A.321.321,0,0,1,4.542,5.156Z" fill="#1f56a3"
+><rect x="5.506" y="5.77" width="6.979" height="0.822" rx="0.161" fill="#f2f2f2"
+><g><path d="M7.952,9.963H17.5V15.29a.321.321,0,0,1-.321.321H8.273a.321.321,0,0,1-.321-.321h0Z" fill="url(#f739297d-1dff-4878-8e69-be6860163e71)"
+><path d="M8.273,7.923h8.906a.321.321,0,0,1,.321.321V9.963H7.952V8.244A.321.321,0,0,1,8.273,7.923Z" fill="#0078d4"
+><g><circle cx="14.874" cy="12.438" r="0.774" fill="#0078d4"
+><circle cx="12.759" cy="12.438" r="0.774" fill="#0078d4"
+><circle cx="10.577" cy="12.438" r="0.774" fill="#0078d4"
+></g><rect x="9.236" y="8.537" width="6.979" height="0.822" rx="0.161" fill="#f2f2f2"
+></g></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="51" x="401.5" y="91.9492">IP Groups</text><!--MD5=[cbb98e677bada128974903ffdd9b49ea]
+entity PrivateLinkService--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="84" x="499" y="7"/> --><svg x="514" y="17"><defs><linearGradient id="ee395d7d-9e11-4093-b455-9b6ca9e15a63" x1="7.699" y1="956.076" x2="7.699" y2="960.567" gradientTransform="translate(0 -950)" gradientUnits="userSpaceOnUse"><stop offset="0.23" stop-color="#5ea0ef"
+><stop offset="0.93" stop-color="#127fd9"
+></linearGradient><linearGradient id="b8105328-c2c4-4923-8d18-6c844e8a389e" x1="9.927" y1="957.947" x2="9.927" y2="962.438" gradientTransform="translate(0 -950)" gradientUnits="userSpaceOnUse"><stop offset="0.02" stop-color="#5ea0ef"
+><stop offset="0.93" stop-color="#127fd9"
+></linearGradient></defs><g transform="scale(3,3)"  id="a5229e7a-2c78-4db9-99cc-ca7fbe64368b"><g><path d="M8.588,6.076h-1.8a2.246,2.246,0,0,0-.348,4.461A2.409,2.409,0,0,1,6.466,9.7a1.418,1.418,0,0,1,.326-2.8h1.8a1.422,1.422,0,0,1,0,2.844H8.094a1.07,1.07,0,0,0-.1.449,1.018,1.018,0,0,0,.071.374h.527a2.246,2.246,0,1,0,0-4.491Z" fill="url(#ee395d7d-9e11-4093-b455-9b6ca9e15a63)"
+><path d="M11.182,7.977a2.644,2.644,0,0,1,.026.345,2.308,2.308,0,0,1-.049.49,1.418,1.418,0,0,1-.325,2.8h-1.8a1.422,1.422,0,0,1,0-2.844h.494a1.045,1.045,0,0,0,.1-.449,1.028,1.028,0,0,0-.071-.375H9.037a2.246,2.246,0,0,0,0,4.491h1.8a2.246,2.246,0,0,0,.348-4.461Z" fill="url(#b8105328-c2c4-4923-8d18-6c844e8a389e)"
+><path d="M5.58,13.381l-.412.416a.282.282,0,0,1-.4,0L.164,9.2a.566.566,0,0,1,0-.8L.58,7.992l5,4.993a.276.276,0,0,1,0,.391h0Z" fill="#50e6ff"
+><path d="M5.082,3.876l.46.46a.282.282,0,0,1,0,.4L.625,9.665.164,9.209a.566.566,0,0,1,0-.8L4.685,3.876A.282.282,0,0,1,5.082,3.876Z" fill="#1490df"
+><path d="M12.417,13.707a.276.276,0,0,1-.006-.391h0l.006,0,5-4.988.416.415a.566.566,0,0,1,0,.8l-4.611,4.588a.276.276,0,0,1-.391.006h0l-.006-.005Z" fill="#50e6ff"
+><path d="M13.311,4.205l4.525,4.536a.563.563,0,0,1,0,.793l-.461.46L12.454,5.062a.287.287,0,0,1,0-.4l.46-.457A.282.282,0,0,1,13.311,4.205Z" fill="#1490df"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="61" x="509" y="83.9492">Private Link</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="37" x="522.5" y="99.9102">Service</text><!--MD5=[85733d631f3a19ce6602b4c92c2f2a72]
+entity VirtualNetworks--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="107" x="618.5" y="15"/> --><svg x="645" y="25"><g transform="scale(3,3)" ><defs><linearGradient id="f020fb7e-2243-4501-8153-5d69bd3c34f7" x1="9.88" y1="8.59" x2="11.52" y2="10.23" gradientTransform="translate(2.03 -0.4) rotate(-0.08)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#86d633"
+><stop offset="1" stop-color="#5e9624"
+></linearGradient><linearGradient id="b3c2bc94-8c7c-48a2-9719-6ee899a43a97" x1="6.18" y1="8.59" x2="7.81" y2="10.23" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#86d633"
+><stop offset="1" stop-color="#5e9624"
+></linearGradient><linearGradient id="e900c35d-0958-4d4f-b28f-302eeaaf52f5" x1="2.48" y1="8.59" x2="4.11" y2="10.23" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#86d633"
+><stop offset="1" stop-color="#5e9624"
+></linearGradient></defs><title>Icon-networking-61</title><circle cx="12.74" cy="8.99" r="1.16" fill="url(#f020fb7e-2243-4501-8153-5d69bd3c34f7)"
+><circle cx="9.04" cy="9" r="1.16" fill="url(#b3c2bc94-8c7c-48a2-9719-6ee899a43a97)"
+><circle cx="5.34" cy="9" r="1.16" fill="url(#e900c35d-0958-4d4f-b28f-302eeaaf52f5)"
+><path d="M2.61,7.28h.94a.3.3,0,0,1,.3.3v6.94a.6.6,0,0,1-.6.6H2.31a0,0,0,0,1,0,0V7.58a.3.3,0,0,1,.3-.3Z" transform="translate(13.18 16.93) rotate(134.92)" fill="#50e6ff"
+><path d="M2.56,2.91H3.5a.3.3,0,0,1,.3.3v7.43a0,0,0,0,1,0,0H2.86a.6.6,0,0,1-.6-.6V3.21a.3.3,0,0,1,.3-.3Z" transform="translate(5.66 -0.16) rotate(44.92)" fill="#1490df"
+><path d="M14.15,7.28h.94a.6.6,0,0,1,.6.6v6.94a.3.3,0,0,1-.3.3h-.94a.3.3,0,0,1-.3-.3V7.28a0,0,0,0,1,0,0Z" transform="translate(12.32 -7.28) rotate(45.08)" fill="#50e6ff"
+><path d="M14.81,2.91h.94a0,0,0,0,1,0,0v7.43a.3.3,0,0,1-.3.3H14.5a.3.3,0,0,1-.3-.3V3.51a.6.6,0,0,1,.6-.6Z" transform="translate(30.36 0.99) rotate(135.08)" fill="#1490df"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="87" x="628.5" y="91.9492">Virtual Networks</text><!--MD5=[f33bcb9142395b423dae93b15e1d1231]
+entity LoadBalancers--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="99" x="13.5" y="181"/> --><svg x="36" y="191"><g transform="scale(3,3)" ><defs><linearGradient id="ef84663a-a7b6-46a7-a275-1e419f5eae62" x1="9" y1="19.85" x2="9" y2="-1.02" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5e9624"
+><stop offset="0.02" stop-color="#5f9724"
+><stop offset="1" stop-color="#76bc2d"
+></linearGradient></defs><title>Icon-networking-62</title><path d="M.18,8.57,8.57.18a.6.6,0,0,1,.86,0l8.39,8.39a.6.6,0,0,1,0,.86l-8.4,8.4a.6.6,0,0,1-.84,0L.18,9.43A.6.6,0,0,1,.18,8.57Z" fill="url(#ef84663a-a7b6-46a7-a275-1e419f5eae62)"
+><path d="M11.2,4,9.08,1.89a.12.12,0,0,0-.16,0L6.8,4a.1.1,0,0,0,.08.18H8.12a.11.11,0,0,1,.11.11v2a.11.11,0,0,0,.11.11H9.66a.11.11,0,0,0,.11-.11v-2a.11.11,0,0,1,.11-.11h1.24A.1.1,0,0,0,11.2,4Z" fill="#b4ec36"
+><path d="M4,6.61,1.9,8.74a.11.11,0,0,0,0,.15L4,11a.11.11,0,0,0,.19-.08V9.69a.11.11,0,0,1,.11-.11h2a.1.1,0,0,0,.1-.11V8.15A.1.1,0,0,0,6.33,8h-2a.1.1,0,0,1-.11-.1V6.69A.11.11,0,0,0,4,6.61Z" fill="#b4ec36"
+><path d="M14.08,11l2.13-2.12a.11.11,0,0,0,0-.15L14.08,6.61a.11.11,0,0,0-.18.08V7.94a.1.1,0,0,1-.11.1h-2a.1.1,0,0,0-.1.11V9.47a.1.1,0,0,0,.1.11h2a.11.11,0,0,1,.11.11v1.24A.11.11,0,0,0,14.08,11Z" fill="#b4ec36"
+><path d="M11.79,9a2.79,2.79,0,1,0-3.54,2.67v.95a1.71,1.71,0,1,0,1.57,0v-1A2.77,2.77,0,0,0,11.79,9Z" fill="#fff"
+><circle id="e99c3387-15c3-4f28-bd4b-cb209b430e06" cx="9.01" cy="8.99" r="1.62" fill="#5ea0ef"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="79" x="23.5" y="257.9492">Load Balancers</text><!--MD5=[bc5d02e8a275094bb20ad5f46fcd2c4f]
+entity VirtualNetworkGateways--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="105" x="147.5" y="173"/> --><svg x="173" y="183"><g transform="scale(3,3)" ><defs><linearGradient id="bd7305f8-8789-4600-a1f2-6594e60eefcc" x1="8.59" y1="-7.79" x2="9.12" y2="20.05" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+><stop offset="0.47" stop-color="#31d1f3"
+><stop offset="0.63" stop-color="#2ec9eb"
+><stop offset="0.77" stop-color="#29bade"
+><stop offset="0.89" stop-color="#22a5cb"
+><stop offset="1" stop-color="#198ab3"
+><stop offset="1" stop-color="#198ab3"
+></linearGradient></defs><title>Icon-networking-63</title><path d="M15.06,8.67h-1V5.59a5.81,5.81,0,0,0-1.49-3.92A4.79,4.79,0,0,0,8.91,0a4.79,4.79,0,0,0-3.7,1.67A5.73,5.73,0,0,0,3.72,5.59V8.67H2.91a.7.7,0,0,0-.69.69v8a.7.7,0,0,0,.69.69H15.06a.71.71,0,0,0,.7-.69V9.36A.71.71,0,0,0,15.06,8.67Zm-3.37,0H6.13V5.54A3.18,3.18,0,0,1,7,3.39a2.51,2.51,0,0,1,1.88-.86,2.54,2.54,0,0,1,1.89.86,3.19,3.19,0,0,1,.32.43h0a3,3,0,0,1,.61,1.71Z" fill="url(#bd7305f8-8789-4600-a1f2-6594e60eefcc)"
+><path d="M15.09,8.67H2.92a.66.66,0,0,0-.44.17l13.05,9a.67.67,0,0,0,.25-.52v-8A.71.71,0,0,0,15.09,8.67Z" fill="#50e6ff"
+><path d="M2.94,8.67H15.1a.7.7,0,0,1,.45.17l-13.06,9a.7.7,0,0,1-.25-.52v-8A.72.72,0,0,1,2.94,8.67Z" fill="#fff" opacity="0.2"
+><path d="M7.8,10.6,9,9.4a.07.07,0,0,1,.09,0l1.19,1.2a.06.06,0,0,1,0,.1h-.7a.06.06,0,0,0-.06.06V12.3a.06.06,0,0,1-.06.06H8.67a.05.05,0,0,1-.06-.06V10.76a.07.07,0,0,0-.07-.06h-.7A.06.06,0,0,1,7.8,10.6Zm2.47,5.48L9.08,17.27a.06.06,0,0,1-.09,0L7.8,16.08a.06.06,0,0,1,0-.1h.7a.07.07,0,0,0,.07-.06V14.37a.06.06,0,0,1,.06-.06h.74a.06.06,0,0,1,.06.06v1.55a.06.06,0,0,0,.06.06h.7A.06.06,0,0,1,10.27,16.08Zm-4.7-1.55v-.7a.06.06,0,0,0-.06-.06H4a.06.06,0,0,1-.06-.06V13A.06.06,0,0,1,4,12.91H5.51a.06.06,0,0,0,.06-.06v-.7a.07.07,0,0,1,.11-.05l1.19,1.2a.06.06,0,0,1,0,.08l-1.19,1.2A.07.07,0,0,1,5.57,14.53Zm6.93-2.38v.7a.06.06,0,0,0,.06.06H14.1s.07,0,.07.06v.74a.07.07,0,0,1-.07.06H12.56a.06.06,0,0,0-.06.06v.7a.06.06,0,0,1-.1.05l-1.19-1.2a0,0,0,0,1,0-.08l1.19-1.2S12.5,12.09,12.5,12.15Z" fill="#fff"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="82" x="157.5" y="249.9492">Virtual Network</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="50" x="175" y="265.9102">Gateways</text><!--MD5=[15b12ef36f7181b4f1fb6e05ff44f47d]
+entity DNSZones--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="78" x="288" y="181"/> --><svg x="300" y="191"><g transform="scale(3,3)" ><defs><radialGradient id="e7579f4d-36a3-4693-a726-7a6050ac5671" cx="-6811.4" cy="6729.69" r="17" gradientTransform="matrix(0.5, 0, 0, -0.5, 3414.91, 3374.05)" gradientUnits="userSpaceOnUse"><stop offset="0.18" stop-color="#5ea0ef"
+><stop offset="1" stop-color="#0078d4"
+></radialGradient></defs><title>Icon-networking-64</title><path id="f57e105d-6d2d-4ad7-b8c3-c10684c9f9b8" d="M14.21,15.72A8.5,8.5,0,0,1,3.79,2.28l.09-.06a8.5,8.5,0,0,1,10.33,13.5" fill="url(#e7579f4d-36a3-4693-a726-7a6050ac5671)"
+><path d="M9,1.31A7.69,7.69,0,1,0,16.69,9,7.7,7.7,0,0,0,9,1.31ZM14.15,3.9A7.37,7.37,0,0,1,12,4.7,8.83,8.83,0,0,0,10.75,2,7.2,7.2,0,0,1,14.15,3.9ZM9,1.74a6.59,6.59,0,0,1,1.09.09h0a7.48,7.48,0,0,1,1.53,3,15.12,15.12,0,0,1-5.45,0A7.38,7.38,0,0,1,7.68,1.89l0,0A7.34,7.34,0,0,1,9,1.74ZM7,2A8.72,8.72,0,0,0,5.73,4.68a5.58,5.58,0,0,1-1.9-.77A7.35,7.35,0,0,1,7,2ZM3.72,14a5.27,5.27,0,0,1,1.78-.76,7.08,7.08,0,0,0,1.35,2.72A7.25,7.25,0,0,1,3.72,14Zm6.41,2.2A7.08,7.08,0,0,1,9,16.26a6.83,6.83,0,0,1-1.44-.15l0,0a6,6,0,0,1-1.67-3,14.73,14.73,0,0,1,5.88,0,6,6,0,0,1-1.69,3Zm.73-.16a7.13,7.13,0,0,0,1.38-2.8,6.68,6.68,0,0,1,2,.83A7.13,7.13,0,0,1,10.86,16Zm1.48-3.22c.08-.36.15-.73.2-1.12l-.46.11c-.05.31-.1.62-.17.91a15.23,15.23,0,0,0-6.09,0c-.07-.27-.12-.56-.17-.86a.28.28,0,0,1,0-.09l-.46-.13a2.36,2.36,0,0,0,0,.28c0,.32.11.62.17.91a5.9,5.9,0,0,0-2,.85,7.24,7.24,0,0,1,.11-9.4,6.29,6.29,0,0,0,2.08.86c-.07.24-.13.5-.18.76s0,.25-.08.37l.47-.11,0-.17c.06-.26.12-.51.19-.75A14.89,14.89,0,0,0,9,5.48a15,15,0,0,0,2.78-.26c.07.27.14.56.2.85l.46.11q-.11-.54-.24-1a7.73,7.73,0,0,0,2.3-.91,7.22,7.22,0,0,1,.06,9.49A7.28,7.28,0,0,0,12.34,12.79Z" fill="#5ea0ef"
+><path d="M3.69,7a7.92,7.92,0,0,1,1.16-.08,2.44,2.44,0,0,1,1.71.52A2,2,0,0,1,7.15,8.9a2.21,2.21,0,0,1-.61,1.64,2.6,2.6,0,0,1-1.86.61,9.17,9.17,0,0,1-1-.05Zm.55,3.73a4,4,0,0,0,.55,0A1.62,1.62,0,0,0,6.58,8.92,1.5,1.5,0,0,0,4.87,7.3a3.17,3.17,0,0,0-.63,0Z" fill="#fff"
+><path d="M7.86,11.11V6.9h.59L9.8,9a12.18,12.18,0,0,1,.76,1.37h0c-.05-.56-.06-1.07-.06-1.73V6.9H11v4.21h-.55L9.13,9c-.29-.47-.57-1-.79-1.4h0c0,.53,0,1,0,1.74v1.8Z" fill="#fff"
+><path d="M11.89,10.45a2,2,0,0,0,1,.27c.56,0,.88-.29.88-.72s-.22-.62-.79-.83-1.12-.6-1.12-1.2a1.22,1.22,0,0,1,1.37-1.14,2,2,0,0,1,.93.2L14,7.48a1.63,1.63,0,0,0-.8-.2c-.58,0-.8.34-.8.63s.26.59.84.81,1.08.62,1.08,1.24-.48,1.21-1.48,1.21a2.16,2.16,0,0,1-1.07-.27Z" fill="#fff"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="58" x="298" y="257.9492">DNS Zones</text><!--MD5=[cbc7df89f2597bd52d9dc416f14da44e]
+entity TrafficManagerProfiles--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="106" x="401" y="173"/> --><svg x="427" y="183"><g transform="scale(3,3)" ><defs><linearGradient id="b02c7a20-01da-4daf-91b9-e11528418dfc" x1="9" y1="17.5" x2="9" y2="0.5" gradientUnits="userSpaceOnUse"><stop offset="0.16" stop-color="#6f4bb2"
+><stop offset="0.32" stop-color="#7450b5"
+><stop offset="0.51" stop-color="#825dbf"
+><stop offset="0.72" stop-color="#9a72ce"
+><stop offset="0.94" stop-color="#bb90e4"
+><stop offset="1" stop-color="#c69aeb"
+></linearGradient></defs><title>Icon-networking-65</title><path d="M12.29.5H5.71a.56.56,0,0,0-.4.17L.67,5.31a.56.56,0,0,0-.17.4v6.58a.56.56,0,0,0,.17.4l4.64,4.64a.56.56,0,0,0,.4.17h6.58a.56.56,0,0,0,.4-.17l4.64-4.64a.56.56,0,0,0,.17-.4V5.71a.56.56,0,0,0-.17-.4L12.69.67A.56.56,0,0,0,12.29.5Z" fill="url(#b02c7a20-01da-4daf-91b9-e11528418dfc)"
+><path d="M6,7.64l-.07.07-1,1a.14.14,0,0,0,.1.23h3.8a.14.14,0,0,0,.14-.14V5.05A.14.14,0,0,0,8.64,5l-1,1-.07.07a.15.15,0,0,1-.2,0L4.8,3.54,3.43,4.92,6,7.44A.15.15,0,0,1,6,7.64Z" fill="#f2f2f2"
+><path d="M16.18,5.91,12.09,1.82a.28.28,0,0,0-.2-.08H6.11a.28.28,0,0,0-.2.08L1.82,5.91a.28.28,0,0,0-.08.2v5.78a.3.3,0,0,0,.08.2l4.09,4.09a.28.28,0,0,0,.2.08h5.78a.28.28,0,0,0,.2-.08l4.09-4.09a.3.3,0,0,0,.08-.2V6.11A.28.28,0,0,0,16.18,5.91Zm-.36,5.45L12.67,8.21l.76-.77a.16.16,0,0,0,0-.24.16.16,0,0,0-.11,0l-2.71-.07a.17.17,0,0,0-.17.16h0L10.51,10a.16.16,0,0,0,.17.16h0a.13.13,0,0,0,.12,0l.85-.84L15,12.62l-2.54,2.54L9,11.71,9.8,11a.16.16,0,0,0,0-.24.16.16,0,0,0-.11-.05L7,10.59a.17.17,0,0,0-.17.16h0l.07,2.71a.16.16,0,0,0,.17.16h0a.17.17,0,0,0,.12-.05L8,12.74l3.08,3.08H6.17l-4-4V6.17L3.43,4.92,4.8,3.54,6.17,2.17h5.66l4,4Z" fill="#f2f2f2"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="83" x="411" y="249.9492">Traffic Manager</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="39" x="434.5" y="265.9102">Profiles</text><!--MD5=[306c89be835d70301c7624f3d0c2e285]
+entity NetworkWatcher--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="112" x="542" y="181"/> --><svg x="571" y="191"><g transform="scale(3,3)" ><defs><radialGradient id="ec945175-c80b-46fd-89db-7eac10420933" cx="6.61" cy="45.13" r="6.4" gradientTransform="translate(5.04 -35.89) scale(0.94)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5ea0ef"
+><stop offset="0.28" stop-color="#5b9fee"
+><stop offset="0.47" stop-color="#529bec"
+><stop offset="0.64" stop-color="#4394e7"
+><stop offset="0.79" stop-color="#2d8be1"
+><stop offset="0.93" stop-color="#117fd9"
+><stop offset="1" stop-color="#0078d4"
+></radialGradient></defs><title>Icon-networking-66</title><rect x="-0.15" y="14.53" width="5.89" height="1.34" rx="0.63" transform="translate(-9.93 6.43) rotate(-45)" fill="#198ab3"
+><path d="M17,4.35A6.44,6.44,0,0,0,16.25,3,6.24,6.24,0,0,0,7.51,1.76l-.06.05A6.18,6.18,0,0,0,5.24,5.14c0,.22-.1.44-.13.66A6.25,6.25,0,0,0,7,11.26H7a2.09,2.09,0,0,0,.22.2l0,0,.22.18h0a5.76,5.76,0,0,0,.94.6l.1.06.17.07.14.07.15.06.16.06.14.05.2.06.11,0,.29.08h0l.32.07h.08a1.9,1.9,0,0,0,.25,0l.1,0h1.07l.23,0h0l.12,0a5.1,5.1,0,0,0,.76-.15h0a6.2,6.2,0,0,0,2.21-1.1,6.36,6.36,0,0,0,1.13-1.13A6.28,6.28,0,0,0,17,4.35Zm-1.45-.93H14.33a5.92,5.92,0,0,0-.88-1.66A5.34,5.34,0,0,1,15.58,3.42Zm-3.91-2a3.27,3.27,0,0,1,1.8,2h-1.8Zm0,2.84h2.07a9.23,9.23,0,0,1,.33,2.11h-2.4Zm0,2.91h2.4a9.23,9.23,0,0,1-.33,2.12H11.67V7.13ZM8.52,5.74A8.73,8.73,0,0,1,8.8,4.22h2.07V6.33H8.48C8.49,6.13,8.5,5.93,8.52,5.74Zm2.35-4.36v2H9.08A3.23,3.23,0,0,1,10.87,1.38ZM7.94,2.44l0,0a5.83,5.83,0,0,1,1.1-.64,6.12,6.12,0,0,0-.88,1.67H7A5.68,5.68,0,0,1,7.94,2.44ZM6.45,4.22H8a9.11,9.11,0,0,0-.24,1.34c0,.25-.05.51-.05.77H5.85A6.46,6.46,0,0,1,6,5.58,6,6,0,0,1,6.45,4.22Zm-.6,2.91H7.68A9.35,9.35,0,0,0,8,9.25H6.45A5.36,5.36,0,0,1,5.85,7.13ZM7,10.07l0,0H8.21a5.92,5.92,0,0,0,.88,1.66A5.31,5.31,0,0,1,7,10.07Zm3.89,2a3.23,3.23,0,0,1-1.79-2h1.79Zm0-2.84H8.8a9.24,9.24,0,0,1-.32-2.12h2.39V9.25Zm1.53,2.42a2,2,0,0,1-.73.42v-2h1.8A4.44,4.44,0,0,1,12.4,11.67ZM14.6,11h0a5.19,5.19,0,0,1-1.15.68,5.92,5.92,0,0,0,.88-1.66h1.25A5.35,5.35,0,0,1,14.6,11Zm1.48-1.78h-1.5a10.64,10.64,0,0,0,.29-2.12h1.81A5.27,5.27,0,0,1,16.08,9.25ZM14.87,6.33a10.64,10.64,0,0,0-.29-2.11h1.51a5.54,5.54,0,0,1,.6,2.11Z" fill="url(#ec945175-c80b-46fd-89db-7eac10420933)"
+><circle cx="6.36" cy="10.94" r="4.04" fill="#50e6ff"
+><circle cx="6.35" cy="10.87" r="3.17" fill="#fff"
+><path d="M4.72,10.94l.8,1.86.81-2.39L7,11.77l.83-1.4H9.12A3.57,3.57,0,0,0,9,9.9H7.61l-.54.91L6.24,9.23,5.47,11.5l-.7-1.61-.86,1.57H3.45a2.57,2.57,0,0,0,.15.47h.58Z" fill="#76bc2d"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="92" x="552" y="257.9492">Network Watcher</text><!--MD5=[bd7b64d02d5aef6aa6b2221bbef92a68]
+entity NetworkSecurityGroups--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="113" x="689.5" y="173"/> --><svg x="719" y="183"><g transform="scale(3,3)" ><defs><linearGradient id="fe5ce43f-2823-4617-bb54-57df9e778372" x1="9.01" y1="0.75" x2="9.01" y2="17.25" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5ea0ef"
+><stop offset="0.18" stop-color="#559cec"
+><stop offset="0.47" stop-color="#3c91e5"
+><stop offset="0.84" stop-color="#1380da"
+><stop offset="1" stop-color="#0078d4"
+></linearGradient></defs><title>Icon-networking-67</title><path d="M16.36,8.4c0,4.84-5.85,8.74-7.12,9.53a.46.46,0,0,1-.48,0c-1.27-.79-7.12-4.69-7.12-9.53V2.58a.46.46,0,0,1,.45-.46C6.64,2,5.59,0,9,0s2.36,2,6.91,2.12a.46.46,0,0,1,.45.46Z" fill="#0078d4"
+><path d="M15.75,8.45c0,4.44-5.36,8-6.53,8.74a.43.43,0,0,1-.44,0c-1.17-.72-6.53-4.3-6.53-8.74V3.11a.42.42,0,0,1,.41-.42C6.83,2.58,5.87.75,9,.75s2.17,1.83,6.34,1.94a.42.42,0,0,1,.41.42Z" fill="#6bb9f2"
+><path d="M9,9V.75c3.13,0,2.17,1.83,6.34,1.94a.43.43,0,0,1,.41.43V8.46a4.89,4.89,0,0,1,0,.54ZM9,9H2.28c.4,4.18,5.38,7.5,6.5,8.19a.39.39,0,0,0,.18.06H9Z" fill="url(#fe5ce43f-2823-4617-bb54-57df9e778372)"
+><path d="M2.66,2.69C6.83,2.58,5.87.75,9,.75V9H2.28a4.89,4.89,0,0,1,0-.54V3.12A.43.43,0,0,1,2.66,2.69Z" fill="#50e6ff"
+><path d="M15.72,9H9v8.25H9a.39.39,0,0,0,.18-.06C10.34,16.5,15.32,13.18,15.72,9Z" fill="#50e6ff"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="90" x="699.5" y="249.9492">Network Security</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="38" x="727" y="265.9102">Groups</text><!--MD5=[ef54b3b9a1b2154b8098041c4695a367]
+entity PublicIPAddressesClassic--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="112" x="7" y="339"/> --><svg x="36" y="349"><g transform="scale(3,3)" ><defs><linearGradient id="a73b79b8-c434-4cf3-819a-3c2f2126c264" x1="9" y1="15.7" x2="9" y2="5.66" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32bedd"
+><stop offset="0.18" stop-color="#32caea"
+><stop offset="0.41" stop-color="#32d2f2"
+><stop offset="0.78" stop-color="#32d4f5"
+></linearGradient></defs><title>Icon-networking-68</title><path d="M.5,5.66h17a0,0,0,0,1,0,0v9.48a.57.57,0,0,1-.57.57H1.07a.57.57,0,0,1-.57-.57V5.66A0,0,0,0,1,.5,5.66Z" fill="url(#a73b79b8-c434-4cf3-819a-3c2f2126c264)"
+><path d="M1.07,2H16.93a.57.57,0,0,1,.57.57V5.66a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V2.6A.57.57,0,0,1,1.07,2Z" fill="#0078d4"
+><circle cx="12.82" cy="10.06" r="1.38" fill="#f2f2f2"
+><circle cx="9.06" cy="10.06" r="1.38" fill="#f2f2f2"
+><circle cx="5.18" cy="10.06" r="1.38" fill="#f2f2f2"
+><rect x="2.79" y="3.12" width="12.43" height="1.46" rx="0.28" fill="#f2f2f2"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="46" x="38.5" y="415.9492">Public IP</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="92" x="17" y="431.9102">Addresses Classic</text><!--MD5=[de90bbb32c9f1d353e2943dc3979321f]
+entity PublicIPAddresses--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="154" y="339"/> --><svg x="164" y="349"><g transform="scale(3,3)" ><defs><linearGradient id="ad52e31e-75de-46af-9bdc-bea038ab4209" x1="9" y1="15.83" x2="9" y2="5.79" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32bedd"
+><stop offset="0.18" stop-color="#32caea"
+><stop offset="0.41" stop-color="#32d2f2"
+><stop offset="0.78" stop-color="#32d4f5"
+></linearGradient></defs><title>Icon-networking-69</title><path d="M.5,5.79h17a0,0,0,0,1,0,0v9.48a.57.57,0,0,1-.57.57H1.07a.57.57,0,0,1-.57-.57V5.79A0,0,0,0,1,.5,5.79Z" fill="url(#ad52e31e-75de-46af-9bdc-bea038ab4209)"
+><path d="M1.07,2.17H16.93a.57.57,0,0,1,.57.57V5.79a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V2.73A.57.57,0,0,1,1.07,2.17Z" fill="#767676"
+><circle cx="12.82" cy="10.19" r="1.38" fill="#f2f2f2"
+><circle cx="9.06" cy="10.19" r="1.38" fill="#f2f2f2"
+><circle cx="5.18" cy="10.19" r="1.38" fill="#f2f2f2"
+><rect x="2.79" y="3.25" width="12.43" height="1.46" rx="0.28" fill="#f2f2f2"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="46" x="166.5" y="415.9492">Public IP</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="53" x="164.5" y="431.9102">Addresses</text><!--MD5=[83609c32b5b783bfb7ad9221b22c46f4]
+entity RouteFilters--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="85" x="263.5" y="347"/> --><svg x="279" y="357"><defs><linearGradient id="ace104d6-1f53-40e3-a991-cb43c1f1aa51" x1="5.82" y1="25.68" x2="5.82" y2="14.64" gradientTransform="translate(0 -11.41) scale(1 1.01)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5e9624"
+><stop offset="0.01" stop-color="#5f9724"
+><stop offset="0.35" stop-color="#6cab29"
+><stop offset="0.68" stop-color="#73b82c"
+><stop offset="1" stop-color="#76bc2d"
+></linearGradient></defs><title>Icon-networking-71</title><path d="M18,9.16l-2.12,2.12a.1.1,0,0,1-.18-.08V10a.11.11,0,0,0-.11-.1H12.09L14.27,12a.09.09,0,0,0,.12,0l0,0,.61-.62a.08.08,0,0,1,.14.06v2.19a.12.12,0,0,1-.12.12H12.87a.08.08,0,0,1-.06-.14l.62-.61,0,0a.09.09,0,0,0,0-.12L11.64,11V7.17l1.83-1.82a.08.08,0,0,0,0-.11l0,0-.62-.61a.08.08,0,0,1,.06-.14h2.19a.13.13,0,0,1,.12.13V6.75a.08.08,0,0,1-.14.06l-.61-.61,0,0a.09.09,0,0,0-.12,0L12.12,8.31h3.43a.11.11,0,0,0,.11-.11V7a.1.1,0,0,1,.18-.08L18,9A.1.1,0,0,1,18,9.16Z" fill="#0078d4"
+><rect y="3.41" width="11.64" height="11.18" rx="0.58" fill="url(#ace104d6-1f53-40e3-a991-cb43c1f1aa51)"
+><g transform="scale(3,3)" ><rect x="2.27" y="4.78" width="2.73" height="2.61" rx="0.29" fill="#fff"
+><rect x="6.92" y="7.77" width="2.73" height="2.61" rx="0.29" fill="#fff"
+><rect x="2.27" y="10.61" width="2.73" height="2.61" rx="0.29" fill="#fff"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="65" x="273.5" y="423.9492">Route Filters</text><!--MD5=[741c06a04e319377f3d2285f3f836f91]
+entity DDoSProtectionPlans--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="110" x="384" y="339"/> --><svg x="412" y="349"><g transform="scale(3,3)" ><defs><linearGradient id="bf34fd15-2ab2-49bf-80d2-731c19b20dc3" x1="9" y1="1.36" x2="9" y2="17.87" gradientUnits="userSpaceOnUse"><stop offset="0.18" stop-color="#5ea0ef"
+><stop offset="1" stop-color="#0078d4"
+></linearGradient></defs><title>Icon-networking-72</title><path d="M16.36,8.4c0,4.84-5.85,8.74-7.12,9.53a.46.46,0,0,1-.48,0c-1.27-.79-7.12-4.69-7.12-9.53V2.58a.46.46,0,0,1,.45-.46C6.64,2,5.59,0,9,0s2.36,2,6.91,2.12a.46.46,0,0,1,.45.46Z" fill="#0078d4"
+><path d="M15.75,8.45c0,4.44-5.36,8-6.53,8.74a.43.43,0,0,1-.44,0c-1.17-.72-6.53-4.3-6.53-8.74V3.11a.42.42,0,0,1,.41-.42C6.83,2.58,5.87.75,9,.75s2.17,1.83,6.34,1.94a.42.42,0,0,1,.41.42Z" fill="url(#bf34fd15-2ab2-49bf-80d2-731c19b20dc3)"
+><path d="M11.8,12.52a.48.48,0,0,1-.48.48H6.68a.48.48,0,0,1-.48-.48V3.94a.48.48,0,0,1,.48-.49h4.64a.48.48,0,0,1,.48.49Z" fill="#e6e6e6"
+><path d="M7,5a.6.6,0,0,1,.6-.6h2.8A.6.6,0,0,1,11,5h0a.6.6,0,0,1-.6.61H7.6A.6.6,0,0,1,7,5Z" fill="#003067"
+><circle cx="7.63" cy="4.99" r="0.41" fill="#50e6ff"
+><path d="M7,6.9a.61.61,0,0,1,.6-.61h2.8a.61.61,0,0,1,.6.61h0a.6.6,0,0,1-.6.61H7.6A.6.6,0,0,1,7,6.9Z" fill="#003067"
+><circle cx="7.63" cy="6.9" r="0.41" fill="#50e6ff"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="87" x="394" y="415.9492">DDoS Protection</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="28" x="425" y="431.9102">Plans</text><!--MD5=[4d67e3e0c66947fbea9c4ae3f85d2670]
+entity FrontDoors--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="82" x="529" y="347"/> --><svg x="543" y="357"><g transform="scale(3,3)" ><defs><linearGradient id="aa2ee697-e8d1-4da1-a8c5-64c8ebbb74cf" x1="9" y1="13.83" x2="9" y2="1.07" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="0.82" stop-color="#5ea0ef"
+></linearGradient></defs><title>Icon-networking-73</title><path d="M18,9.83A4,4,0,0,0,14.49,6,5.1,5.1,0,0,0,9.24,1.07a5.23,5.23,0,0,0-5,3.41A4.83,4.83,0,0,0,0,9.12a4.9,4.9,0,0,0,5.07,4.71l.44,0h8.21a.78.78,0,0,0,.22,0A4.09,4.09,0,0,0,18,9.83Z" fill="url(#aa2ee697-e8d1-4da1-a8c5-64c8ebbb74cf)"
+><path id="f0276135-0079-4897-a518-21eb63472c16" d="M6.63,6.82h5.06v7H6.63Z" fill="#f2f2f2"
+><path id="e528878d-2ed7-4392-94e6-99c6fc971bcb" d="M12.61,6.37l-3.49-2a.25.25,0,0,0-.31.15s0,.06,0,.08V16.68a.25.25,0,0,0,.24.25h.08l3.49-2.06a.25.25,0,0,0,.17-.23v-8A.26.26,0,0,0,12.61,6.37Z" fill="#50e6ff"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="62" x="539" y="423.9492">Front Doors</text><!--MD5=[e8072805df14ca78d70adea523f26653]
+entity VirtualNetworksClassic--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="110" x="646" y="339"/> --><svg x="674" y="349"><g transform="scale(3,3)" ><defs><linearGradient id="a852e611-5849-4670-89ce-518ddf7edeae" x1="10.7" y1="11.32" x2="10.7" y2="9" gradientTransform="translate(2.03 -1.15) rotate(-0.08)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="0.82" stop-color="#5ea0ef"
+></linearGradient><linearGradient id="a2350862-f997-4c57-aad0-c16f9ca4c0c3" x1="6.99" y1="11.32" x2="7" y2="9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="0.82" stop-color="#5ea0ef"
+></linearGradient><linearGradient id="e5473695-068a-44ff-b3dc-927159226a8e" x1="3.29" y1="11.32" x2="3.3" y2="9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="0.82" stop-color="#5ea0ef"
+></linearGradient></defs><title>Icon-networking-75</title><circle cx="12.74" cy="8.99" r="1.16" fill="url(#a852e611-5849-4670-89ce-518ddf7edeae)"
+><circle cx="9.04" cy="9" r="1.16" fill="url(#a2350862-f997-4c57-aad0-c16f9ca4c0c3)"
+><circle cx="5.34" cy="9" r="1.16" fill="url(#e5473695-068a-44ff-b3dc-927159226a8e)"
+><path d="M2.61,7.28h.94a.3.3,0,0,1,.3.3v6.94a.6.6,0,0,1-.6.6H2.31a0,0,0,0,1,0,0V7.58A.3.3,0,0,1,2.61,7.28Z" transform="translate(13.18 16.93) rotate(134.92)" fill="#50e6ff"
+><path d="M2.56,2.91H3.5a.3.3,0,0,1,.3.3v7.43a0,0,0,0,1,0,0H2.86a.6.6,0,0,1-.6-.6V3.21a.3.3,0,0,1,.3-.3Z" transform="translate(5.66 -0.16) rotate(44.92)" fill="#1490df"
+><path d="M14.15,7.28h.94a.6.6,0,0,1,.6.6v6.94a.3.3,0,0,1-.3.3h-.94a.3.3,0,0,1-.3-.3V7.28a0,0,0,0,1,0,0Z" transform="translate(12.32 -7.28) rotate(45.08)" fill="#50e6ff"
+><path d="M14.81,2.91h.94a0,0,0,0,1,0,0v7.43a.3.3,0,0,1-.3.3H14.5a.3.3,0,0,1-.3-.3V3.51a.6.6,0,0,1,.6-.6Z" transform="translate(30.36 0.99) rotate(135.08)" fill="#1490df"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="87" x="656" y="415.9492">Virtual Networks</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="36" x="683" y="431.9102">Classic</text><!--MD5=[6a615ae0b384ff55bcc8cc6e65c26c00]
+entity ApplicationGateways--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="84" x="21" y="505"/> --><svg x="36" y="515"><defs><linearGradient id="f6d5399b-a5cb-4c09-96cc-9e3bb1af2386" x1="9" y1="19.25" x2="9" y2="-0.46" gradientTransform="translate(9 -3.73) rotate(45)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5e9624"
+><stop offset="0.55" stop-color="#6dad2a"
+><stop offset="1" stop-color="#76bc2d"
+></linearGradient><linearGradient id="a43242a2-4d95-4f6d-8870-2702ceb6aebc" x1="7.54" y1="6.44" x2="7.53" y2="5.18" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ccc"
+><stop offset="0.12" stop-color="#d7d7d7"
+><stop offset="0.42" stop-color="#ebebeb"
+><stop offset="0.72" stop-color="#f8f8f8"
+><stop offset="1" stop-color="#fcfcfc"
+></linearGradient><linearGradient id="eedce6dd-706a-43c4-ac66-66b73578221d" x1="9.36" y1="7.69" x2="9.36" y2="6.57" href="#a43242a2-4d95-4f6d-8870-2702ceb6aebc"
+></defs><rect x="2.82" y="2.82" width="12.35" height="12.35" rx="0.57" transform="translate(-3.73 9) rotate(-45)" fill="url(#f6d5399b-a5cb-4c09-96cc-9e3bb1af2386)"
+><g transform="scale(3,3)" ><path d="M10.89,10.51h2.84a.11.11,0,0,0,.1-.11V7.57a.1.1,0,0,0-.18-.07l-.78.78,0,.05a.1.1,0,0,1-.14,0L9.26,4.91a.1.1,0,0,0-.14,0l-.88.88a.11.11,0,0,0,0,.15l3.41,3.41a.11.11,0,0,1,0,.15l-.05.05-.78.78A.11.11,0,0,0,10.89,10.51Z" fill="#fff"
+><path d="M6.92,10.51H4.08A.11.11,0,0,1,4,10.4V7.57a.1.1,0,0,1,.17-.07l.79.78,0,.05a.1.1,0,0,0,.14,0L8.55,4.91a.1.1,0,0,1,.14,0l.88.88a.11.11,0,0,1,0,.15L6.16,9.35a.11.11,0,0,0,0,.15l0,.05.78.78A.11.11,0,0,1,6.92,10.51Z" fill="#fff"
+><path d="M6.82,13.07l2,2a.1.1,0,0,0,.14,0l2-2a.1.1,0,0,0-.07-.17H9.72a.11.11,0,0,1-.1-.1V8a.1.1,0,0,0-.1-.11H8.28A.11.11,0,0,0,8.17,8V12.8a.1.1,0,0,1-.1.1H6.89A.1.1,0,0,0,6.82,13.07Z" fill="#fff"
+></g><path id="ac0a9c0c-2e8c-4843-b02b-2fadf76b27d0" d="M10.65,7.78A2.71,2.71,0,0,1,7.33,3.5l0,0a2.71,2.71,0,0,1,3.29,4.3" fill="#0078d4"
+><circle cx="7.53" cy="5.55" r="0.87" fill="url(#a43242a2-4d95-4f6d-8870-2702ceb6aebc)"
+><g><path d="M6.67,7l.19.3L7,7.5a5.94,5.94,0,0,1,.34-1.1.85.85,0,0,1-.45-.23A6.71,6.71,0,0,0,6.67,7Z" fill="#f2f2f2" opacity="0.55"
+><path d="M7.24,4.73A4,4,0,0,1,7,3.8a2.48,2.48,0,0,0-.34.46A3.51,3.51,0,0,0,6.86,5,1,1,0,0,1,7.24,4.73Z" fill="#f2f2f2" opacity="0.55"
+><path d="M8.17,6.14a.87.87,0,0,1-.48.26,4.62,4.62,0,0,0,.46.41,4.14,4.14,0,0,0,.65.39V7.13A.53.53,0,0,1,9,6.73,3.6,3.6,0,0,1,8.17,6.14Z" fill="#f2f2f2" opacity="0.55"
+><path d="M10.79,7.2a4.14,4.14,0,0,1-.87-.1v0a.55.55,0,0,1-.16.39,3.84,3.84,0,0,0,1.08.08,2.93,2.93,0,0,0,.37-.42Z" fill="#f2f2f2" opacity="0.55"
+></g><circle cx="9.36" cy="7.13" r="0.56" fill="url(#eedce6dd-706a-43c4-ac66-66b73578221d)"
+><circle cx="10.64" cy="5.74" r="0.6" fill="#f2f2f2"
+><g><path d="M9.21,4.42A4.29,4.29,0,0,1,11.09,4a2.24,2.24,0,0,0-.47-.45,4.5,4.5,0,0,0-1.49.35c-.1,0-.19.11-.29.16h0a5.85,5.85,0,0,1-.63-.93l-.34.13a5.35,5.35,0,0,0,.65,1,3.92,3.92,0,0,0-.67.55.87.87,0,0,1,.43.35,3.29,3.29,0,0,1,.61-.48,9.16,9.16,0,0,0,1.17,1,.57.57,0,0,1,.2-.32A8.44,8.44,0,0,1,9.21,4.42Z" fill="#f2f2f2" opacity="0.55"
+><path d="M11.55,6.09h0l-.1,0h0l-.08,0h0l-.1-.06a.61.61,0,0,1-.2.3l.12.07h0l.11.06h0l.28.14h0a3.58,3.58,0,0,0,.09-.35Z" fill="#f2f2f2" opacity="0.55"
+></g><circle cx="7.53" cy="5.55" r="0.87" fill="#f2f2f2"
+><circle cx="9.36" cy="7.13" r="0.56" fill="#f2f2f2"
+></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="61" x="31" y="581.9492">Application</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="50" x="38" y="597.9102">Gateways</text><!--MD5=[cb83e82f7407d854f8ae3e04bb63b9a7]
+entity LocalNetworkGateways--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="99" x="140.5" y="505"/> --><svg x="163" y="515"><g transform="scale(3,3)" ><defs><linearGradient id="b1a497bc-2886-4e22-b230-918a36444c3e" x1="9" y1="17.79" x2="9" y2="1.82" gradientTransform="translate(9 -3.73) rotate(45)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#258277"
+><stop offset="0.42" stop-color="#49a498"
+><stop offset="0.78" stop-color="#60baad"
+><stop offset="1" stop-color="#68c2b5"
+></linearGradient></defs><title>Icon-networking-77</title><rect x="2.82" y="2.82" width="12.35" height="12.35" rx="0.57" transform="translate(-3.73 9) rotate(-45)" fill="url(#b1a497bc-2886-4e22-b230-918a36444c3e)"
+><path d="M7.05,4.68,8.93,2.8a.1.1,0,0,1,.14,0L11,4.68a.09.09,0,0,1-.07.16H9.78a.1.1,0,0,0-.1.1V7.37a.09.09,0,0,1-.09.09H8.42a.09.09,0,0,1-.1-.09V4.94a.1.1,0,0,0-.09-.1H7.12A.1.1,0,0,1,7.05,4.68ZM11,13.32,9.07,15.2a.1.1,0,0,1-.14,0L7.05,13.32a.1.1,0,0,1,.07-.16H8.23a.1.1,0,0,0,.09-.1V10.63a.09.09,0,0,1,.1-.09H9.59a.09.09,0,0,1,.09.09v2.43a.1.1,0,0,0,.1.1h1.1A.09.09,0,0,1,11,13.32ZM5.34,10.84V9.74a.11.11,0,0,0-.1-.1H2.81a.1.1,0,0,1-.1-.09V8.38a.11.11,0,0,1,.1-.1H5.24a.1.1,0,0,0,.1-.09V7.08A.09.09,0,0,1,5.5,7L7.38,8.9a.09.09,0,0,1,0,.13L5.5,10.91A.09.09,0,0,1,5.34,10.84Zm7.32-3.76V8.19a.1.1,0,0,0,.1.09h2.43a.11.11,0,0,1,.1.1V9.55a.1.1,0,0,1-.1.09H12.76a.11.11,0,0,0-.1.1v1.1a.09.09,0,0,1-.16.07L10.62,9a.09.09,0,0,1,0-.13L12.5,7A.09.09,0,0,1,12.66,7.08Z" fill="#fff"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="76" x="150.5" y="581.9492">Local Network</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="50" x="165" y="597.9102">Gateways</text><!--MD5=[0ae6788a6050017642aa89b177190e0f]
+entity ExpressRouteCircuits--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="93" x="274.5" y="505"/> --><svg x="294" y="515"><g transform="scale(3,3)" ><defs><linearGradient id="bb37dfaa-4390-42b5-a627-52fd73968e3c" x1="5.33" y1="2.81" x2="8.74" y2="6.22" gradientTransform="translate(2.03 -1.37) rotate(-0.08)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#86d633"
+><stop offset="1" stop-color="#5e9624"
+></linearGradient><linearGradient id="b0a858c9-0e98-4e4e-9ead-d7a0786c484b" x1="11.84" y1="14.54" x2="15.24" y2="17.95" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#86d633"
+><stop offset="1" stop-color="#5e9624"
+></linearGradient><linearGradient id="eee8ab19-1451-41df-b871-13f8a49d17d6" x1="-1.34" y1="14.53" x2="2.06" y2="17.93" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#86d633"
+><stop offset="1" stop-color="#5e9624"
+></linearGradient></defs><title>Icon-networking-79</title><rect x="4.74" y="4.21" width="1.98" height="9.5" transform="translate(5.25 -1.66) rotate(30)" fill="#a67af4"
+><rect x="11.21" y="4.37" width="1.98" height="9.5" transform="translate(-2.92 7.32) rotate(-30)" fill="#a67af4"
+><rect x="7.9" y="9.97" width="1.98" height="9.5" transform="translate(23.61 5.82) rotate(90)" fill="#773adc"
+><circle cx="9.07" cy="3.14" r="2.41" fill="url(#bb37dfaa-4390-42b5-a627-52fd73968e3c)"
+><circle cx="15.59" cy="14.86" r="2.41" fill="url(#b0a858c9-0e98-4e4e-9ead-d7a0786c484b)"
+><circle cx="2.41" cy="14.86" r="2.41" fill="url(#eee8ab19-1451-41df-b871-13f8a49d17d6)"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="70" x="284.5" y="581.9492">ExpressRoute</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="40" x="301" y="597.9102">Circuits</text><!--MD5=[f2ea471a561157c0e1bb3d8eb84b1723]
+entity NetworkInterfaces--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="119" x="402.5" y="513"/> --><svg x="435" y="523"><g transform="scale(3,3)" ><defs><linearGradient id="fcad3287-b71c-44fa-971a-6a18bcf384a0" x1="9.01" y1="16.5" x2="9.01" y2="1.5" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5e9641"
+><stop offset="0.34" stop-color="#6baa42"
+><stop offset="0.67" stop-color="#73b743"
+><stop offset="1" stop-color="#76bb43"
+></linearGradient></defs><title>Icon-networking-80</title><path d="M15.89,2.91h1.27a.34.34,0,0,1,.34.34v3.5a.34.34,0,0,1-.34.34H15.89a0,0,0,0,1,0,0V2.91A0,0,0,0,1,15.89,2.91Z" fill="#ffca00"
+><path d="M15.89,9h1.27a.34.34,0,0,1,.34.34v5.86a.34.34,0,0,1-.34.34H15.89a0,0,0,0,1,0,0V9A0,0,0,0,1,15.89,9Z" fill="#ffca00"
+><rect x="2.13" y="1.5" width="13.76" height="15" rx="0.69" fill="url(#fcad3287-b71c-44fa-971a-6a18bcf384a0)"
+><path d="M5.9,12.9H5.19A.2.2,0,0,1,5,12.69V4.34a.19.19,0,0,1,.19-.2H7.12a.19.19,0,0,1,.19.2.2.2,0,0,1-.19.21H5.38v7.93H5.9a.2.2,0,0,1,.19.21A.21.21,0,0,1,5.9,12.9Z" fill="#b4ec36"
+><path d="M6,13.92H4.4a.2.2,0,0,1-.19-.21L4.08,3.38a.2.2,0,0,1,.06-.15.16.16,0,0,1,.13-.06H7.12v.41H4.47l.12,9.92H6Z" fill="#b4ec36"
+><path d="M12,13H10.41a.19.19,0,0,1-.14-.07.18.18,0,0,1-.06-.14V7.9a.19.19,0,0,1,.19-.2l.91,0,0-2.25h.38l0,2.44a.2.2,0,0,1-.18.21l-.91,0v4.42H12Z" fill="#b4ec36"
+><rect x="7.07" y="2.29" width="6.14" height="3.11" rx="0.26" fill="#365615"
+><rect x="5.86" y="12.69" width="4.9" height="1.09" rx="0.26" transform="translate(21.54 4.93) rotate(90)" fill="#365615"
+><rect x="3.99" y="12.71" width="4.9" height="1.09" rx="0.26" transform="translate(19.7 6.82) rotate(90)" fill="#365615"
+><rect x="9.98" y="12.71" width="4.9" height="1.09" rx="0.26" transform="translate(25.68 0.83) rotate(90)" fill="#f2f2f2"
+><ellipse cx="8.11" cy="8.06" rx="1.04" ry="1.12" fill="#f2f2f2"
+><path d="M.5,5.7H1.77A.34.34,0,0,1,2.11,6v5.86a.34.34,0,0,1-.34.34H.5a0,0,0,0,1,0,0V5.7A0,0,0,0,1,.5,5.7Z" transform="translate(2.61 17.95) rotate(180)" fill="#3b3b3b"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="99" x="412.5" y="589.9492">Network Interfaces</text><!--MD5=[2a092df0003c6969698c64cc67ec40af]
+entity Connections--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="87" x="556.5" y="513"/> --><svg x="573" y="523"><defs><radialGradient id="b1cd44f2-d62b-4753-a859-aa68f089cdca" cx="46.42" cy="43.21" r="9" gradientTransform="translate(-34.84 -31.81) scale(0.94 0.94)" gradientUnits="userSpaceOnUse"><stop offset="0.18" stop-color="#5ea0ef"
+><stop offset="0.56" stop-color="#5c9fee"
+><stop offset="0.69" stop-color="#559ced"
+><stop offset="0.78" stop-color="#4a97e9"
+><stop offset="0.86" stop-color="#3990e4"
+><stop offset="0.93" stop-color="#2387de"
+><stop offset="0.99" stop-color="#087bd6"
+><stop offset="1" stop-color="#0078d4"
+></radialGradient><clipPath id="f0c68de7-8aac-4038-bd4b-8e0fb8fab5fc"><path d="M10.58,8.34,13,10.92a.22.22,0,0,1,0,.3l-.47.49a.2.2,0,0,1-.3,0h0L9,8.34A.22.22,0,0,1,9,8l3.15-3.32a.2.2,0,0,1,.3,0h0l.47.49a.23.23,0,0,1,0,.31L10.58,8A.22.22,0,0,0,10.58,8.34Z" fill="none"
+></clipPath><clipPath id="e1eb0374-eab6-40b9-91d8-e8a5f1c9b58a"><path d="M7.11,9.91,4.68,12.48a.23.23,0,0,0,0,.31l.47.49a.2.2,0,0,0,.3,0h0l3.2-3.37a.22.22,0,0,0,0-.3L5.5,6.29a.2.2,0,0,0-.3,0h0l-.47.49a.22.22,0,0,0,0,.3L7.11,9.61A.2.2,0,0,1,7.11,9.91Z" fill="none"
+></clipPath></defs><title>Icon-networking-81</title><circle cx="9" cy="9" r="8.5" fill="url(#b1cd44f2-d62b-4753-a859-aa68f089cdca)"
+><circle cx="9" cy="9" r="7.4" fill="#fff"
+><g transform="scale(3,3)"  clip-path="url(#f0c68de7-8aac-4038-bd4b-8e0fb8fab5fc)"><polygon points="10.43 8.19 13.16 11.07 12.39 11.87 8.89 8.19 12.34 4.56 13.11 5.36 10.43 8.19" fill="#5e9624"
+><polygon points="13.16 11.07 10.43 8.19 9.67 8.99 12.39 11.87 13.16 11.07" fill="#86d633"
+></g><g clip-path="url(#e1eb0374-eab6-40b9-91d8-e8a5f1c9b58a)"><polygon points="7.26 9.76 4.54 12.64 5.3 13.44 8.8 9.76 5.35 6.13 4.58 6.93 7.26 9.76" fill="#5e9624"
+><polygon points="4.54 12.64 7.26 9.76 8.02 10.56 5.3 13.44 4.54 12.64" fill="#86d633"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="67" x="566.5" y="589.9492">Connections</text><!--MD5=[868d5c30fb903d86fd9290b649192a5c]
+entity RouteTables--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="87" x="678.5" y="513"/> --><svg x="695" y="523"><g transform="scale(3,3)" ><defs><linearGradient id="ec6ad825-6008-44c0-8c46-d31711213827" x1="10.56" y1="7.77" x2="10.56" y2="19.24" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+><stop offset="1" stop-color="#198ab3"
+></linearGradient><linearGradient id="b2c2be9e-0a70-4a83-ab8f-bf8022e67924" x1="10.23" y1="1.63" x2="11.07" y2="12.04" gradientUnits="userSpaceOnUse"><stop offset="0.22" stop-color="#32d4f5"
+><stop offset="1" stop-color="#198ab3"
+></linearGradient></defs><title>Icon-networking-82</title><path d="M16.23,17.17A1.21,1.21,0,0,0,17.46,16V15.8c-.49-3.86-2.69-7-6.89-7s-6.48,2.66-6.91,7a1.24,1.24,0,0,0,1.1,1.36H16.23Z" fill="url(#ec6ad825-6008-44c0-8c46-d31711213827)"
+><path d="M10.57,9.71a3.86,3.86,0,0,1-2.1-.61l2.08,5.42,2.06-5.39A3.83,3.83,0,0,1,10.57,9.71Z" fill="#fff" opacity="0.8"
+><circle cx="10.57" cy="5.84" r="3.87" fill="url(#b2c2be9e-0a70-4a83-ab8f-bf8022e67924)"
+><path d="M6,5.88V1A.16.16,0,0,0,5.84.83H4.57A.17.17,0,0,0,4.39,1V5.71a.18.18,0,0,1-.17.17H3.1A.12.12,0,0,1,3,5.76V4.45a.11.11,0,0,0-.19-.08L.59,6.57a.16.16,0,0,0,0,.24L2.79,9A.11.11,0,0,0,3,8.93V7.61A.11.11,0,0,1,3.1,7.5H5.84A.17.17,0,0,0,6,7.33V5.88Z" fill="#0078d4"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="67" x="688.5" y="589.9492">Route Tables</text><!--MD5=[c8f702176dea00415af21b4419a3e9b0]
+entity Firewalls--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="26" y="687"/> --><svg x="36" y="697"><g transform="scale(3,3)" ><defs><linearGradient id="b012de7b-7a0e-4618-9fec-703622e3e8c3" x1="9" y1="14.14" x2="9" y2="1.38" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="0.82" stop-color="#5ea0ef"
+></linearGradient></defs><title>Icon-networking-84</title><path d="M18,10.14a4.06,4.06,0,0,0-3.51-3.89A5.1,5.1,0,0,0,9.24,1.38a5.23,5.23,0,0,0-5,3.41A4.82,4.82,0,0,0,0,9.43a4.9,4.9,0,0,0,5.07,4.71l.44,0h8.21a1.46,1.46,0,0,0,.22,0A4.1,4.1,0,0,0,18,10.14Z" fill="url(#b012de7b-7a0e-4618-9fec-703622e3e8c3)"
+><path d="M14.29,11.19a.42.42,0,0,0-.42-.41H4.13a.42.42,0,0,0-.42.41v5a.42.42,0,0,0,.42.41h9.74a.42.42,0,0,0,.42-.41v-5Z" fill="#821010"
+><rect x="4.3" y="11.36" width="2.87" height="1.27" fill="#e62323"
+><rect x="7.6" y="11.36" width="2.87" height="1.27" fill="#ff7381"
+><rect x="10.9" y="11.36" width="2.87" height="1.27" fill="#e62323"
+><rect x="4.3" y="13.06" width="1.19" height="1.27" fill="#e62323"
+><rect x="12.58" y="13.06" width="1.19" height="1.27" fill="#ff7381"
+><rect x="5.92" y="13.06" width="2.87" height="1.27" fill="#ff7381"
+><rect x="9.23" y="13.06" width="2.87" height="1.27" fill="#e62323"
+><rect x="4.3" y="14.76" width="2.87" height="1.27" fill="#e62323"
+><rect x="7.6" y="14.76" width="2.87" height="1.27" fill="#ff7381"
+><rect x="10.9" y="14.76" width="2.87" height="1.27" fill="#e62323"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="45" x="40.5" y="763.9492">Firewalls</text><!--MD5=[f316a4853d6536eae8ab5f079af21581]
+entity ServiceEndpointPolicies--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="111" x="135.5" y="679"/> --><svg x="164" y="689"><g transform="scale(3,3)" ><defs><linearGradient id="b5baf554-e9b4-4fe7-b8e9-cf87296b34cc" x1="9.19" y1="17.5" x2="9.19" y2="0.5" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"
+><stop offset="0.82" stop-color="#5ea0ef"
+></linearGradient></defs><title>Icon-networking-85</title><path d="M13.35,2.88A2.31,2.31,0,0,1,15.65.56h0a1.86,1.86,0,0,1,1.59,1.88,1.86,1.86,0,0,1-.41,1.18.71.71,0,0,1-.55.26h-3Z" fill="#0078d4"
+><path d="M13.56.51h-9A2.29,2.29,0,0,0,2.29,2.8V17.49a0,0,0,0,0,0,0h9a2.29,2.29,0,0,0,2.29-2.29l0-2.43V5.29a25.76,25.76,0,0,1,0-3C13.94.3,16.09.65,16.09.65A11.13,11.13,0,0,0,13.56.51Z" fill="url(#b5baf554-e9b4-4fe7-b8e9-cf87296b34cc)"
+><path d="M8,11.64V6.94a.53.53,0,0,0,.27-.46.54.54,0,0,0-.54-.54.54.54,0,0,0-.26,1v4.7a.55.55,0,0,0-.27.47.54.54,0,1,0,1.07,0A.55.55,0,0,0,8,11.64Z" fill="#f2f2f2"
+><path d="M11.45,17.43h0a1.84,1.84,0,0,1-.89-3.24.23.23,0,0,0-.15-.41l-7.82,0-.29,0h0a1.85,1.85,0,0,0,0,3.64h0a1.36,1.36,0,0,0,.29,0Z" fill="#5ea0ef"
+><circle cx="9.44" cy="6.49" r="0.55" fill="#f2f2f2"
+><circle cx="7.69" cy="6.49" r="0.55" fill="#f2f2f2"
+><circle cx="5.95" cy="6.49" r="0.55" fill="#f2f2f2"
+><path d="M6,9l.32-.32a.15.15,0,0,0,0-.2L3.83,6l-.32.32a.28.28,0,0,0,0,.4L5.83,9A.15.15,0,0,0,6,9Z" fill="#b3b3b3"
+><path d="M6.3,4.3,6,4a.15.15,0,0,0-.2,0L3.51,6.27a.28.28,0,0,0,0,.4L3.82,7,6.3,4.5A.13.13,0,0,0,6.3,4.3Z" fill="#f2f2f2"
+><path d="M9.32,9,9,8.67a.13.13,0,0,1,0-.2L11.53,6l.31.32a.28.28,0,0,1,0,.4L9.52,9A.15.15,0,0,1,9.32,9Z" fill="#b3b3b3"
+><path d="M9.05,4.3,9.37,4a.15.15,0,0,1,.2,0l2.27,2.28a.28.28,0,0,1,0,.4L11.53,7,9.05,4.5A.15.15,0,0,1,9.05,4.3Z" fill="#f2f2f2"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="88" x="145.5" y="755.9492">Service Endpoint</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="40" x="171" y="771.9102">Policies</text><!--MD5=[3838d3fc4c88164e7d6e51be6ce168c0]
+entity NAT--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="74" x="282" y="687"/> --><svg x="292" y="697"><defs><linearGradient id="bb278f11-acc5-4f81-a956-3c7e2103f9e0" x1="9" y1="18.17" x2="9" y2="1.506" gradientTransform="translate(9 -3.728) rotate(45)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#238ab0"
+><stop offset="0.109" stop-color="#2da4c8"
+><stop offset="0.775" stop-color="#3ed3f2"
+></linearGradient></defs><g transform="scale(3,3)" ><rect x="2.553" y="2.553" width="12.893" height="12.893" rx="0.591" transform="translate(-3.728 9) rotate(-45)" fill="url(#bb278f11-acc5-4f81-a956-3c7e2103f9e0)"
+><polygon points="14.092 10.067 13.734 9.709 13.734 8.33 10.877 8.33 10.877 9.85 12.158 9.85 8.94 13.069 5.721 9.85 7.023 9.85 7.023 8.33 3.885 8.33 3.885 9.85 4.004 9.85 3.788 10.067 8.286 14.565 8.94 13.912 9.593 14.565 14.092 10.067" fill="#9cebff"
+><g><ellipse id="e7444779-97d4-41c0-b615-8f20dff7b430" cx="3.977" cy="9.09" rx="1.577" ry="1.585" transform="translate(-5.271 5.494) rotate(-45.121)" fill="#fff"
+><ellipse id="f49a3027-2a70-4956-8377-b9fde0692268" cx="3.977" cy="9.09" rx="0.896" ry="0.905" transform="translate(-5.267 5.484) rotate(-45.061)" fill="#86d633"
+><ellipse id="a1afee39-6bd9-4799-a876-a587d30d68e2" cx="14.014" cy="9.09" rx="1.577" ry="1.585" transform="translate(-2.316 12.607) rotate(-45.121)" fill="#fff"
+><ellipse id="e3be4992-7cb5-4729-a727-b6df3846a260" cx="14.014" cy="9.09" rx="0.896" ry="0.905" transform="translate(-2.319 12.59) rotate(-45.061)" fill="#86d633"
+></g><g><path d="M11.04,4.806l-2-2a.15.15,0,0,0-.213,0l-2,2a.15.15,0,0,0,.106.257H8.068a.107.107,0,0,1,.107.107V15.433H9.7V5.17A.107.107,0,0,1,9.8,5.063h1.131A.15.15,0,0,0,11.04,4.806Z" fill="#fff"
+><ellipse id="b39a4da1-83b2-4022-9206-dc01785cf428" cx="8.935" cy="14.139" rx="1.577" ry="1.585" transform="translate(-7.388 10.494) rotate(-45.121)" fill="#fff"
+><ellipse id="fc8023b8-202d-4292-8ba0-f1db060a36ef" cx="8.935" cy="14.139" rx="0.896" ry="0.905" transform="translate(-7.384 10.477) rotate(-45.061)" fill="#86d633"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="23" x="307.5" y="763.9492">NAT</text><!--MD5=[0fe6313ac431522354929808eac8053b]
+entity VirtualWANs--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="90" x="391" y="687"/> --><svg x="409" y="697"><defs><linearGradient id="a009acc1-6e03-4969-81ca-b157b58a2f69" x1="9" y1="172.704" x2="9" y2="160.613" gradientTransform="translate(0 -160)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#198ab3"
+><stop offset="0.11" stop-color="#22a5cb"
+><stop offset="0.23" stop-color="#29bade"
+><stop offset="0.37" stop-color="#2ec9eb"
+><stop offset="0.53" stop-color="#31d1f3"
+><stop offset="0.78" stop-color="#32d4f5"
+></linearGradient></defs><g transform="scale(3,3)" ><path d="M17.5,8.9a3.854,3.854,0,0,0-3.3-3.7A4.871,4.871,0,0,0,9.2.6,5.011,5.011,0,0,0,4.5,3.8a4.693,4.693,0,0,0-4,4.4,4.612,4.612,0,0,0,4.8,4.5h8.4A3.8,3.8,0,0,0,17.5,8.9Z" fill="url(#a009acc1-6e03-4969-81ca-b157b58a2f69)"
+><circle cx="9" cy="12.9" r="4.4" fill="#f2f2f2"
+><path d="M12.7,10.1a4.6,4.6,0,0,0-6.4-.9h0a4.561,4.561,0,1,0,5.6,7.2h0A4.557,4.557,0,0,0,12.7,10.1ZM5.1,12.6A4.707,4.707,0,0,1,5.5,11H6.6a7.772,7.772,0,0,0-.2,1.6ZM7.2,11H8.7v1.6H7A7.772,7.772,0,0,1,7.2,11Zm2.1,0h1.5a7.772,7.772,0,0,1,.2,1.6H9.3Zm-.5,2.1v1.6H7.2l-.3-1.5Zm.5,0h1.8a9.971,9.971,0,0,1-.2,1.6H9.3Zm2.4,0H13a4.707,4.707,0,0,1-.4,1.6H11.5a7.772,7.772,0,0,0,.2-1.6Zm0-.5a9.971,9.971,0,0,0-.2-1.6h1.1a4.193,4.193,0,0,1,.4,1.6Zm.5-2.2h-.9a4.5,4.5,0,0,0-.6-1.2,4.428,4.428,0,0,1,1.5,1.2Zm-1.5,0H9.3V9a2.171,2.171,0,0,1,1.4,1.4ZM8.8,9v1.5H7.4A2.118,2.118,0,0,1,8.8,9Zm-2.2.7h0a5.582,5.582,0,0,1,.8-.5,3.1,3.1,0,0,0-.6,1.3H5.9A2.7,2.7,0,0,1,6.6,9.7ZM5.1,13.2H6.4a9.971,9.971,0,0,0,.2,1.6H5.5A5.349,5.349,0,0,1,5.1,13.2Zm.8,2.1h.9l.6,1.2A3.491,3.491,0,0,1,5.9,15.3Zm1.5,0H8.7v1.5a2.433,2.433,0,0,1-1.3-1.5Zm1.9,1.5V15.3h1.3a1.968,1.968,0,0,1-1.3,1.5Zm2.2-.8h0a2.622,2.622,0,0,1-.9.5,3.379,3.379,0,0,0,.6-1.2h.9A1.344,1.344,0,0,1,11.5,16Z" fill="#0078d4"
+><path d="M5.1,11.4A4.025,4.025,0,0,1,2.9,8.5,3.646,3.646,0,0,1,4.4,5.6L5,5.1l.5.6-.6.5A2.509,2.509,0,0,0,3.7,8.4a3.031,3.031,0,0,0,1.8,2.3Z" fill="#e6e6e6"
+><circle cx="5.3" cy="5.4" r="1.1" fill="#f2f2f2"
+><path d="M12.7,11.4l-.4-.7a3.259,3.259,0,0,0,1.8-2.3,2.748,2.748,0,0,0-1.2-2.2l-.6-.4.5-.6.6.4a3.071,3.071,0,0,1,1.5,2.9A4.025,4.025,0,0,1,12.7,11.4Z" fill="#e6e6e6"
+><circle cx="12.6" cy="5.4" r="1.1" fill="#f2f2f2"
+><circle cx="5.3" cy="11.1" r="1.1" fill="#ce74b6"
+><circle cx="12.6" cy="11.1" r="1.1" fill="#ce74b6"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="70" x="401" y="763.9492">Virtual WANs</text><!--MD5=[6f7c7d4dc4d243f3352dcb4573e9ad49]
+entity WebApplicationFirewallPoliciesWAF--><rect fill="#FFFFFF" height="121.8828" style="stroke:#3C7FC0;stroke-width:1.0;" width="111" x="516.5" y="671"/> --><svg x="545" y="681"><g transform="scale(3,3)" ><defs><radialGradient id="bb8edb14-0b70-46fb-997d-f3a277915c9b" cx="15013.284" cy="4584.191" r="56.626" gradientTransform="translate(-2243.333 -678.832) scale(0.15)" gradientUnits="userSpaceOnUse"><stop offset="0.183" stop-color="#5ea0ef"
+><stop offset="1" stop-color="#0078d4"
+></radialGradient><linearGradient id="a6f3c115-b661-478c-8384-79eca0b050eb" x1="4.022" y1="171.297" x2="3.991" y2="167.338" gradientTransform="translate(0 -160)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ccc"
+><stop offset="0.123" stop-color="#d7d7d7"
+><stop offset="0.421" stop-color="#ebebeb"
+><stop offset="0.716" stop-color="#f8f8f8"
+><stop offset="1" stop-color="#fcfcfc"
+></linearGradient></defs><title>Icon-362Artboard 1</title><path id="a365ed42-c10c-4d6b-b8da-5311b6818174" d="M13.9,15.5A8.512,8.512,0,0,1,3.4,2.1L3.5,2A8.521,8.521,0,0,1,13.9,15.5" fill="url(#bb8edb14-0b70-46fb-997d-f3a277915c9b)"
+><path d="M2.1,10.5a25.824,25.824,0,0,0-.8,2.6l.6.9.6.6a14.249,14.249,0,0,1,1.1-3.5A2.529,2.529,0,0,1,2.1,10.5Z" fill="#83b9f9"
+><path d="M3.1,5.9A13.655,13.655,0,0,1,2.4,3,7.551,7.551,0,0,0,1.3,4.4a10.548,10.548,0,0,0,.6,2.4A2.73,2.73,0,0,1,3.1,5.9Z" fill="#83b9f9"
+><circle cx="4" cy="8.5" r="2.7" fill="url(#a6f3c115-b661-478c-8384-79eca0b050eb)"
+><path d="M8,13.5a2.106,2.106,0,0,1,.5-1.3A9.2,9.2,0,0,1,6,10.3a2.751,2.751,0,0,1-1.5.8A19.2,19.2,0,0,0,6,12.5a8.175,8.175,0,0,0,2,1.2Z" fill="#83b9f9"
+><path d="M14.3,13.7a13.329,13.329,0,0,1-2.8-.3v.1a1.656,1.656,0,0,1-.5,1.2,12.967,12.967,0,0,0,3.4.2c.4-.4.8-.9,1.2-1.3A5.283,5.283,0,0,1,14.3,13.7Z" fill="#83b9f9"
+><circle cx="9.8" cy="13.5" r="1.8" fill="none"
+><path d="M9.3,4.9a13.468,13.468,0,0,1,5.9-1.4,6.73,6.73,0,0,0-1.5-1.4A15.335,15.335,0,0,0,9,3.2a9.25,9.25,0,0,0-1,.5A18.723,18.723,0,0,1,6,.8a1.9,1.9,0,0,0-.9.3A21.123,21.123,0,0,0,7.2,4.2,9.841,9.841,0,0,0,5,5.9,2.85,2.85,0,0,1,6.3,7,8.961,8.961,0,0,1,8.2,5.5a22.363,22.363,0,0,0,3.7,3.2,2.075,2.075,0,0,1,.6-1A27.892,27.892,0,0,1,9.3,4.9Z" fill="#83b9f9"
+><circle cx="13.8" cy="9.1" r="1.9" fill="#f2f2f2"
+><path d="M17,10.4c-.1-.1-.2-.1-.3-.2h0c-.1-.1-.2-.1-.3-.2h-.1L16,9.8h-.1l-.3-.2a1.456,1.456,0,0,1-.6.9c.1.1.2.1.4.2h.1c.1.1.2.1.3.2h0c.3.2.6.3.9.5h0c.1-.3.2-.7.3-1Z" fill="#83b9f9"
+><circle cx="4" cy="8.5" r="2.7" fill="#f2f2f2"
+><circle cx="9.8" cy="13.5" r="1.8" fill="#f2f2f2"
+><path d="M5.2,10.5H17.3c.2,0,.5.2.5.4v6.4a.536.536,0,0,1-.5.5H5.2a.458.458,0,0,1-.4-.5V11A.458.458,0,0,1,5.2,10.5Z" fill="#821010"
+><rect x="5.3" y="11.3" width="3.6" height="1.6" fill="#e62323"
+><rect x="9.5" y="11.3" width="3.6" height="1.6" fill="#ff7381"
+><rect x="13.6" y="11.3" width="3.6" height="1.6" fill="#e62323"
+><rect x="5.3" y="13.4" width="1.5" height="1.6" fill="#e62323"
+><rect x="15.7" y="13.4" width="1.5" height="1.6" fill="#ff7381"
+><rect x="7.4" y="13.4" width="3.6" height="1.6" fill="#ff7381"
+><rect x="11.5" y="13.4" width="3.6" height="1.6" fill="#e62323"
+><rect x="5.3" y="15.5" width="3.6" height="1.6" fill="#e62323"
+><rect x="9.5" y="15.5" width="3.6" height="1.6" fill="#ff7381"
+><rect x="13.6" y="15.5" width="3.6" height="1.6" fill="#e62323"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="88" x="526.5" y="747.9492">Web Application</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="40" x="550.5" y="763.9102">Firewall</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="65" x="539.5" y="779.8711">PoliciesWAF</text><!--MD5=[59f93973f57f4ea5e1864f97cb644ba3]
+entity ProximityPlacementGroups--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="117" x="662.5" y="679"/> --><svg x="694" y="689"><path d="M0 15.6a.16.16 0 0 0 .09.15l1.22.7 2.07 1.2a.18.18 0 0 0 .24-.06l.7-1.22a.16.16 0 0 0 0-.22l-2.5-1.42a.18.18 0 0 1-.08-.15V3.42a.18.18 0 0 1 .08-.15l2.43-1.4a.16.16 0 0 0 .07-.22L3.62.4a.18.18 0 0 0-.24-.06l-2 1.18-1.3.73a.16.16 0 0 0-.09.15z" fill="#949494"
+><path d="M4.3 1.63L3.62.4a.18.18 0 0 0-.18-.08.11.11 0 0 0-.08 0l-2 1.18-1.3.75L0 2.3v.08l1.74 1a.18.18 0 0 1 .08-.15l2.43-1.4a.16.16 0 0 0 .07-.22zm0 14.74l-.7 1.22a.18.18 0 0 1-.18.08h-.08l-2-1.18-1.3-.75-.06-.06v-.08l1.74-1a.18.18 0 0 0 .08.15l2.43 1.4a.16.16 0 0 1 .06.21z" fill="#a3a3a3"
+><path d="M18 2.4a.16.16 0 0 0-.09-.15l-1.22-.7-2.07-1.2a.18.18 0 0 0-.24.06l-.7 1.22a.15.15 0 0 0 .05.22l2.43 1.4a.18.18 0 0 1 .08.15v11.17a.18.18 0 0 1-.08.15l-2.43 1.4a.16.16 0 0 0-.07.22l.7 1.22a.18.18 0 0 0 .24.06l2-1.18 1.26-.73a.16.16 0 0 0 .09-.15V2.4z" fill="#949494"
+><path d="M13.7 16.37l.7 1.22a.18.18 0 0 0 .18.08h.08l2-1.18 1.26-.73.1-.06a.11.11 0 0 0 0-.08l-1.74-1a.18.18 0 0 1-.08.15l-2.43 1.4a.17.17 0 0 0-.06.19zm0-14.74L14.4.4a.18.18 0 0 1 .18-.08.11.11 0 0 1 .08 0l2 1.18 1.26.73.1.06a.11.11 0 0 1 0 .08l-1.74 1a.18.18 0 0 0-.08-.15l-2.43-1.37a.16.16 0 0 1-.07-.22z" fill="#a3a3a3"
+><path d="M8.52 12.9a.29.29 0 0 1-.31.29H3.37a.3.3 0 0 1-.32-.28V5.06a.3.3 0 0 1 .31-.29H8.2a.29.29 0 0 1 .31.29z" fill="#999"
+><path d="M3.86 8.37a.62.62 0 0 1 .59-.65h2.72a.63.63 0 0 1 .6.65.63.63 0 0 1-.6.66H4.45a.63.63 0 0 1-.59-.65zm0-1.94a.63.63 0 0 1 .59-.66h2.72a.63.63 0 0 1 .6.66.63.63 0 0 1-.6.65H4.45a.63.63 0 0 1-.59-.65z" fill="#003067"
+><g transform="scale(3,3)"  fill="#50e6ff"><circle cx="4.62" cy="6.43" r=".44"
+><circle cx="4.62" cy="8.37" r=".44"
+></g><path d="M15.08 12.9a.29.29 0 0 1-.31.29H9.93a.3.3 0 0 1-.32-.28V5.06a.3.3 0 0 1 .31-.29h4.84a.3.3 0 0 1 .32.28z" fill="#999"
+><path d="M10.4 8.37a.64.64 0 0 1 .6-.65h2.72a.63.63 0 0 1 .6.65.63.63 0 0 1-.6.66H11a.63.63 0 0 1-.6-.66zm0-1.94a.64.64 0 0 1 .6-.66h2.72a.63.63 0 0 1 .6.66.63.63 0 0 1-.6.65H11a.64.64 0 0 1-.6-.65z" fill="#003067"
+><g fill="#50e6ff"><circle cx="11.18" cy="6.43" r=".44"
+><circle cx="11.18" cy="8.37" r=".44"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="51" x="694" y="755.9492">Proximity</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="97" x="672.5" y="771.9102">Placement Groups</text><!--MD5=[9bf40ef2a9c9e1c51a74d07119057fa2]
+entity ReservedIPAddressesClassic--><rect fill="#FFFFFF" height="105.9219" style="stroke:#3C7FC0;stroke-width:1.0;" width="112" x="7" y="853"/> --><svg x="36" y="863"><defs><linearGradient id="b4943fc0-ee69-42fa-ba77-41b9c6c6b321" x1="9" y1="16.007" x2="9" y2="5.707" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32bedd"
+><stop offset="0.175" stop-color="#32caea"
+><stop offset="0.41" stop-color="#32d2f2"
+><stop offset="0.775" stop-color="#32d4f5"
+></linearGradient></defs><title>Lighthouse-GS-networking-371</title><g transform="scale(3,3)" ><path d="M.285,5.707H17.715a0,0,0,0,1,0,0v10.08a.22.22,0,0,1-.22.22H.505a.22.22,0,0,1-.22-.22V5.707A0,0,0,0,1,.285,5.707Z" fill="url(#b4943fc0-ee69-42fa-ba77-41b9c6c6b321)"
+><path d="M.509,1.993H17.491a.22.22,0,0,1,.22.22V5.707a0,0,0,0,1,0,0H.289a0,0,0,0,1,0,0V2.213A.22.22,0,0,1,.509,1.993Z" fill="#0078d4"
+><g><circle cx="12.917" cy="10.218" r="1.416" fill="#0078d4"
+><circle cx="9.058" cy="10.218" r="1.416" fill="#0078d4"
+><circle cx="5.083" cy="10.218" r="1.416" fill="#0078d4"
+></g><rect x="2.63" y="3.102" width="12.739" height="1.496" rx="0.11" fill="#f2f2f2"
+></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="60" x="31.5" y="929.9492">Reserved IP</text><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="92" x="17" y="945.9102">Addresses Classic</text><!--MD5=[08e12eddfa0370a0b57c6c3c7cf77149]
+entity PublicIPPrefixes--><rect fill="#FFFFFF" height="89.9609" style="stroke:#3C7FC0;stroke-width:1.0;" width="110" x="154" y="861"/> --><svg x="182" y="871"><defs><linearGradient id="b6125be5-5e46-486d-bdee-ef1ac2eafdaa" x1="5.055" y1="-1401.772" x2="5.055" y2="-1395.802" gradientTransform="matrix(1, 0, 0, -1, 0, -1391.642)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32bedd"
+><stop offset="0.18" stop-color="#32caea"
+><stop offset="0.41" stop-color="#32d2f2"
+><stop offset="0.78" stop-color="#32d4f5"
+></linearGradient><linearGradient id="adf1cfb9-1a2a-44ee-aac6-05ac5cdb186f" x1="9" y1="-1404.702" x2="9" y2="-1398.732" xlink:href="#b6125be5-5e46-486d-bdee-ef1ac2eafdaa"
+><linearGradient id="f0461ac7-cb08-44b4-94c6-8fe04f936f9b" x1="12.945" y1="-1407.632" x2="12.945" y2="-1401.662" xlink:href="#b6125be5-5e46-486d-bdee-ef1ac2eafdaa"
+></defs><title>Lighthouse-GS-networking-372</title><g transform="scale(3,3)" ><path d="M0,4.16H10.11V9.8a.34.34,0,0,1-.34.34H.34A.34.34,0,0,1,0,9.8H0V4.16Z" fill="url(#b6125be5-5e46-486d-bdee-ef1ac2eafdaa)"
+><path d="M.34,2H9.77a.34.34,0,0,1,.34.34h0V4.16H0V2.34A.34.34,0,0,1,.34,2Z" fill="#767676"
+><rect x="1.36" y="2.65" width="7.39" height="0.87" rx="0.17" fill="#f2f2f2"
+><path d="M3.94,7.08H14.06v5.64a.34.34,0,0,1-.34.34H4.28a.34.34,0,0,1-.34-.34h0Z" fill="url(#adf1cfb9-1a2a-44ee-aac6-05ac5cdb186f)"
+><path d="M4.28,4.93h9.43a.34.34,0,0,1,.34.34h0V7.08H3.95V5.27A.34.34,0,0,1,4.28,4.93Z" fill="#767676"
+><rect x="5.3" y="5.58" width="7.39" height="0.87" rx="0.17" fill="#f2f2f2"
+><g><path d="M7.89,10.02H18v5.64a.34.34,0,0,1-.34.34H8.23a.34.34,0,0,1-.34-.34h0Z" fill="url(#f0461ac7-cb08-44b4-94c6-8fe04f936f9b)"
+><path d="M8.23,7.86h9.43A.34.34,0,0,1,18,8.2v1.82H7.89V8.2A.34.34,0,0,1,8.23,7.86Z" fill="#767676"
+><g><circle cx="15.22" cy="12.64" r="0.82" fill="#f2f2f2"
+><circle cx="12.98" cy="12.64" r="0.82" fill="#f2f2f2"
+><circle cx="10.67" cy="12.64" r="0.82" fill="#f2f2f2"
+></g><rect x="9.25" y="8.51" width="7.39" height="0.87" rx="0.17" fill="#f2f2f2"
+></g></g></svg><text fill="#000000" font-family="Segoe UI" font-size="12" lengthAdjust="spacing" textLength="90" x="164" y="937.9492">Public IP Prefixes</text><!--MD5=[d8e7dff287c82ed875d92106f7200195]
+link CDNProfiles to AzureFirewallManager--><!--MD5=[d84ddee0bcc0bb3b85925ae61b86cc19]
+link AzureFirewallManager to PrivateLink--><!--MD5=[130425b6a34cde68eec5ff73db929367]
+link PrivateLink to IPGroups--><!--MD5=[2238fc212a78f2b708d8989010d5de96]
+link IPGroups to PrivateLinkService--><!--MD5=[bf7d6c27ebc15a0036a4bfefcd294173]
+link PrivateLinkService to VirtualNetworks--><!--MD5=[5166d69bdf5aa67dc4041c1317997bb9]
+link CDNProfiles to LoadBalancers--><!--MD5=[052ebc37c170f4c9bb1d9968164cc4d6]
+link LoadBalancers to VirtualNetworkGateways--><!--MD5=[e48006d1c189383bdac9184d2b26dd43]
+link VirtualNetworkGateways to DNSZones--><!--MD5=[0923becb961ad9594afe019485ea317c]
+link DNSZones to TrafficManagerProfiles--><!--MD5=[f726a780aa1b7a990d55aeac6211a0e7]
+link TrafficManagerProfiles to NetworkWatcher--><!--MD5=[92d42b60083e5961811e0a9c98746c89]
+link NetworkWatcher to NetworkSecurityGroups--><!--MD5=[b3a54f40fa4c793acd69080847e9e32c]
+link LoadBalancers to PublicIPAddressesClassic--><!--MD5=[ee584ae95877a6f28124ac6cee1fface]
+link PublicIPAddressesClassic to PublicIPAddresses--><!--MD5=[8ee5a9869333a17e41e66e4b4ffd0aa3]
+link PublicIPAddresses to RouteFilters--><!--MD5=[18d6598ea07162b7c3ed00c842ccb72d]
+link RouteFilters to DDoSProtectionPlans--><!--MD5=[eb3beeccdf74f015b96f4b94f6cfd42a]
+link DDoSProtectionPlans to FrontDoors--><!--MD5=[608f835605049ba92efa5fbff322c80e]
+link FrontDoors to VirtualNetworksClassic--><!--MD5=[b0906ff68b43bf7d33e3a01f3178d343]
+link PublicIPAddressesClassic to ApplicationGateways--><!--MD5=[aeb2570a6026067ca6d1140e8a504238]
+link ApplicationGateways to LocalNetworkGateways--><!--MD5=[06caad0e27c5bbe0d1bee345d96de6ca]
+link LocalNetworkGateways to ExpressRouteCircuits--><!--MD5=[eb4f4f46f06bdffefd197ebdfc355b59]
+link ExpressRouteCircuits to NetworkInterfaces--><!--MD5=[55c05b856b4d5a5e9d4f9133854c2ef5]
+link NetworkInterfaces to Connections--><!--MD5=[71eb429983e1e6bc928f418604ce3a66]
+link Connections to RouteTables--><!--MD5=[0b04bb98c0be152307f89f8a3cff24ca]
+link ApplicationGateways to Firewalls--><!--MD5=[05325086612c8806611e0e10e0b28b8f]
+link Firewalls to ServiceEndpointPolicies--><!--MD5=[68273e886b686a21f166d0e1fd15f1db]
+link ServiceEndpointPolicies to NAT--><!--MD5=[5bb3430c1074069be772bf9a53f3ed71]
+link NAT to VirtualWANs--><!--MD5=[9f47cf9c8b85273b9b1b9743cc2e5e12]
+link VirtualWANs to WebApplicationFirewallPoliciesWAF--><!--MD5=[1f7aaf3ea7411f5608ae86744658302a]
+link WebApplicationFirewallPoliciesWAF to ProximityPlacementGroups--><!--MD5=[e14f9d25b2e398b212fb30d433acf807]
+link Firewalls to ReservedIPAddressesClassic--><!--MD5=[161720f77c4c7d2c4e68129568366789]
+link ReservedIPAddressesClassic to PublicIPPrefixes--><!--MD5=[275c0c72804578e5f118fe3e35f0d2fe]
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $CDNProfiles Networking/00056-icon-service-CDN-Profiles.svg
+rectangle "CDN Profiles" <<$CDNProfiles{scale=3}>> as CDNProfiles
+sprite $AzureFirewallManager Networking/00271-icon-service-Azure-Firewall-Manager.svg
+rectangle "Azure Firewall Manager" <<$AzureFirewallManager{scale=3}>> as AzureFirewallManager
+sprite $PrivateLink Networking/00427-icon-service-Private-Link.svg
+rectangle "Private Link" <<$PrivateLink{scale=3}>> as PrivateLink
+sprite $IPGroups Networking/00701-icon-service-IP-Groups.svg
+rectangle "IP Groups" <<$IPGroups{scale=3}>> as IPGroups
+sprite $PrivateLinkService Networking/01105-icon-service-Private-Link-Service.svg
+rectangle "Private Link Service" <<$PrivateLinkService{scale=3}>> as PrivateLinkService
+sprite $VirtualNetworks Networking/10061-icon-service-Virtual-Networks.svg
+rectangle "Virtual Networks" <<$VirtualNetworks{scale=3}>> as VirtualNetworks
+sprite $LoadBalancers Networking/10062-icon-service-Load-Balancers.svg
+rectangle "Load Balancers" <<$LoadBalancers{scale=3}>> as LoadBalancers
+sprite $VirtualNetworkGateways Networking/10063-icon-service-Virtual-Network-Gateways.svg
+rectangle "Virtual Network Gateways" <<$VirtualNetworkGateways{scale=3}>> as VirtualNetworkGateways
+sprite $DNSZones Networking/10064-icon-service-DNS-Zones.svg
+rectangle "DNS Zones" <<$DNSZones{scale=3}>> as DNSZones
+sprite $TrafficManagerProfiles Networking/10065-icon-service-Traffic-Manager-Profiles.svg
+rectangle "Traffic Manager Profiles" <<$TrafficManagerProfiles{scale=3}>> as TrafficManagerProfiles
+sprite $NetworkWatcher Networking/10066-icon-service-Network-Watcher.svg
+rectangle "Network Watcher" <<$NetworkWatcher{scale=3}>> as NetworkWatcher
+sprite $NetworkSecurityGroups Networking/10067-icon-service-Network-Security-Groups.svg
+rectangle "Network Security Groups" <<$NetworkSecurityGroups{scale=3}>> as NetworkSecurityGroups
+sprite $PublicIPAddressesClassic Networking/10068-icon-service-Public-IP-Addresses-Classic.svg
+rectangle "Public IP Addresses Classic" <<$PublicIPAddressesClassic{scale=3}>> as PublicIPAddressesClassic
+sprite $PublicIPAddresses Networking/10069-icon-service-Public-IP-Addresses.svg
+rectangle "Public IP Addresses" <<$PublicIPAddresses{scale=3}>> as PublicIPAddresses
+sprite $RouteFilters Networking/10071-icon-service-Route-Filters.svg
+rectangle "Route Filters" <<$RouteFilters{scale=3}>> as RouteFilters
+sprite $DDoSProtectionPlans Networking/10072-icon-service-DDoS-Protection-Plans.svg
+rectangle "DDoS Protection Plans" <<$DDoSProtectionPlans{scale=3}>> as DDoSProtectionPlans
+sprite $FrontDoors Networking/10073-icon-service-Front-Doors.svg
+rectangle "Front Doors" <<$FrontDoors{scale=3}>> as FrontDoors
+sprite $VirtualNetworksClassic Networking/10075-icon-service-Virtual-Networks-Classic.svg
+rectangle "Virtual Networks Classic" <<$VirtualNetworksClassic{scale=3}>> as VirtualNetworksClassic
+sprite $ApplicationGateways Networking/10076-icon-service-Application-Gateways.svg
+rectangle "Application Gateways" <<$ApplicationGateways{scale=3}>> as ApplicationGateways
+sprite $LocalNetworkGateways Networking/10077-icon-service-Local-Network-Gateways.svg
+rectangle "Local Network Gateways" <<$LocalNetworkGateways{scale=3}>> as LocalNetworkGateways
+sprite $ExpressRouteCircuits Networking/10079-icon-service-ExpressRoute-Circuits.svg
+rectangle "ExpressRoute Circuits" <<$ExpressRouteCircuits{scale=3}>> as ExpressRouteCircuits
+sprite $NetworkInterfaces Networking/10080-icon-service-Network-Interfaces.svg
+rectangle "Network Interfaces" <<$NetworkInterfaces{scale=3}>> as NetworkInterfaces
+sprite $Connections Networking/10081-icon-service-Connections.svg
+rectangle "Connections" <<$Connections{scale=3}>> as Connections
+sprite $RouteTables Networking/10082-icon-service-Route-Tables.svg
+rectangle "Route Tables" <<$RouteTables{scale=3}>> as RouteTables
+sprite $Firewalls Networking/10084-icon-service-Firewalls.svg
+rectangle "Firewalls" <<$Firewalls{scale=3}>> as Firewalls
+sprite $ServiceEndpointPolicies Networking/10085-icon-service-Service-Endpoint-Policies.svg
+rectangle "Service Endpoint Policies" <<$ServiceEndpointPolicies{scale=3}>> as ServiceEndpointPolicies
+sprite $NAT Networking/10310-icon-service-NAT.svg
+rectangle "NAT" <<$NAT{scale=3}>> as NAT
+sprite $VirtualWANs Networking/10353-icon-service-Virtual-WANs.svg
+rectangle "Virtual WANs" <<$VirtualWANs{scale=3}>> as VirtualWANs
+sprite $WebApplicationFirewallPoliciesWAF Networking/10362-icon-service-Web-Application-Firewall-PoliciesWAF.svg
+rectangle "Web Application Firewall PoliciesWAF" <<$WebApplicationFirewallPoliciesWAF{scale=3}>> as WebApplicationFirewallPoliciesWAF
+sprite $ProximityPlacementGroups Networking/10365-icon-service-Proximity-Placement-Groups.svg
+rectangle "Proximity Placement Groups" <<$ProximityPlacementGroups{scale=3}>> as ProximityPlacementGroups
+sprite $ReservedIPAddressesClassic Networking/10371-icon-service-Reserved-IP-Addresses-Classic.svg
+rectangle "Reserved IP Addresses Classic" <<$ReservedIPAddressesClassic{scale=3}>> as ReservedIPAddressesClassic
+sprite $PublicIPPrefixes Networking/10372-icon-service-Public-IP-Prefixes.svg
+rectangle "Public IP Prefixes" <<$PublicIPPrefixes{scale=3}>> as PublicIPPrefixes
+@enduml
+
+@startuml
+!pragma revision 1
+
+
+skinparam defaultTextAlignment center
+skinparam defaultFontName Segoe UI
+skinparam defaultBackgroundColor white
+skinparam RectangleBackgroundColor white
+skinparam RectangleBorderColor #3C7FC0
+skinparam WrapWidth 100
+
+skinparam rectangle {
+    FontSize 12
+    BorderThickness 1
+    Shadowing false
+}
+sprite $CDNProfiles Networking/00056-icon-service-CDN-Profiles.svg
+rectangle "CDN Profiles" <<$CDNProfiles{scale=3}>> as CDNProfiles
+sprite $AzureFirewallManager Networking/00271-icon-service-Azure-Firewall-Manager.svg
+rectangle "Azure Firewall Manager" <<$AzureFirewallManager{scale=3}>> as AzureFirewallManager
+sprite $PrivateLink Networking/00427-icon-service-Private-Link.svg
+rectangle "Private Link" <<$PrivateLink{scale=3}>> as PrivateLink
+sprite $IPGroups Networking/00701-icon-service-IP-Groups.svg
+rectangle "IP Groups" <<$IPGroups{scale=3}>> as IPGroups
+sprite $PrivateLinkService Networking/01105-icon-service-Private-Link-Service.svg
+rectangle "Private Link Service" <<$PrivateLinkService{scale=3}>> as PrivateLinkService
+sprite $VirtualNetworks Networking/10061-icon-service-Virtual-Networks.svg
+rectangle "Virtual Networks" <<$VirtualNetworks{scale=3}>> as VirtualNetworks
+sprite $LoadBalancers Networking/10062-icon-service-Load-Balancers.svg
+rectangle "Load Balancers" <<$LoadBalancers{scale=3}>> as LoadBalancers
+sprite $VirtualNetworkGateways Networking/10063-icon-service-Virtual-Network-Gateways.svg
+rectangle "Virtual Network Gateways" <<$VirtualNetworkGateways{scale=3}>> as VirtualNetworkGateways
+sprite $DNSZones Networking/10064-icon-service-DNS-Zones.svg
+rectangle "DNS Zones" <<$DNSZones{scale=3}>> as DNSZones
+sprite $TrafficManagerProfiles Networking/10065-icon-service-Traffic-Manager-Profiles.svg
+rectangle "Traffic Manager Profiles" <<$TrafficManagerProfiles{scale=3}>> as TrafficManagerProfiles
+sprite $NetworkWatcher Networking/10066-icon-service-Network-Watcher.svg
+rectangle "Network Watcher" <<$NetworkWatcher{scale=3}>> as NetworkWatcher
+sprite $NetworkSecurityGroups Networking/10067-icon-service-Network-Security-Groups.svg
+rectangle "Network Security Groups" <<$NetworkSecurityGroups{scale=3}>> as NetworkSecurityGroups
+sprite $PublicIPAddressesClassic Networking/10068-icon-service-Public-IP-Addresses-Classic.svg
+rectangle "Public IP Addresses Classic" <<$PublicIPAddressesClassic{scale=3}>> as PublicIPAddressesClassic
+sprite $PublicIPAddresses Networking/10069-icon-service-Public-IP-Addresses.svg
+rectangle "Public IP Addresses" <<$PublicIPAddresses{scale=3}>> as PublicIPAddresses
+sprite $RouteFilters Networking/10071-icon-service-Route-Filters.svg
+rectangle "Route Filters" <<$RouteFilters{scale=3}>> as RouteFilters
+sprite $DDoSProtectionPlans Networking/10072-icon-service-DDoS-Protection-Plans.svg
+rectangle "DDoS Protection Plans" <<$DDoSProtectionPlans{scale=3}>> as DDoSProtectionPlans
+sprite $FrontDoors Networking/10073-icon-service-Front-Doors.svg
+rectangle "Front Doors" <<$FrontDoors{scale=3}>> as FrontDoors
+sprite $VirtualNetworksClassic Networking/10075-icon-service-Virtual-Networks-Classic.svg
+rectangle "Virtual Networks Classic" <<$VirtualNetworksClassic{scale=3}>> as VirtualNetworksClassic
+sprite $ApplicationGateways Networking/10076-icon-service-Application-Gateways.svg
+rectangle "Application Gateways" <<$ApplicationGateways{scale=3}>> as ApplicationGateways
+sprite $LocalNetworkGateways Networking/10077-icon-service-Local-Network-Gateways.svg
+rectangle "Local Network Gateways" <<$LocalNetworkGateways{scale=3}>> as LocalNetworkGateways
+sprite $ExpressRouteCircuits Networking/10079-icon-service-ExpressRoute-Circuits.svg
+rectangle "ExpressRoute Circuits" <<$ExpressRouteCircuits{scale=3}>> as ExpressRouteCircuits
+sprite $NetworkInterfaces Networking/10080-icon-service-Network-Interfaces.svg
+rectangle "Network Interfaces" <<$NetworkInterfaces{scale=3}>> as NetworkInterfaces
+sprite $Connections Networking/10081-icon-service-Connections.svg
+rectangle "Connections" <<$Connections{scale=3}>> as Connections
+sprite $RouteTables Networking/10082-icon-service-Route-Tables.svg
+rectangle "Route Tables" <<$RouteTables{scale=3}>> as RouteTables
+sprite $Firewalls Networking/10084-icon-service-Firewalls.svg
+rectangle "Firewalls" <<$Firewalls{scale=3}>> as Firewalls
+sprite $ServiceEndpointPolicies Networking/10085-icon-service-Service-Endpoint-Policies.svg
+rectangle "Service Endpoint Policies" <<$ServiceEndpointPolicies{scale=3}>> as ServiceEndpointPolicies
+sprite $NAT Networking/10310-icon-service-NAT.svg
+rectangle "NAT" <<$NAT{scale=3}>> as NAT
+sprite $VirtualWANs Networking/10353-icon-service-Virtual-WANs.svg
+rectangle "Virtual WANs" <<$VirtualWANs{scale=3}>> as VirtualWANs
+sprite $WebApplicationFirewallPoliciesWAF Networking/10362-icon-service-Web-Application-Firewall-PoliciesWAF.svg
+rectangle "Web Application Firewall PoliciesWAF" <<$WebApplicationFirewallPoliciesWAF{scale=3}>> as WebApplicationFirewallPoliciesWAF
+sprite $ProximityPlacementGroups Networking/10365-icon-service-Proximity-Placement-Groups.svg
+rectangle "Proximity Placement Groups" <<$ProximityPlacementGroups{scale=3}>> as ProximityPlacementGroups
+sprite $ReservedIPAddressesClassic Networking/10371-icon-service-Reserved-IP-Addresses-Classic.svg
+rectangle "Reserved IP Addresses Classic" <<$ReservedIPAddressesClassic{scale=3}>> as ReservedIPAddressesClassic
+sprite $PublicIPPrefixes Networking/10372-icon-service-Public-IP-Prefixes.svg
+rectangle "Public IP Prefixes" <<$PublicIPPrefixes{scale=3}>> as PublicIPPrefixes
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 02:25:05 PST 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

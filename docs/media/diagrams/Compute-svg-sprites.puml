@@ -1,0 +1,56 @@
+@startuml
+!pragma revision 1
+!include ../../includes/AzureCommon.puml
+sprite $DiskEncryptionSets ../../media/icons/Compute/00398-icon-service-Disk-Encryption-Sets.svg
+rectangle "Disk Encryption Sets" <<$DiskEncryptionSets{scale=3}>> as DiskEncryptionSets
+sprite $Workspaces ../../media/icons/Compute/00400-icon-service-Workspaces.svg
+rectangle "Workspaces" <<$Workspaces{scale=3}>> as Workspaces
+sprite $AutomanagedVM ../../media/icons/Compute/02112-icon-service-Automanaged-VM.svg
+rectangle "Automanaged VM" <<$AutomanagedVM{scale=3}>> as AutomanagedVM
+sprite $VirtualMachine ../../media/icons/Compute/10021-icon-service-Virtual-Machine.svg
+rectangle "Virtual Machine" <<$VirtualMachine{scale=3}>> as VirtualMachine
+sprite $KubernetesServices ../../media/icons/Compute/10023-icon-service-Kubernetes-Services.svg
+rectangle "Kubernetes Services" <<$KubernetesServices{scale=3}>> as KubernetesServices
+sprite $MeshApplications ../../media/icons/Compute/10024-icon-service-Mesh-Applications.svg
+rectangle "Mesh Applications" <<$MeshApplications{scale=3}>> as MeshApplications
+sprite $AvailabilitySets ../../media/icons/Compute/10025-icon-service-Availability-Sets.svg
+rectangle "Availability Sets" <<$AvailabilitySets{scale=3}>> as AvailabilitySets
+sprite $DisksSnapshots ../../media/icons/Compute/10026-icon-service-Disks-Snapshots.svg
+rectangle "Disks Snapshots" <<$DisksSnapshots{scale=3}>> as DisksSnapshots
+sprite $OSImagesClassic ../../media/icons/Compute/10027-icon-service-OS-Images-Classic.svg
+rectangle "OS Images Classic" <<$OSImagesClassic{scale=3}>> as OSImagesClassic
+sprite $VirtualMachinesClassic ../../media/icons/Compute/10028-icon-service-Virtual-Machines-Classic.svg
+rectangle "Virtual Machines Classic" <<$VirtualMachinesClassic{scale=3}>> as VirtualMachinesClassic
+sprite $FunctionApps ../../media/icons/Compute/10029-icon-service-Function-Apps.svg
+rectangle "Function Apps" <<$FunctionApps{scale=3}>> as FunctionApps
+sprite $CloudServicesClassic ../../media/icons/Compute/10030-icon-service-Cloud-Services-Classic.svg
+rectangle "Cloud Services Classic" <<$CloudServicesClassic{scale=3}>> as CloudServicesClassic
+sprite $BatchAccounts ../../media/icons/Compute/10031-icon-service-Batch-Accounts.svg
+rectangle "Batch Accounts" <<$BatchAccounts{scale=3}>> as BatchAccounts
+sprite $Disks ../../media/icons/Compute/10032-icon-service-Disks.svg
+rectangle "Disks" <<$Disks{scale=3}>> as Disks
+sprite $Images ../../media/icons/Compute/10033-icon-service-Images.svg
+rectangle "Images" <<$Images{scale=3}>> as Images
+sprite $VMScaleSets ../../media/icons/Compute/10034-icon-service-VM-Scale-Sets.svg
+rectangle "VM Scale Sets" <<$VMScaleSets{scale=3}>> as VMScaleSets
+sprite $AppServices ../../media/icons/Compute/10035-icon-service-App-Services.svg
+rectangle "App Services" <<$AppServices{scale=3}>> as AppServices
+sprite $ServiceFabricClusters ../../media/icons/Compute/10036-icon-service-Service-Fabric-Clusters.svg
+rectangle "Service Fabric Clusters" <<$ServiceFabricClusters{scale=3}>> as ServiceFabricClusters
+sprite $ImageDefinitions ../../media/icons/Compute/10037-icon-service-Image-Definitions.svg
+rectangle "Image Definitions" <<$ImageDefinitions{scale=3}>> as ImageDefinitions
+sprite $ImageVersions ../../media/icons/Compute/10038-icon-service-Image-Versions.svg
+rectangle "Image Versions" <<$ImageVersions{scale=3}>> as ImageVersions
+sprite $SharedImageGalleries ../../media/icons/Compute/10039-icon-service-Shared-Image-Galleries.svg
+rectangle "Shared Image Galleries" <<$SharedImageGalleries{scale=3}>> as SharedImageGalleries
+sprite $VMImagesClassic ../../media/icons/Compute/10040-icon-service-VM-Images-Classic.svg
+rectangle "VM Images Classic" <<$VMImagesClassic{scale=3}>> as VMImagesClassic
+sprite $DisksClassic ../../media/icons/Compute/10041-icon-service-Disks-Classic.svg
+rectangle "Disks Classic" <<$DisksClassic{scale=3}>> as DisksClassic
+sprite $ContainerServicesDeprecated ../../media/icons/Compute/10049-icon-service-Container-Services-Deprecated.svg
+rectangle "Container Services Deprecated" <<$ContainerServicesDeprecated{scale=3}>> as ContainerServicesDeprecated
+sprite $ContainerInstances ../../media/icons/Compute/10104-icon-service-Container-Instances.svg
+rectangle "Container Instances" <<$ContainerInstances{scale=3}>> as ContainerInstances
+sprite $AzureSpringCloud ../../media/icons/Compute/10370-icon-service-Azure-Spring-Cloud.svg
+rectangle "Azure Spring Cloud" <<$AzureSpringCloud{scale=3}>> as AzureSpringCloud
+@enduml
