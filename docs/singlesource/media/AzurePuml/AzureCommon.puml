@@ -25,6 +25,8 @@ skinparam rectangle {
     Shadowing false
 }
 
+skinparam rectangleStereotypeAlignment center
+
 skinparam Arrow {
     Color #666666
     FontColor #666666
