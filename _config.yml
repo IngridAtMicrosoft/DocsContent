@@ -1,10 +1,4 @@
 title: DocsContent
 description: Microsoft related content portfolio
-remote_theme: pmarsceill/just-the-docs
+theme: minimal
 markdown: kramdown
-
-# Custom CSS
-sass:
-  style: compressed
-include:
-  - assets/css/custom.css
