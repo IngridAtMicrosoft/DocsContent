@@ -82,7 +82,7 @@
 <stop offset="1" stop-color="#f2f2f2"/>
 </linearGradient><linearGradient id="b36fdb3b-36cd-4376-b375-7b5dfcc211f3" x1="5.71" y1="7.13" x2="5.82" y2="17.51" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32d4f5"/>
 <stop offset="0.32" stop-color="#31d1f3"/>
-<stop offset="0.53" stop-color="#2ec9eb"
+<stop offset="0.53" stop-color="#2ec9eb"/>
 <stop offset="0.53" stop-color="#2ec9eb"/>
 <stop offset="0.7" stop-color="#29bade"/>
 <stop offset="0.86" stop-color="#22a5cb"/>
