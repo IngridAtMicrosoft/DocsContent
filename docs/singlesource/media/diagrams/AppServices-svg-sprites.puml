@@ -19,4 +19,5 @@ sprite $NotificationHubs ../../media/icons/AppServices/10045-icon-service-Notifi
 rectangle "Notification Hubs" <<$NotificationHubs{scale=3}>> as NotificationHubs
 sprite $AppServiceEnvironments ../../media/icons/AppServices/10047-icon-service-App-Service-Environments.svg
 rectangle "App Service Environments" <<$AppServiceEnvironments{scale=3}>> as AppServiceEnvironments
+rectangle "Ingrid"
 @enduml

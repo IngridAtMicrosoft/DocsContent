@@ -19,4 +19,5 @@ sprite $DataLakeStoreGen1 ../../media/icons/Analytics/10150-icon-service-Data-La
 rectangle "Data Lake Store Gen1" <<$DataLakeStoreGen1{scale=3}>> as DataLakeStoreGen1
 sprite $AzureDatabricks ../../media/icons/Analytics/10787-icon-service-Azure-Databricks.svg
 rectangle "Azure Databricks" <<$AzureDatabricks{scale=3}>> as AzureDatabricks
+rectangle "Ingrid"
 @enduml

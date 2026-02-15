@@ -148,6 +148,9 @@ rectangle "Azure Monitor" <<$Monitor{scale=3}>>  as Monitor {
         }
     }
 }
+
+rectangle "Ingrid"
+
 'Actions relationships (hidden)
 insights -[hidden]d- visualize
 visualize -[hidden]d- analyze

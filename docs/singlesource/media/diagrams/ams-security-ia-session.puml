@@ -119,6 +119,9 @@ rectangle "I am  not sure" as Iamnotsure {
     rectangle "Content moderation / abuse protection" as Contentmoderationabuseprotection
     rectangle "Watermarking A/B with partners" as WatermarkingABwithpartners
 }
+
+rectangle "Ingrid"
+
 NetworkSecurity --[hidden]r-- SecureStorage
 SecureStorage --[hidden]r-- MonitoringAnalysis
 MonitoringAnalysis --[hidden]r-- AccountSecurity
