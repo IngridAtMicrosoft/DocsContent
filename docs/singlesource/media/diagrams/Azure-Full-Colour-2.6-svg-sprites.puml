@@ -1,6 +1,6 @@
 @startuml
 !pragma revision 1
-!include AzureCommon.puml
+!include ../../includes/AzureCommon.puml
 sprite $ActivityLog Azure-Full-Colour-2.6/Activity-Log.svg
 rectangle "ActivityLog" <<$ActivityLog>> as ActivityLog
 sprite $Activity Azure-Full-Colour-2.6/Activity.svg
