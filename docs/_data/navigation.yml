@@ -1,0 +1,37 @@
+# _data/navigation.yml
+- title: Single Source
+  url: index.md
+- title: Docs templates
+  url: ./templates/index.md
+- title: Copilot
+  url: ./copilot/copilot-code-review.md
+- title: Azure Monitor
+  url: ./azure-monitor/
+- title: Diagrams
+  url: ./diagrams/index.md
+- title: Reuse in Graphics
+  children:
+    - title: D2 Diagrams
+      url: ./d2/d2-test.md
+    - title: Azure Sprite Icons
+      url: ./svgsprite/all-sprites.md
+    - title: Azure Monitor PRETTY diagram
+      url: ./svgsprite/azure-monitor.md
+    - title: Interactive Graphics
+      children:
+        - title: Basic interactive SVG
+          url: ./interactivegraphics/interactive-svg.md
+        - title: Animated interactive SVG
+          url: ./interactivegraphics/animated-interactive-svg.md
+        - title: Kit and Kaboodle
+          url: ./interactivegraphics/car-story-svg.md
+        - title: LTI Link 1 Entire Course
+          url: ./interactivegraphics/lti-link.md
+        - title: LTI Link 2 Simulation
+          url: ./interactivegraphics/lti-link2.md
+        - title: Simulation with LRS
+          url: ./interactivegraphics/simwithlrs.md
+        - title: xAPI statement with LRS
+          url: ./interactivegraphics/xapi-statement.md
+        - title: Get user
+          url: ./interactivegraphics/get-user.md
