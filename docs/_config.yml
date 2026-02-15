@@ -3,5 +3,6 @@ description: Microsoft related content portfolio
 #theme: jekyll-theme-tactile
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
+nav_enabled: false
 plugins:
   - jekyll-remote-theme
