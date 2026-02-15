@@ -31,5 +31,4 @@ sprite $DataShares ../../media/icons/Storage/10098-icon-service-Data-Shares.svg
 rectangle "Data Shares" <<$DataShares{scale=3}>> as DataShares
 sprite $ImportExportJobs ../../media/icons/Storage/10100-icon-service-Import-Export-Jobs.svg
 rectangle "Import Export Jobs" <<$ImportExportJobs{scale=3}>> as ImportExportJobs
-rectangle "Ingrid Henkel"
 @enduml

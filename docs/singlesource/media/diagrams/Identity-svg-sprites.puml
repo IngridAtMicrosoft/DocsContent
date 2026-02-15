@@ -23,5 +23,4 @@ sprite $AppRegistrations ../../media/icons/Identity/10232-icon-service-App-Regis
 rectangle "App Registrations" <<$AppRegistrations{scale=3}>> as AppRegistrations
 sprite $IdentityGovernance ../../media/icons/Identity/10235-icon-service-Identity-Governance.svg
 rectangle "Identity Governance" <<$IdentityGovernance{scale=3}>> as IdentityGovernance
-rectangle "Ingrid Henkel"
 @enduml

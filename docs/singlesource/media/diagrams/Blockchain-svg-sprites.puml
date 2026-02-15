@@ -11,5 +11,4 @@ sprite $ABSMember ../../media/icons/Blockchain/10374-icon-service-ABS-Member.svg
 rectangle "ABS Member" <<$ABSMember{scale=3}>> as ABSMember
 sprite $Consortium ../../media/icons/Blockchain/10375-icon-service-Consortium.svg
 rectangle "Consortium" <<$Consortium{scale=3}>> as Consortium
-rectangle "Ingrid Henkel"
 @enduml

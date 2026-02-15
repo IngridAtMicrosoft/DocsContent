@@ -45,5 +45,4 @@ sprite $InstancePools ../../media/icons/Databases/10139-icon-service-Instance-Po
 rectangle "Instance Pools" <<$InstancePools{scale=3}>> as InstancePools
 sprite $AzureDataExplorerClusters ../../media/icons/Databases/10145-icon-service-Azure-Data-Explorer-Clusters.svg
 rectangle "Azure Data Explorer Clusters" <<$AzureDataExplorerClusters{scale=3}>> as AzureDataExplorerClusters
-rectangle "Ingrid Henkel"
 @enduml

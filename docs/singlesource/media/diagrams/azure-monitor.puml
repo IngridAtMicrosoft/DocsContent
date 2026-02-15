@@ -157,5 +157,4 @@ respond -[hidden]d- integrate
 leftbracket -[#000000]-> db
 db -[#000000]r-> rightbracket
 '/
-rectangle "Ingrid Henkel"
 @enduml

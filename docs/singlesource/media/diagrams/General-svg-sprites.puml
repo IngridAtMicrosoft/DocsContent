@@ -189,5 +189,4 @@ sprite $Module ../../media/icons/General/10855-icon-service-Module.svg
 rectangle "Module" <<$Module{scale=3}>> as Module
 sprite $SearchGrid ../../media/icons/General/10856-icon-service-Search-Grid.svg
 rectangle "Search Grid" <<$SearchGrid{scale=3}>> as SearchGrid
-rectangle "Ingrid Henkel"
 @enduml

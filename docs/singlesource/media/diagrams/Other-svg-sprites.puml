@@ -27,5 +27,4 @@ sprite $InstancePools ../../media/icons/Other/10139-icon-service-Instance-Pools.
 rectangle "Instance Pools" <<$InstancePools{scale=3}>> as InstancePools
 sprite $PowerBI ../../media/icons/Other/not-icon-service-Power-BI.svg
 rectangle "Power BI" <<$PowerBI{scale=3}>> as PowerBI
-rectangle "Ingrid Henkel"
 @enduml

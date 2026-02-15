@@ -17,5 +17,4 @@ sprite $AzureStack ../../media/icons/AzureStack/10114-icon-service-Azure-Stack.s
 rectangle "Azure Stack" <<$AzureStack{scale=3}>> as AzureStack
 sprite $Updates ../../media/icons/AzureStack/10115-icon-service-Updates.svg
 rectangle "Updates" <<$Updates{scale=3}>> as Updates
-rectangle "Ingrid Henkel"
 @enduml
