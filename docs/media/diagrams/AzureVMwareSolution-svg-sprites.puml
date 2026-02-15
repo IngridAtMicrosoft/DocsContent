@@ -1,6 +1,0 @@
-@startuml
-!pragma revision 1
-!include ../../includes/AzureCommon.puml
-sprite $AVS ../../media/icons/AzureVMwareSolution/00524-icon-service-AVS.svg
-rectangle "AVS" <<$AVS{scale=3}>> as AVS
-@enduml
