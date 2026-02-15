@@ -51,4 +51,5 @@ sprite $ResourceGraphExplorer ../../media/icons/ManagementGovernance/10318-icon-
 rectangle "Resource Graph Explorer" <<$ResourceGraphExplorer{scale=3}>> as ResourceGraphExplorer
 sprite $MachinesAzureArc ../../media/icons/ManagementGovernance/10450-icon-service-MachinesAzureArc.svg
 rectangle "MachinesAzureArc" <<$MachinesAzureArc{scale=3}>> as MachinesAzureArc
+rectangle "Ingrid Henkel"
 @enduml

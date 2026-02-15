@@ -65,4 +65,5 @@ sprite $ReservedIPAddressesClassic ../../media/icons/Networking/10371-icon-servi
 rectangle "Reserved IP Addresses Classic" <<$ReservedIPAddressesClassic{scale=3}>> as ReservedIPAddressesClassic
 sprite $PublicIPPrefixes ../../media/icons/Networking/10372-icon-service-Public-IP-Prefixes.svg
 rectangle "Public IP Prefixes" <<$PublicIPPrefixes{scale=3}>> as PublicIPPrefixes
+rectangle "Ingrid Henkel"
 @enduml

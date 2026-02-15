@@ -19,4 +19,5 @@ sprite $RTOS ../../media/icons/Preview/10778-icon-service-RTOS.svg
 rectangle "RTOS" <<$RTOS{scale=3}>> as RTOS
 sprite $WebEnvironment ../../media/icons/Preview/10846-icon-service-Web-Environment.svg
 rectangle "Web Environment" <<$WebEnvironment{scale=3}>> as WebEnvironment
+rectangle "Ingrid Henkel"
 @enduml

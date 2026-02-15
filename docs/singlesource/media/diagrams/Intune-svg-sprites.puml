@@ -13,4 +13,5 @@ sprite $AzureADRolesandAdministrators ../../media/icons/Intune/10340-icon-servic
 rectangle "Azure AD Roles and Administrators" <<$AzureADRolesandAdministrators{scale=3}>> as AzureADRolesandAdministrators
 sprite $IntuneForEducation ../../media/icons/Intune/10343-icon-service-Intune-For-Education.svg
 rectangle "Intune For Education" <<$IntuneForEducation{scale=3}>> as IntuneForEducation
+rectangle "Ingrid Henkel"
 @enduml

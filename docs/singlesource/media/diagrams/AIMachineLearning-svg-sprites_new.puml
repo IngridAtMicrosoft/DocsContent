@@ -4,7 +4,7 @@
 sprite $MachineLearningStudioClassicWebServices ../../media/icons/AIMachineLearning/00030-icon-service-Machine-Learning-Studio-Classic-Web-Services.svg
 rectangle "Machine Learning Studio Classic Web Services" <<$MachineLearningStudioClassicWebServices{scale=3}>> as MachineLearningStudioClassicWebServices
 sprite $TranslatorText ../../media/icons/AIMachineLearning/00800-icon-service-Translator-Text.svg
-rectangle "TTTTRex" <<$TranslatorText{scale=3}>> as TranslatorText
+rectangle "Translator Text" <<$TranslatorText{scale=3}>> as TranslatorText
 sprite $CognitiveServices ../../media/icons/AIMachineLearning/10162-icon-service-Cognitive-Services.svg
 rectangle "Cognitive Services" <<$CognitiveServices{scale=3}>> as CognitiveServices
 sprite $BotServices ../../media/icons/AIMachineLearning/10165-icon-service-Bot-Services.svg

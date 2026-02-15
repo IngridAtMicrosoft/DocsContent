@@ -13,4 +13,5 @@ sprite $MachineLearningStudioWorkspaces ../../media/icons/AIMachineLearning/1016
 rectangle "Machine Learning Studio Workspaces" <<$MachineLearningStudioWorkspaces{scale=3}>> as MachineLearningStudioWorkspaces
 sprite $MachineLearningStudioWebServicePlans ../../media/icons/AIMachineLearning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg
 rectangle "Machine Learning Studio Web Service Plans" <<$MachineLearningStudioWebServicePlans{scale=3}>> as MachineLearningStudioWebServicePlans
+rectangle "Ingrid Henkel"
 @enduml

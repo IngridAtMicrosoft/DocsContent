@@ -15,4 +15,5 @@ sprite $AzureSentinel ../../media/icons/Security/10248-icon-service-Azure-Sentin
 rectangle "Azure Sentinel" <<$AzureSentinel{scale=3}>> as AzureSentinel
 sprite $ExtendedSecurityUpdates ../../media/icons/Security/10572-icon-service-ExtendedSecurityUpdates.svg
 rectangle "ExtendedSecurityUpdates" <<$ExtendedSecurityUpdates{scale=3}>> as ExtendedSecurityUpdates
+rectangle "Ingrid Henkel"
 @enduml

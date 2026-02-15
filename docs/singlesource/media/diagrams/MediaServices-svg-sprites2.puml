@@ -45,4 +45,5 @@ sprite $AMSViewContent ../../media/icons/MediaServices/HowToStream-03-ViewConten
 rectangle "AMS View Content" <<$AMSViewContent{scale=5}>> as AMSViewContent
 sprite $AMSazuremediaservice ../../media/icons/MediaServices/Icon-web-309-azuremediaservice.svg
 rectangle "AMS Azure Media Services" <<$AMSazuremediaservice{scale=5}>> as AMSazuremediaservice
+rectangle "Ingrid Henkel"
 @enduml

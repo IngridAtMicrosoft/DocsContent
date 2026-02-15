@@ -27,4 +27,5 @@ sprite $IntegrationAccounts ../../media/icons/Integration/10218-icon-service-Int
 rectangle "Integration Accounts" <<$IntegrationAccounts{scale=3}>> as IntegrationAccounts
 sprite $EventGridSubscriptions ../../media/icons/Integration/10221-icon-service-Event-Grid-Subscriptions.svg
 rectangle "Event Grid Subscriptions" <<$EventGridSubscriptions{scale=3}>> as EventGridSubscriptions
+rectangle "Ingrid Henkel"
 @enduml

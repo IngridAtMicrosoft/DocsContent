@@ -3,4 +3,5 @@
 !include ../../includes/AzureCommon.puml
 sprite $RemoteRendering ../../media/icons/MixedReality/00698-icon-service-Remote-Rendering.svg
 rectangle "Remote Rendering" <<$RemoteRendering{scale=3}>> as RemoteRendering
+rectangle "Ingrid Henkel"
 @enduml

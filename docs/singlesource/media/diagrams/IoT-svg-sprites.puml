@@ -23,4 +23,5 @@ sprite $LogicApps ../../media/icons/IoT/10201-icon-service-Logic-Apps.svg
 rectangle "Logic Apps" <<$LogicApps{scale=3}>> as LogicApps
 sprite $DeviceProvisioningServices ../../media/icons/IoT/10369-icon-service-Device-Provisioning-Services.svg
 rectangle "Device Provisioning Services" <<$DeviceProvisioningServices{scale=3}>> as DeviceProvisioningServices
+rectangle "Ingrid Henkel"
 @enduml

@@ -53,4 +53,5 @@ sprite $ContainerInstances ../../media/icons/Compute/10104-icon-service-Containe
 rectangle "Container Instances" <<$ContainerInstances{scale=3}>> as ContainerInstances
 sprite $AzureSpringCloud ../../media/icons/Compute/10370-icon-service-Azure-Spring-Cloud.svg
 rectangle "Azure Spring Cloud" <<$AzureSpringCloud{scale=3}>> as AzureSpringCloud
+rectangle "Ingrid Henkel"
 @enduml

@@ -9,4 +9,5 @@ sprite $DevTestLabs ../../media/icons/DevOps/10264-icon-service-DevTest-Labs.svg
 rectangle "DevTest Labs" <<$DevTestLabs{scale=3}>> as DevTestLabs
 sprite $LabServices ../../media/icons/DevOps/10265-icon-service-Lab-Services.svg
 rectangle "Lab Services" <<$LabServices{scale=3}>> as LabServices
+rectangle "Ingrid Henkel"
 @enduml

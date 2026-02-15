@@ -11,4 +11,5 @@ sprite $DataBoxEdge ../../media/icons/Migrate/10095-icon-service-Data-Box-Edge.s
 rectangle "Data Box Edge" <<$DataBoxEdge{scale=3}>> as DataBoxEdge
 sprite $AzureMigrate ../../media/icons/Migrate/10281-icon-service-Azure-Migrate.svg
 rectangle "Azure Migrate" <<$AzureMigrate{scale=3}>> as AzureMigrate
+rectangle "Ingrid Henkel"
 @enduml
