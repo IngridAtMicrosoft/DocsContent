@@ -5,6 +5,8 @@
 !define DATA_BG_COLOR #F0F0F0
 !define UI_BG_COLOR #E8F8E8
 
+top to bottom direction
+
 skinparam componentStyle rectangle
 skinparam backgroundColor white
 skinparam component {
