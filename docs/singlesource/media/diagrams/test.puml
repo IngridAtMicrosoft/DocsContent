@@ -1,0 +1,14 @@
+@startuml
+!pragma revision 1
+!include AzureCommon_v2.puml
+
+sprite $LogAnalyticsWorkspaces ../../media/icons/Analytics/00009-icon-service-Log-Analytics-Workspaces.svg
+sprite $EventHubs ../../media/icons/Analytics/00039-icon-service-Event-Hubs.svg
+sprite $StreamAnalyticsJobs ../../media/icons/Analytics/00042-icon-service-Stream-Analytics-Jobs.svg
+
+' Using the new macro - sprites will be centered
+AzureService("Log Analytics Workspaces", $LogAnalyticsWorkspaces, LogAnalyticsWorkspaces)
+AzureService("Event Hubs", $EventHubs, EventHubs)
+AzureService("Stream Analytics Jobs", $StreamAnalyticsJobs, StreamAnalyticsJobs)
+
+@enduml
