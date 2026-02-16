@@ -13,7 +13,7 @@ skinparam component {
 }
 
 ' Top-level system components
-package "Game Application" {
+package "Game Application 1" {
     
     package "Core Engine" <<ENGINE_BG_COLOR>> {
         [Rendering Engine\n(Canvas)] as Render
