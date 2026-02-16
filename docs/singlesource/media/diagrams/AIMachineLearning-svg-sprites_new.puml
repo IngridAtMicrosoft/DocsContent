@@ -2,15 +2,15 @@
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
 sprite $MachineLearningStudioClassicWebServices ../../media/icons/AIMachineLearning/00030-icon-service-Machine-Learning-Studio-Classic-Web-Services.svg
-rectangle "Machine Learning Studio Classic Web Services" <<$MachineLearningStudioClassicWebServices{scale=3}>> as MachineLearningStudioClassicWebServices
+rectangle "<<$MachineLearningStudioClassicWebServices{scale=3}>> \n\n Machine Learning Studio Classic Web Services" as MachineLearningStudioClassicWebServices
 sprite $TranslatorText ../../media/icons/AIMachineLearning/00800-icon-service-Translator-Text.svg
-rectangle "TTTRex" <<$TranslatorText{scale=3}>> as TranslatorText
+rectangle "<<$TranslatorText{scale=3}>> \n\n TTTRex"  as TranslatorText
 sprite $CognitiveServices ../../media/icons/AIMachineLearning/10162-icon-service-Cognitive-Services.svg
-rectangle "Cognitive Services" <<$CognitiveServices{scale=3}>> as CognitiveServices
+rectangle "<<$CognitiveServices{scale=3}>> \n\n Cognitive Services" as CognitiveServices
 sprite $BotServices ../../media/icons/AIMachineLearning/10165-icon-service-Bot-Services.svg
-rectangle "Bot Services" <<$BotServices{scale=3}>> as BotServices
+rectangle "<<$BotServices{scale=3}>> \n\n Bot Services" as BotServices
 sprite $MachineLearningStudioWorkspaces ../../media/icons/AIMachineLearning/10167-icon-service-Machine-Learning-Studio-Workspaces.svg
-rectangle "Machine Learning Studio Workspaces" <<$MachineLearningStudioWorkspaces{scale=3}>> as MachineLearningStudioWorkspaces
+rectangle "<<$MachineLearningStudioWorkspaces{scale=3}>> \n\n Machine Learning Studio Workspaces" as MachineLearningStudioWorkspaces
 sprite $MachineLearningStudioWebServicePlans ../../media/icons/AIMachineLearning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg
-rectangle "Machine Learning Studio Web Service Plans" <<$MachineLearningStudioWebServicePlans{scale=3}>> as MachineLearningStudioWebServicePlans
+rectangle "<<$MachineLearningStudioWebServicePlans{scale=3}>> \n\n Machine Learning Studio Web Service Plans" as MachineLearningStudioWebServicePlans
 @enduml
