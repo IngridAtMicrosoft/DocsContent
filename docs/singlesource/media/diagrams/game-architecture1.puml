@@ -1,0 +1,146 @@
+@startuml Systems Thinking Game Architecture
+
+!define COMPONENT_BG_COLOR #E8F4F8
+!define ENGINE_BG_COLOR #FFF4E6
+!define DATA_BG_COLOR #F0F0F0
+!define UI_BG_COLOR #E8F8E8
+
+skinparam componentStyle rectangle
+skinparam backgroundColor white
+skinparam component {
+    BackgroundColor COMPONENT_BG_COLOR
+    BorderColor #333333
+}
+
+' Top-level system components
+package "Game Application" {
+    
+    package "Core Engine" <<ENGINE_BG_COLOR>> {
+        [Rendering Engine\n(Canvas)] as Render
+        [Simulation Engine] as Sim
+        [Physics/Animation] as Physics
+        [Interaction Handler] as Interaction
+        
+        Render -down-> Physics
+        Sim -down-> Physics
+    }
+    
+    package "UI Layer" <<UI_BG_COLOR>> {
+        [Main Menu] as Menu
+        [Episode Selection] as EpisodeUI
+        [Game HUD] as HUD
+        [Win/Fail Screen] as Results
+        [Settings] as Settings
+        
+        Menu -down-> EpisodeUI
+        EpisodeUI -down-> HUD
+        HUD -down-> Results
+    }
+    
+    package "Game Logic" {
+        [Episode Manager] as EpisodeMgr
+        [Win Condition Evaluator] as WinCheck
+        [Hint System] as Hints
+        [Tutorial System] as Tutorial
+        
+        EpisodeMgr -down-> WinCheck
+        EpisodeMgr -down-> Hints
+    }
+    
+    package "State Management" {
+        [Game State Store] as GameState
+        [Progress Tracker] as Progress
+        [Save/Load System] as SaveLoad
+        
+        Progress -down-> SaveLoad
+        GameState -down-> SaveLoad
+    }
+    
+    package "Entity System" {
+        [Entity Factory] as EntityFactory
+        [Entity Types\n(Triangle/Circle/etc)] as EntityTypes
+        [Connection Manager] as Connections
+        
+        EntityFactory -down-> EntityTypes
+        EntityFactory -down-> Connections
+    }
+}
+
+package "Content & Data" <<DATA_BG_COLOR>> {
+    database "Episode Definitions\n(JSON)" as EpisodeData {
+        [Episode Config]
+        [Win Conditions]
+        [Initial State]
+        [Entity Limits]
+    }
+    
+    database "Save Data\n(LocalStorage)" as SaveData {
+        [Player Progress]
+        [Unlocked Episodes]
+        [Settings]
+    }
+    
+    database "Asset Library" as Assets {
+        [Visual Themes]
+        [Sound Effects]
+        [UI Graphics]
+    }
+}
+
+package "Development Tools" {
+    [Level Editor] as Editor
+    [Episode Validator] as Validator
+    [Playtest Mode] as Playtest
+    
+    Editor -down-> Validator
+    Editor -down-> Playtest
+}
+
+' Relationships between major components
+HUD --> GameState : updates
+GameState --> Sim : drives
+Sim --> EntityTypes : simulates
+Render --> EntityTypes : draws
+
+EpisodeMgr --> EpisodeData : loads
+EpisodeMgr --> EntityFactory : creates entities
+WinCheck --> GameState : evaluates
+
+Progress --> SaveData : persists
+EpisodeMgr --> Progress : updates
+
+Interaction --> GameState : modifies
+Interaction --> EntityFactory : creates entities
+
+Editor --> EpisodeData : creates
+Playtest --> Sim : tests
+
+Assets --> Render : provides visuals
+
+' Notes
+note right of Render
+  Canvas-based particle system
+  Optimized for thousands of
+  concurrent event animations
+end note
+
+note right of EpisodeData
+  Data-driven episode system
+  No code changes needed
+  for new episodes
+end note
+
+note right of Sim
+  Executes topology
+  Calculates flows
+  Detects backpressure
+  Handles failures
+end note
+
+note right of Editor
+  Internal tool for
+  content creation
+  Not shipped to players
+end note
+
+@enduml
