@@ -97,25 +97,25 @@ package "Development Tools" {
 }
 
 ' Relationships between major components
-UI -down-> GameState : updates
-GameState -down-> Sim : drives
-Sim -down-> EntityTypes : simulates
-Render -down-> EntityTypes : draws
+HUD --> GameState : updates
+GameState --> Sim : drives
+Sim --> EntityTypes : simulates
+Render --> EntityTypes : draws
 
-EpisodeMgr -down-> EpisodeData : loads
-EpisodeMgr -down-> EntityFactory : creates entities
-WinCheck -down-> GameState : evaluates
+EpisodeMgr --> EpisodeData : loads
+EpisodeMgr --> EntityFactory : creates entities
+WinCheck --> GameState : evaluates
 
-Progress -down-> SaveData : persists
-EpisodeMgr -down-> Progress : updates
+Progress --> SaveData : persists
+EpisodeMgr --> Progress : updates
 
-Interaction -down-> GameState : modifies
-Interaction -down-> EntityFactory : creates entities
+Interaction --> GameState : modifies
+Interaction --> EntityFactory : creates entities
 
-Editor -down-> EpisodeData : creates
-Playtest -down-> Sim : tests
+Editor --> EpisodeData : creates
+Playtest --> Sim : tests
 
-Assets -down-> Render : provides visuals
+Assets --> Render : provides visuals
 
 ' Notes
 note right of Render
