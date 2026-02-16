@@ -12,7 +12,6 @@ skinparam component {
     BorderColor #333333
 }
 
-' Top-level system components
 package "Game Application 1" {
     
     package "Core Engine" <<ENGINE_BG_COLOR>> {
@@ -96,7 +95,6 @@ package "Development Tools" {
     Editor -down-> Playtest
 }
 
-' Relationships between major components
 HUD --> GameState : updates
 GameState --> Sim : drives
 Sim --> EntityTypes : simulates
@@ -117,7 +115,6 @@ Playtest --> Sim : tests
 
 Assets --> Render : provides visuals
 
-' Notes
 note right of Render
   Canvas-based particle system
   Optimized for thousands of
