@@ -2,7 +2,7 @@
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
 sprite $MachineLearningStudioClassicWebServices ../../media/icons/AIMachineLearning/00030-icon-service-Machine-Learning-Studio-Classic-Web-Services.svg
-rectangle "<$MachineLearningStudioClassicWebServices>\n\nMachine Learning Studio Classic Web Services" as MachineLearningStudioClassicWebServices
+rectangle "<center><$MachineLearningStudioClassicWebServices></center>\n\nMachine Learning Studio Classic Web Services" as MachineLearningStudioClassicWebServices
 sprite $TranslatorText ../../media/icons/AIMachineLearning/00800-icon-service-Translator-Text.svg
 rectangle "<$TranslatorText{scale=3}>\n\nTTTTRex" as TranslatorText
 sprite $CognitiveServices ../../media/icons/AIMachineLearning/10162-icon-service-Cognitive-Services.svg
