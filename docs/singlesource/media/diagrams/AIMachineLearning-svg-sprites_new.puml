@@ -1,8 +1,9 @@
 @startuml
 !pragma revision 1
 !include ../../includes/AzureCommon.puml
+rectangle <img:file://../icons/AIMachineLearning/00030-icon-service-Machine-Learning-Studio-Classic-Web-Services.svg>
 sprite $MachineLearningStudioClassicWebServices ../../media/icons/AIMachineLearning/00030-icon-service-Machine-Learning-Studio-Classic-Web-Services.svg
-rectangle "<center><$MachineLearningStudioClassicWebServices{scale=3}> \n\n Machine Learning Studio Classic Web Services</center>" as MachineLearningStudioClassicWebServices
+rectangle "<$MachineLearningStudioClassicWebServices{scale=3}> \n\n Machine Learning Studio Classic Web Services" as MachineLearningStudioClassicWebServices
 sprite $TranslatorText ../../media/icons/AIMachineLearning/00800-icon-service-Translator-Text.svg
 rectangle "<$TranslatorText{scale=3}> \n\n TTTRex"  as TranslatorText
 sprite $CognitiveServices ../../media/icons/AIMachineLearning/10162-icon-service-Cognitive-Services.svg
